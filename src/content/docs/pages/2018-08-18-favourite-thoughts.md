@@ -3,7 +3,7 @@ title: "Favourite Thoughts"
 date: 2018-08-18
 ---
 
-_Last updated on: 14/08/2025_
+_Last updated on: 30/09/2025_
 
 The place to store all the ideas, thoughts and tips that inspired me. From time to time, I tend to throw in my own reflections. 
 
@@ -513,6 +513,9 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
         __But every race starts with one step. Every fortune starts with a small deposit. Every book begins as one sentence.  
         _  
         The real question is not "What is my current position?" but rather, "What is my current trajectory?" Doing nothing builds nothing. Put yourself on the path to something better. Start small, but make sure you start._"_ ~ James Clear
+
+- \[su\_highlight background="#dceced"\]30/09/2025\[/su\_highlight\]  
+    - "_I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel._" ~ Maya Angelou
 
 * * *
 
