@@ -1,35 +1,37 @@
-# Starlight Starter Kit: Basics
+# pawelcislo.com
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-```
-npm create astro@latest -- --template starlight
-```
+Personal website and blog of Paweł Cisło - MLOps Engineer, Data Scientist, and tech enthusiast.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Migrated from WordPress to [Astro Starlight](https://starlight.astro.build/) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
 
 ## 🚀 Project Structure
 
 Inside of your Astro + Starlight project, you'll see the following folders and files:
 
-```
+```text
 .
 ├── public/
 ├── src/
 │   ├── assets/
 │   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
+│   │   ├── docs/
+│   │   │   ├── pages/        # Pages (About, Portfolio, Contact, etc.)
+│   │   │   └── posts/        # Blog posts with images
+│   │   └── content.config.ts
+├── astro.config.mjs            # Site configuration
 ├── package.json
 └── tsconfig.json
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+**Content organization:**
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
-
-Static assets, like favicons, can be placed in the `public/` directory.
+- Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory
+- Each file is exposed as a route based on its file name
+- Blog posts are in `src/content/docs/posts/` (auto-generated in sidebar)
+- Static pages are in `src/content/docs/pages/` (manually configured in sidebar)
+- Images are in `src/content/docs/posts/images/` and `src/content/docs/pages/images/`
 
 ## 🧞 Commands
 
@@ -44,6 +46,21 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## 🚀 Deployment
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+This site is deployed on **Cloudflare Pages** with automatic deployments from GitHub.
+
+**Deployment flow:**
+
+1. Push changes to the `main` branch
+2. Cloudflare Pages automatically builds and deploys
+3. Changes are live at [pawelcislo.com](https://pawelcislo.com)
+
+For detailed deployment setup instructions, see [DEPLOYMENT.md](DEPLOYMENT.md).
+
+## 📚 Resources
+
+- [Starlight Documentation](https://starlight.astro.build/)
+- [Astro Documentation](https://docs.astro.build)
+- [Cloudflare Pages Documentation](https://developers.cloudflare.com/pages/)
+- [Astro Discord](https://astro.build/chat)
