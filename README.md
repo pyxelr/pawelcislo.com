@@ -2,7 +2,7 @@
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-Personal website and blog of Paweł Cisło - MLOps Engineer, Data Scientist, and tech enthusiast.
+Personal website and blog of Paweł Cisło.
 
 Migrated from WordPress to [Astro Starlight](https://starlight.astro.build/) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
 
@@ -55,8 +55,6 @@ This site is deployed on **Cloudflare Pages** with automatic deployments from Gi
 1. Push changes to the `main` branch
 2. Cloudflare Pages automatically builds and deploys
 3. Changes are live at [pawelcislo.com](https://pawelcislo.com)
-
-For detailed deployment setup instructions, see [DEPLOYMENT.md](DEPLOYMENT.md).
 
 ## 📚 Resources
 
