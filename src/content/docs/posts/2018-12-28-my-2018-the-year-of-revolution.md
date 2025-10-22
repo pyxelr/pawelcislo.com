@@ -23,8 +23,8 @@ I heard it is recommended to start the post with the most mattering message righ
 
 ### General
 
-- \[su\_highlight background="#19CCD8"\]Finished the MSc Data Science and Computational Intelligence course with distinction\[/su\_highlight\] 👨‍🎓
-- \[su\_highlight background="#19CCD8"\]Found my first technical position (International Engineering Consultant)\[/su\_highlight\] 💼
+- **Finished the MSc Data Science and Computational Intelligence course with distinction** 👨‍🎓
+- **Found my first technical position (International Engineering Consultant)** 💼
 - Improved my body shape 💪
 - Was more active in sharing own content on social media 💬
 - Continued to note a daily journal (never missed a day since April 2017). It clearly helped in the preparation of this post 🗒
