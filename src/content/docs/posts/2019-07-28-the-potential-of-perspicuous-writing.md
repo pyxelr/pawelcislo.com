@@ -314,12 +314,12 @@ If you feel like convinced to give it a try, but you're not sure where to start,
     - [LaTeX Cheat Sheet](https://wch.github.io/latexsheet/latexsheet.pdf)
     - [LaTeX Notes for Professionals book](http://books.goalkicker.com/LaTeXBook/) ← free e-book
 - General links
-    - \[su\_highlight background="#dceced"\][Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)\[/su\_highlight\] ← probably the only link I should include in the set of these bullet points
+    - **[Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)** ← probably the only link I should include in the set of these bullet points
     - [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
     - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks) ← best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab
 - Tools
     - [Mathpix Snip](https://mathpix.com/) ← convert images to LaTeX by capturing your screen
-    - \[su\_highlight background="#dceced"\][Overleaf](https://www.overleaf.com/)\[/su\_highlight\] ← online LaTeX editor, recommended not only for the beginners.
+    - **[Overleaf](https://www.overleaf.com/)** ← online LaTeX editor, recommended not only for the beginners.
 
 \[caption id="attachment\_1989" align="aligncenter" width="1024"\]![](images/Overleaf-editor-1024x683.png) Overleaf makes it fairly easy to start with LaTeX. You can auto compile your work to get an instant preview of the document and even collaborate with others on the same file!\[ref\] Overleaf (2018) ‘Try out Overleaf V2’. \[1 May 2018\] available from <[https://www.overleaf.com/blog/641-try-out-overleaf-v2](https://www.overleaf.com/blog/641-try-out-overleaf-v2)\>\[/ref\] ([click here to enlarge the picture in a new tab](https://pawelcislo.com/wp-content/uploads/2019/07/Overleaf-editor.png))\[/caption\]
 
