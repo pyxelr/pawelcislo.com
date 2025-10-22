@@ -26,7 +26,7 @@ In short, I have aggregated all of my recommendations for aspiring engineers in 
 
 Although it is a personal list, do not hesitate to create a [pull request](https://github.com/pyxelr/recommendations-for-engineers/pulls) if I missed something interesting or if there is a dead link. Once again, before moving to the next section on a different subject, you are more than welcome to review my:
 
-\[su\_button url="<https://pawelcislo.com/recommendations/>" style="soft" background="#138890" size="4" center="yes" icon="icon: star"\]Recommendations for Engineers\[/su\_button\]
+[⭐ Recommendations for Engineers](https://pawelcislo.com/recommendations/)
 
 ## Reason for my recent absence
 
