@@ -15,9 +15,11 @@ _Tip_: The catalogue is sorted chronologically, but I believe it is easier and m
 
 ## 🌐 Blogs
 
-\[su\_highlight background="#dceced"\]It's best to collect all your favourite sites into the RSS feed reader like [Inoreader](https://inoreader.com/).\[/su\_highlight\]
+:::tip
+It's best to collect all your favourite sites into the RSS feed reader like [Inoreader](https://inoreader.com/).
 
-\[su\_highlight background="#dceced"\]You can also discover more tech blogs with [Blogging for Devs](https://bloggingfordevs.com/trends/).\[/su\_highlight\]
+You can also discover more tech blogs with [Blogging for Devs](https://bloggingfordevs.com/trends/).
+:::
 
 ### business
 
@@ -120,7 +122,9 @@ _Tip_: The catalogue is sorted chronologically, but I believe it is easier and m
 
 ## 📚 Books
 
-\[su\_highlight background="#dceced"\]For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/list/57442889).\[/su\_highlight\]
+:::note
+For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/list/57442889).
+:::
 
 ### biographies
 
@@ -271,7 +275,9 @@ _Tip_: The catalogue is sorted chronologically, but I believe it is easier and m
 
 ### programming
 
-\[su\_highlight background="#dceced"\]Mostly universal (language-independent books).\[/su\_highlight\]
+:::note
+Mostly universal (language-independent books).
+:::
 
 - [A Philosophy of Software Design](https://www.goodreads.com/book/show/43701534-a-philosophy-of-software-design)
 - [Architecture Patterns with Python: How to Apply DDD, Ports and Adapters, and Enterprise Architecture Design Patterns in a Pythonic Way](https://www.goodreads.com/book/show/50083115-architecture-patterns-with-python)
@@ -383,10 +389,10 @@ _Tip_: The catalogue is sorted chronologically, but I believe it is easier and m
 - [ODOO](https://www.odoo.com/) ← web-based open source business apps
 - [Sendy](https://sendy.co/) ← cheap newsletter system via Amazon SES
 - Startup
-    - [books](https://startupbooks.io/) ← list of books to help you along your startup journey
-    - [idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html) ← answer before opening a startup
-    - [stacklist](https://tools.stacklist.com/stacklists/) ← list of technologies used by startups
-    - [stash](https://startupstash.com/) ← curated directory of resources & tools to help you build your startup
+  - [books](https://startupbooks.io/) ← list of books to help you along your startup journey
+  - [idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html) ← answer before opening a startup
+  - [stacklist](https://tools.stacklist.com/stacklists/) ← list of technologies used by startups
+  - [stash](https://startupstash.com/) ← curated directory of resources & tools to help you build your startup
 - [Tools for Makers](https://toolsformakers.com/) ← hand-curated directory of tools for makers
 
 ## 👾 Cybersecurity
@@ -414,15 +420,15 @@ _Tip_: The catalogue is sorted chronologically, but I believe it is easier and m
 - [Filecrypt](https://filecrypt.co/Create.html) ← encrypt a link
 - [Firefox Relay](https://relay.firefox.com/) ← create aliases, randomly generated email addresses that forward to your real inbox
 - [Have I Been Pwned](https://haveibeenpwned.com/) ← check if you have an account that has been compromised in a data breach
-    - [Firefox Monitor](https://monitor.firefox.com/) ← the same tool from Firefox
-    - [We Leak Info](https://weleakinfo.com/) ← data breach search engine
+  - [Firefox Monitor](https://monitor.firefox.com/) ← the same tool from Firefox
+  - [We Leak Info](https://weleakinfo.com/) ← data breach search engine
 - [Hybrid Analysis](https://hybrid-analysis.com//) ← analyse malware for free in the browser
 - [I know what you download](https://iknowwhatyoudownload.com/en/peer/) ← torrent downloads and distributions for chosen IP
 - [IP Info](https://ip.voidsec.com/) ← check if your VPN leaks information
 - [Pi-Hole](https://pi-hole.net/) ← adblock for the whole network (requires: router + raspberry pi)
 - [PrivacyTools](https://www.privacytools.io/) ← set of services, tools, and knowledge to protect your privacy
-    - [PRISM Break](https://prism-break.org/) ← set of privacy tools (categorised by operating systems)
-    - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) ← curated list of privacy respecting services and software
+  - [PRISM Break](https://prism-break.org/) ← set of privacy tools (categorised by operating systems)
+  - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) ← curated list of privacy respecting services and software
 - [Redirect Checker](https://www.redirect-checker.org/) ← check your redirects and statuscode
 - [Shodan](https://www.shodan.io/) ← search engine of IoT
 - [Tails](https://tails.boum.org/) ← privacy OS for pendrive (protects your privacy and offers all sorts of apps to do so, like Tor, Thunderbird and PGP)
@@ -433,7 +439,9 @@ _Tip_: The catalogue is sorted chronologically, but I believe it is easier and m
 
 ## 📊 Data Science
 
-\[su\_highlight background="#dceced"\][Subscribe to my newsletter](http://eepurl.com/dDqG-z) to find out even more inspiring stuff to help you with your analytics!\[/su\_highlight\]
+:::note
+[Subscribe to my newsletter](http://eepurl.com/dDqG-z) to find out even more inspiring stuff to help you with your analytics!
+:::
 
 ### cheatsheets
 
@@ -480,7 +488,7 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 - [Quantopian Datasets](https://www.quantopian.com/docs/data-reference/overview)
 - [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images) ← largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
 - [VQA](https://visualqa.org/) ← 200k+ images and over a million questions (with answers) about those images
-    - [easy-VQA](https://github.com/vzhou842/easy-VQA) ← simpler version of the original VQA dataset
+  - [easy-VQA](https://github.com/vzhou842/easy-VQA) ← simpler version of the original VQA dataset
 - [World Bank Open Data](https://data.worldbank.org/) ← economic data
 - [YouTube 8M](https://research.google.com/youtube8m/) ← dataset of YouTube videos
 
@@ -532,7 +540,7 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 - [CNN Explainer](https://poloclub.github.io/cnn-explainer/) ← interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs)
 - [ColorBrewer](http://colorbrewer2.org/) ← colour advice for maps
 - [Decision Trees in Javascript](https://cs.stanford.edu/~karpathy/svmjs/demo/demoforest.html) ← random forest demo in Javascript
-    - check out also [SVMs demo](https://cs.stanford.edu/~karpathy/svmjs/demo/)
+  - check out also [SVMs demo](https://cs.stanford.edu/~karpathy/svmjs/demo/)
 - [Explained Visually](http://setosa.io/ev/) ← interactive visualisations
 - [GAN Lab](https://poloclub.github.io/ganlab/) ← play with Generative Adversarial Networks (GANs) in your browser!
 - [Grail Text Recognizer](https://jackschaedler.github.io/handwriting-recognition/) ← text recognition explained
@@ -561,7 +569,7 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 
 ### subreddits
 
-\[su\_highlight background="#dceced"\]As there are many, I highly encourage you to check my custom feeds:\[/su\_highlight\]
+As there are many, I highly encourage you to check my custom feeds:
 
 - [~data\_science](https://www.reddit.com/user/pyxelr/m/data_science/)
 - [~data\_tools](https://www.reddit.com/user/pyxelr/m/data_tools/)
@@ -634,7 +642,9 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 
 ## 📰 IT News
 
-\[su\_highlight background="#dceced"\]All the mentioned sites are mostly free of clickbait and offer the triumph of form over content.\[/su\_highlight\]
+:::note
+All the mentioned sites are mostly free of clickbait and offer the triumph of form over content.
+:::
 
 - [Ars Technica](https://arstechnica.com/)
 - [dobreprogramy](https://www.dobreprogramy.pl/) (🇵🇱) ← one of the most popular Polish sites
@@ -735,7 +745,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [howdoi](https://github.com/san-kumar/howdoi) ← get quick answers to common linux related questions, right inside your terminal by typing `"howdoi [your question]"`
 - [htop](https://github.com/htop-dev/htop/) ← interactive process viewer
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix) ← collection of modern/faster/saner alternatives to common unix commands
-    - [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) ← by Julia Evans
+  - [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) ← by Julia Evans
 - [Neofetch](https://github.com/dylanaraps/neofetch) ← CLI tool to display information about your OS in an aesthetic way
 - [nushell](https://github.com/nushell/nushell) ← new type of shell
 - [Oh My Zsh](https://ohmyz.sh/) ← framework for managing your Zsh configuration
@@ -771,9 +781,9 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [BetterTouchTool](https://folivora.ai/) ← customize various input devices
 - [BetterZip](https://macitbetter.com/) ← next generation of archiving
 - [CleanShot X](https://cleanshot.com/) ← screenshot tool
-    - [Monosnap](https://monosnap.com/) ← free alternative
+  - [Monosnap](https://monosnap.com/) ← free alternative
 - [DevUtils](https://devutils.com/) ← all-in-one toolbox for developers
-    - [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ← free alternative
+  - [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ← free alternative
 - [espanso](https://espanso.org/) ← cross-platform text expander (you can find my settings [here](https://github.com/pyxelr/my-espanso-config))
 - [Ferdium](https://ferdium.org/) ← all the social apps in one place
 - [HazeOver](https://hazeover.com/) ← fade out background windows
@@ -788,10 +798,10 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [mas](https://github.com/mas-cli/mas) ← Mac App Store command line interface
 - [MeetingBar](https://github.com/leits/MeetingBar) ← menu bar calendar
 - Microsoft
-    - [Microsoft Excel](https://apps.apple.com/us/app/microsoft-excel/id586683407) ← my favourite spreadsheet editor
-    - [Microsoft Outlook](https://apps.apple.com/us/app/microsoft-outlook/id951937596) ← my favourite e-mail client
-    - [Microsoft PowerPoint](https://apps.apple.com/us/app/microsoft-powerpoint/id586449534) ← my favourite slideshow creator
-    - [Microsoft Word](https://apps.apple.com/us/app/microsoft-word/id586447913) ← my favourite document editor
+  - [Microsoft Excel](https://apps.apple.com/us/app/microsoft-excel/id586683407) ← my favourite spreadsheet editor
+  - [Microsoft Outlook](https://apps.apple.com/us/app/microsoft-outlook/id951937596) ← my favourite e-mail client
+  - [Microsoft PowerPoint](https://apps.apple.com/us/app/microsoft-powerpoint/id586449534) ← my favourite slideshow creator
+  - [Microsoft Word](https://apps.apple.com/us/app/microsoft-word/id586447913) ← my favourite document editor
 - [New File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555?mt=12) ← create new files via Finder
 - [Numi](https://numi.app/) ← beautiful calculator
 - [Objective-See’s Tools](https://objective-see.org/tools.html) ← free, open-source, tools to secure your Mac
@@ -886,7 +896,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [ADSR](https://www.adsrsounds.com/courses/) ← learn Serum, Reaktor, Massive, etc.
 - [Beatboxing for kids](https://beatboxingforkids.fun/) ← teach your kids beatboxing using everyday words
 - [Learn music with Ableton](https://learningmusic.ableton.com/index.html) ← interactively in your browser
-    - [Learning Synths](https://learningsynths.ableton.com/get-started)
+  - [Learning Synths](https://learningsynths.ableton.com/get-started)
 - [Melodics](https://melodics.com/) ← interactive desktop software
 - [Pianu](https://pianu.com/) ← online interactive piano
 - [Playground Sessions](https://www.playgroundsessions.com/) ← my personal favorite app to learn piano
@@ -903,8 +913,8 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [lofi.cafe](https://lofi.cafe/) ← online radio to focus and relax
 - [lofi generator](https://lofigenerator.com/) ← algorithmically generate royalty-free lofi hip-hop
 - lofi hip hop radio ← live YouTube transmission of background music for your studying sessions
-    - [beats to relax/study to](https://www.youtube.com/watch?v=hHW1oY26kxQ)
-    - [beats to sleep/chill to](https://www.youtube.com/watch?v=EcEMX-63PKY)
+  - [beats to relax/study to](https://www.youtube.com/watch?v=hHW1oY26kxQ)
+  - [beats to sleep/chill to](https://www.youtube.com/watch?v=EcEMX-63PKY)
 - [Moodil](https://www.moodil.com/) ← nature sounds
 - [musicForProgramming](http://musicforprogramming.net/) ← series of mixes intended for listening while '+task+' to aid concentration
 - [myNoise](https://mynoise.net/) ← create beautiful noises to mask the noises you don’t want to hear
@@ -971,7 +981,9 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 ## 🎧 Podcasts
 
-\[su\_highlight background="#dceced"\]I recommend listening to all podcasts through [Pocket Casts web/mobile app](https://www.pocketcasts.com/).\[/su\_highlight\]
+:::tip
+I recommend listening to all podcasts through [Pocket Casts web/mobile app](https://www.pocketcasts.com/).
+:::
 
 ### business
 
@@ -1068,8 +1080,8 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - Monochrome mode (grayscale mode) activation on your mobile device ← attract yourself less to the colourless screen
 - [Obsidian](https://obsidian.md/) ← my favourite powerful knowledge base (note-taking tool) that works on top of a local folder of plain text Markdown files
 - [OneNote Desktop](https://www.onenote.com/download) ← note-taking tool from Microsoft (desktop version is much more feature-rich over the UWP app)
-    - [Office OneNote Gem Add-Ins](https://www.onenotegem.com/) ← lots of plugins for different versions of OneNote
-    - [Onetastic](https://getonetastic.com/) ← set of extensions for OneNote
+  - [Office OneNote Gem Add-Ins](https://www.onenotegem.com/) ← lots of plugins for different versions of OneNote
+  - [Onetastic](https://getonetastic.com/) ← set of extensions for OneNote
 - [Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/) ← large list by Todoist
 - [Productivity Stack](https://hive.com/the-productivity-stack/) ← list of productivity tools
 - [Quirk](https://quirk.fyi/) ← app to apply Cognitive Behavioral Therapy (CBT). The website also explains what is CBT
@@ -1107,9 +1119,9 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 ### IDE
 
 - [Anaconda](https://www.anaconda.com/distribution/) ← most popular Python/R Data Science platform, which lets you install and manage all of the following tools:
-    - [Jupyter Notebook](https://jupyter.org/) ← good choice for the beginning and the reason of maintaining a well-documented code
-    - [Spyder](https://www.spyder-ide.org/) ← Python IDE
-    - [RStudio](https://rstudio.com/) ← R IDE
+  - [Jupyter Notebook](https://jupyter.org/) ← good choice for the beginning and the reason of maintaining a well-documented code
+  - [Spyder](https://www.spyder-ide.org/) ← Python IDE
+  - [RStudio](https://rstudio.com/) ← R IDE
 - [Google Colab](https://colab.research.google.com/) ← alternative to Jupyter Notebook. Run your code entirely in the browser and improve the model learning time by leveraging Google's GPU/TPU
 - [PyCharm](https://www.jetbrains.com/pycharm/) ← more robust Python IDE
 - [Sublime Text](https://www.sublimetext.com/) ← the most optimised text editor with a package control
@@ -1295,7 +1307,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 ### research websites
 
 - [arXiv](https://arxiv.org/) ← open access to the scientific papers
-    - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) ← web interface that attempts to tame the overwhelming flood of papers on Arxiv
+  - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) ← web interface that attempts to tame the overwhelming flood of papers on Arxiv
 - [DOAJ](https://doaj.org/) ← directory of open access journals
 - [Google Scholar](https://scholar.google.com/) ← web search engine that indexes the full text or metadata of scholarly literature
 - [JSTOR](https://www.jstor.org/) ← access to more than 12 million academic journal articles, books, and primary sources in 75 disciplines
@@ -1432,7 +1444,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [exurb1a](https://www.youtube.com/user/willunicycleforfood) ← attempt to explain the way universe works
 - [Geography Now](https://www.youtube.com/user/GeographyNow) ← first and only Youtube Channel that actively attempts to cover profiles on every single country of the world
 - [iBiology](https://www.youtube.com/user/ibioseminars) ← biology talks by the world's leading scientists that show the process of science and the wonders of discovery. Make sure to check out their other channels
-    - [iBiology Techniques](https://www.youtube.com/user/iBioEducation) ← iBiology technique driven videos such as a microscopy course
+  - [iBiology Techniques](https://www.youtube.com/user/iBioEducation) ← iBiology technique driven videos such as a microscopy course
 - [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart) ← Joe Hanson, Ph.D. is a curious group of atoms in a curious universe, and he's here to tell you how it all works
 - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) ← videos explaining things with optimistic nihilism (quality > quantity)
 - [Langfocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ) ← channel of a language enthusiast, globetrotter
@@ -1473,16 +1485,16 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 - [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth) ← check how Earth looked like x years ago
 - [Awesome](https://github.com/sindresorhus/awesome) ← GitHub repository with lists on all kinds of interesting topics
-    - [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) ← awesome list of repositories of awesome lists
-    - [Awesome search](https://awesomelists.top/) ← search all awesome lists in one second
-    - [List.community](https://list.community/) ← better graphical form of Awesome
+  - [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) ← awesome list of repositories of awesome lists
+  - [Awesome search](https://awesomelists.top/) ← search all awesome lists in one second
+  - [List.community](https://list.community/) ← better graphical form of Awesome
 - [Buoy](https://www.buoyhealth.com/symptom-checker/) ← check your symptoms with an online AI assistant
 - [Can I email](https://www.caniemail.com/) ← check which HTML and CSS elements are supported by your mail client
 - [Code Wizard ~ Ash Kyd](https://ash.ms/) ← website of a developer in a Windows ME style. It's worth checking out the arrangement of blog posts/vlogs
 - [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) ← list of student discounts for learning & development
 - [DistroTest](https://distrotest.net/) ← try running any Linux distro in the cloud VM
 - [Follow Friday](https://followfriday.io/) ← interesting people to follow, categorised by topics like AI, design or programming
-    - [list of accounts I'm following](https://twitter.com/pawel_cislo/following) ← all the people that influence my writing on this website
+  - [list of accounts I'm following](https://twitter.com/pawel_cislo/following) ← all the people that influence my writing on this website
 - [Future Timeline](https://www.futuretimeline.net/) ← timeline of future predictions
 - [How much free time do you have?](https://erikrood.com/Posts/free_time_calc.html) ← specify values and get the result
 - [Internet Archive](https://archive.org/web/) ← wayback machine with a digital library of Internet sites
