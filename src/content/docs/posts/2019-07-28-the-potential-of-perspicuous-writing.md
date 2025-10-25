@@ -29,7 +29,7 @@ The topic of writing popped in my mind mainly through Jordan Peterson – Canadi
 
 First and foremost, the psychologist tries to shape the real purpose of writing, unlike the one generally applied in schools, where we are usually told that it will result in a better grade, thanks to which our parents will be happy. Being more rational, it is writing, through which ultimately we can win arguments, get a pay rise or write better code and documentation so that newcomers could overtake the development.
 
-Nonetheless, let's not stop on generalised logical/material benefits and extend the value of writing based on the example of writing an essay. To express it in a single sentence: the primary reason to write an essay is so that the writer can formulate and organise an informed, coherent and sophisticated set of ideas about something important.\[ref\]Peterson, J. (2017) ‘Essay Writing Guide’. \[online\] available from <[https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay\_Writing\_Guide.docx](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)\>\[/ref\]
+Nonetheless, let's not stop on generalised logical/material benefits and extend the value of writing based on the example of writing an essay. To express it in a single sentence: the primary reason to write an essay is so that the writer can formulate and organise an informed, coherent and sophisticated set of ideas about something important.[^1]
 
 \[caption id="attachment\_2053" align="aligncenter" width="367"\]![](images/Writing_as_a_weapon.png) "_If you can think and speak and write, you are absolutely deadly (…) It’s the most powerful weapon you can possibly provide someone with (…) those people, you don’t want to have an argument with them, they will just slash you into pieces_." ~ [Jordan Peterson](https://youtu.be/bfDOoADCfkg?t=120)\[/caption\]
 
@@ -40,19 +40,25 @@ This everything might sound pretty smart, but can we think of a broader rational
 - the person who can formulate and communicate the best argument almost always wins
 - the Romans built buildings, and the Romans and the buildings are both gone. The Jews wrote a book, and they are still here, and so is the book. So it turns out that words may well last longer than stone, and have more impact than whole empires
 - if you learn to write and to edit, you will also be able to tell the difference between good ideas, intelligently presented, and bad ideas put forth by murky and unskilled thinkers
-- you will be healthier physically and mentally, as lack of clarity means unnecessary stress.\[ref\]Peterson, J. (2017) ‘Essay Writing Guide’. \[online\] available from <[https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay\_Writing\_Guide.docx](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)\>\[/ref\]
+- you will be healthier physically and mentally, as lack of clarity means unnecessary stress.[^1]
 
 To strengthen out everything you just read, I encourage you to spend 4 minutes of your time with the following clip:
 
-\[embedyt\] https://www.youtube.com/watch?v=bfDOoADCfkg&width=450&height=253&centervid=1\[/embedyt\]
-
- 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/bfDOoADCfkg"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 Now, before we talk about a highly correlated form of communication, take into consideration that the goal of this post isn't to hail writing to be the one and only skill to handle logical conversations. For instance, without a basic understanding of math (some algebra and statistics), you might be fooled not even once by retailers and online news.
 
-### Speak, speak, speak!
+### Speak, speak, speak
 
-Speaking is something I don't feel particularly good with; hence, I profoundly supported this part with a popular TED talk "_How to speak so that people want to listen_" given by Julian Treasure.\[ref\]Treasure, J. (2013) _How to Speak so That People Want to Listen_ \[online\] available from <[https://www.ted.com/talks/julian\_treasure\_how\_to\_speak\_so\_that\_people\_want\_to\_listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)\>\[/ref\].
+Speaking is something I don't feel particularly good with; hence, I profoundly supported this part with a popular TED talk "_How to speak so that people want to listen_" given by Julian Treasure.[^2]
 
 \[caption id="attachment\_2011" align="aligncenter" width="645"\]![](images/public_speaking.jpg) "_Well-timed silence hath more eloquence than speech._" ~ Martin Tupper\[/caption\]
 
@@ -77,9 +83,15 @@ I bet you do, not only by looking at yourself but a large part of your daily env
 
 But even more importantly, it's not just about what you say, but how you say it. Improving your vocal techniques can't be easily summarised with words; therefore, I wish you a great 5 minutes of your time with the 2nd part of Julian's performance \[04:23 – 09:58\]:
 
-\[embedyt\] https://www.youtube.com/watch?v=eIho2S0ZahI&start=263&width=450&height=253&centervid=1\[/embedyt\]
-
- 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/eIho2S0ZahI?start=263"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 ## Editorial tips in 10 steps
 
@@ -161,7 +173,7 @@ Coming back to the merits of this post (writing), it's worth to have an ultimate
 10. **P10: References and bibliography**
     - fact/informed opinion picked from something you read, should be referenced
     - it's recommended to use a specific citation software (discussed in the further part of this post)
-    - otherwise, you might be accused of plagiarism.\[ref\]Peterson, J. (2017) ‘Essay Writing Guide’. \[online\] available from <[https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay\_Writing\_Guide.docx](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)\>\[/ref\]
+    - otherwise, you might be accused of plagiarism.[^1]
 
 ### The way I write blog posts
 
@@ -176,14 +188,14 @@ The topic you're reading now came to me as inspiration from a Facebook post of m
 After I got a problem I would like to cover; I usually start with defining my table of contents in the form of bullet points:
 
 - _topic 1_
-    - _subtopic 1_
-        - _subsubtopic 1_
-        - _subsubtopic 2_
-        - _subsubtopic 3_
-    - _subtopic 2_
-        - _subsubtopic 1_
+  - _subtopic 1_
+    - _subsubtopic 1_
+    - _subsubtopic 2_
+    - _subsubtopic 3_
+  - _subtopic 2_
+    - _subsubtopic 1_
 - _topic 2_
-    - _subtopic 1_
+  - _subtopic 1_
 - _topic 3_
 
 The points typically go through high modification process as I finally perform my first keystrokes. Sometimes, I also include comments (notes) under the bullet points, preceded by // characters (probably a leftover from my C++ classes).
@@ -196,7 +208,7 @@ Reading is like sharping a sword before fighting. It doesn't only teach us diffe
 
 ![](images/Audiobooks-1024x557.png)
 
-After leaving your university you might be more flexible in terms of choosing your literature, therefore give it a try. Don't stay behind, as according to the latest research, people aren't reading less, since "_typical (median) American has read four books in the past 12 months_".\[ref\]Kerri, J. (2018) ‘How Many Books Did The Average American Read In The Last Year? This New Study May Surprise You’. \[19 April 2018\] available from <[https://www.bustle.com/p/how-many-books-did-the-average-american-read-in-the-last-year-this-new-study-may-surprise-you-8837851](https://www.bustle.com/p/how-many-books-did-the-average-american-read-in-the-last-year-this-new-study-may-surprise-you-8837851)\>\[/ref\] Surprising? I don't think so.
+After leaving your university you might be more flexible in terms of choosing your literature, therefore give it a try. Don't stay behind, as according to the latest research, people aren't reading less, since "_typical (median) American has read four books in the past 12 months_".[^3] Surprising? I don't think so.
 
 Just as you might have guessed from the image above, it's listening that can let us read so many books from our overgrowing waiting list. As an example, last week I finished a 224 pages book in 5 days, only by using a part of the time I need to commute to my work. You can try various types of fiction and non-fiction, and it even turns out from my experience, that you can touch technical topics through audiobooks. However, when the book is heavily technical (such as consolidating programming/mathematical snippets), then I would advise reaching for a hardcover or e-book, where it's much easier to take notes.
 
@@ -213,7 +225,7 @@ We wouldn't achieve all the technological advancement of our society if we weren
 Once we are fully aware of questioning the authority, we don't need to get out to the nearest library, but we can find all the required material online. There are various services; therefore, I can guide you to the most helpful resources I found during my research at the university:
 
 - [arXiv](https://arxiv.org/) ← open access to the scientific papers
-    - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) ← web interface that attempts to tame the overwhelming flood of papers on Arxiv
+  - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) ← web interface that attempts to tame the overwhelming flood of papers on Arxiv
 - [DOAJ](https://doaj.org/) ← directory of open access journals
 - [Google Scholar](https://scholar.google.com/) ← web search engine that indexes the full text or metadata of scholarly literature
 - [JSTOR](https://www.jstor.org/) ← access to more than 12 million academic journal articles, books, and primary sources in 75 disciplines
@@ -267,7 +279,7 @@ Apart from the aforementioned tools, you can also reach out for:
 
 Oh, and remember! Just as machine learning algorithms, the proofreading tools aren't 100% right, so that keep your mind fresh while applying the suggested corrections!
 
-### Okay, but my dictionary is poor...
+### Okay, but my dictionary is poor
 
 According to the guide, there is no need to overcomplex your craft, particularly if you're aiming toward a mass audience. However, if you would like to apply some exoticism into your script (such as I am doing in this paragraph 😎), you can help yourself by looking up for synonyms at all times.
 
@@ -306,22 +318,23 @@ In general, the reason to type documents in LaTeX increases with the complexity 
 If you feel like convinced to give it a try, but you're not sure where to start, please check the list of the following tutorials, links and tools to ease your way:
 
 - Tutorials
-    - [Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1) ← 3 part presentations from Dr John Lees-Miller (recommended by Overleaf team)
-    - [LaTeX Tutorial in a single 1h video](http://www.newthinktank.com/2019/01/latex-tutorial/) ← presented by Derek Banas
-    - [LaTeX.md](https://github.com/virgili0/Virgilio/blob/master/Tools/Latex.md) ← short introduction to LaTeX in a popular GitHub repo
-    - [Minimal examples of LaTeX with overleaf (v2)](https://www.youtube.com/playlist?list=PLnC5h3PY-znyDQKn3knfXfekZLgWyL7QW) ← YouTube tutorial by Dr Vincent Knight (recommended by Overleaf team)
-        - [Text version of the tutorial](https://vknight.org/tex/)
-    - [LaTeX Cheat Sheet](https://wch.github.io/latexsheet/latexsheet.pdf)
-    - [LaTeX Notes for Professionals book](http://books.goalkicker.com/LaTeXBook/) ← free e-book
+  - [Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1) ← 3 part presentations from Dr John Lees-Miller (recommended by Overleaf team)
+  - [LaTeX Tutorial in a single 1h video](http://www.newthinktank.com/2019/01/latex-tutorial/) ← presented by Derek Banas
+  - [LaTeX.md](https://github.com/virgili0/Virgilio/blob/master/Tools/Latex.md) ← short introduction to LaTeX in a popular GitHub repo
+  - [Minimal examples of LaTeX with overleaf (v2)](https://www.youtube.com/playlist?list=PLnC5h3PY-znyDQKn3knfXfekZLgWyL7QW) ← YouTube tutorial by Dr Vincent Knight (recommended by Overleaf team)
+    - [Text version of the tutorial](https://vknight.org/tex/)
+  - [LaTeX Cheat Sheet](https://wch.github.io/latexsheet/latexsheet.pdf)
+  - [LaTeX Notes for Professionals book](http://books.goalkicker.com/LaTeXBook/) ← free e-book
 - General links
-    - **[Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)** ← probably the only link I should include in the set of these bullet points
-    - [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
-    - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks) ← best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab
+  - **[Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)** ← probably the only link I should include in the set of these bullet points
+  - [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+  - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks) ← best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab
 - Tools
-    - [Mathpix Snip](https://mathpix.com/) ← convert images to LaTeX by capturing your screen
-    - **[Overleaf](https://www.overleaf.com/)** ← online LaTeX editor, recommended not only for the beginners.
+  - [Mathpix Snip](https://mathpix.com/) ← convert images to LaTeX by capturing your screen
+  - **[Overleaf](https://www.overleaf.com/)** ← online LaTeX editor, recommended not only for the beginners.
 
-\[caption id="attachment\_1989" align="aligncenter" width="1024"\]![](images/Overleaf-editor-1024x683.png) Overleaf makes it fairly easy to start with LaTeX. You can auto compile your work to get an instant preview of the document and even collaborate with others on the same file!\[ref\] Overleaf (2018) ‘Try out Overleaf V2’. \[1 May 2018\] available from <[https://www.overleaf.com/blog/641-try-out-overleaf-v2](https://www.overleaf.com/blog/641-try-out-overleaf-v2)\>\[/ref\] ([click here to enlarge the picture in a new tab](https://pawelcislo.com/wp-content/uploads/2019/07/Overleaf-editor.png))\[/caption\]
+![](images/Overleaf-editor-1024x683.png)
+_Overleaf makes it fairly easy to start with LaTeX. You can auto compile your work to get an instant preview of the document and even collaborate with others on the same file![^4] ([click here to enlarge the picture in a new tab](https://pawelcislo.com/wp-content/uploads/2019/07/Overleaf-editor.png))_
 
 ## Additional learning material
 
@@ -341,3 +354,13 @@ Moreover, in this post, I didn't tackle the highly correlated topic of asking an
 If you would like to know more about the topic, check out the guide of "[How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)" by Eric Raymond.
 
 Right, it's time to end this long deliberation. I firmly believe that if you read everything carefully, you must have taken out something that influenced you to be more interested in the topic of writing. Don't hesitate to share your reflections down in the comments, and suggest your tips on this marvellous talking point. Let everyone learn and spread the passion for writing! ❤✍
+
+## References
+
+[^1]: Peterson, J. (2017) 'Essay Writing Guide'. [online] available from <https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx>
+
+[^2]: Treasure, J. (2013) _How to Speak so That People Want to Listen_ [online] available from <https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen>
+
+[^3]: Kerri, J. (2018) 'How Many Books Did The Average American Read In The Last Year? This New Study May Surprise You'. [19 April 2018] available from <https://www.bustle.com/p/how-many-books-did-the-average-american-read-in-the-last-year-this-new-study-may-surprise-you-8837851>
+
+[^4]: Overleaf (2018) 'Try out Overleaf V2'. [1 May 2018] available from <https://www.overleaf.com/blog/641-try-out-overleaf-v2>

@@ -33,29 +33,29 @@ Dreams about revolutionizing the way of teaching by utilizing the digital transf
 
 ### **Résumé/CV**
 
-\[su\_button url="https://pawelcislo.com/resume/" style="soft" background="#138890" icon="icon: address-card-o"\]Résumé Document\[/su\_button\]   (_last updated on: 11/05/2025_)
+[📄 Résumé/CV Document](https://pawelcislo.com/resume/)
 
-You can also check [my LinkedIn profile](https://www.linkedin.com/in/pawelcislo/) which greatly resembles and extends the document.  
+You can also check [my LinkedIn profile](https://www.linkedin.com/in/pawelcislo/) which greatly resembles and extends the document.
 In case you would like me to review your résumé/CV, please [get in touch](https://pawelcislo.com/contact/).
 
 * * *
 
 ### Experience Highlights
 
-- **2021/02 - Present**  
-    MLOps Engineer at Billennium  
+- **2021/02 - Present**
+    MLOps Engineer at Billennium
     _Poland (Remote)_
-- **2019/02 – 2020/08**  
-    Data Science Consultant at AKKA Belgium  
+- **2019/02 – 2020/08**
+    Data Science Consultant at AKKA Belgium
     _Brussels, Belgium_
-- **2019/06 – 2020/02**  
-    Data Scientist | System Designer at Alstom  
+- **2019/06 – 2020/02**
+    Data Scientist | System Designer at Alstom
     _Charleroi, Belgium_
-- **2019/01 – 2019/02  
-    **International Engineering Consultant at The AKKAdemy  
+- **2019/01 – 2019/02**
+    International Engineering Consultant at The AKKAdemy
     _Geneva, Switzerland_
-- **2015/11 – 2016/02  
-    **Data analyst at University of Information Technology & Management  
+- **2015/11 – 2016/02**
+    Data analyst at University of Information Technology & Management
     _Rzeszow, Poland_
 
 * * *
