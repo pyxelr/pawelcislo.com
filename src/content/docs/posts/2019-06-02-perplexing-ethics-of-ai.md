@@ -29,7 +29,7 @@ Last Tuesday, [Nathalie Smuha](https://www.law.kuleuven.be/citip/en/ai-law-ethic
 
 Maybe let's start from defining what ethics are, as many of us might have a different view on it. According to the Internet Encyclopedia of Philosophy\[ref\]Fieser, J. (2019) ‘Ethics’. \[6 January 2019\] available from <[https://www.iep.utm.edu/ethics/](https://www.iep.utm.edu/ethics/)\>\[/ref\]:
 
-\[su\_quote cite="James Fieser" url="https://www.iep.utm.edu/ethics/"\]**Ethics** – the field of ethics (or moral philosophy) involves systematizing, defending, and recommending concepts of right and wrong behaviour\[/su\_quote\]
+\[su\_quote cite="James Fieser" url="<https://www.iep.utm.edu/ethics/"\]**Ethics>** – the field of ethics (or moral philosophy) involves systematizing, defending, and recommending concepts of right and wrong behaviour\[/su\_quote\]
 
 That's still a very, very brief explanation of the term, leading to even more misconception, and if we would like to define it accurately, I would need to throw in the definition of three different pillars, which are associated with it (metaethics, normative ethics and applied ethics). But, let's make things easier. During the presentation, I loved the simple explanation of this broad and confusing term, brought by Nathalie, which says that "_**Ethics is about finding moral intuitions and rational explanations for them**_", as such it's not about doing things in your life according to the rule "because God told me so".
 
@@ -46,9 +46,9 @@ Impact of AI is still not fully understood, as it's moving incredibly fast to co
 For now, the EU tries to act according to the 3 pillars published in April 2018, before applying any policy:
 
 - boost AI uptake
-    - set digital innovation hubs to help startups with digitalisation using AI
+  - set digital innovation hubs to help startups with digitalisation using AI
 - tackle socio-economic challenges
-    -  think of "will AI take my job?" case
+  -  think of "will AI take my job?" case
 - ensure an adequate ethical & legal framework
 
 \[caption id="attachment\_1800" align="aligncenter" width="500"\]![](images/AI_Regulation.png) How to regulate AI, yet boost its uptake?\[/caption\]
@@ -65,11 +65,11 @@ If you are tired of reading newspaper headlines, drop on the website below, ente
 
 Remember that with the inclusion of new technology in the market, everyone always becomes worried about the future of his career. Take the example of the agricultural market and how much it changed for the better, although how many people were stressed about its upcoming state.
 
-\[su\_quote cite="Wendell Wallach" url="https://www.carnegiecouncil.org/studio/multimedia/20160922-the-pros-cons-and-ethical-dilemmas-of-artificial-intelligence"\]It’s a long-running concern — the Luddite concern going back 200 years ago — that each new form of technology will rob more jobs than it creates. Up to now, we haven’t seen that. Each new technology eventually creates more secondary jobs than it eliminates\[/su\_quote\]
+\[su\_quote cite="Wendell Wallach" url="<https://www.carnegiecouncil.org/studio/multimedia/20160922-the-pros-cons-and-ethical-dilemmas-of-artificial-intelligence"\]It’s> a long-running concern — the Luddite concern going back 200 years ago — that each new form of technology will rob more jobs than it creates. Up to now, we haven’t seen that. Each new technology eventually creates more secondary jobs than it eliminates\[/su\_quote\]
 
 If you're a truck/taxi driver, better act as quick as possible. Once AI will finally automate your profession, please don't cry on the internet, and understand that you were warned already for about 20 years so that you could craft a 2nd skill in the meantime. Before closing the topic, I will bring up recent words of Gary Vee of what he thinks about AI effect on the job market:
 
-\[su\_quote cite="Gary Vee" url="https://youtu.be/sXzRmIEmlbg?t=494"\]AI is gonna do shit that below average humans do poorly. (...) that human could actually then go do something that he does like and does well\[/su\_quote\]
+\[su\_quote cite="Gary Vee" url="<https://youtu.be/sXzRmIEmlbg?t=494"\]AI> is gonna do shit that below average humans do poorly. (...) that human could actually then go do something that he does like and does well\[/su\_quote\]
 
 In all of this, if you want to find a negative point, you will find it everywhere and dwell in it. If you want to see a lot of upcoming opportunities and appreciate the greatest time to be living in, you will find it as well.
 
@@ -101,9 +101,15 @@ Finally, what are the next steps? On the day of June 26th, there will be a prese
 
 Elon Musk, one of the AI pioneers, especially in the field of self-driving cars, already shared his worries last year, where he tried to speak with the US government to raise the awareness of AI potential. Unfortunately, the government acts too slowly, and it doesn't yet understand that AI will soon be out of human control. It might be very tempting to use technology as a weapon, and it will be used after all.
 
-\[embedyt\] https://www.youtube.com/watch?v=Ra3fv8gl6NE&start=655&width=450&height=253&centervid=1\[/embedyt\]
-
- 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/Ra3fv8gl6NE?start=655"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 Europe needs to act quickly, not just for the safety of others but for having some sort of impact on the global market of AI, where China and the US already took the lead.
 
@@ -129,9 +135,15 @@ In my humble opinion, ensuring the competitiveness of the European Region in the
 
 Interested to know even more about was shared by Nathalie and feel like participating in the event (or finding my questions towards Nathalie)? Feel free to watch the entire meetup session under the following clip:
 
-\[embedyt\] https://www.youtube.com/watch?v=JItsMV0c72E&width=450&height=253&centervid=1\[/embedyt\]
-
- 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/JItsMV0c72E"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 More or less, the text above summarised the 1,5h video recording, but everyone could have been interested in noting different pieces of information; hence, I am sharing the YouTube link. Hopefully, after watching the presentation, you will understand that you can start attending local meetups without knowing much about the topic of discussion, and you're not even required to share anything. Just come and start slowly by listening and getting familiar with the atmosphere, ideally slowly making some contact with participants of the same interest. Who knows, maybe your next co-worker will sit once next to you?
 
@@ -185,7 +197,9 @@ To end up, the presented discussions should instead involve problems more with a
 
 ## What else can go wrong with AI?
 
-\[su\_quote cite="Murphy's law"\]Anything that can go wrong will go wrong\[/su\_quote\]
+> _Anything that can go wrong will go wrong._
+>
+> — Murphy's law
 
 Can AI go wrong? Undeniably.
 
@@ -201,9 +215,15 @@ AI learns on historical data and any type of data in general. It consumes it lik
 
 Maybe the following video will put your imagination into work, of what can happen with humanity if the organisations will do anything they want. Remember that 10 years ago, the Boston Dynamics robot still learned how to walk straight using 4 legs, but now...
 
-\[embedyt\] https://www.youtube.com/watch?v=LikxFZZO2sk&width=450&height=253&centervid=1\[/embedyt\]
-
- 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/LikxFZZO2sk"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 If you feel like having a little sneak peek over the next 10 years of the AI robots, have a look at Black Mirror's episode titled as "[Metalhead](https://en.wikipedia.org/wiki/Metalhead_\(Black_Mirror\))".
 
@@ -213,7 +233,7 @@ Let's not introduce all the possible states, as one would need to write a compre
 
 In the end, please don't understand me wrong. **The goal of this post wasn't to make you scared or doubtful in the sense of further work on improving the AI state**. Technology is a great tool, and it can all make our lives better, as it did for all the years. Right, some things did not develop with the time, such as the matter of global warming, but please keep in mind that rapid development of technology isn't the major cause of one of the most concerned environmental problems. Looking on it from the brighter side, AI might be the answer to this and any other problems, as we might need some sort of inhuman intelligence to give us the right answer, as it was explained in the article of Renee Cho\[ref\]Cho, R. (2018) Artificial Intelligence—A Game Changer for Climate Change and the Environment. \[6 May 2018\] available from <[https://blogs.ei.columbia.edu/2018/06/05/artificial-intelligence-climate-environment/](https://blogs.ei.columbia.edu/2018/06/05/artificial-intelligence-climate-environment/)\>\[/ref\]. No more than a month ago, Sam Altman (chairman of Y Combinator and co-chairman of OpenAI) also threw some words on this topic\[ref\]Altman, S. (2019) _Sam Altman in Conversation with StrictlyVC_ \[online\] available from <[https://www.youtube.com/watch?v=TzcJlKg2Rc0](https://www.youtube.com/watch?v=TzcJlKg2Rc0)\>\[/ref\]:
 
-\[su\_quote cite="Sam Altman" url="https://www.youtube.com/watch?v=TzcJlKg2Rc0"\]The best way to solve climate change is to build really strong AI first. I think it’s that hard of a problem\[/su\_quote\]
+\[su\_quote cite="Sam Altman" url="<https://www.youtube.com/watch?v=TzcJlKg2Rc0"\]The> best way to solve climate change is to build really strong AI first. I think it’s that hard of a problem\[/su\_quote\]
 
 Okay, let's come back to the matter of the growing quality of life. Googling the term "quality of life over time" might give us some level of understanding, that the life expectancy increases, we have easier access to medical health, we are more secure, most of us live with a hood above our head, and we can afford a lot more by getting a job and earning a few bucks.
 
