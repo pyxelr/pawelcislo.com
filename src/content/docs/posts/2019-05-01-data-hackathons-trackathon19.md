@@ -134,11 +134,11 @@ Yes, I know that @DataScienceBe is not the only community and not the only sourc
 You can take advantage of my set of websites, that you can use to explore whenever you would like to know what is going on around:
 
 - [Facebook](https://www.facebook.com/search/events/?q=data&epa=FILTERS&filters=eyJycF9ldmVudHNfbG9jYXRpb24iOiJ7XCJuYW1lXCI6XCJmaWx0ZXJfZXZlbnRzX2xvY2F0aW9uXCIsXCJhcmdzXCI6XCIxMDg0Mjk3OTU4NTU0MjNcIn0ifQ%3D%3D) ← check “This week”, “This weekend” and “Next week” from the sidebar menu
-    - [AI Black Belt](https://www.facebook.com/pg/AIBlackBelt/events/)
-    - [DataBeers Brussels](https://www.facebook.com/pg/brudatabeers/events/)
-    - [DataScienceBe](https://www.facebook.com/pg/Datasciencebe/events/)
-    - [DigitYser](https://www.facebook.com/pg/digityser/events/)
-    - [Hackages](https://www.facebook.com/pg/hackages/events/)
+  - [AI Black Belt](https://www.facebook.com/pg/AIBlackBelt/events/)
+  - [DataBeers Brussels](https://www.facebook.com/pg/brudatabeers/events/)
+  - [DataScienceBe](https://www.facebook.com/pg/Datasciencebe/events/)
+  - [DigitYser](https://www.facebook.com/pg/digityser/events/)
+  - [Hackages](https://www.facebook.com/pg/hackages/events/)
 - [AI4Belgium](http://www.ai4belgium.be/upcoming-events/)
 - [dataMinds.be](http://dataminds.be/events/)
 - [DigitYser](https://digityser.org/events/)
@@ -148,7 +148,7 @@ You can take advantage of my set of websites, that you can use to explore whenev
 - [Hackathon.be](https://hackathon.be/calendar/)
 - [Hack Belgium](https://www.eventbrite.com/o/hack-belgium-15695379932)
 - [Meetup](https://www.meetup.com/find/events/?allMeetups=false&keywords=data&radius=50&userFreeform=Brussels%2C+Belgium&mcId=z1001379&mcName=Brussels%2C+BE&eventFilter=mysugg)
-    - [AI4Belgium & Data Science Community](https://www.meetup.com/Data-Science-Community-Meetup/events/)
+  - [AI4Belgium & Data Science Community](https://www.meetup.com/Data-Science-Community-Meetup/events/)
 
 How to ease the process of event searching?
 
@@ -158,7 +158,7 @@ If you feel like you are highly interested in a specific community, make sure to
 
 What I like to do whenever I need to look into the upcoming meetups, is using [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) extension to open all the links above in a single click. As such, I can save a lot of time and focus on the process of event selection.
 
-## Open Data for the win!
+## Open Data for the win
 
 I thought of sharing a few examples of what results can be driven through the initiatives of openly publishing the railway data. Two of the links are in Polish, but the quality of the analysis is of a very high standard, so you might want to try and reach for the help of Google Translator (or you can reach out to me).
 

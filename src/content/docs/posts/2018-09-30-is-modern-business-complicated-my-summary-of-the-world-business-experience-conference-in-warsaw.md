@@ -55,7 +55,9 @@ The only part which I didn't like in the entire conference was in the beginning.
 
 The other thing that was the saddest to hear during the entire day was: "Networking is not for fun, but for money". Afterwards, Grzegorz asked if we planned any goals for this day, such as "I will make 10 more contacts", or the better one "I will look for as much inspiration as possible". Yes, it is good to plan your day, but I don't think that you should focus on numbers but quality when it comes to networking. I am mentioning all of that as this is one of the reasons why small businesses fail.
 
-\[su\_quote cite="Own idea"\]Keeping relations with people in your business just for the money may work in short, but not the long-term.\[/su\_quote\]
+> _Keeping relations with people in your business just for the money may work in short, but not the long-term._
+>
+> — Own idea
 
 Thinking about what I just scribbled down, you might see, that the previous problem indicates that people do not plan their goals for years ahead. You might get inspired by visiting my "[Three Goals](https://pawelcislo.com/three-goals/)" section on this website, where I encourage you to implement something similar. You might even copy my goals, and see how strong is your patience. Even if the goal sounds stupid, it might give you a significant advancement over your **regularity**.
 
@@ -115,9 +117,15 @@ Did you know that to be recognised Łukasz Jakóbiak hanged a huge CV next to th
 
 Another important advice from Marcin Osman. This was repeated in his slides many times, as so many of us stop doing what we want because we don't have the right skills or tools yet. His example was that we stop ourselves from recording vlogs looking for the expensive camera, which we cannot even use properly. So how to record? Use your mobile phone, eventually with an external microphone. Yes, you read it right. Do you know that most of Marcin's content was recorded with his iPhone, such as his most popular video (below)?
 
-\[embedyt\] https://www.youtube.com/watch?v=a8shV4JR4UI&width=450&height=253&centervid=1\[/embedyt\]
-
- 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/a8shV4JR4UI"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 As you see, the quality is great. He did mention an external microphone as people prefer to understand your voice than to see you well. You don't need anything better as you won't even know how to use it and you will lose your time researching the right camera + lots of money. By the way, as you might see "Don't drink latte for 15 PLN" on the thumbnail is done on purpose. It is controversial, and that is what gains views.
 
@@ -133,9 +141,15 @@ Listening to all the presentations, I have noticed the word video regularly. The
 
 One of the examples given by Cezary Lech was this little ad of [SquattyPotty](https://www.squattypotty.com/).
 
-\[embedyt\] https://www.youtube.com/watch?v=YbYWhdLO43Q&width=450&height=253&centervid=1\[/embedyt\]
-
- 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/YbYWhdLO43Q"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 Yes, it is an ad, yet so enjoyable to watch. Okay, let's analyse the magic of why it got 34,870,317 views so far and is entertaining.
 
@@ -193,8 +207,6 @@ CUBE = Client, Understand, Beginning, Effect
 
 Łukasz also let us take a picture of his secret practical table (filled with examples) that might help you deal with your customers:
 
-\[su\_table responsive="yes"\]
-
 |  | **Place, where is he now?** | **Place, where he wants to be?** | **Who will he become if he buys that?** | **What will he lose if he won’t buy it?** |
 | --- | --- | --- | --- | --- |
 | **Professional challenges** | sitting job, stress at the job, challenges, integration problems, learning cooperation in the team | energy for action, integration with a team, better score, promotion | becoming creative, fulfilled | chance for promotion, chance for a better job |
@@ -202,8 +214,6 @@ CUBE = Client, Understand, Beginning, Effect
 | **Personal challenges** | fear of flight, health problems | better condition, being fit | being happy, having a passion | chance of personal development |
 | **What does he buy?** | **Why does he buy? (Reason)** | **Why does he buy?** | **Who buys?** | **What can cause that he will not buy?** |
 | confidence, passion, trust to others | localisation, instructors | to feel better, to meet someone new, to take care of health | students, active people, multisport, sitting job | localization, price, commitment |
-
-\[/su\_table\]
 
 Obviously, there is a golden rule given by Gary to every aspect. 😅
 
@@ -249,7 +259,7 @@ It is not bad; however, we might fall into the perfectionism problem and never s
 
 This way, you might have more mistakes, but what to learn on, than not on mistakes?
 
-### Be real!
+### Be real
 
 Remember to be aware of your business! Are you actually increasing your level of happiness? If the answer is no, what is the point of doing it, as you will be wretched in the long run.
 
@@ -305,24 +315,24 @@ Remember, that if you make your website, it should be responsive, like this one,
 Now to the essence of this subchapter. Here is the list of all the tools mentioned during the day:
 
 - Get micro-actions
-    - [BuzzSumo](https://buzzsumo.com/) ← analyse what content performs best for any topic or competitor
-    - [ahrefs](https://ahrefs.com/) ← check your competitors and monitor your niche
-    - visit any Facebook fan page and check "Info and Ads" to see their ads. Here is a [Humble Bundle](https://www.facebook.com/pg/humblebundle/ads/?ref=page_internal) advertising campaign for example. ← now you got open cards of the advertising game!
-    - [Adespresso](https://adespresso.com/) ← create and analyse your digital advertising across social media
+  - [BuzzSumo](https://buzzsumo.com/) ← analyse what content performs best for any topic or competitor
+  - [ahrefs](https://ahrefs.com/) ← check your competitors and monitor your niche
+  - visit any Facebook fan page and check "Info and Ads" to see their ads. Here is a [Humble Bundle](https://www.facebook.com/pg/humblebundle/ads/?ref=page_internal) advertising campaign for example. ← now you got open cards of the advertising game!
+  - [Adespresso](https://adespresso.com/) ← create and analyse your digital advertising across social media
 - Lead generation
-    - [Zapier](https://zapier.com/) ← move info between your web apps automatically (between FB and phone)
+  - [Zapier](https://zapier.com/) ← move info between your web apps automatically (between FB and phone)
 - 10 tools to create video
-    - [fiverr](https://www.fiverr.com/) ← purchase great videos from freelancers (for quite cheap)
-    - [RPM](https://rpm.pl/) ← find polish lectors
-    - [Voicebooking](https://www.voicebooking.com/) ← find any lector
-    - [VideoScribe](https://www.videoscribe.co/en/) ← whiteboard animation software
-    - [Promovideo](https://promovideolab.com/) ← animated video maker
-    - [Animoto](https://animoto.com/) ← make great videos. Easily
-    - [Videohive](https://videohive.net/) ← video effects and stock footage
-    - [Lumen5](https://lumen5.com/) ← transform articles into videos in minutes
-    - Format your video
-        - [wave.video](https://www.kapwing.com/) ← remember that 1:1 (format of Instagram posts) is the golden middle
-        - [Kapwing](https://www.kapwing.com/)
+  - [fiverr](https://www.fiverr.com/) ← purchase great videos from freelancers (for quite cheap)
+  - [RPM](https://rpm.pl/) ← find polish lectors
+  - [Voicebooking](https://www.voicebooking.com/) ← find any lector
+  - [VideoScribe](https://www.videoscribe.co/en/) ← whiteboard animation software
+  - [Promovideo](https://promovideolab.com/) ← animated video maker
+  - [Animoto](https://animoto.com/) ← make great videos. Easily
+  - [Videohive](https://videohive.net/) ← video effects and stock footage
+  - [Lumen5](https://lumen5.com/) ← transform articles into videos in minutes
+  - Format your video
+    - [wave.video](https://www.kapwing.com/) ← remember that 1:1 (format of Instagram posts) is the golden middle
+    - [Kapwing](https://www.kapwing.com/)
 
 Unfortunately, that is all from the specific links. The entire conference focused on proposing precise workflows, not the tools; however, I might publish a different post about online business management as I feel like you might benefit from some of my practices. For now, I have stored many resources, but I would only like to recommend the stuff which I have verified and compared to all the alternatives.
 

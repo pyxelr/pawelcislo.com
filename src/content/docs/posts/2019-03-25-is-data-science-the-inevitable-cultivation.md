@@ -56,119 +56,119 @@ There were parts, which could have been understood only by participants with spe
 In order to address everything concisely without the struggle of paying attention to different conjunctions, the summary will consist of bullet points for each of the particular speeches:
 
 - **#1 Introduction**
-    - BioTech market is holding a big capital in Belgium
-    - Belgium needs to become a bio lead
-    - AI will be a priority on the Belgian market
-    - Only 1 out of 4 Belgians know what AI is
+  - BioTech market is holding a big capital in Belgium
+  - Belgium needs to become a bio lead
+  - AI will be a priority on the Belgian market
+  - Only 1 out of 4 Belgians know what AI is
 - **#2 Digital trends for Biotech – data for the best?** \[Benjamin Docquir (Osborne Clarke, partner), Hadrien Chef (Osborne Clarke, partner)\]
-    - pharma and medical technology [scores only 27/100 points](https://pawelcislo.com/wp-content/uploads/2019/03/BioTech_trends_in_digital_transformation.jpg) in trends of digital transformation for healthcare providers
-        - that is more than the public sector (22)
-        - but less than telecom (37), retail (42), travel and hospitality (46)
-    - pre-clinical and clinical activities are still paper-based and it has to change
-    - AI needs to match patients with clinical trials
-    - supply chain management needs real-time tracking
-    - OncoDNA offers SAAS through the industry-leading bioinformatic platform (OncoKDM)
-    - there will always be legal issues with data (privacy, cybersecurity, ethics)
-    - key takeaway
-        - experiment & protect
-        - invest in skills
-        - build new partnerships
-        - tackle security & privacy concerns
-        - think strategically about data & trust
-        - data is an asset... not an isolation
+  - pharma and medical technology [scores only 27/100 points](https://pawelcislo.com/wp-content/uploads/2019/03/BioTech_trends_in_digital_transformation.jpg) in trends of digital transformation for healthcare providers
+    - that is more than the public sector (22)
+    - but less than telecom (37), retail (42), travel and hospitality (46)
+  - pre-clinical and clinical activities are still paper-based and it has to change
+  - AI needs to match patients with clinical trials
+  - supply chain management needs real-time tracking
+  - OncoDNA offers SAAS through the industry-leading bioinformatic platform (OncoKDM)
+  - there will always be legal issues with data (privacy, cybersecurity, ethics)
+  - key takeaway
+    - experiment & protect
+    - invest in skills
+    - build new partnerships
+    - tackle security & privacy concerns
+    - think strategically about data & trust
+    - data is an asset... not an isolation
 - **#3 How to find the right patterns in order to turn data into actionable insights** \[Lien Van Den Berghe (Möbius Healthcare, Business Consultant Healthcare & Lifesciences)\]
-    - data is the new oil
-    - only [8% of companies know how to utilise data](https://pawelcislo.com/wp-content/uploads/2019/03/BioTech_8percent.jpg)
-    - we lack skills in data analytics
-    - presentation of clear data analytics process ([explanation graph](https://pawelcislo.com/wp-content/uploads/2019/03/BioTech_analytics_process.jpg))
-    - understanding that business is vital - ask the right questions
-    - Data Scientist is the 21st century's sexiest job (according to Harvard Business)
-    - 5 key learnings
-        - don't assume you understand data straight away
-        - be pragmatic
-        - make it comprehensible
-        - change management is key
-        - keep it simple
+  - data is the new oil
+  - only [8% of companies know how to utilise data](https://pawelcislo.com/wp-content/uploads/2019/03/BioTech_8percent.jpg)
+  - we lack skills in data analytics
+  - presentation of clear data analytics process ([explanation graph](https://pawelcislo.com/wp-content/uploads/2019/03/BioTech_analytics_process.jpg))
+  - understanding that business is vital - ask the right questions
+  - Data Scientist is the 21st century's sexiest job (according to Harvard Business)
+  - 5 key learnings
+    - don't assume you understand data straight away
+    - be pragmatic
+    - make it comprehensible
+    - change management is key
+    - keep it simple
 - **#4 When automation makes human tissue an affordable source for reconstructive surgery** \[dr. Denis Defrane (Texere Biotech, co-founder)\]
-    - bone is the 2nd most donated organ after blood
-    - in Europe, 50% of human tissue is wasted. 30% is discarded and 15-20% is recovered
-    - the processes need to be improved by automation & robotics
-    - the mission is to "fully robotise and automate, in a clean room environment, the production of bone tissue from the femoral head into bone allograft cubes"
-        - it will result in
-            - 1/3 cost reduction
-            - more than 50% revenue increase
-            - improved quality
-            - 2-4 times yield improvement
-    - in Texere, 50% of workers are robots, whereas in other companies it's usually 8%
-        - clearly, robots are easier to be managed
-    - analysis of the most wanted jobs of the industry 4.0 ([infographic](https://pawelcislo.com/wp-content/uploads/2019/03/BioTech_industry40_jobs.jpg))
+  - bone is the 2nd most donated organ after blood
+  - in Europe, 50% of human tissue is wasted. 30% is discarded and 15-20% is recovered
+  - the processes need to be improved by automation & robotics
+  - the mission is to "fully robotise and automate, in a clean room environment, the production of bone tissue from the femoral head into bone allograft cubes"
+    - it will result in
+      - 1/3 cost reduction
+      - more than 50% revenue increase
+      - improved quality
+      - 2-4 times yield improvement
+  - in Texere, 50% of workers are robots, whereas in other companies it's usually 8%
+    - clearly, robots are easier to be managed
+  - analysis of the most wanted jobs of the industry 4.0 ([infographic](https://pawelcislo.com/wp-content/uploads/2019/03/BioTech_industry40_jobs.jpg))
 - **#5 Early prediction on quality attributes & parametric release by a global smart GMP monitoring** \[Nicolas Tijs (NOVADIP Biosciences), Anne Cassart (Sapristic Biion, Sales Director - International Business Development)\]
-    - introduction of next-generation monitoring including process monitoring
-    - presentation of mirrhia (global monitoring system: clean rooms, lab environment & equipment)
+  - introduction of next-generation monitoring including process monitoring
+  - presentation of mirrhia (global monitoring system: clean rooms, lab environment & equipment)
 - **#6 Biomanufacturing excellence through data sciences at GSK vaccines** \[Thibault Helleputte (DNAlytics, CEO)\]
-    - data needs to be processed in real time
-    - DS in biomanufacturing - a retrospective/prospective analysis ([infographic](https://pawelcislo.com/wp-content/uploads/2019/03/BioTech_DS_in_biomanufacturing.jpg))
-    - a typical vaccine production process (types of data)
-        - we have mostly 2nd-hand data
-        - heterogenous
-        - fat (100 rows/10000 columns)
-        - confounding
-        - incomplete
-    - in this industry, data analysis isn't possible with a "push button" method, where we follow the typical ML process
-    - GSK company needs more data scientists and is willing to train them
-    - take home messages
-        - a company such as GSK encourages students to embrace academic tracks leading to data science jobs
-        - data science for biomanufacturing is exciting but complex
-            - it requires open-minded and expert data scientists to work with pluridisciplinary teams
-        - stop collecting data only for satisfying regulatory constraints
-            - instead, generate high added value by proactively exploiting this gold mine
-            - the sooner the better
+  - data needs to be processed in real time
+  - DS in biomanufacturing - a retrospective/prospective analysis ([infographic](https://pawelcislo.com/wp-content/uploads/2019/03/BioTech_DS_in_biomanufacturing.jpg))
+  - a typical vaccine production process (types of data)
+    - we have mostly 2nd-hand data
+    - heterogenous
+    - fat (100 rows/10000 columns)
+    - confounding
+    - incomplete
+  - in this industry, data analysis isn't possible with a "push button" method, where we follow the typical ML process
+  - GSK company needs more data scientists and is willing to train them
+  - take home messages
+    - a company such as GSK encourages students to embrace academic tracks leading to data science jobs
+    - data science for biomanufacturing is exciting but complex
+      - it requires open-minded and expert data scientists to work with pluridisciplinary teams
+    - stop collecting data only for satisfying regulatory constraints
+      - instead, generate high added value by proactively exploiting this gold mine
+      - the sooner the better
 - **#7 Conceiving the industrial organisms of tomorrow, digital transformation of biotechnology** \[Rémi Peyraud (IMEAN, CEO & founder)\]
-    - nature (resource) ----(biotech)----> humans (needs)
-    - major social issues of nature in the XXI century
-        - green chemistry
-        - human needs growth
-        - innovative biosolutions
-    - artemisia annua is an important/healthy plant
-        - anti-paludic properties
-        - fail to process cause life is like "black box"
-    - to solve the issues, we have to use math modelling for organisms to understand "black box"
-    - it's difficult to find the right skill set for the biotech industry
+  - nature (resource) ----(biotech)----> humans (needs)
+  - major social issues of nature in the XXI century
+    - green chemistry
+    - human needs growth
+    - innovative biosolutions
+  - artemisia annua is an important/healthy plant
+    - anti-paludic properties
+    - fail to process cause life is like "black box"
+  - to solve the issues, we have to use math modelling for organisms to understand "black box"
+  - it's difficult to find the right skill set for the biotech industry
 - **#8 Panel Discussion: Biotech meets Digital, Needs for Talent When two Worlds Meet**
-    - the industry needs people who understand both: data & digital (IT)
-        - they especially need people that understand their technology and can communicate with people from other professional disciplines
-    - soft skills are becoming more important
-    - we need to understand how to handle Big Data
-    - by 2020, 30% of jobs will lack talents
-        - Takeda is willing to train data scientists
-    - we stay too much at our comfort zone
-    - we need to change the way we study (it's best to mix practice and theory)
-    - lifelong learning is the key
-        - companies want employees that wish to learn continually
-    - if you want to go fast, go alone
-        - if you want to go far, go together
-    - how to improve universities?
-        - be more flexible
-        - quick internships
-        - more teamwork
-        - focus on soft skills
-        - it needs to be obvious what's needed for the training
-    - how to attract students to STEM courses?
-        - communication is key
-        - you've to explain to kids what they will be able to do, not what job will they get
-        - make it sexy
-        - young people are highly motivated. It's difficult to motivate the older generation
-        - mention good salary
-        - offer impact (opportunity to growth)
-        - attitude needs to be changed
-        - coming back to companies after having own startup is hard
-        - the key is to start from secondary school teachers (they need to motivate kids)
-    - the conclusion by Dominique Demonté (Managing Director Agoria Wallonia, former Managing Director BIOPARK Charleroi)
-        - digitalisation of BioTech is a necessity
-        - there will be a shortage of talents
-            - 75000 jobs won't be filled
-        - lifelong learning needs to be popularised
-        - war for talents starts today
+  - the industry needs people who understand both: data & digital (IT)
+    - they especially need people that understand their technology and can communicate with people from other professional disciplines
+  - soft skills are becoming more important
+  - we need to understand how to handle Big Data
+  - by 2020, 30% of jobs will lack talents
+    - Takeda is willing to train data scientists
+  - we stay too much at our comfort zone
+  - we need to change the way we study (it's best to mix practice and theory)
+  - lifelong learning is the key
+    - companies want employees that wish to learn continually
+  - if you want to go fast, go alone
+    - if you want to go far, go together
+  - how to improve universities?
+    - be more flexible
+    - quick internships
+    - more teamwork
+    - focus on soft skills
+    - it needs to be obvious what's needed for the training
+  - how to attract students to STEM courses?
+    - communication is key
+    - you've to explain to kids what they will be able to do, not what job will they get
+    - make it sexy
+    - young people are highly motivated. It's difficult to motivate the older generation
+    - mention good salary
+    - offer impact (opportunity to growth)
+    - attitude needs to be changed
+    - coming back to companies after having own startup is hard
+    - the key is to start from secondary school teachers (they need to motivate kids)
+  - the conclusion by Dominique Demonté (Managing Director Agoria Wallonia, former Managing Director BIOPARK Charleroi)
+    - digitalisation of BioTech is a necessity
+    - there will be a shortage of talents
+      - 75000 jobs won't be filled
+    - lifelong learning needs to be popularised
+    - war for talents starts today
 
 Woah, that is a lot of information!
 
@@ -192,7 +192,7 @@ Okay, let's not just make idle threats, but support the growing popularity of DS
 
 \[caption id="attachment\_1483" align="aligncenter" width="1117"\]![Data Science trends](images/Data-Science-trends.png) Google trends for "data science" from 01/02/2012\[ref\]Google (2019) ‘Google Search Trends for “Data Science”’. \[23 March 2019\] available from <[https://trends.google.com/trends/explore?date=2012-01-07%202019-03-23&geo=US&q=data%20science](https://trends.google.com/trends/explore?date=2012-01-07%202019-03-23&geo=US&q=data%20science)\> \[23 March 2019\]\[/ref\]\[/caption\]Data, data, data everywhere, but how to get our head around that? To find the answer, let's move into another chapter.
 
-## Start practising Data Science today!
+## Start practising Data Science today
 
 To answer the question from the title of this post, yes, let's be pragmatic and prepare for the inevitable cultivation of the upcoming cyber world.
 
@@ -220,7 +220,7 @@ Three of the defined technical terms can be aligned nicely on the Venn diagram:
 
 Huh?! Did I forget assigning Big Data to these charts? Let's leave it as a small task for you, as I believe it should be evident for now that Big Data is a part of \_\_\_(_each/none_)\_\_\_ of these terms.
 
-### Domain knowledge, business, math, tech... What else?!
+### Domain knowledge, business, math, tech... What else?
 
 As it was mentioned during the BioTech conference, finding a person who is skilled technically, but also being familiar with a specific domain, is like winning in a local lottery. Meaning, it is still possible, but this skill set will always be massively hunted by the employers.
 
@@ -263,59 +263,59 @@ If you want to try Jupyter, Spyder and VS Code, just install a famous [Anaconda
 The amount of resources to recommend for studying DS is enormous, but I will try to do my best and select the most valuable ones. As the choice gets bigger, the greater the chance that you will not look into any of them. Am I right?[](https://vas3k.com/blog/machine_learning/)
 
 - Theory 💡
-    - [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) ← blog post, which explains the most critical concepts in a funny and practical way. You won't be bored reading it, and it might take you around 30-40 mins
-    - [Machine Learning Study Path March 2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) ← GitHub repository with complete ML study path, focused on TensorFlow and Scikit-Learn
-    - [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) ← the must check course by Andrew Ng
-    - [My Pinterest board](https://pinterest.com/pyxelrr/data-science/)
-    - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) ← YouTube playlist of four (20 mins videos) explaining the theory behind neural networks. I would say that it is enough to watch the 1st video in the playlist to understand the most important things. The well-known author (3blue1brown) explains it on the example of classifying numerical digits
-    - YouTube channels
-        - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-        - [sentdex](https://www.youtube.com/user/sentdex)
-        - [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+  - [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) ← blog post, which explains the most critical concepts in a funny and practical way. You won't be bored reading it, and it might take you around 30-40 mins
+  - [Machine Learning Study Path March 2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) ← GitHub repository with complete ML study path, focused on TensorFlow and Scikit-Learn
+  - [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) ← the must check course by Andrew Ng
+  - [My Pinterest board](https://pinterest.com/pyxelrr/data-science/)
+  - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) ← YouTube playlist of four (20 mins videos) explaining the theory behind neural networks. I would say that it is enough to watch the 1st video in the playlist to understand the most important things. The well-known author (3blue1brown) explains it on the example of classifying numerical digits
+  - YouTube channels
+    - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+    - [sentdex](https://www.youtube.com/user/sentdex)
+    - [Two Minute Papers](https://www.youtube.com/user/keeroyz)
 - Practice ✍
-    - [Brilliant](https://brilliant.org/) ← learn logic, math, computer science, physics and more. All the topics will help you with every programming challenge
-    - [DataCamp](https://www.datacamp.com/) ← customised set of very interesting challenges
-    - [SoloLearn](https://www.sololearn.com/) ← there is a free course on almost every programming language/topic
-    - Udemy
-        - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) ← highly practical. I always recommend it to my friends
+  - [Brilliant](https://brilliant.org/) ← learn logic, math, computer science, physics and more. All the topics will help you with every programming challenge
+  - [DataCamp](https://www.datacamp.com/) ← customised set of very interesting challenges
+  - [SoloLearn](https://www.sololearn.com/) ← there is a free course on almost every programming language/topic
+  - Udemy
+    - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) ← highly practical. I always recommend it to my friends
 - Math ➗
-    - YouTube channels
-        - [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-        - [Domain of Science](https://www.youtube.com/user/dominicwalliman)
-        - [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ)
-        - [Krista King](https://www.youtube.com/user/TheIntegralCALC/featured)
-        - [MindYourDecisions](https://www.youtube.com/user/MindYourDecisions/featured)
-        - [Numberphile](https://www.youtube.com/user/numberphile)
-        - [Think Twice](https://www.youtube.com/ThinktwiceLTU)
-        - [Welch Labs](https://www.youtube.com/user/Taylorns34)
+  - YouTube channels
+    - [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+    - [Domain of Science](https://www.youtube.com/user/dominicwalliman)
+    - [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ)
+    - [Krista King](https://www.youtube.com/user/TheIntegralCALC/featured)
+    - [MindYourDecisions](https://www.youtube.com/user/MindYourDecisions/featured)
+    - [Numberphile](https://www.youtube.com/user/numberphile)
+    - [Think Twice](https://www.youtube.com/ThinktwiceLTU)
+    - [Welch Labs](https://www.youtube.com/user/Taylorns34)
 - News 📰
-    - [Data Science Central](https://www.datasciencecentral.com/) ← more of a social network for data passionates
-    - [DataTau](http://www.datatau.net/) ← Hacker News like. Still growing, but I prefer it mostly for the concise design
-    - [KDnuggets](https://www.kdnuggets.com/) ← hub for news, jobs and more, just like Data Science Central
-    - [Towards Data Science](https://towardsdatascience.com/) ← Medium for DS
-    - [Twitter](https://twitter.com/) ← you can start with [#datascience](https://twitter.com/hashtag/datascience?lang=en) or [Follow Friday](https://followfriday.io/) (AI)
-    - Newsletter
-        - [Data Science Weekly](https://www.datascienceweekly.org/)
-        - [Inside AI](https://inside.com/ai) (daily newsletter. You can also check the [recent issues](https://inside.com/lists/ai/recent_issues))
+  - [Data Science Central](https://www.datasciencecentral.com/) ← more of a social network for data passionates
+  - [DataTau](http://www.datatau.net/) ← Hacker News like. Still growing, but I prefer it mostly for the concise design
+  - [KDnuggets](https://www.kdnuggets.com/) ← hub for news, jobs and more, just like Data Science Central
+  - [Towards Data Science](https://towardsdatascience.com/) ← Medium for DS
+  - [Twitter](https://twitter.com/) ← you can start with [#datascience](https://twitter.com/hashtag/datascience?lang=en) or [Follow Friday](https://followfriday.io/) (AI)
+  - Newsletter
+    - [Data Science Weekly](https://www.datascienceweekly.org/)
+    - [Inside AI](https://inside.com/ai) (daily newsletter. You can also check the [recent issues](https://inside.com/lists/ai/recent_issues))
 
 Ah, and don't forget to participate in the **amazing networks 👥**, full of passionate people that will inspire you to achieve your best. One of my recommendations would be:
 
 - [Data Science Central](https://www.datasciencecentral.com/)
 - Facebook groups
-    - [Data Science PL](https://www.facebook.com/groups/datasciencepl/) 🇵🇱
-    - [Data Mining / Machine Learning / Artificial Intelligence](https://www.facebook.com/groups/machinelearningforum/)
-    - [Math for Data Science Meetup: Python, R, Scala, SQL, Excel, LaTeX](https://www.facebook.com/groups/mathfordatascience/)
+  - [Data Science PL](https://www.facebook.com/groups/datasciencepl/) 🇵🇱
+  - [Data Mining / Machine Learning / Artificial Intelligence](https://www.facebook.com/groups/machinelearningforum/)
+  - [Math for Data Science Meetup: Python, R, Scala, SQL, Excel, LaTeX](https://www.facebook.com/groups/mathfordatascience/)
 - [Kaggle](https://www.kaggle.com/)
 - [KDnuggets](https://www.kdnuggets.com/)
 - Local groups
-    - [Eventbrite](https://www.eventbrite.com/)
-    - [Meetup](https://www.meetup.com/)
+  - [Eventbrite](https://www.eventbrite.com/)
+  - [Meetup](https://www.meetup.com/)
 - Reddit (as there are many subreddits, I highly encourage you to check my custom feeds)
-    - [~data\_science](https://www.reddit.com/user/pyxelr/m/data_science/)
-    - [~data\_tools](https://www.reddit.com/user/pyxelr/m/data_tools/)
-    - [~data\_viz](https://www.reddit.com/user/pyxelr/m/data_viz/)
-    - [~machine\_learning](https://www.reddit.com/user/pyxelr/m/machine_learning/)
-    - [~math](https://www.reddit.com/user/pyxelr/m/math/)
+  - [~data\_science](https://www.reddit.com/user/pyxelr/m/data_science/)
+  - [~data\_tools](https://www.reddit.com/user/pyxelr/m/data_tools/)
+  - [~data\_viz](https://www.reddit.com/user/pyxelr/m/data_viz/)
+  - [~machine\_learning](https://www.reddit.com/user/pyxelr/m/machine_learning/)
+  - [~math](https://www.reddit.com/user/pyxelr/m/math/)
 - Slack/Discord groups
 
 ### Not enough? My newsletter can give you a hand
@@ -326,7 +326,7 @@ Don't forget that by signing up for my newsletter, you will not only get notific
 
 Once you make a decision, you can sign up to the community of the coolest people in the world, by scrolling down to the end of this post.
 
-## Machine Learning is nothing but geometry!
+## Machine Learning is nothing but geometry
 
 For now, let's stop our fascination about everything involving data, and agree on one point about the practice of using algorithms on the data, which later on learn from it and then forecast future trends for that topic. Remember, there is no magic behind machine learning.
 
@@ -391,34 +391,32 @@ There is no easy way to choose the correct Machine Learning model.
 Let's try to define the ones we know:
 
 - Linear Models
-    - very easy to interpret
-    - problems can be divided into
-        - linearly separable
-        - non-linearly separable
-    - examples: linear regression, logistic regression
+  - very easy to interpret
+  - problems can be divided into
+    - linearly separable
+    - non-linearly separable
+  - examples: linear regression, logistic regression
 - Basic Nonlinear Models
-    - they aren't necessarily "better" than a linear model
-    - examples: Naive Bayes, Decision Tree, K-Nearest Neighbor
-        - Naive Bayes can reduce to a linear model under various assumptions
+  - they aren't necessarily "better" than a linear model
+  - examples: Naive Bayes, Decision Tree, K-Nearest Neighbor
+    - Naive Bayes can reduce to a linear model under various assumptions
 - Ensemble Models
-    - Random Forest, AdaBoost, ExtraTrees, Gradient Boosted Trees
-    - average the predictions from multiple trees (the result is very powerful)
-        - XGBoost (variant of a gradient boosting tree) has been used to win many competitions on Kaggle
-    - can be distributed across different machines with Apache Spark
+  - Random Forest, AdaBoost, ExtraTrees, Gradient Boosted Trees
+  - average the predictions from multiple trees (the result is very powerful)
+    - XGBoost (variant of a gradient boosting tree) has been used to win many competitions on Kaggle
+  - can be distributed across different machines with Apache Spark
 - Support Vector Machine (SVM)
-    - was the "go-to" method for a long time
-    - today that is deep learning, but SVM used to beat neural networks
-    - powerful and nonlinear, but they do not scale (if your dataset is too large (like most of the current ones), it becomes infeasible to use this model these days)
+  - was the "go-to" method for a long time
+  - today that is deep learning, but SVM used to beat neural networks
+  - powerful and nonlinear, but they do not scale (if your dataset is too large (like most of the current ones), it becomes infeasible to use this model these days)
 - Deep Learning
-    - state of the art in CV and NLP
-    - not "plug-and-play" (unlike Random Forest)
-        - if you try it on any random data it may fail spectacularly
-        - you can't always use SKLearn, but you can use more specific libraries
-            - Theano, TensorFlow, Keras etc.
+  - state of the art in CV and NLP
+  - not "plug-and-play" (unlike Random Forest)
+    - if you try it on any random data it may fail spectacularly
+    - you can't always use SKLearn, but you can use more specific libraries
+      - Theano, TensorFlow, Keras etc.
 
 Now, to summarise everything in a single table:
-
-\[su\_table responsive="yes"\]
 
 | **Group** | **Examples** | **Linear?** | **Powerful?** | **Easy to interpret?** | **Scales?** | **Plug and play?** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -427,8 +425,6 @@ Now, to summarise everything in a single table:
 | Ensemble models | AdaBoost, RF, GBM | ❌ | ✅ | ❌ | ✅ | ✅ |
 | SVM | SVM | 🤔 (possibly) | ✅ | ❌ | ✅ | ✅ |
 | Deep Learning | MLPClassifier, MLPRegressor | ❌ | ✅ | ❌ | ✅ (with special hardware) | ❌ |
-
-\[/su\_table\]
 
 Remember that ML is a field of experimentation, not philosophy.
 
@@ -444,7 +440,7 @@ The other, more advanced solution is to set an account on Google Cloud, AWS or M
 
 Let's end this post with a funny situation shared by Piotr Migdał on his social media channels:
 
-\[su\_quote cite="Piotr Migdal" url="https://www.linkedin.com/feed/update/urn:li:activity:6503583595418914816"\]Me: I'm an AI consultant. I teach people to teach machines. Someone I met: I'm a psychologist. I teach people people.\[/su\_quote\]
+\[su\_quote cite="Piotr Migdal" url="<https://www.linkedin.com/feed/update/urn:li:activity:6503583595418914816"\]Me>: I'm an AI consultant. I teach people to teach machines. Someone I met: I'm a psychologist. I teach people people.\[/su\_quote\]
 
 Don't overwhelm yourself with data, as it's impossible to process all of it. If you are continually being overloaded with the information, I have some good news for you.
 

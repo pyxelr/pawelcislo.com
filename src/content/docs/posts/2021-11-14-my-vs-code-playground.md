@@ -83,8 +83,8 @@ Focusing back on my current most favourite VS Code UI, it is composed of:
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) set of icons
 - Personally customized terminal: [my-terminal](https://github.com/pyxelr/my-terminal) with [Starship](https://starship.rs/) prompt
 - Two main fonts
-    - Consolas (primary editor font)
-    - [Jetbrains Mono](https://www.nerdfonts.com/font-downloads) of weight 350 (terminal's powerline font with a support for special characters like Git branches)
+  - Consolas (primary editor font)
+  - [Jetbrains Mono](https://www.nerdfonts.com/font-downloads) of weight 350 (terminal's powerline font with a support for special characters like Git branches)
 
 \[caption id="attachment\_4605" align="aligncenter" width="1035"\]![My VS Code UI](images/vs-code-ui.png) Look of my VS Code instance with Dracula PRO theme and [my-terminal](https://github.com/pyxelr/my-terminal) ([open in new tab](https://pawelcislo.com/wp-content/uploads/2021/11/vs-code-ui.png))\[/caption\]
 
@@ -125,45 +125,45 @@ Okie dokie, how about learning now how to speed our interaction with this wonder
 As every IDE, VS Code is full of keyboard shortcuts; therefore, the following list is containing the ones I found to be the most practical (on Windows/macOS). If you fancy memorizing all the hotkeys in your long-term memory (using spaced repetition), then I invite you to check my Anki deck of cards: [Visual Studio Code shortcuts](https://ankiweb.net/shared/info/1549461506).
 
 - **Interf****ace** 🎨
-    - `CTRL/CMD` + `SHIFT` + `P` ← command palette
-    - `CTRL/CMD` + `B` ← hide/unhide sidebar
-    - `CTRL` + `SHIFT` + `` ` `` ← open/focus on terminal
-        - `CTRL` + `` ` `` ← open/close terminal
-    - `CTRL/CMD` + `SHIFT` + `F` ← find in files
-    - `CTRL/CMD` + `P` ← go to file
-    - `CTRL/CMD` + `,` ← open settings
-    - `CTRL/CMD` + `K`, `M` ← change language mode
-    - `CTRL/CMD` + `SHIFT` + `-` or `+` ← reset zoom
-    - `CTRL/CMD` + `SHIFT` + `0` ← toggle between light/dark theme
-    - `"code ."` ← typed in a terminal opens up a VS Code instance
+  - `CTRL/CMD` + `SHIFT` + `P` ← command palette
+  - `CTRL/CMD` + `B` ← hide/unhide sidebar
+  - `CTRL` + `SHIFT` + `` ` `` ← open/focus on terminal
+    - `CTRL` + `` ` `` ← open/close terminal
+  - `CTRL/CMD` + `SHIFT` + `F` ← find in files
+  - `CTRL/CMD` + `P` ← go to file
+  - `CTRL/CMD` + `,` ← open settings
+  - `CTRL/CMD` + `K`, `M` ← change language mode
+  - `CTRL/CMD` + `SHIFT` + `-` or `+` ← reset zoom
+  - `CTRL/CMD` + `SHIFT` + `0` ← toggle between light/dark theme
+  - `"code ."` ← typed in a terminal opens up a VS Code instance
 - **Split mode** 👀
-    - `CTRL/CMD` + `\` ← split mode
-    - `CTRL/CMD` + `1` ← switch to editor group 1
-    - `ALT/OPT`, `V` + `L` + `S` ← fold the split view
+  - `CTRL/CMD` + `\` ← split mode
+  - `CTRL/CMD` + `1` ← switch to editor group 1
+  - `ALT/OPT`, `V` + `L` + `S` ← fold the split view
 - **Code** 👨‍💻
-    - `CTRL/OPT` + `SPACE/ESC` ← IntelliSense
-    - `CTRL/CMD` + `LMB` ← go to code definition
-    - `CTRL/CMD` + `/` ← comment line of code
-    - `SHIFT` + `ALT/OPT` + `F` ← format code
-    - `CTRL/CMD` + `SHIFT/OPT` + `[` or `]` ← fold/unfold region
-        - `CTRL/CMD` + `K`, `CTRL/CMD` + `0` ← fold all regions
-        - `CTRL/CMD` + `K`, `CTRL/CMD` + `J` ← unfold all regions
-    - `ALT/OPT` + `Z` ← text wrap
-    - `F5` ← initialize the debugger
-    - `F8` ← jump between errors
-    - `F9` ← set up a breakpoint on the current line. Then hit `F5` to initialize the debugger
-    - `CTRL/CMD` + `F5` ← run file in terminal
+  - `CTRL/OPT` + `SPACE/ESC` ← IntelliSense
+  - `CTRL/CMD` + `LMB` ← go to code definition
+  - `CTRL/CMD` + `/` ← comment line of code
+  - `SHIFT` + `ALT/OPT` + `F` ← format code
+  - `CTRL/CMD` + `SHIFT/OPT` + `[` or `]` ← fold/unfold region
+    - `CTRL/CMD` + `K`, `CTRL/CMD` + `0` ← fold all regions
+    - `CTRL/CMD` + `K`, `CTRL/CMD` + `J` ← unfold all regions
+  - `ALT/OPT` + `Z` ← text wrap
+  - `F5` ← initialize the debugger
+  - `F8` ← jump between errors
+  - `F9` ← set up a breakpoint on the current line. Then hit `F5` to initialize the debugger
+  - `CTRL/CMD` + `F5` ← run file in terminal
 - **Manipulating** ✍️
-    - `CTRL/CMD` + `D` ← select the word your cursor is at
-    - `CTRL` + `F2` (or `CMD` + `SHIFT` + `L`) ← select all instances of the word
-    - `SHIFT` + `ESC`← exit multi-cursor mode
+  - `CTRL/CMD` + `D` ← select the word your cursor is at
+  - `CTRL` + `F2` (or `CMD` + `SHIFT` + `L`) ← select all instances of the word
+  - `SHIFT` + `ESC`← exit multi-cursor mode
 - **Navigating** 🤸
-    - `ALT/OPT` + `↑/↓` ← move line up/down
-    - `CTRL/CMD` + `ALT/OPT` + `↑/↓` ← place a new cursor up/down the line
-        - `ALT/OPT` + `LMB` ← place an extra cursor anywhere
-    - `CTRL/CMD` + `L` ← select the current line
-    - `CTRL/CMD` + `SHIFT` + `L` ← select all occurrences of current selection
-    - `ALT/OPT` + `SHIFT` + `I` ← put the cursor at the end of all selected lines (e.g. with `CTRL/CMD`\+ `A`). Afterwards, use `HOME` and `END` to move from start to end
+  - `ALT/OPT` + `↑/↓` ← move line up/down
+  - `CTRL/CMD` + `ALT/OPT` + `↑/↓` ← place a new cursor up/down the line
+    - `ALT/OPT` + `LMB` ← place an extra cursor anywhere
+  - `CTRL/CMD` + `L` ← select the current line
+  - `CTRL/CMD` + `SHIFT` + `L` ← select all occurrences of current selection
+  - `ALT/OPT` + `SHIFT` + `I` ← put the cursor at the end of all selected lines (e.g. with `CTRL/CMD`\+ `A`). Afterwards, use `HOME` and `END` to move from start to end
 
 For a full list of shortcuts, have a look at the official PDF files: [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf), [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf), and [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf).
 
@@ -236,100 +236,100 @@ Alright, let's get back to the desktop app and see how it could be optimized eve
 The categorized extension list beneath is provided with an intention to be constantly updated, such as my list of plugins in the last Anki post. It rather serves as a collection of recommended extensions, since I am not using all of them at the same time:
 
 - **Code completion 🤖**
-    - [Blackbox](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) ← code as fast as you think
-    - [Cursor](https://github.com/getcursor/cursor) ← AI-powered code editor based on VS Code
-    - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) ([tutorial](https://github.com/github/copilot-docs/blob/main/docs/visualstudiocode/gettingstarted.md#getting-started-with-github-copilot-in-visual-studio-code)) ← AI pair programmer
-        - [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs) ← experimental features for GitHub Copilot
-    - [Kite](https://marketplace.visualstudio.com/items?itemName=kiteco.kite) ← AI autocompletion & documentation
-    - [Tabnine Autocomplete AI](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) ← AI code completion tool
+  - [Blackbox](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) ← code as fast as you think
+  - [Cursor](https://github.com/getcursor/cursor) ← AI-powered code editor based on VS Code
+  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) ([tutorial](https://github.com/github/copilot-docs/blob/main/docs/visualstudiocode/gettingstarted.md#getting-started-with-github-copilot-in-visual-studio-code)) ← AI pair programmer
+    - [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs) ← experimental features for GitHub Copilot
+  - [Kite](https://marketplace.visualstudio.com/items?itemName=kiteco.kite) ← AI autocompletion & documentation
+  - [Tabnine Autocomplete AI](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) ← AI code completion tool
 - **Data Science 📊**
-    - [DVC](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) ← machine learning experiment management with tracking, plots, and data versioning
+  - [DVC](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) ← machine learning experiment management with tracking, plots, and data versioning
 - **Debugging 🔨**
-    - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) ← easily run code snippets/files for multiple languages
-    - [Debug visualiser](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) ← extension for visualizing data structures while debugging. Like the VS Code's watch view, but with rich visualizations of the watched value
-    - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) ← improve highlighting of errors, warnings, and other language diagnostics
-    - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) ← real browser preview inside your editor that you can debug
-    - [Live Server (Five Server)](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server) ← launch a development local Server with live reload feature for static & dynamic pages (better than [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer))
-    - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) ← REST Client for Visual Studio Code
-    - [Slowbug](https://marketplace.visualstudio.com/items?itemName=srimukh.slowbug) ← debug (run) your code in slow motion to catch bugs
+  - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) ← easily run code snippets/files for multiple languages
+  - [Debug visualiser](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) ← extension for visualizing data structures while debugging. Like the VS Code's watch view, but with rich visualizations of the watched value
+  - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) ← improve highlighting of errors, warnings, and other language diagnostics
+  - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) ← real browser preview inside your editor that you can debug
+  - [Live Server (Five Server)](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server) ← launch a development local Server with live reload feature for static & dynamic pages (better than [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer))
+  - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) ← REST Client for Visual Studio Code
+  - [Slowbug](https://marketplace.visualstudio.com/items?itemName=srimukh.slowbug) ← debug (run) your code in slow motion to catch bugs
 - **Extra/Other ⭐**
-    - [AWS Toolkit](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) ← after installing, make sure to log in to the right AWS role through AWS CLI, and then select the right AWS region in VS Code
-    - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) ← spelling checker for source code
-    - [Compare Folders](https://marketplace.visualstudio.com/items?itemName=moshfeu.compare-folders) ← compare folders by contents
-    - [JWT Debugger](https://marketplace.visualstudio.com/items?itemName=yokawasa.jwt-debugger) ← JWT tokens decoder
-    - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) ← live-edit (pair programming) a file collectively in your IDE
-    - [Log File Highlighter](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter) ← specify custom words to be highlighted in the log files
-    - [Open Folder Context Menus for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) ← add two new context menus to the Explorer
-    - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) ← compare (diff) text selections within a file, across files, or to the clipboard
-    - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) ← subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which
-    - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) ← easily switch between projects
-    - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) ← replacement for Postman
-    - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) ← synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist ← now built into VS Code (_Code_/_File_ > _Preferences_ > _Turn on Settings Sync..._)
-    - [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json) ← sort the keys within JSON objects
-    - [vscode-base64](https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64) ← base64 encode/decode the current selections
-    - [x509 parser](https://marketplace.visualstudio.com/items?itemName=jlcs-es.x509-parser) ← parse OpenSSL artifacts to human readable text (e.g. select crt and use "Parse x509 certificate")
-    - [YAML Sort](https://marketplace.visualstudio.com/items?itemName=PascalReitermann93.vscode-yaml-sort) ← sort, format and validate yaml files
+  - [AWS Toolkit](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) ← after installing, make sure to log in to the right AWS role through AWS CLI, and then select the right AWS region in VS Code
+  - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) ← spelling checker for source code
+  - [Compare Folders](https://marketplace.visualstudio.com/items?itemName=moshfeu.compare-folders) ← compare folders by contents
+  - [JWT Debugger](https://marketplace.visualstudio.com/items?itemName=yokawasa.jwt-debugger) ← JWT tokens decoder
+  - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) ← live-edit (pair programming) a file collectively in your IDE
+  - [Log File Highlighter](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter) ← specify custom words to be highlighted in the log files
+  - [Open Folder Context Menus for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) ← add two new context menus to the Explorer
+  - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) ← compare (diff) text selections within a file, across files, or to the clipboard
+  - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) ← subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which
+  - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) ← easily switch between projects
+  - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) ← replacement for Postman
+  - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) ← synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist ← now built into VS Code (_Code_/_File_ > _Preferences_ > _Turn on Settings Sync..._)
+  - [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json) ← sort the keys within JSON objects
+  - [vscode-base64](https://marketplace.visualstudio.com/items?itemName=adamhartford.vscode-base64) ← base64 encode/decode the current selections
+  - [x509 parser](https://marketplace.visualstudio.com/items?itemName=jlcs-es.x509-parser) ← parse OpenSSL artifacts to human readable text (e.g. select crt and use "Parse x509 certificate")
+  - [YAML Sort](https://marketplace.visualstudio.com/items?itemName=PascalReitermann93.vscode-yaml-sort) ← sort, format and validate yaml files
 - **Git 🐙**
-    - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) ← view a Git Graph of your repository, and perform Git actions from the graph
-    - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) ← view git log, file history, compare branches or commits
-    - [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) ← integrate GitLab into VS Code
-    - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) ← git blame annotations and code lens
+  - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) ← view a Git Graph of your repository, and perform Git actions from the graph
+  - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) ← view git log, file history, compare branches or commits
+  - [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) ← integrate GitLab into VS Code
+  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) ← git blame annotations and code lens
 - **JavaScript 🛡**
-    - [D3.js Snippets](https://marketplace.visualstudio.com/items?itemName=hridoy.d3-js-snippets) ← d3.js development toolkit
-    - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) ← code snippets for JavaScript in ES6 syntax
-    - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) ← interactive testing for JavaScript, TypeScript and more
+  - [D3.js Snippets](https://marketplace.visualstudio.com/items?itemName=hridoy.d3-js-snippets) ← d3.js development toolkit
+  - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) ← code snippets for JavaScript in ES6 syntax
+  - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) ← interactive testing for JavaScript, TypeScript and more
 - **Language support / Linter 👅**
-    - [AHK++ (AutoHotkey Plus Plus)](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus) ← AutoHotkey language support for VS Code
-    - [Better Jinja](https://marketplace.visualstudio.com/items?itemName=samuelcolvin.jinjahtml) ← syntax highlighting for jinja(2) including HTML, Markdown, YAML, Ruby and LaTeX templates
-    - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) ([tutorial](https://code.visualstudio.com/docs/remote/containers)) ← create, manage, and debug containerized applications
-    - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) ← support for dotenv file syntax
-    - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) ← fully-featured TOML support
-    - [HashiCorp Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) ← syntax highlighting and autocompletion for Terraform
-    - [Helm Intellisense](https://marketplace.visualstudio.com/items?itemName=Tim-Koehler.helm-intellisense) ← Intellisense in helm-templates from the values.yaml
-    - [Java in Visual Studio Code](https://code.visualstudio.com/docs/languages/java) ← installer to download all the Java components for you
-    - [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) ([tutorial](https://code.visualstudio.com/docs/azure/kubernetes)) ← develop, deploy and debug Kubernetes applications
-    - [LTex](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) ← LanguageTool grammar/spell checking
-    - [PostgreSQL](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres) ← PostgreSQL management tool
-    - [R](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r) ← R extension
-    - [ShellCheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck) ← integrates ShellCheck into VS Code, a linter for Shell scripts
-    - [VimL (Vim Language, Vim Script)](https://marketplace.visualstudio.com/items?itemName=XadillaX.viml) ← Vim Script language support for VSCode
-    - [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) ← Vim-mode for VS Code using embedded Neovim ([here](https://github.com/pyxelr/my-terminal#-neovim) are my Neovim settings)
-    - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) ← YAML Language Support by Red Hat, with built-in Kubernetes syntax support
+  - [AHK++ (AutoHotkey Plus Plus)](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus) ← AutoHotkey language support for VS Code
+  - [Better Jinja](https://marketplace.visualstudio.com/items?itemName=samuelcolvin.jinjahtml) ← syntax highlighting for jinja(2) including HTML, Markdown, YAML, Ruby and LaTeX templates
+  - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) ([tutorial](https://code.visualstudio.com/docs/remote/containers)) ← create, manage, and debug containerized applications
+  - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) ← support for dotenv file syntax
+  - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) ← fully-featured TOML support
+  - [HashiCorp Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) ← syntax highlighting and autocompletion for Terraform
+  - [Helm Intellisense](https://marketplace.visualstudio.com/items?itemName=Tim-Koehler.helm-intellisense) ← Intellisense in helm-templates from the values.yaml
+  - [Java in Visual Studio Code](https://code.visualstudio.com/docs/languages/java) ← installer to download all the Java components for you
+  - [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) ([tutorial](https://code.visualstudio.com/docs/azure/kubernetes)) ← develop, deploy and debug Kubernetes applications
+  - [LTex](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) ← LanguageTool grammar/spell checking
+  - [PostgreSQL](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres) ← PostgreSQL management tool
+  - [R](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r) ← R extension
+  - [ShellCheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck) ← integrates ShellCheck into VS Code, a linter for Shell scripts
+  - [VimL (Vim Language, Vim Script)](https://marketplace.visualstudio.com/items?itemName=XadillaX.viml) ← Vim Script language support for VSCode
+  - [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) ← Vim-mode for VS Code using embedded Neovim ([here](https://github.com/pyxelr/my-terminal#-neovim) are my Neovim settings)
+  - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) ← YAML Language Support by Red Hat, with built-in Kubernetes syntax support
 - **Markdown 📜**
-    - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) ← keyboard shortcuts, table of contents, auto preview and more
-    - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) ← Markdown linting and style checking for Visual Studio Code
-    - [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts) ← generate Markdown syntax with shortcuts
+  - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) ← keyboard shortcuts, table of contents, auto preview and more
+  - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) ← Markdown linting and style checking for Visual Studio Code
+  - [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts) ← generate Markdown syntax with shortcuts
 - **Python 🐍**
-    - [AREPL for python](https://marketplace.visualstudio.com/items?itemName=almenon.arepl&fbclid=IwAR3KGOtWOoytn9pAEVHNTUp0EULbw0d_M05CSTcgJJTSY8ZjzX1nxtmuHaM) ← print code output in real time
-    - [autoDocstring - Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) ← generate python docstrings automatically
-    - [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) ← formatting support for Python files
-    - [Flake8](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) ← linting support for Python files (imho, better than [Pylint](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint))
-    - [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) ← import organization support for Python files
-    - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) ← performant, feature-rich language server for Python in VS Code
-    - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) ← IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more
-    - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) ← Python Debugger using debugpy
-    - [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) ← correct python indentantion
-    - [Python Path](https://marketplace.visualstudio.com/items?itemName=mgesbert.python-path) ← Python import utils
-    - [Python Snippets 3](https://marketplace.visualstudio.com/items?itemName=EricSia.pythonsnippets3) ← new auto suggestion for Python updated in 2022
+  - [AREPL for python](https://marketplace.visualstudio.com/items?itemName=almenon.arepl&fbclid=IwAR3KGOtWOoytn9pAEVHNTUp0EULbw0d_M05CSTcgJJTSY8ZjzX1nxtmuHaM) ← print code output in real time
+  - [autoDocstring - Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) ← generate python docstrings automatically
+  - [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) ← formatting support for Python files
+  - [Flake8](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8) ← linting support for Python files (imho, better than [Pylint](https://marketplace.visualstudio.com/items?itemName=ms-python.pylint))
+  - [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort) ← import organization support for Python files
+  - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) ← performant, feature-rich language server for Python in VS Code
+  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) ← IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more
+  - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) ← Python Debugger using debugpy
+  - [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) ← correct python indentantion
+  - [Python Path](https://marketplace.visualstudio.com/items?itemName=mgesbert.python-path) ← Python import utils
+  - [Python Snippets 3](https://marketplace.visualstudio.com/items?itemName=EricSia.pythonsnippets3) ← new auto suggestion for Python updated in 2022
 - **Readability 👓**
-    - [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) ← add suggestions and autocompletions to emojis
-    - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) ← don't be lost in the forest of { } ← since version 1.60 it's [built-in (10,000x faster) feature](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
-    - [Edit CSV](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv) ← edit csv files with a table UI
-    - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) ← make indentation easier to read
-    - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) ← enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary
-    - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) ← highlight CSV and TSV files in different colors, Run SQL-like queries
-    - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) ← show TODO, FIXME, etc. comment tags in a tree view
-    - [swapdiff](https://marketplace.visualstudio.com/items?itemName=shalimski.swapdiff) ← quickly swaps out documents open in diff mode
+  - [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) ← add suggestions and autocompletions to emojis
+  - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) ← don't be lost in the forest of { } ← since version 1.60 it's [built-in (10,000x faster) feature](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+  - [Edit CSV](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv) ← edit csv files with a table UI
+  - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) ← make indentation easier to read
+  - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) ← enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary
+  - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) ← highlight CSV and TSV files in different colors, Run SQL-like queries
+  - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) ← show TODO, FIXME, etc. comment tags in a tree view
+  - [swapdiff](https://marketplace.visualstudio.com/items?itemName=shalimski.swapdiff) ← quickly swaps out documents open in diff mode
 - **Remote 🏝**
-    - [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) ← extension pack including the following 4 extensions:
-        - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) ([tutorial](https://code.visualstudio.com/docs/remote/containers-tutorial)) ← work with a separate toolchain or container based application by opening any folder mounted into or inside a container
-        - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) ([tutorial](https://code.visualstudio.com/docs/remote/ssh-tutorial)) ← work with source code in any location by opening folders on a remote machine/VM using SSH. Supports x86\_64, ARMv7l (AArch32), and ARMv8l (AArch64) glibc-based Linux, Windows 10/Server (1803+), and macOS 10.14+ (Mojave) SSH hosts
-        - [Remote - Tunnels](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server) - work with source code in any location by opening folders on a remote machine/VM using a VS Code Tunnel (rather than SSH)
-        - [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) ([tutorial](https://code.visualstudio.com/docs/remote/wsl-tutorial)) ← get a Linux-powered development experience from the comfort of Windows by opening any folder in the Windows Subsystem for Linux
-    - [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer) ← view remote machines for SSH and tunnels
+  - [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) ← extension pack including the following 4 extensions:
+    - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) ([tutorial](https://code.visualstudio.com/docs/remote/containers-tutorial)) ← work with a separate toolchain or container based application by opening any folder mounted into or inside a container
+    - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) ([tutorial](https://code.visualstudio.com/docs/remote/ssh-tutorial)) ← work with source code in any location by opening folders on a remote machine/VM using SSH. Supports x86\_64, ARMv7l (AArch32), and ARMv8l (AArch64) glibc-based Linux, Windows 10/Server (1803+), and macOS 10.14+ (Mojave) SSH hosts
+    - [Remote - Tunnels](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server) - work with source code in any location by opening folders on a remote machine/VM using a VS Code Tunnel (rather than SSH)
+    - [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) ([tutorial](https://code.visualstudio.com/docs/remote/wsl-tutorial)) ← get a Linux-powered development experience from the comfort of Windows by opening any folder in the Windows Subsystem for Linux
+  - [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer) ← view remote machines for SSH and tunnels
 - **SQL 🗄**
-    - [SQLTools - Database tools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) ([YouTube tutorial](https://www.youtube.com/watch?v=L1Iv7Voc5bY)) ← database management done right. Connection explorer, query runner, intellisense, bookmarks, query history
-    - [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) ← develop Microsoft SQL Server, Azure SQL Database and SQL Data Warehouse everywhere
+  - [SQLTools - Database tools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) ([YouTube tutorial](https://www.youtube.com/watch?v=L1Iv7Voc5bY)) ← database management done right. Connection explorer, query runner, intellisense, bookmarks, query history
+  - [SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql) ← develop Microsoft SQL Server, Azure SQL Database and SQL Data Warehouse everywhere
 
 Whew, that was quite a few. After listing all these little improvements, let's focus on its particular set.
 
@@ -345,8 +345,6 @@ On the other side of the ring, we have a plugin developed by GitHub and OpenAI, 
 
 Not to prolong this monologue, considering my limited experience and usage of these tools, let's compare them with this simple table (data gathered on 14/11/2021):
 
-\[su\_table responsive="yes" fixed="yes" class="white-space: nowrap;"\]
-
 |  | **Kite** | **Tabnine** | **GitHub Copilot** |
 | --- | --- | --- | --- |
 | **💸 Pricing** | Free (Pro version [is discontinued](https://help.kite.com/article/148-kite-pro-availability)) | Free (Pro version costs [$12 per month per user](https://www.tabnine.com/pricing)) | Free ([commercial version is planned](https://copilot.github.com/#faq-will-there-be-a-paid-version) after the technical preview) |
@@ -355,8 +353,6 @@ Not to prolong this monologue, considering my limited experience and usage of th
 | **⭐ GitHub stars** | 508 (for [vscode-plugin](https://github.com/kiteco/vscode-plugin)) | [8.8k](https://github.com/codota/TabNine) | 6k (for [copilot-docs](https://github.com/github/copilot-docs)) |
 | **💾 VS Code extension installs** | 3059k ([extension page](https://marketplace.visualstudio.com/items?itemName=kiteco.kite)) | 2824k ([extension page](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)) | 577k ([extension page](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)) |
 | **🏅 VS Code extension rating** | 3.3/5 out of 119 ratings | 4.3/5 out of 336 ratings | 4.3/5 out of 266 ratings |
-
-\[/su\_table\]
 
 Summarizing its content, and watching different YouTube videos comparing the 3 options, my ultimate recommendation is the following:
 
@@ -385,11 +381,11 @@ In the end, let me leave you with some awesome redirections:
 - [DEV.to user posts](https://dev.to/t/vscode) on #vscode
 - [vscode subreddit](https://www.reddit.com/r/vscode/)
 - the official VS Code
-    - [blog](https://code.visualstudio.com/blogs)
-    - [docs](https://code.visualstudio.com/docs)
-    - [updates page](https://code.visualstudio.com/updates/)
-    - [Twitter account](https://twitter.com/code)
-    - [YouTube channel](https://www.youtube.com/c/Code/)
+  - [blog](https://code.visualstudio.com/blogs)
+  - [docs](https://code.visualstudio.com/docs)
+  - [updates page](https://code.visualstudio.com/updates/)
+  - [Twitter account](https://twitter.com/code)
+  - [YouTube channel](https://www.youtube.com/c/Code/)
 
 With that, don't forget to check the hands-on tutorials referenced in the section above. Once you are a bit more advanced into programming, and would like to contribute to the global community, why not fancy of writing your own extension? If so, there is no time to lose but to follow [your first VS Code extension guide](https://code.visualstudio.com/api/get-started/your-first-extension).
 

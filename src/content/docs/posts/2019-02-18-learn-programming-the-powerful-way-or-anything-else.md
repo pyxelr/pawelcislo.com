@@ -82,13 +82,21 @@ What about coding, do I have any mentor? Well, if it was just one. Nowadays, I l
 
 For example, in the following recording, Kevin gave me some inspiration for this post, where he agreed that over his long career, there wasn't any book that helped him as much as interactive challenges on LeetCode. Apparently, he struggled a lot in the beginning and required long coding sessions, but eventually, he got a lot of practical experience.
 
-\[embedyt\] https://www.youtube.com/watch?v=c0d4QXxczpE&width=450&height=253&centervid=1\[/embedyt\]
-
- 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/c0d4QXxczpE"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 Finally, when you join the corporation, try to keep the following in mind (I will let you think yourself why).
 
-\[su\_quote cite="Maciej Aniserowicz"\]If you are the wisest person in the room, change the room.\[/su\_quote\]
+> _If you are the wisest person in the room, change the room._
+>
+> — Maciej Aniserowicz
 
 ### Make a daily habit
 
@@ -118,13 +126,19 @@ Burnout is a state where you are not enjoying anymore your profession. As such, 
 
 One of the solutions to prevent burnout is to maintain a healthy work-life balance. In general, remember that work is not 90% of your life. I hope that this popular video can give you some great time for reflection.
 
-\[embedyt\] https://www.youtube.com/watch?v=SqGRnlXplx0&width=450&height=253&centervid=1\[/embedyt\]
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/SqGRnlXplx0"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
- 
+## But
 
-## But...
-
-### I don't know which programming language to start with!
+### I don't know which programming language to start with
 
 tldr; start with Python.
 
@@ -139,7 +153,7 @@ Not enough? Too much to read? Review everything in a visual form:
 - [Top 10 programming languages compared in a table](https://pawelcislo.com/wp-content/uploads/2019/02/Top-10-Programming-Languages.png)
 - [Which programming language should I learn first?](https://pawelcislo.com/wp-content/uploads/2019/02/Which-Programming-Language.png)
 
-### I'm lazy...
+### I'm lazy
 
 Talk about your goals, such as I did yesterday before publishing this post. Sharing [this little picture](https://pawelcislo.com/wp-content/uploads/2019/02/Upcoming_blog_post_Instagram.jpg) on my Instagram/Facebook story pushed me more than anything else to sit down and write all that I wanted to share. Few times, I even felt into the magical flow, which is something that you should aim for while learning/doing anything, as it also means that you're doing what you love.
 
@@ -147,7 +161,7 @@ How does it exactly feel, you may ask? Do you remember when you played with Lego
 
 \[caption id="attachment\_1373" align="aligncenter" width="461"\]![Maslow's Hierarchy of Needs](images/Maslows_hierarchy_of_needs.jpg) Maslow's Hierarchy of Needs\[ref\] McLeod, S. (2018) ‘Maslow’s Hierarchy of Needs’. \[ 2018\] available from <[https://www.simplypsychology.org/maslow.html](https://www.simplypsychology.org/maslow.html)\>\[/ref\]\[/caption\]
 
-## Health > Work!
+## Health > Work
 
 **I will NEVER EVER sacrifice the unrecoverable resource like health over my work**. Now, please repeat the last sentence at least three times. There is lots of programmers who coded till they saw blood on their keyboard, that dripped straight from their nose. Meanwhile, they cheated on their mind by treating it with some artificial focus boosters like Red Bull and eating tons of pizza. Maybe this way you will be the most knowledgable coder in your neighbourhood, but you will regret it a ton when you're older, wasting lots of time at the nearest clinic.
 
@@ -166,75 +180,75 @@ And my last advice is to respect your sleep! Don't treat it like a must, but as 
 ## Learning Tools (my recommendations) 🛠
 
 - Websites with resources 🌐
-    - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students#110-c-language) ← find even more resources to learn software engineering
-    - [Build your own X](https://github.com/danistefanovic/build-your-own-x) ← resources to start developing your first website, database, you name it
-    - [Coding Interview University](https://github.com/jwasham/coding-interview-university) ← complete computer science study plan to become a software engineer
-    - [Data Structure Visualisations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) ← interactive visualisation for most of data structures
-    - [DevTube](https://dev.tube/) ← developer videos in one place. You can try replacing YouTube with DevTube
-    - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) ← collection of (mostly) technical things every software developer should know
-    - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) ← algorithms and data structures implemented in JavaScript with explanations and links to further readings. Don't prevent yourself from taking a look, even if you're not a JS developer
-    - [Learn X in Y Minutes](https://learnxinyminutes.com/) ← take a whirlwind tour of your next favourite language. Community-driven!
-    - [My Pinterest Page about Software Development](https://pinterest.com/pyxelrr/software-development/) ← here I store the most interesting infographics
-    - [Refactoring](https://refactoring.guru/refactoring) ← pleasant guide to clean your messy code
-    - [Tutorialspoint](https://www.tutorialspoint.com/) ← programmer's ultimate Wikipedia
-    - YouTube
-        - [channels to learn programming](https://medium.freecodecamp.org/want-amazing-free-coding-tutorials-subscribe-to-these-youtube-channels-b91f154db543)
-        - [playlists to teach you programming](https://www.youtube.com/user/ProgrammingKnowledge/playlists)
-        - my personal recommendations
-            - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) ← one of the most-enthusiastic coders
-            - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) ← LeetCode challenges solver
-            - [Derek Banas](https://www.youtube.com/user/derekbanas) ← is there a topic on which Derek didn't record a tutorial?
-            - [sentdex](https://www.youtube.com/user/sentdex) ← Python developer, mainly in the area of AI
-            - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) ← general computer science channel
-            - [Pasja Informatyki](https://www.youtube.com/user/MiroslawZelent) (🇵🇱) ← general IT/psychology channel
-            - [Niebezpiecznik](https://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw) (🇵🇱) ← security channel
+  - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students#110-c-language) ← find even more resources to learn software engineering
+  - [Build your own X](https://github.com/danistefanovic/build-your-own-x) ← resources to start developing your first website, database, you name it
+  - [Coding Interview University](https://github.com/jwasham/coding-interview-university) ← complete computer science study plan to become a software engineer
+  - [Data Structure Visualisations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) ← interactive visualisation for most of data structures
+  - [DevTube](https://dev.tube/) ← developer videos in one place. You can try replacing YouTube with DevTube
+  - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) ← collection of (mostly) technical things every software developer should know
+  - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) ← algorithms and data structures implemented in JavaScript with explanations and links to further readings. Don't prevent yourself from taking a look, even if you're not a JS developer
+  - [Learn X in Y Minutes](https://learnxinyminutes.com/) ← take a whirlwind tour of your next favourite language. Community-driven!
+  - [My Pinterest Page about Software Development](https://pinterest.com/pyxelrr/software-development/) ← here I store the most interesting infographics
+  - [Refactoring](https://refactoring.guru/refactoring) ← pleasant guide to clean your messy code
+  - [Tutorialspoint](https://www.tutorialspoint.com/) ← programmer's ultimate Wikipedia
+  - YouTube
+    - [channels to learn programming](https://medium.freecodecamp.org/want-amazing-free-coding-tutorials-subscribe-to-these-youtube-channels-b91f154db543)
+    - [playlists to teach you programming](https://www.youtube.com/user/ProgrammingKnowledge/playlists)
+    - my personal recommendations
+      - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) ← one of the most-enthusiastic coders
+      - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) ← LeetCode challenges solver
+      - [Derek Banas](https://www.youtube.com/user/derekbanas) ← is there a topic on which Derek didn't record a tutorial?
+      - [sentdex](https://www.youtube.com/user/sentdex) ← Python developer, mainly in the area of AI
+      - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) ← general computer science channel
+      - [Pasja Informatyki](https://www.youtube.com/user/MiroslawZelent) (🇵🇱) ← general IT/psychology channel
+      - [Niebezpiecznik](https://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw) (🇵🇱) ← security channel
 - Desktop (practice in your browser through the interactive environment) 💻
-    - [Binary Search](https://binarysearch.io/) ← create a room, invite your friends, and race to finish the problems
-    - [CheckiO](https://checkio.org/) ← learn Python or JavaScript through the online game
-    - [Codecademy](https://www.codecademy.com/) ← one of the biggest online coding platforms
-    - [CodeCombat](https://codecombat.com/) ← coding games to learn Python and JavaScript
-    - [CodeGym](https://codegym.cc/) ← online Java programming course that is 80% based on practice
-    - [CodeSignal](https://codesignal.com/) ← the most popular website of this kind
-    - [Codewars](https://www.codewars.com/) ← improve your skills by training with others on real code challenges
-    - [CodinGame](https://www.codingame.com/training) ← learn programming through online sets of puzzles
-    - [Edabit](https://edabit.com/) ← simple, new website in the market
-    - [exercism](https://exercism.io/) ← 100% free service, where you submit solutions through your terminal
-    - [HackerRank](https://www.hackerrank.com/) ← my personal choice. I've started with included 30-days coding challenge and can totally recommend it
-    - [JetBrains Academy](https://www.jetbrains.com/academy/) ← dive into Java, Python, and other programming languages in a project-based learning environment that is integrated with JetBrains IDEs
-    - [LeetCode](https://leetcode.com/) ← more advanced website, where you will mostly find problems asked by the world's largest tech companies. I recommend watching [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) who goes through many problems from there
-    - [StrataScratch](https://www.stratascratch.com/) ← over 1000 data science exercises taken from real companies to practice SQL and Python
+  - [Binary Search](https://binarysearch.io/) ← create a room, invite your friends, and race to finish the problems
+  - [CheckiO](https://checkio.org/) ← learn Python or JavaScript through the online game
+  - [Codecademy](https://www.codecademy.com/) ← one of the biggest online coding platforms
+  - [CodeCombat](https://codecombat.com/) ← coding games to learn Python and JavaScript
+  - [CodeGym](https://codegym.cc/) ← online Java programming course that is 80% based on practice
+  - [CodeSignal](https://codesignal.com/) ← the most popular website of this kind
+  - [Codewars](https://www.codewars.com/) ← improve your skills by training with others on real code challenges
+  - [CodinGame](https://www.codingame.com/training) ← learn programming through online sets of puzzles
+  - [Edabit](https://edabit.com/) ← simple, new website in the market
+  - [exercism](https://exercism.io/) ← 100% free service, where you submit solutions through your terminal
+  - [HackerRank](https://www.hackerrank.com/) ← my personal choice. I've started with included 30-days coding challenge and can totally recommend it
+  - [JetBrains Academy](https://www.jetbrains.com/academy/) ← dive into Java, Python, and other programming languages in a project-based learning environment that is integrated with JetBrains IDEs
+  - [LeetCode](https://leetcode.com/) ← more advanced website, where you will mostly find problems asked by the world's largest tech companies. I recommend watching [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) who goes through many problems from there
+  - [StrataScratch](https://www.stratascratch.com/) ← over 1000 data science exercises taken from real companies to practice SQL and Python
 - Mobile (learn on the go) 📱
-    - [Algorithms: Explained and Animated](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms&hl=en) ← great visual explanation of algorithms
-    - [Brilliant](https://brilliant.org/) ← learn logic, math, computer science, physics and more. All the topics will help you with every programming challenge
-    - [Grasshopper](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=en) ← learn JavaScript for free from Google
-    - [Mimo](https://getmimo.com/) ← try it if you want to go really simple
-    - [SoloLearn](https://www.sololearn.com/) ← also works as a web app. There is a free course on almost every programming language/topic
+  - [Algorithms: Explained and Animated](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms&hl=en) ← great visual explanation of algorithms
+  - [Brilliant](https://brilliant.org/) ← learn logic, math, computer science, physics and more. All the topics will help you with every programming challenge
+  - [Grasshopper](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=en) ← learn JavaScript for free from Google
+  - [Mimo](https://getmimo.com/) ← try it if you want to go really simple
+  - [SoloLearn](https://www.sololearn.com/) ← also works as a web app. There is a free course on almost every programming language/topic
 - You really wanna books? Then take the universal ones 📖
-    - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
-    - [Code Complete](https://www.goodreads.com/book/show/21899045-code-complete)
-    - [Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices)](https://www.goodreads.com/book/show/21948821-code)
-    - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
-    - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns)
-    - [Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
-    - [Elements of Programming Interviews in Python: The Insiders’ Guide](https://www.goodreads.com/book/show/34791936-elements-of-programming-interviews-in-python)
-    - [Extreme Programming Explained: Embrace Change (The XP Series)](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)
-    - [Head First Design Patterns](https://www.goodreads.com/book/show/17374834-head-first-design-patterns)
-    - [Implementing Domain-Driven Design](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
-    - [Introduction to Algorithms (The MIT Press)](https://www.goodreads.com/book/show/44086616-introduction-to-algorithms)
-    - [Junior Developer. Wszystko co trzeba wiedzieć, by zacząć pracę jako programista](https://www.goodreads.com/book/show/32998879-junior-developer-wszystko-co-trzeba-wiedzie-by-zacz-prac-jako-prog) (![🇵🇱](images/1f1f5-1f1f1.svg))
-    - [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/18895165-peopleware)
-    - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44719608-refactoring)
-    - [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
-    - [The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language)
-    - [The C++ Programming Language](https://www.goodreads.com/book/show/18709954-the-c-programming-language) (4th Edition)
-    - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/11486819-the-clean-coder)
-    - [The Complete Software Developer’s Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide)
-    - [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/book/show/6558055-the-mythical-man-month)
-    - [The Pragmatic Programmer](https://www.goodreads.com/book/show/22404360-the-pragmatic-programmer)
-    - [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.goodreads.com/book/show/33580202-the-self-taught-programmer)
-    - [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
-    - [Zawód: Programista](https://www.goodreads.com/book/show/36223075-zaw-d) (![🇵🇱](images/1f1f5-1f1f1.svg))
-    - [Zrozumieć programowanie](https://www.goodreads.com/book/show/28457659-zrozumie-programowanie) (![🇵🇱](images/1f1f5-1f1f1.svg))
+  - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
+  - [Code Complete](https://www.goodreads.com/book/show/21899045-code-complete)
+  - [Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices)](https://www.goodreads.com/book/show/21948821-code)
+  - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
+  - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns)
+  - [Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
+  - [Elements of Programming Interviews in Python: The Insiders’ Guide](https://www.goodreads.com/book/show/34791936-elements-of-programming-interviews-in-python)
+  - [Extreme Programming Explained: Embrace Change (The XP Series)](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)
+  - [Head First Design Patterns](https://www.goodreads.com/book/show/17374834-head-first-design-patterns)
+  - [Implementing Domain-Driven Design](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
+  - [Introduction to Algorithms (The MIT Press)](https://www.goodreads.com/book/show/44086616-introduction-to-algorithms)
+  - [Junior Developer. Wszystko co trzeba wiedzieć, by zacząć pracę jako programista](https://www.goodreads.com/book/show/32998879-junior-developer-wszystko-co-trzeba-wiedzie-by-zacz-prac-jako-prog) (![🇵🇱](images/1f1f5-1f1f1.svg))
+  - [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/18895165-peopleware)
+  - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44719608-refactoring)
+  - [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
+  - [The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language)
+  - [The C++ Programming Language](https://www.goodreads.com/book/show/18709954-the-c-programming-language) (4th Edition)
+  - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/11486819-the-clean-coder)
+  - [The Complete Software Developer’s Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide)
+  - [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/book/show/6558055-the-mythical-man-month)
+  - [The Pragmatic Programmer](https://www.goodreads.com/book/show/22404360-the-pragmatic-programmer)
+  - [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.goodreads.com/book/show/33580202-the-self-taught-programmer)
+  - [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
+  - [Zawód: Programista](https://www.goodreads.com/book/show/36223075-zaw-d) (![🇵🇱](images/1f1f5-1f1f1.svg))
+  - [Zrozumieć programowanie](https://www.goodreads.com/book/show/28457659-zrozumie-programowanie) (![🇵🇱](images/1f1f5-1f1f1.svg))
 
 Last, but not least you can benefit from online courses. You will find most of the courses on [Udemy](https://www.udemy.com/), and if you want, you can also use a search engine for online courses: [Courseroot](https://courseroot.com/). Personally, I recommend going through the longest courses with most reviews, as they might be constantly updated with the most relevant content (remember that technology rapidly change).
 

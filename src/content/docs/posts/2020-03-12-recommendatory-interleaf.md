@@ -26,9 +26,7 @@ In short, I have aggregated all of my recommendations for aspiring engineers in 
 
 Although it is a personal list, do not hesitate to create a [pull request](https://github.com/pyxelr/recommendations-for-engineers/pulls) if I missed something interesting or if there is a dead link. Once again, before moving to the next section on a different subject, you are more than welcome to review my:
 
-\[su\_button url="https://pawelcislo.com/recommendations/" style="soft" background="#138890" size="4" center="yes" icon="icon: star"\]Recommendations for Engineers\[/su\_button\]
-
- 
+\[su\_button url="<https://pawelcislo.com/recommendations/>" style="soft" background="#138890" size="4" center="yes" icon="icon: star"\]Recommendations for Engineers\[/su\_button\]
 
 ## Reason for my recent absence
 
@@ -52,12 +50,12 @@ As this is more of an "announcement" post, I will try to be as concise as possib
 - 🆕 \[November\] Completely new subsection on [Recommendations for Engineers](https://pawelcislo.com/recommendations/)
 - ✍ Updated my [article on the use of Todoist](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/) with new projects, labels and priorities
 - ✍ Added questions and answers on the [FAQ](https://pawelcislo.com/faq/) page. Some of the responses have been converted into the Recommendations for Engineers
-    - I've mainly explained the reason behind each of the individuals that inspires me
+  - I've mainly explained the reason behind each of the individuals that inspires me
 - ✍ More citations in the [Favourite Thoughts](https://pawelcislo.com/favourite-thoughts/) segment
 - ✍ Redefined objectives in [Three Goals](https://pawelcislo.com/three-goals/). Being honest, it is very challenging to keep up with all these challenges in the face of unscheduled life novelties
 - ✍ Supplementary sections on the [About Me](https://pawelcislo.com/about/) page
-    - Modified _Extra-professional Activities_
-    - Summary of online presence within _My Internet Persona_
+  - Modified _Extra-professional Activities_
+  - Summary of online presence within _My Internet Persona_
 - ✨ Redesigned [newsletter signup form](http://eepurl.com/dDqG-z)
 - ✨ Redesigned mobile navigation bar (visible on your smartphone)
 - ✨ Improved layout of the [Favourite Thoughts](https://pawelcislo.com/favourite-thoughts/) page (it's a bit more explicit and has a TOC)
@@ -70,123 +68,123 @@ As this is more of an "announcement" post, I will try to be as concise as possib
 This part would definitely challenge my memory if I wouldn't keep track of my daily journal. Living in the digital era, I also found it helpful to browse my photos with [scrcpy](https://github.com/Genymobile/scrcpy) conveniently.
 
 - **June**
-    - 📚 Listened to the _Lying_ audiobook ([my review](https://www.goodreads.com/review/show/2552323407))
-    - 💼 **Start of a new project at Alstom**
-    - 📚 Consumed [Head Strong](https://www.goodreads.com/book/show/31850600-head-strong) and [Anything You Want](https://www.goodreads.com/review/show/2847490814) audiobook
-    - 📰 Found my [ethicAI](https://pawelcislo.com/2019/06/02/perplexing-ethics-of-ai/) write-up to be reshared on
-        - [\[Twitter\] BXL Legal Hackers](https://twitter.com/LegalHackersBXL/status/1135256502049083395)
-        - [\[FB\] DigitYser](https://www.facebook.com/digityser/photos/a.1425811514105483/2451036228249668/?type=3&permPage=1)
-        - [\[LinkedIn\] Philippe Van Impe](https://www.linkedin.com/feed/update/urn:li:activity:6543012751583911936)
-        - [\[Twitter\] Philippe Van Impe](https://twitter.com/pvanimpe/status/1137240155264364544)
-        - [\[Twitter\] AI4Belgium](https://twitter.com/Ai4Belgium/status/1137241547550932992)
-        - \+ more on Twitter but without additional context
-    - 🎓 Graduated from an online
-        - [R programming bootcamp](https://www.facebook.com/pawelcislocom/photos/a.2657957824278703/3231605053580641/?type=3&theater)
-        - [Music Producer Masterclass: Make Electronic Music](https://www.udemy.com/music-producer-masterclass/)
-    - 📚 Finished _The 10X Rule audiobook_ ([my review](https://www.goodreads.com/review/show/2515509357))
+  - 📚 Listened to the _Lying_ audiobook ([my review](https://www.goodreads.com/review/show/2552323407))
+  - 💼 **Start of a new project at Alstom**
+  - 📚 Consumed [Head Strong](https://www.goodreads.com/book/show/31850600-head-strong) and [Anything You Want](https://www.goodreads.com/review/show/2847490814) audiobook
+  - 📰 Found my [ethicAI](https://pawelcislo.com/2019/06/02/perplexing-ethics-of-ai/) write-up to be reshared on
+    - [\[Twitter\] BXL Legal Hackers](https://twitter.com/LegalHackersBXL/status/1135256502049083395)
+    - [\[FB\] DigitYser](https://www.facebook.com/digityser/photos/a.1425811514105483/2451036228249668/?type=3&permPage=1)
+    - [\[LinkedIn\] Philippe Van Impe](https://www.linkedin.com/feed/update/urn:li:activity:6543012751583911936)
+    - [\[Twitter\] Philippe Van Impe](https://twitter.com/pvanimpe/status/1137240155264364544)
+    - [\[Twitter\] AI4Belgium](https://twitter.com/Ai4Belgium/status/1137241547550932992)
+    - \+ more on Twitter but without additional context
+  - 🎓 Graduated from an online
+    - [R programming bootcamp](https://www.facebook.com/pawelcislocom/photos/a.2657957824278703/3231605053580641/?type=3&theater)
+    - [Music Producer Masterclass: Make Electronic Music](https://www.udemy.com/music-producer-masterclass/)
+  - 📚 Finished _The 10X Rule audiobook_ ([my review](https://www.goodreads.com/review/show/2515509357))
 - **July**
-    - 📅 Attended [symposium in Alstom Utrecht](https://www.linkedin.com/feed/update/urn:li:activity:6556130231953035264) to share feedback on students' projects
-    - 🎮 Completed [To The Moon](https://store.steampowered.com/app/206440/To_the_Moon/) game (I bet the story will immerse everyone)
-    - ⚽ Started [weekly football games](https://pawelcislo.com/wp-content/uploads/2020/03/football_field_view.jpg) with my colleagues in Brussels. Before, we managed to get the [appropriate equipment](https://pawelcislo.com/wp-content/uploads/2020/03/football_equipment.jpg)
-        - together with another player, we committed to managing the data of each player (goals, assists, attendance)
-        - later, thanks to all this information we began using different algorithms to select the teams automatically
-    - 📚 Listened to _Steve Jobs_ biography ([my review](https://www.goodreads.com/review/show/2847488455))
-    - 📚 Accomplished reading _The Subtle Art of Not Giving a F\*ck_ ([my review](https://www.goodreads.com/review/show/2480444228))
-    - 📚 Published [The Potential of Perspicuous Writing](https://pawelcislo.com/2019/07/28/the-potential-of-perspicuous-writing/) (10th blog post)
-    - 📼 Watched [The Great Hack](https://www.imdb.com/title/tt9358204/) (documentary on the Cambridge Analytica case)
+  - 📅 Attended [symposium in Alstom Utrecht](https://www.linkedin.com/feed/update/urn:li:activity:6556130231953035264) to share feedback on students' projects
+  - 🎮 Completed [To The Moon](https://store.steampowered.com/app/206440/To_the_Moon/) game (I bet the story will immerse everyone)
+  - ⚽ Started [weekly football games](https://pawelcislo.com/wp-content/uploads/2020/03/football_field_view.jpg) with my colleagues in Brussels. Before, we managed to get the [appropriate equipment](https://pawelcislo.com/wp-content/uploads/2020/03/football_equipment.jpg)
+    - together with another player, we committed to managing the data of each player (goals, assists, attendance)
+    - later, thanks to all this information we began using different algorithms to select the teams automatically
+  - 📚 Listened to _Steve Jobs_ biography ([my review](https://www.goodreads.com/review/show/2847488455))
+  - 📚 Accomplished reading _The Subtle Art of Not Giving a F\*ck_ ([my review](https://www.goodreads.com/review/show/2480444228))
+  - 📚 Published [The Potential of Perspicuous Writing](https://pawelcislo.com/2019/07/28/the-potential-of-perspicuous-writing/) (10th blog post)
+  - 📼 Watched [The Great Hack](https://www.imdb.com/title/tt9358204/) (documentary on the Cambridge Analytica case)
 - **August**
-    - 📖 Changed the way of reading books by selling my Kindle Paperwhite 3 and switching to Kindle Oasis 3. Cannot regret this decision :)
-        - I have also started utilising more often the feature of annotating Kindle books and taking benefit from syncing the reading progress between the [Kindle Cloud Reader](https://read.amazon.com/) and the e-reader
-    - 🏃 Specified recurring tasks in my Todolist to exercise at home & run more often
-        - as I am writing it, this decision did help me to establish a new habit!
-    - ✨ Redesigned the look of all the covers of [my Instagram stories](https://www.instagram.com/pawel_cislo/)
-    - 📚 Finished _Naked Statistics_ audiobook ([my review](https://www.goodreads.com/review/show/2910762313))
-    - 👨‍💻 Learned the principles of RegEx so to use it in my next project
-    - ⌚ Started using Mi Band 4 with [Notify & Fitness](https://play.google.com/store/apps/details?id=com.mc.miband1&hl=en) app
-        - it quickly allowed me to generate interesting statistics on [the way I sleep and run](https://www.reddit.com/r/miband/comments/cx7csw/such_a_tiny_boy_so_much_data_in_a_day/)
-        - up till now, I am still taking advantage of the generated data to optimise my physical performance
-        - I still consider if I should achieve the same level of collecting and utilising data as [Dmitrii Gerasimov](https://beepb00p.xyz/my-data.html)
+  - 📖 Changed the way of reading books by selling my Kindle Paperwhite 3 and switching to Kindle Oasis 3. Cannot regret this decision :)
+    - I have also started utilising more often the feature of annotating Kindle books and taking benefit from syncing the reading progress between the [Kindle Cloud Reader](https://read.amazon.com/) and the e-reader
+  - 🏃 Specified recurring tasks in my Todolist to exercise at home & run more often
+    - as I am writing it, this decision did help me to establish a new habit!
+  - ✨ Redesigned the look of all the covers of [my Instagram stories](https://www.instagram.com/pawel_cislo/)
+  - 📚 Finished _Naked Statistics_ audiobook ([my review](https://www.goodreads.com/review/show/2910762313))
+  - 👨‍💻 Learned the principles of RegEx so to use it in my next project
+  - ⌚ Started using Mi Band 4 with [Notify & Fitness](https://play.google.com/store/apps/details?id=com.mc.miband1&hl=en) app
+    - it quickly allowed me to generate interesting statistics on [the way I sleep and run](https://www.reddit.com/r/miband/comments/cx7csw/such_a_tiny_boy_so_much_data_in_a_day/)
+    - up till now, I am still taking advantage of the generated data to optimise my physical performance
+    - I still consider if I should achieve the same level of collecting and utilising data as [Dmitrii Gerasimov](https://beepb00p.xyz/my-data.html)
 - **September**
-    - 🧘 Achieved [365 days of meditation](https://pawelcislo.com/wp-content/uploads/2020/03/365_meditation_1.jpg), which originated back in the UK on 08/09/2018
-        - I've [meditated in various ways](https://pawelcislo.com/wp-content/uploads/2020/03/365_meditation_2.jpg), observing [different results](https://pawelcislo.com/wp-content/uploads/2020/03/365_meditation_3.jpg) and ending up by [rewarding myself](https://pawelcislo.com/wp-content/uploads/2020/03/365_meditation_4.jpg) with zafu (a meditation pillow)
-    - 📼 Watched and [summarised a fresh AI podcast](https://www.facebook.com/pyxelr/posts/2501327949927255) with Yann LeCun (father of CNNs)
-        - Next day, I found my summary to be [retweeted by the interviewee](https://twitter.com/pawel_cislo/status/1170468355444285441) (Yann), as well as [reshared by the interviewer](https://www.facebook.com/lexfridman/posts/10103401245618416) (Lex)
-    - ✍ Committed to highlighting and annotating all the online articles with Hypothesis to retain more information. Feel free to [check out what articles inspire me online](https://hypothes.is/users/pyxelr)
-    - 👕 Commenced [selling my own merch](https://pawelcislo.com/wp-content/uploads/2020/03/own_merch.jpg)... nah, just kidding... or maybe I should consider it?
-    - ⚽ My football games started showing out [some visible effects](https://pawelcislo.com/wp-content/uploads/2020/03/FitFive-my-goal.mp4) ;)
-    - 👨‍🏫 Supported another student undertaking the same MSc Data Science course at Coventry University as I did
-    - 👟 Advanced my running with a [new pair of shoes](https://pawelcislo.com/wp-content/uploads/2020/03/new_running_shoes.jpg) <bragging>
-    - 🧠 Implemented active learning and spaced repetition with Anki. You can find all my publicly shared flashcards in this [GitHub repository](https://github.com/pyxelr/my-anki-decks-of-flashcards)
-    - 🏅 Accomplished 10 km distance: "_Game of Trails_" in Flemmale. Like everyone, I ended up fully covered in mud, but I've got no photo here. You probably wouldn't recognise me anyway ;)
-        - Here are [all my medals](https://pawelcislo.com/wp-content/uploads/2020/03/running_awards_2019.jpg) for the 3 runs I took this year in Belgium (+ a batch from a Data Hackathon at Infrabel)
-    - 📅 Attended another session of a great networking meetup - [_DataBeers Brussels #12_](https://pawelcislo.com/wp-content/uploads/2020/03/data_beers_12-scaled.jpg)
+  - 🧘 Achieved [365 days of meditation](https://pawelcislo.com/wp-content/uploads/2020/03/365_meditation_1.jpg), which originated back in the UK on 08/09/2018
+    - I've [meditated in various ways](https://pawelcislo.com/wp-content/uploads/2020/03/365_meditation_2.jpg), observing [different results](https://pawelcislo.com/wp-content/uploads/2020/03/365_meditation_3.jpg) and ending up by [rewarding myself](https://pawelcislo.com/wp-content/uploads/2020/03/365_meditation_4.jpg) with zafu (a meditation pillow)
+  - 📼 Watched and [summarised a fresh AI podcast](https://www.facebook.com/pyxelr/posts/2501327949927255) with Yann LeCun (father of CNNs)
+    - Next day, I found my summary to be [retweeted by the interviewee](https://twitter.com/pawel_cislo/status/1170468355444285441) (Yann), as well as [reshared by the interviewer](https://www.facebook.com/lexfridman/posts/10103401245618416) (Lex)
+  - ✍ Committed to highlighting and annotating all the online articles with Hypothesis to retain more information. Feel free to [check out what articles inspire me online](https://hypothes.is/users/pyxelr)
+  - 👕 Commenced [selling my own merch](https://pawelcislo.com/wp-content/uploads/2020/03/own_merch.jpg)... nah, just kidding... or maybe I should consider it?
+  - ⚽ My football games started showing out [some visible effects](https://pawelcislo.com/wp-content/uploads/2020/03/FitFive-my-goal.mp4) ;)
+  - 👨‍🏫 Supported another student undertaking the same MSc Data Science course at Coventry University as I did
+  - 👟 Advanced my running with a [new pair of shoes](https://pawelcislo.com/wp-content/uploads/2020/03/new_running_shoes.jpg) <bragging>
+  - 🧠 Implemented active learning and spaced repetition with Anki. You can find all my publicly shared flashcards in this [GitHub repository](https://github.com/pyxelr/my-anki-decks-of-flashcards)
+  - 🏅 Accomplished 10 km distance: "_Game of Trails_" in Flemmale. Like everyone, I ended up fully covered in mud, but I've got no photo here. You probably wouldn't recognise me anyway ;)
+    - Here are [all my medals](https://pawelcislo.com/wp-content/uploads/2020/03/running_awards_2019.jpg) for the 3 runs I took this year in Belgium (+ a batch from a Data Hackathon at Infrabel)
+  - 📅 Attended another session of a great networking meetup - [_DataBeers Brussels #12_](https://pawelcislo.com/wp-content/uploads/2020/03/data_beers_12-scaled.jpg)
 - **October**
-    - 📚 Consumed _Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future_ and left [my summary online](https://www.facebook.com/pawelcislocom/photos/a.2657957824278703/3506896566051487/)
-    - 📚 Read _The Hundred-Page Machine Learning Book by Andriy Burkov_ and shared [my summary online](https://www.facebook.com/pawelcislocom/photos/a.2657957824278703/3509388259135651/)
-    - 📼 As most of you, I didn't miss to see [Joker](https://www.imdb.com/title/tt7286456/)
-    - 🎹 Picked up [Roland-A49](https://pawelcislo.com/wp-content/uploads/2020/03/my_Roland_A49.jpg) and began seeking for more time to practice my music production skills
-    - 🎓 [Finished](https://drive.google.com/drive/folders/1FcnaGSH_1wgdXblFlIjV5ZG_DMv7Pnu1) all the 5 weeks of the DataWorkshop challenge. The best part was to work with the simulation of a self-driving car
-    - 🎶 Had my [1st dubstep party in Ghent](https://www.facebook.com/pyxelr/posts/2587067248019991) (_Monstercat Uncaged_)
-        - my shoes were crying for help, but I also managed to [dance 25.58 km](https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/72478689_2587066074686775_1973216187483422720_o.jpg?_nc_cat=100&_nc_sid=8024bb&_nc_oc=AQmuDwN_FE3dk9aY1aN5XvfqfkazScO_xJTxk654clfNiYnl6619hO6pBnxqjGwgFC2VWF7fjJU2NKYwdgXoSRZ1&_nc_ht=scontent-bru2-1.xx&oh=622b911efc52b2f7b4cce60e746ef639&oe=5E9830B4) during that night
-    - 📅 Attended _School of AI meetup_ in Brussels
-    - ✍ Updated my article on using Todoist after being contacted by someone from Pennsylvania Tech (as they wanted to share my idea with their students)
-    - 📼 Watched [Data Science Pioneers: Conquering the Next Frontier](https://www.imdb.com/title/tt11023888/) at a local meetup in Brussels
-        - after [sharing information](https://twitter.com/pyXelr/status/1189533577064730625) about the documentary session, I was [gifted with a set of goodies](https://twitter.com/pawel_cislo/status/1196907291053895687) from the directors
+  - 📚 Consumed _Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future_ and left [my summary online](https://www.facebook.com/pawelcislocom/photos/a.2657957824278703/3506896566051487/)
+  - 📚 Read _The Hundred-Page Machine Learning Book by Andriy Burkov_ and shared [my summary online](https://www.facebook.com/pawelcislocom/photos/a.2657957824278703/3509388259135651/)
+  - 📼 As most of you, I didn't miss to see [Joker](https://www.imdb.com/title/tt7286456/)
+  - 🎹 Picked up [Roland-A49](https://pawelcislo.com/wp-content/uploads/2020/03/my_Roland_A49.jpg) and began seeking for more time to practice my music production skills
+  - 🎓 [Finished](https://drive.google.com/drive/folders/1FcnaGSH_1wgdXblFlIjV5ZG_DMv7Pnu1) all the 5 weeks of the DataWorkshop challenge. The best part was to work with the simulation of a self-driving car
+  - 🎶 Had my [1st dubstep party in Ghent](https://www.facebook.com/pyxelr/posts/2587067248019991) (_Monstercat Uncaged_)
+    - my shoes were crying for help, but I also managed to [dance 25.58 km](https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/72478689_2587066074686775_1973216187483422720_o.jpg?_nc_cat=100&_nc_sid=8024bb&_nc_oc=AQmuDwN_FE3dk9aY1aN5XvfqfkazScO_xJTxk654clfNiYnl6619hO6pBnxqjGwgFC2VWF7fjJU2NKYwdgXoSRZ1&_nc_ht=scontent-bru2-1.xx&oh=622b911efc52b2f7b4cce60e746ef639&oe=5E9830B4) during that night
+  - 📅 Attended _School of AI meetup_ in Brussels
+  - ✍ Updated my article on using Todoist after being contacted by someone from Pennsylvania Tech (as they wanted to share my idea with their students)
+  - 📼 Watched [Data Science Pioneers: Conquering the Next Frontier](https://www.imdb.com/title/tt11023888/) at a local meetup in Brussels
+    - after [sharing information](https://twitter.com/pyXelr/status/1189533577064730625) about the documentary session, I was [gifted with a set of goodies](https://twitter.com/pawel_cislo/status/1196907291053895687) from the directors
 - **November**
-    - 📅 Hat party at my friend's apartment. [Hou Hou Hou!](https://pawelcislo.com/wp-content/uploads/2020/03/santa_hat_party.jpg)
-    - 📚 Read _Unlocking French with Paul Noble_ ([my review](https://www.goodreads.com/review/show/3002106778))
-    - 📚 Listened to _Learn French with Paul Noble – Complete Course_ ([my review](https://www.goodreads.com/review/show/3002051547))
-    - 📅 Last session of [_DataBeers Brussels #13_](https://pawelcislo.com/wp-content/uploads/2020/03/data_beers_13-scaled.jpg) this year. After the presentation, we [voted for the favourite beer](https://pawelcislo.com/wp-content/uploads/2020/03/data_beer_voting-scaled.jpg) of our members
-    - 📚 Finished listening to _Next Steps in French with Paul Noble_ ([my review](https://www.goodreads.com/review/show/3024520857))
-    - 📼 Watched [Pi (1998)](https://www.imdb.com/title/tt0138704/). How to stop thinking about algorithms now?
-    - ✍ Explained the reason behind each of the person that inspires me in the [FAQ section](https://pawelcislo.com/faq/)
-    - ✍ Published my [Recommendation for Engineers](https://pawelcislo.com/recommendations/)
-        - it managed to appear in [#unknownews](https://pawelcislo.com/wp-content/uploads/2020/03/recommendations_in_unknownews.jpg), which brought [a lot of visits](https://pawelcislo.com/wp-content/uploads/2020/03/recommendations_stats_graph.jpg) in the first 5 days from [all around the world](https://pawelcislo.com/wp-content/uploads/2020/03/recommendations_map.jpg)
-    - ✍ Wrote a quick article for my employer on the use of Anki/SuperMemo. I'll try to rewrite it with much more details on this blog at some point
-    - ⛸ [Ice skating](https://pawelcislo.com/wp-content/uploads/2020/03/ice_skating-scaled.jpg) again after such a long time
-    - 📊 "_In November, you had 942 users visit your website (Google Analytics)_" <bragging>. Well, cannot hide it's quite an achievement
+  - 📅 Hat party at my friend's apartment. [Hou Hou Hou!](https://pawelcislo.com/wp-content/uploads/2020/03/santa_hat_party.jpg)
+  - 📚 Read _Unlocking French with Paul Noble_ ([my review](https://www.goodreads.com/review/show/3002106778))
+  - 📚 Listened to _Learn French with Paul Noble – Complete Course_ ([my review](https://www.goodreads.com/review/show/3002051547))
+  - 📅 Last session of [_DataBeers Brussels #13_](https://pawelcislo.com/wp-content/uploads/2020/03/data_beers_13-scaled.jpg) this year. After the presentation, we [voted for the favourite beer](https://pawelcislo.com/wp-content/uploads/2020/03/data_beer_voting-scaled.jpg) of our members
+  - 📚 Finished listening to _Next Steps in French with Paul Noble_ ([my review](https://www.goodreads.com/review/show/3024520857))
+  - 📼 Watched [Pi (1998)](https://www.imdb.com/title/tt0138704/). How to stop thinking about algorithms now?
+  - ✍ Explained the reason behind each of the person that inspires me in the [FAQ section](https://pawelcislo.com/faq/)
+  - ✍ Published my [Recommendation for Engineers](https://pawelcislo.com/recommendations/)
+    - it managed to appear in [#unknownews](https://pawelcislo.com/wp-content/uploads/2020/03/recommendations_in_unknownews.jpg), which brought [a lot of visits](https://pawelcislo.com/wp-content/uploads/2020/03/recommendations_stats_graph.jpg) in the first 5 days from [all around the world](https://pawelcislo.com/wp-content/uploads/2020/03/recommendations_map.jpg)
+  - ✍ Wrote a quick article for my employer on the use of Anki/SuperMemo. I'll try to rewrite it with much more details on this blog at some point
+  - ⛸ [Ice skating](https://pawelcislo.com/wp-content/uploads/2020/03/ice_skating-scaled.jpg) again after such a long time
+  - 📊 "_In November, you had 942 users visit your website (Google Analytics)_" <bragging>. Well, cannot hide it's quite an achievement
 - **December**
-    - 🏫 Advised my Coventry University tutor with a design of a new _MSc AI and Data Science_ course at another UK university
-    - 👨‍💻 Completely switched to [VS Code](https://code.visualstudio.com/) from Sublime Text
-    - 👨‍💻 Worked with this site on a few technical changes
-    - 📈 Came back to reusing [my good old set of productivity tools](https://twitter.com/pawel_cislo/status/1205989192125337601)
-    - 👨‍💻 Redesigned [my CV](https://pawelcislo.com/wp-content/uploads/2023/04/Resume.pdf) with LaTeX
-    - 📚 Finished reading _Math, Better Explained: Learn to Unlock Your Math Intuition_ ([my review](https://www.goodreads.com/review/show/2994941167))
-    - 📸 Shared my [Nostalgia Time](https://www.instagram.com/stories/highlights/17863851583605666/) on Instagram. Check it out if you're curious what drove my interest in the young age
-    - 🏎 [Drove go-karts](https://pawelcislo.com/wp-content/uploads/2020/03/go-kart-scaled.jpg) again in Poland
-    - 📼 Watched the last (13th) episode of [Mr. Robot](https://www.imdb.com/title/tt4158110/) and finished this astonishing series
-    - 👨‍💻 Achieved 2nd goal of [solving 120 coding problems](https://pawelcislo.com/wp-content/uploads/2019/12/Programmer-Goal-2.png)
-    - 🎓 Completed [Machine Learning course on Coursera](https://www.linkedin.com/posts/pawelcislo_machine-learning-by-stanford-university-activity-6617024212051861504-kJ08)
-    - 🎄 Admired [centre of my home city - Rzeszów](https://pawelcislo.com/wp-content/uploads/2020/03/rzeszow_centre_2019-scaled.jpg), for the last time this year
-    - 📸 Went through the end of 2019 with a [flight full of reflections](https://twitter.com/pawel_cislo/status/1213511465795280897)
-    - 🎊 New Year Party in Brussels
+  - 🏫 Advised my Coventry University tutor with a design of a new _MSc AI and Data Science_ course at another UK university
+  - 👨‍💻 Completely switched to [VS Code](https://code.visualstudio.com/) from Sublime Text
+  - 👨‍💻 Worked with this site on a few technical changes
+  - 📈 Came back to reusing [my good old set of productivity tools](https://twitter.com/pawel_cislo/status/1205989192125337601)
+  - 👨‍💻 Redesigned [my CV](https://pawelcislo.com/wp-content/uploads/2023/04/Resume.pdf) with LaTeX
+  - 📚 Finished reading _Math, Better Explained: Learn to Unlock Your Math Intuition_ ([my review](https://www.goodreads.com/review/show/2994941167))
+  - 📸 Shared my [Nostalgia Time](https://www.instagram.com/stories/highlights/17863851583605666/) on Instagram. Check it out if you're curious what drove my interest in the young age
+  - 🏎 [Drove go-karts](https://pawelcislo.com/wp-content/uploads/2020/03/go-kart-scaled.jpg) again in Poland
+  - 📼 Watched the last (13th) episode of [Mr. Robot](https://www.imdb.com/title/tt4158110/) and finished this astonishing series
+  - 👨‍💻 Achieved 2nd goal of [solving 120 coding problems](https://pawelcislo.com/wp-content/uploads/2019/12/Programmer-Goal-2.png)
+  - 🎓 Completed [Machine Learning course on Coursera](https://www.linkedin.com/posts/pawelcislo_machine-learning-by-stanford-university-activity-6617024212051861504-kJ08)
+  - 🎄 Admired [centre of my home city - Rzeszów](https://pawelcislo.com/wp-content/uploads/2020/03/rzeszow_centre_2019-scaled.jpg), for the last time this year
+  - 📸 Went through the end of 2019 with a [flight full of reflections](https://twitter.com/pawel_cislo/status/1213511465795280897)
+  - 🎊 New Year Party in Brussels
 - **January**
-    - ✍ I didn't make a summary of the last year, but I prepared [a draft of plans for 2020](https://pawelcislo.com/wp-content/uploads/2020/03/2020_plans.jpg)
-    - 💫 Thanks to my friend, I found [someone who looks more like me](https://www.youtube.com/watch?v=LGewBnjywSY&feature=youtu.be&t=2646) than I do (right side in the background)...
-    - 📬 Received [my 2019 year](https://twitter.com/pawel_cislo/status/1214956968063967240) review from Todoist
-    - 📚 Finished reading _Calculus, Better Explained: A Guide To Developing Lasting Intuition_ ([my review](https://www.goodreads.com/review/show/2994941913))
-    - 💡 Became deeply inspired by Adrian Olszewski's statistical knowledge shared [throughout his LinkedIn](https://www.linkedin.com/in/adrianolszewski/detail/recent-activity/)
-    - 📚 Read _Machine Learning Yearning_ ([my review](https://www.goodreads.com/review/show/2979153699))
+  - ✍ I didn't make a summary of the last year, but I prepared [a draft of plans for 2020](https://pawelcislo.com/wp-content/uploads/2020/03/2020_plans.jpg)
+  - 💫 Thanks to my friend, I found [someone who looks more like me](https://www.youtube.com/watch?v=LGewBnjywSY&feature=youtu.be&t=2646) than I do (right side in the background)...
+  - 📬 Received [my 2019 year](https://twitter.com/pawel_cislo/status/1214956968063967240) review from Todoist
+  - 📚 Finished reading _Calculus, Better Explained: A Guide To Developing Lasting Intuition_ ([my review](https://www.goodreads.com/review/show/2994941913))
+  - 💡 Became deeply inspired by Adrian Olszewski's statistical knowledge shared [throughout his LinkedIn](https://www.linkedin.com/in/adrianolszewski/detail/recent-activity/)
+  - 📚 Read _Machine Learning Yearning_ ([my review](https://www.goodreads.com/review/show/2979153699))
 - **February**
-    - 📅 Another hat party at my friend's house (and here I am, [shining with my wizard hat](https://pawelcislo.com/wp-content/uploads/2020/03/hat_party_wizard.jpg))
-    - 💼 **Finished my mission at Alstom.** Since it's quite a tradition here in Belgium, I [brought some croissants](https://pawelcislo.com/wp-content/uploads/2020/03/last_day_Alstom-scaled.jpg) for my last day
-    - 📚 Self-taught myself some automation with _Practical AutoHotkey_ ([my review](https://www.goodreads.com/review/show/3132333426))
-        - later, I implemented a few scripts that save me a lot of time till this day
-    - 📅 Attended [2-day Grakn Cosmos 2020 in London](https://www.linkedin.com/posts/pawelcislo_grakncosmos-grakn-activity-6631977852919250944-oFdm)
-        - The conference focused on presenting the application of a knowledge graph, NLP, and ML pipelines in various industries, with a focus on life science, IoT and cybersecurity
-        - I met a lot of inspiring people to whom I connected and keep in touch until this day
-    - 👨‍💻 Pushed my _Log to CSV_ project on [GitHub](https://github.com/pyxelr/log-to-csv-parser)
-    - 🎓 **3-day [graduation of The AKKAdemy program](https://pawelcislo.com/wp-content/uploads/2020/03/AKKAdemy-Graduation-day.jpg) in Geneva**
-    - 🏔 Trip around Switzerland with some of The AKKAdemy brave warriors. You can find some [photos in my "_Switzerland_" Instagram highlight](https://www.instagram.com/stories/highlights/17998062739091785/) from:
-        - Interlaken (the city itself + Schilthorn mountain)
-        - Thun Castle
-        - Zürich (Fifa Museum)
-    - 💼 Back in AKKA Belgium office to work on an internal data visualisation project
-    - ⚽ Regular football games brought [even better results](https://pawelcislo.com/wp-content/uploads/2020/03/My_goals_18_02_2020.mp4)
-    - 📅 Attended [Data Access & Sharing forum](https://pawelcislo.com/wp-content/uploads/2020/03/data_sharing_conference-scaled.jpg) at Microsoft Innovation Centre in Brussels
+  - 📅 Another hat party at my friend's house (and here I am, [shining with my wizard hat](https://pawelcislo.com/wp-content/uploads/2020/03/hat_party_wizard.jpg))
+  - 💼 **Finished my mission at Alstom.** Since it's quite a tradition here in Belgium, I [brought some croissants](https://pawelcislo.com/wp-content/uploads/2020/03/last_day_Alstom-scaled.jpg) for my last day
+  - 📚 Self-taught myself some automation with _Practical AutoHotkey_ ([my review](https://www.goodreads.com/review/show/3132333426))
+    - later, I implemented a few scripts that save me a lot of time till this day
+  - 📅 Attended [2-day Grakn Cosmos 2020 in London](https://www.linkedin.com/posts/pawelcislo_grakncosmos-grakn-activity-6631977852919250944-oFdm)
+    - The conference focused on presenting the application of a knowledge graph, NLP, and ML pipelines in various industries, with a focus on life science, IoT and cybersecurity
+    - I met a lot of inspiring people to whom I connected and keep in touch until this day
+  - 👨‍💻 Pushed my _Log to CSV_ project on [GitHub](https://github.com/pyxelr/log-to-csv-parser)
+  - 🎓 **3-day [graduation of The AKKAdemy program](https://pawelcislo.com/wp-content/uploads/2020/03/AKKAdemy-Graduation-day.jpg) in Geneva**
+  - 🏔 Trip around Switzerland with some of The AKKAdemy brave warriors. You can find some [photos in my "_Switzerland_" Instagram highlight](https://www.instagram.com/stories/highlights/17998062739091785/) from:
+    - Interlaken (the city itself + Schilthorn mountain)
+    - Thun Castle
+    - Zürich (Fifa Museum)
+  - 💼 Back in AKKA Belgium office to work on an internal data visualisation project
+  - ⚽ Regular football games brought [even better results](https://pawelcislo.com/wp-content/uploads/2020/03/My_goals_18_02_2020.mp4)
+  - 📅 Attended [Data Access & Sharing forum](https://pawelcislo.com/wp-content/uploads/2020/03/data_sharing_conference-scaled.jpg) at Microsoft Innovation Centre in Brussels
 - **March**
-    - ✍ Started working on this post
-    - 🎓 Finished [Mastering data visualisation in D3.js](https://udemy-certificate.s3.amazonaws.com/image/UC-fc91f31b-a6f6-4cc9-8622-2d17c592afe6.jpg) course for one of my current projects.
+  - ✍ Started working on this post
+  - 🎓 Finished [Mastering data visualisation in D3.js](https://udemy-certificate.s3.amazonaws.com/image/UC-fc91f31b-a6f6-4cc9-8622-2d17c592afe6.jpg) course for one of my current projects.
 
 Phew... That will be it.
 
