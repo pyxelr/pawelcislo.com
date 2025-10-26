@@ -68,9 +68,11 @@ What if Bob is feeling lost and lonely, scratching his head and wondering why th
 
 ![Discussions tab](images/HackerRank_Discussions-1024x197.png)
 
-Didn't I say that we learn the most by teaching others? Yes, I did, and it doesn't mean that you need to be as smart as your high school professor to be able to be able to teach others. Keep in mind that there is always someone, who doesn't know something that you know about designing Java applications, even if he is a developer with ten years of experience. Moreover, you can rest assured about understanding any topic, **if the following doesn't apply to you**:
+Didn't I say that we learn the most by teaching others? Yes, I did, and it doesn't mean that you need to be as smart as your high school professor to be able to be able to teach others. Keep in mind that there is always someone, who doesn't know something that you know about designing Java applications, even if he is a developer with ten years of experience. Moreover, you can rest assured about understanding any topic, **if the following doesn't apply to you**:
 
-\[su\_quote cite="Albert Einstein"\]If you can't explain it to a six year old, you don't understand it yourself.\[/su\_quote\]
+> _If you can't explain it to a six year old, you don't understand it yourself._
+>
+> — Albert Einstein
 
 ## Rest of my tips (filtered from dozens I approached)
 

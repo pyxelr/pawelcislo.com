@@ -186,7 +186,9 @@ The current products are full of data, such as machines and robotics, which are 
 
 If we look into the historical roots, the UK mathematician - Clive Humby was the first one to coin the term "Data Science is the new oil" in 2006:
 
-\[su\_quote cite="Clive Humby"\]Data is the new oil. It’s valuable, but if unrefined it cannot really be used. It has to be changed into gas, plastic, chemicals, etc to create a valuable entity that drives profitable activity; so must data be broken down, analyzed for it to have value.\[/su\_quote\]
+> _Data is the new oil. It's valuable, but if unrefined it cannot really be used. It has to be changed into gas, plastic, chemicals, etc to create a valuable entity that drives profitable activity; so must data be broken down, analyzed for it to have value._
+>
+> — Clive Humby
 
 Okay, let's not just make idle threats, but support the growing popularity of DS with the usage of the Google Trends tool. Since the last 6 years, the interest over time for the "data science" term in Google Search, grew about 9 times! The interesting fact is that the graph looks almost identical for "[cybersecurity](https://trends.google.com/trends/explore?date=2012-01-07%202019-03-23&geo=US&q=cybersecurity)". I see that the market trends are being highly generous to both of my interest and it has a purpose, as unsecured data reveals a significant flaw to its owner.
 
@@ -448,7 +450,9 @@ The other, more advanced solution is to set an account on Google Cloud, AWS or M
 
 Let's end this post with a funny situation shared by Piotr Migdał on his social media channels:
 
-\[su\_quote cite="Piotr Migdal" url="<https://www.linkedin.com/feed/update/urn:li:activity:6503583595418914816"\]Me>: I'm an AI consultant. I teach people to teach machines. Someone I met: I'm a psychologist. I teach people people.\[/su\_quote\]
+> _Me: I'm an AI consultant. I teach people to teach machines. Someone I met: I'm a psychologist. I teach people people._
+>
+> — [Piotr Migdal](https://www.linkedin.com/feed/update/urn:li:activity:6503583595418914816)
 
 Don't overwhelm yourself with data, as it's impossible to process all of it. If you are continually being overloaded with the information, I have some good news for you.
 

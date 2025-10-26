@@ -32,7 +32,9 @@ _Title slide of the past evening_
 
 Maybe let's start from defining what ethics are, as many of us might have a different view on it. According to the Internet Encyclopedia of Philosophy[^2]:
 
-\[su\_quote cite="James Fieser" url="<https://www.iep.utm.edu/ethics/"\]**Ethics>** – the field of ethics (or moral philosophy) involves systematizing, defending, and recommending concepts of right and wrong behaviour\[/su\_quote\]
+> _**Ethics** – the field of ethics (or moral philosophy) involves systematizing, defending, and recommending concepts of right and wrong behaviour_
+>
+> — [James Fieser](https://www.iep.utm.edu/ethics/)
 
 That's still a very, very brief explanation of the term, leading to even more misconception, and if we would like to define it accurately, I would need to throw in the definition of three different pillars, which are associated with it (metaethics, normative ethics and applied ethics). But, let's make things easier. During the presentation, I loved the simple explanation of this broad and confusing term, brought by Nathalie, which says that "_**Ethics is about finding moral intuitions and rational explanations for them**_", as such it's not about doing things in your life according to the rule "because God told me so".
 
@@ -69,11 +71,15 @@ If you are tired of reading newspaper headlines, drop on the website below, ente
 
 Remember that with the inclusion of new technology in the market, everyone always becomes worried about the future of his career. Take the example of the agricultural market and how much it changed for the better, although how many people were stressed about its upcoming state.
 
-\[su\_quote cite="Wendell Wallach" url="<https://www.carnegiecouncil.org/studio/multimedia/20160922-the-pros-cons-and-ethical-dilemmas-of-artificial-intelligence"\]It’s> a long-running concern — the Luddite concern going back 200 years ago — that each new form of technology will rob more jobs than it creates. Up to now, we haven’t seen that. Each new technology eventually creates more secondary jobs than it eliminates\[/su\_quote\]
+> _It's a long-running concern — the Luddite concern going back 200 years ago — that each new form of technology will rob more jobs than it creates. Up to now, we haven't seen that. Each new technology eventually creates more secondary jobs than it eliminates_
+>
+> — [Wendell Wallach](https://www.carnegiecouncil.org/studio/multimedia/20160922-the-pros-cons-and-ethical-dilemmas-of-artificial-intelligence)
 
 If you're a truck/taxi driver, better act as quick as possible. Once AI will finally automate your profession, please don't cry on the internet, and understand that you were warned already for about 20 years so that you could craft a 2nd skill in the meantime. Before closing the topic, I will bring up recent words of Gary Vee of what he thinks about AI effect on the job market:
 
-\[su\_quote cite="Gary Vee" url="<https://youtu.be/sXzRmIEmlbg?t=494"\]AI> is gonna do shit that below average humans do poorly. (...) that human could actually then go do something that he does like and does well\[/su\_quote\]
+> _AI is gonna do shit that below average humans do poorly. (...) that human could actually then go do something that he does like and does well_
+>
+> — [Gary Vee](https://youtu.be/sXzRmIEmlbg?t=494)
 
 In all of this, if you want to find a negative point, you will find it everywhere and dwell in it. If you want to see a lot of upcoming opportunities and appreciate the greatest time to be living in, you will find it as well.
 
@@ -250,7 +256,9 @@ Let's not introduce all the possible states, as one would need to write a compre
 
 In the end, please don't understand me wrong. **The goal of this post wasn't to make you scared or doubtful in the sense of further work on improving the AI state**. Technology is a great tool, and it can all make our lives better, as it did for all the years. Right, some things did not develop with the time, such as the matter of global warming, but please keep in mind that rapid development of technology isn't the major cause of one of the most concerned environmental problems. Looking on it from the brighter side, AI might be the answer to this and any other problems, as we might need some sort of inhuman intelligence to give us the right answer, as it was explained in the article of Renee Cho[^16]. No more than a month ago, Sam Altman (chairman of Y Combinator and co-chairman of OpenAI) also threw some words on this topic[^17]:
 
-\[su\_quote cite="Sam Altman" url="<https://www.youtube.com/watch?v=TzcJlKg2Rc0"\]The> best way to solve climate change is to build really strong AI first. I think it’s that hard of a problem\[/su\_quote\]
+> _The best way to solve climate change is to build really strong AI first. I think it's that hard of a problem_
+>
+> — [Sam Altman](https://www.youtube.com/watch?v=TzcJlKg2Rc0)
 
 Okay, let's come back to the matter of the growing quality of life. Googling the term "quality of life over time" might give us some level of understanding, that the life expectancy increases, we have easier access to medical health, we are more secure, most of us live with a hood above our head, and we can afford a lot more by getting a job and earning a few bucks.
 

@@ -114,11 +114,13 @@ This advice was given not only by Marcin Osman but Jakub B Bączek, who was one 
 
 Rahim Blak is a great example of the rebel. Do you know that Rahim was one of the firsts to "sell himself" by having his personal token? He received a lot of critic about it; however he didn't care and in the end, he is proud of himself.
 
-People are scared of things that are unknown… so try to do them! Big brands work comfortably with uncomfortable stuff and this is why they succeed. Moreover, remember that creative leaders are rebels.
+People are scared of things that are unknown… so try to do them! Big brands work comfortably with uncomfortable stuff and this is why they succeed. Moreover, remember that creative leaders are rebels.
 
-\[su\_quote cite="Steve Maraboli"\]New levels bring new devils. Stay unapologetically committed to your goals and let go of anyone who poisons your spirit.\[/su\_quote\]
+> _New levels bring new devils. Stay unapologetically committed to your goals and let go of anyone who poisons your spirit._
+>
+> — Steve Maraboli
 
-Did you know that to be recognised Łukasz Jakóbiak hanged a huge CV next to the headquarters of EMI Music Poland?
+Did you know that to be recognised Łukasz Jakóbiak hanged a huge CV next to the headquarters of EMI Music Poland?
 
 ![Massive CV of Łukasz Jakóbiak](images/Łukasz-CV.jpg)
 _Woah! Credit: WP[^6]_
@@ -225,9 +227,11 @@ CUBE = Client, Understand, Beginning, Effect
 | **What does he buy?** | **Why does he buy? (Reason)** | **Why does he buy?** | **Who buys?** | **What can cause that he will not buy?** |
 | confidence, passion, trust to others | localisation, instructors | to feel better, to meet someone new, to take care of health | students, active people, multisport, sitting job | localization, price, commitment |
 
-Obviously, there is a golden rule given by Gary to every aspect. 😅
+Obviously, there is a golden rule given by Gary to every aspect. 😅
 
-\[su\_quote cite="Gary Vaynerchuk"\]Parents raise children for themselves, to look good in the eyes of others, not for the kid. This is the problem that also applies in business.\[/su\_quote\]
+> _Parents raise children for themselves, to look good in the eyes of others, not for the kid. This is the problem that also applies in business._
+>
+> — Gary Vaynerchuk
 
 #### Measure your performance
 
@@ -363,7 +367,9 @@ When that comes to me, I think the most challenging part comes not in finding ou
 
 So what to wait for? Have a little time for yourself, take a walk and start changing the world for better!
 
-\[su\_quote cite="Reid Hoffman"\]An entrepreneur is someone who jumps off a cliff and builds a plane on the way down.\[/su\_quote\]
+> _An entrepreneur is someone who jumps off a cliff and builds a plane on the way down._
+>
+> — Reid Hoffman
 
 Good luck my entrepreneur! 😁
 
