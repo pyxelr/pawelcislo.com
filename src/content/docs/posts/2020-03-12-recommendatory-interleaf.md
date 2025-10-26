@@ -36,7 +36,8 @@ Principally, the reason for my absence was a new project to tackle at a railway 
 
 In all this hassle, I did find some free time, which I used, for example, to scribble down my latest publication, but also to experiment with different learning methods that I am planning to describe in the upcoming posts. Nonetheless, I also had to give my mind a break and rethink my current actions and plans for the future.
 
-\[caption id="attachment\_2943" align="aligncenter" width="472"\]![Studying Machine Learning](images/studying_machine_learning-794x1024.jpg) Lately, reading is one of the main activities I devoted myself into\[/caption\]
+![Studying Machine Learning](images/studying_machine_learning-794x1024.jpg)
+_Lately, reading is one of the main activities I devoted myself into_
 
 Not to waffle on all the news, and to maintain a structured article, let's have a look at the succeeding sections.
 
@@ -194,7 +195,8 @@ Now, let's not dwell on the past and talk about what's in front of us.
 
 Below you can see a piece of note I reuse to store all the ideas to write about. This year it's counting 11 written posts (including this report) and 18 waiting in the queue ([1.5 year ago it wasn't like that](https://i0.wp.com/pawelcislo.com/wp-content/uploads/2018/09/Post-ideas.png)). For the moment, the subjects balanced between productivity, community events and a few technical matters. The line of ideas waiting to be described still considers a bit of learning-based concepts, accompanied by data science technicalities and other hard skills domains. There might also appear more data engineering topics, such as setting up big data pipelines into production, rather than common analytical procedures.
 
-\[caption id="attachment\_2955" align="aligncenter" width="1024"\]![Post ideas](images/post_ideas_2020-1024x593.png) As of today, my current list of post ideas in the "To Do" section counts 18 (but knowing myself it is a highly approximate number with my tendency to restructuring and adding new ideas)\[/caption\]
+![Post ideas](images/post_ideas_2020-1024x593.png)
+_As of today, my current list of post ideas in the "To Do" section counts 18 (but knowing myself it is a highly approximate number with my tendency to restructuring and adding new ideas)_
 
 On top of that, I am considering to convert the entire website to [Gatsby.js framework](https://www.gatsbyjs.org/), although I usually receive positive feedback about the structure/performance of this place.
 
@@ -208,7 +210,8 @@ Transfer from WordPress to Gatsby.js is surely [time-taking and pretty stressful
 
 Back in January, I have shared my initial set of intentions on what to prioritise for the next 12 months. Let's have a look and reflect on them after the last 2.5 months.
 
-\[caption id="attachment\_2942" align="aligncenter" width="406"\]![My plans for 2020](images/2020_plans-498x1024.jpg) My sketch of 2020 from January\[/caption\]
+![My plans for 2020](images/2020_plans-498x1024.jpg)
+_My sketch of 2020 from January_
 
 January was filled with Python, Tkinter and RegEx. Later, 1st half of February was taken by tech conferences, The AKKAdemy graduation and exploration of the Swiss mountains. Now, my mind is mostly focused on data visualisation in D3.js, putting more effort into my French fluency and preparing for the practical experience in data engineering (Hadoop ecosystem, Docker and Kubernetes). Apart from that, I will try to present more projects with the use of AI, such as a simulation of self-driving car.
 

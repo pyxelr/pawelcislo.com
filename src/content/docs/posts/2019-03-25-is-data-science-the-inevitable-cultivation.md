@@ -47,7 +47,8 @@ The scope of the mentioned technologies included:
 
 In general, the conference took a very rapid pace, leaving us with tons of valuable information about topics ranging from technology, business and medicine, up to the state of the current education. Each of the presentations was full of the current market trends, such as "Data Science", "AI", "Cybersecurity" and "Industry 4.0".
 
-\[caption id="attachment\_1515" align="aligncenter" width="1024"\]![BioTech meets Digital conference](images/BioTech-conference-1024x797.png) BioTech meets Digital conference\[/caption\]
+![BioTech meets Digital conference](images/BioTech-conference-1024x797.png)
+_BioTech meets Digital conference_
 
 ### The effect of applying data mining techniques to [my notes](https://pawelcislo.com/wp-content/uploads/2019/03/BioTech-notes-e1553423237867.jpg)
 
@@ -182,7 +183,8 @@ As there is still a lot to cover in this post, I will not elaborate on the confe
 
 The current products are full of data, such as machines and robotics, which are authorising the swiftly growing universal truth that **all roads lead to data** in the emerging digitopia. Data is highly comparable to oil, because of its potential to generate real value; however, it won't do much without the right processing.
 
-\[caption id="attachment\_1502" align="aligncenter" width="640"\]![The Big Four](images/Big-Four.png) Big Four keep most of the oil\[/caption\]
+![The Big Four](images/Big-Four.png)
+_Big Four keep most of the oil_
 
 If we look into the historical roots, the UK mathematician - Clive Humby was the first one to coin the term "Data Science is the new oil" in 2006:
 
@@ -340,9 +342,10 @@ Once you make a decision, you can sign up to the community of the coolest people
 
 For now, let's stop our fascination about everything involving data, and agree on one point about the practice of using algorithms on the data, which later on learn from it and then forecast future trends for that topic. Remember, there is no magic behind machine learning.
 
-Regression is just a line of best fit. It's like taking a bunch of dots and finding a curve that fits nicely to them. Nonetheless, there are 2 ways to make it harder: make it curvier than just a line or make it multi-dimensional.
+Regression is just a line of best fit. It's like taking a bunch of dots and finding a curve that fits nicely to them. Nonetheless, there are 2 ways to make it harder: make it curvier than just a line or make it multi-dimensional.
 
-\[caption id="attachment\_1566" align="aligncenter" width="477"\]![Linear Regression](images/linear_regression.png) Linear Regression - just try to fit the line of the best fit, but this time you can't go with your eyeball and the ruler\[/caption\]
+![Linear Regression](images/linear_regression.png)
+_Linear Regression - just try to fit the line of the best fit, but this time you can't go with your eyeball and the ruler_
 
 Classification is just taking a bunch of coloured dots and finding the curve that goes between them. Each row in the table is a feature vector and for each vector, we can draw a point on the grid. We can just draw a classification boundary between the points and when the new point appears, we can decide to which class it belongs. Ah, and it doesn't matter what the axes are or what the groups represent.
 

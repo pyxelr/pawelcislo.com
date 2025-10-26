@@ -42,13 +42,15 @@ Productivity is the mother of all the skills we acquire during our lifespan. The
 
 The time management method presented by David Allen in his most famous creation "**Getting Things Done**"[^2] is being applied in my case for over a year and most importantly it gives practical results! I definitely observed doing more things that are out of my comfort zone, and I changed my life dramatically (successfully finished university, found first job etc.). No, you don't have to be a wizard and all you need to do is to familiarise yourself with the following workflow:
 
-\[caption id="" align="aligncenter" width="495"\]![GTD Diagram](images/GTD-Diagram.jpg) Didn't you read the book? No worries, here is a brief workflow summary\[/caption\]
+![GTD Diagram](images/GTD-Diagram.jpg)
+_Didn't you read the book? No worries, here is a brief workflow summary_
 
 Once a friend told me that there is no sense to note every single thing you want to do, such as making sure to feed your cats after coming back home. Right, it is something we aren't likely to forget, but think of a brain as of the Random-Access-Memory (RAM). If you will need to remember about every little thing, you will only reduce your focus required in the current moment and at some time achieve lower results. Moreover, human brain works as a hybrid of RAM and hard disk, as such it tends to leak the data (forgets about stuff).
 
 By writing everything down into your to-do list, you free your memory, just like you do with a task manager called by a combination of Ctrl+Alt+Delete on Windows. That way you can live the moment and achieve the highest performance! Arr!
 
-\[caption id="" align="aligncenter" width="518"\]![Brain = RAM](images/Brain-RAM.jpeg) Hopefully, one day we will be able to install some additional RAM implants into our brains\[/caption\]
+![Brain = RAM](images/Brain-RAM.jpeg)
+_Hopefully, one day we will be able to install some additional RAM implants into our brains_
 
 ### Todoist
 
@@ -62,9 +64,11 @@ I praise Todoist mainly for:
 
 Below you can see the example of how I add a task to remember about publishing this post. You can notice, that Todoist automatically highlights the word "tomorrow", which will pop up a notification on my phone the next day about a project assigned to the project "Website" with the highest priority "1".
 
-\[caption id="" align="aligncenter" width="766"\]![Todoist automatically recognises predefined keywords](images/Todoist-Sample-Task.png) Todoist automatically recognises predefined keywords\[/caption\]
+![Todoist automatically recognises predefined keywords](images/Todoist-Sample-Task.png)
+_Todoist automatically recognises predefined keywords_
 
-\[caption id="" align="aligncenter" width="714"\]![Todoist - Sample Entry](images/Todoist-Sample-Entry.png) And nicely aligns them. Oh... I'm so busy this day\[/caption\]
+![Todoist - Sample Entry](images/Todoist-Sample-Entry.png)
+_And nicely aligns them. Oh... I'm so busy this day_
 
 As such, to start with Todoist, I highly recommend spending some time on organising it, defining some projects and labels which will play a significant role. Don't worry if you cannot figure it out in the beginning. After more than a year of using the app, I am still finding myself changing some of the settings.
 
@@ -78,7 +82,8 @@ To start with, you should organise your tasks into different projects. Trust me;
 
 Let's take a look at what I applied in my case:
 
-\[caption id="attachment\_4794" align="aligncenter" width="267"\]![My list of projects in Todoist](images/my-todoist-projects.png) My list of projects in Todoist\[/caption\]
+![My list of projects in Todoist](images/my-todoist-projects.png)
+_My list of projects in Todoist_
 
 - 🚹 _Personal_ – store of all the personal duties, such as feeding my cat at 8 am
   - 🚹 _Personal\_GCal_ – project syncing my _Personal_ calendar within Google Calendar to display the upcoming events
@@ -119,7 +124,8 @@ Remember: all the colours/emojis are optional, and they are here just for the sa
 
 You can treat labels as hashtags which you might use to SPAM everyone on Instagram. It's some additional option to categorise your tasks, and sometimes it's pretty useful. In order to assign some tags to the activity, type "**@**" sign, and you will be reminded of your labels.
 
-\[caption id="attachment\_4826" align="aligncenter" width="251"\]![Todoist - my list of labels](images/my-labels-todoist.png) Todoist - my list of labels\[/caption\]
+![Todoist - my list of labels](images/my-labels-todoist.png)
+_Todoist - my list of labels_
 
 - _doing_ – implement the "Personal Kanban" method to mark tasks in three categories: to do, doing and done
 - _maybe_ – should I, or should I not?
@@ -147,7 +153,8 @@ You can treat labels as hashtags which you might use to SPAM everyone on Instagr
 
 Type "**p**" followed with a number "1,2,3 or 4" to prioritise your goals.
 
-\[caption id="attachment\_2158" align="aligncenter" width="265"\]![Todoist - list of priorities](images/Todoist-list-of-filters.png) My list of priorities in Todoist\[/caption\]
+![Todoist - list of priorities](images/Todoist-list-of-filters.png)
+_My list of priorities in Todoist_
 
 - _p1 (must)_ – very important, I can't go to bed without marking it as done
 - _p2 (should)_ – quite important, but I can survive without doing it
@@ -162,7 +169,8 @@ If there is something that you go through continuously in the exact same structu
 
 If you have Todoist Premium, you can head into "Settings --> Integrations" to get your personalised token (iCal). With this URL you can tightly integrate Todoist with Google Calendar, so whenever you open it up, you will also see your Todoist tasks planned for that day (as on the image below).
 
-\[caption id="attachment\_1141" align="aligncenter" width="231"\]![Google Calendar + Todoist](images/Google-Calendar-Todoist.png) Todoist can also automatically sync all the tasks to Google Calendar\[/caption\]
+![Google Calendar + Todoist](images/Google-Calendar-Todoist.png)
+_Todoist can also automatically sync all the tasks to Google Calendar_
 
 Before discovering to-do lists, I used to note everything in the form of events in my Google Calendar. Nowadays, I keep Google Calendar only for special events/meetings, which cannot be marked as done, but simply have to be attended, such as my upcoming flight for the graduation ceremony.
 
@@ -174,9 +182,11 @@ If you already thought about creating your Todoist account, please do me a favou
 
 We already know the way of keeping track of our duties, but there is one more issue. Let's get back to the problem of finding out **how to start doing**. I think this is a topic for another post, but let's try to describe it briefly. The idea of the system originally comes from the polish entrepreneur who constantly inspires me through [his daily vlogs](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw). Mirosław Burnejko (MiroBurn), who I am talking about, described the system not even once, well, he even designed an [online course about planning your goals](https://akademia.pl/szkolacelow). I didn't take part in it, as I follow him long enough to know what would he say, but if you understand polish and you are new to what is in this post, I highly recommend you to check it out.
 
-Mirosław Burnejko was even so kind to share [his list of goals](https://trzypoziomy.pl/zadania/) publicly so that I couldn't wait more [but do the same](https://pawelcislo.com/three-goals/). Taking a look at my list of goals, you can find the rules of the system and see my goals to achieve so you can verify my progress and inspire yourself to do the same. One of my friends already copied the template and applied it to his situation. You don't even know how proud I felt!
+Mirosław Burnejko was even so kind to share [his list of goals](https://trzypoziomy.pl/zadania/) publicly so that I couldn't wait more [but do the same](https://pawelcislo.com/three-goals/). Taking a look at my list of goals, you can find the rules of the system and see my goals to achieve so you can verify my progress and inspire yourself to do the same. One of my friends already copied the template and applied it to his situation. You don't even know how proud I felt!
 
-\[caption id="" align="aligncenter" width="557"\]![Your plans vs. reality](images/planvsreality.jpg) Feels familiar, huh?\[/caption\]
+![Your plans vs. reality](images/planvsreality.jpg)
+
+_Feels familiar, huh?_
 
 I think everyone seen the image above. Yes, that might demotivate some of us, but you can forget about the lower part of it with the application of "Three Levels/Goals" system. It's all about restructuring your mind. Let's take an example: each of us would be feeling good about accomplishing 100 km run, right? Undoubtedly, and it's not hard.
 
@@ -241,7 +251,8 @@ In the end, I wish you to fall into the "flow" as often as you want. It's the st
 
 See ya and thanks for staying with me! ❤
 
-\[caption id="attachment\_1128" align="aligncenter" width="219"\]![Done!](images/Done.png) Done!\[/caption\]
+![Done!](images/Done.png)
+_Done!_
 
 ![All Clear!](images/All-Clear.png)
 _Isn't it great to see this view, finally after cleaning your daily to-do list?_
