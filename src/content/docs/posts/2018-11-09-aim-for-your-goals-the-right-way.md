@@ -25,7 +25,9 @@ Coming back to what I said, **quantity beats quality**, at least if we think abo
 
 Similarly, the author of Dilbert comic strips tends to discuss the idea of productivity in his creations. Besides, he also tends to philosophise about quantity/quality optimisation:
 
-\[su\_quote cite="Scott Adams"\]If you think extraordinary talent and a maniacal pursuit of excellence are necessary for success, I say that’s just one approach, and probably the hardest. When it comes to skills, quantity often beats quality.\[/su\_quote\]
+> _If you think extraordinary talent and a maniacal pursuit of excellence are necessary for success, I say that's just one approach, and probably the hardest. When it comes to skills, quantity often beats quality._
+>
+> — Scott Adams
 
 ![Productivity Dilbert](images/Productivity-Dilbert.gif)
 _Remember to organise/prioritise your tasks. Credit: Dilbert comic strip by Scott Adams[^1]_
@@ -139,7 +141,9 @@ You can treat labels as hashtags which you might use to SPAM everyone on Instagr
 
 #### Filters/Priorities
 
-\[su\_quote cite=" Maciej Aniserowicz"\]There is no such thing as ‘I do not have the time’. This is all just a matter of priorities.\[/su\_quote\]
+> _There is no such thing as 'I do not have the time'. This is all just a matter of priorities._
+>
+> — Maciej Aniserowicz
 
 Type "**p**" followed with a number "1,2,3 or 4" to prioritise your goals.
 
