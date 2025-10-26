@@ -32,7 +32,8 @@ Before the (hopefully) final environment transition, I spent likewise some time 
 - `Python` (yhat/rodeo, IDLE, Atom, Sublime Text, Jupyter Notebooks, Spyder, PyCharm)
 - `General text editors` (Notepad++, Sublime Text)
 
-\[caption id="attachment\_4485" align="aligncenter" width="460"\]![Bumpy road of IDEs](images/bumpy_road_of_ides.png) Bumpy road from FPC to VS Code\[/caption\]
+![Bumpy road of IDEs](images/bumpy_road_of_ides.png)
+_Bumpy road from FPC to VS Code_
 
 Driving through this rough path, most of the editors parked by the road, some continue its ride (Sublime Text, VS Code) and one is peeking through the bushes to be explored with curiosity (Vim).
 
@@ -86,7 +87,8 @@ Focusing back on my current most favourite VS Code UI, it is composed of:
   - Consolas (primary editor font)
   - [Jetbrains Mono](https://www.nerdfonts.com/font-downloads) of weight 350 (terminal's powerline font with a support for special characters like Git branches)
 
-\[caption id="attachment\_4605" align="aligncenter" width="1035"\]![My VS Code UI](images/vs-code-ui.png) Look of my VS Code instance with Dracula PRO theme and [my-terminal](https://github.com/pyxelr/my-terminal) ([open in new tab](https://pawelcislo.com/wp-content/uploads/2021/11/vs-code-ui.png))\[/caption\]
+![My VS Code UI](images/vs-code-ui.png)
+_Look of my VS Code instance with Dracula PRO theme and [my-terminal](https://github.com/pyxelr/my-terminal)
 
 Certainly, each of us will have his preferred set of colours and panels (conveniently previewed through [vscodethemes.com](https://vscodethemes.com/)), so I'm curious to see what is your style (don't hesitate to leave a comment down there)!
 
@@ -98,7 +100,8 @@ In the past, I've used [Git](https://git-scm.com/) from the CLI, and later throu
 
 There is not much to say, as after applying some file changes to a folder with an initialized Git repository, VS Code will automatically detect which files were added (`A`), modified (`M`), deleted (`D`) or still reside there as untracked (`U`). Staging any file is as simple as clicking on the explicit (`+`) icon next to it, such that later we can continue with typing a message and committing the staged changes. 🚀
 
-\[caption id="attachment\_4520" align="aligncenter" width="370"\]![Source Control menu in VS Code](images/vscode-source-control.png) Source Control menu in VS Code with 4 detected changes\[/caption\]
+![Source Control menu in VS Code](images/vscode-source-control.png)
+_Source Control menu in VS Code with 4 detected changes_
 
 On the former screenshot, there is also a non-standard clock and graph icon, which respectively define the [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) and [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) extensions that I'm finding quite useful for surfing through the file history. Moreover, I'm ingesting the famous [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) extension that simply supercharges all the Git operations in VS Code through a separate sidebar menu.
 
@@ -108,13 +111,15 @@ With all that graphical ease of development, I'm not abandoning the in-built ter
 
 Are you still installing Anaconda to interactively use Python (IPython) through the Jupyter Notebook web application? With VS Code, there is no more need to do so, as Anaconda could be replaced by its non-commercial bootstrap version: [miniconda](https://docs.conda.io/en/latest/miniconda.html), and the data friendly [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) may be operated directly inside another tab. You might only need to `pip install ipykernel` to start running the calculation cells inside the `.ipynb` file:
 
-\[caption id="attachment\_4610" align="aligncenter" width="736"\]![VS Code Jupyter Notebook](images/vscode-jupyter-hist.png) Jupyter Notebook inside of VS Code\[/caption\]
+![VS Code Jupyter Notebook](images/vscode-jupyter-hist.png)
+_Jupyter Notebook inside of VS Code_
 
 Apart from keeping our favourite theme, VS Code automatically displays cell execution time, presents a variable pane, allows us to open plots in individual tabs and even generates a table of contents from the markdown entries.
 
 The best part about Jupyter is that recently it is getting a lot of attention in the VS Code releases, making it even more attractive. Nevertheless, for those who are not the biggest fans of `.ipynb` files, there is also a possibility to run [Jupyter-like code cells](https://code.visualstudio.com/docs/python/jupyter-support-py#_jupyter-code-cells) within Python code (`.py`) using a `# %%` comment:
 
-\[caption id="attachment\_4614" align="aligncenter" width="741"\]![VS Code Interactive Python](images/vscode-interactive-python.png) Running cells within the Python code\[/caption\]
+![VS Code Interactive Python](images/vscode-interactive-python.png)
+_Running cells within the Python code_
 
 This neat trick is quite handy especially for debugging, but I find myself even more often setting conditional breakpoints within the functions, and inspecting the output using [The Python Debugger (pdb)](https://docs.python.org/3/library/pdb.html), which is a part of Python's standard library.
 
@@ -179,7 +184,8 @@ For instance, the development team can agree to manage all the dependencies usin
 
 Upon accessing the settings of VS Code, we can find out that the Python extension nicely groups the configuration options of Flake8 and Black, which can be promptly opened with `CTRL` + `,`. On the following example, we are extending the code length in each line to 99 characters by adding a simple `-l 99` argument:
 
-\[caption id="attachment\_4584" align="aligncenter" width="744"\]![Black settings in VS Code](images/vscode-black.png) Black settings in VS Code\[/caption\]
+![Black settings in VS Code](images/vscode-black.png)
+_Black settings in VS Code_
 
 All in all, not everyone may keep the same setup on their machine, so we can enforce specific rules with the use of [pre-commit](https://pre-commit.com/) hooks. Thanks to the `.pre-commit-config.yaml` file in the repo, one could set up hooks for Flake8, Black and isort with specific parameters, in order to make sure that our code is always equally formatted on every `git commit`.
 
@@ -191,7 +197,8 @@ Let's imagine that you own a Windows machine, and you're joining a new team that
 
 With [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview) option, you can develop everything remotely, reusing only your local VS Code setup (theme and extensions):
 
-\[caption id="attachment\_4690" align="aligncenter" width="842"\]![VS Code Remote Development](images/vscode-remote.png) VS Code Remote Development\[/caption\]
+![VS Code Remote Development](images/vscode-remote.png)
+_VS Code Remote Development_
 
 This approach uses tools or runtimes from the remotely existing development environment, which can be accessed from multiple machines or locations. Besides, it separates our local machine configuration to avoid any unintended development consequences.
 
@@ -203,13 +210,15 @@ Like many other VS Code options, this one is also designed as optional and can b
 
 After installing all these plugins, we should see a new status bar item in the lower-left corner, as well as the `Remote Explorer` side menu, presenting an individual view for all the remote targets:
 
-\[caption id="attachment\_4692" align="aligncenter" width="531"\]![VS Code Remote Explorer](images/vscode-remote-explorer.png) Remote Explorer with 3 available options\[/caption\]
+![VS Code Remote Explorer](images/vscode-remote-explorer.png)
+_Remote Explorer with 3 available options_
 
 With that, in the following example, I will open a new VS Code instance through WSL so that I can easily compile my Bash scripts. If you don't have yet a WSL on your system, then have a look at this [simple official WSL installation guide](https://docs.microsoft.com/en-us/windows/wsl/install).
 
 Using merely 2 clicks: `New WSL Window using Distro...` > `Ubuntu`, I have connected to the WSL Target (in my case, Ubuntu). All it means is that VS Code started inside of WSL, giving me a much better experience in creating Linux applications straight on my Windows machine.
 
-\[caption id="attachment\_4693" align="aligncenter" width="321"\]![VS Code WSL Target](images/vscode-wsl-target.png) Status bar indicating VS Code running through WSL\[/caption\]
+![VS Code WSL Target](images/vscode-wsl-target.png)
+_Status bar indicating VS Code running through WSL_
 
 And in its essence, the same process works for SSH connections or Docker containers! I hope that for you, it also seemed like a much simpler process than installing an isolated VS Code instance inside a virtualization software like VirtualBox. Nonetheless, let's look into a scenario where for whichever reason we prefer not installing anything locally.
 
@@ -227,7 +236,8 @@ Luckily, there is also a free [web-based GitHub editor](https://github.dev/githu
 
 Well, surely there are more web IDEs, and it is hard to keep track of them. This is why I'm in favour of this browser extension: [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) that adds this simple `Open In Web IDE` button on any repository page:
 
-\[caption id="attachment\_4515" align="aligncenter" width="338"\]![GitHub Web IDE](images/github-web-ide.png) GitHub Web IDE extension will remember different online IDEs for us\[/caption\]
+![GitHub Web IDE](images/github-web-ide.png)
+_GitHub Web IDE extension will remember different online IDEs for us_
 
 Alright, let's get back to the desktop app and see how it could be optimized even further to deliver the best possible experience.
 
@@ -340,7 +350,8 @@ According to [willrobotstakemyjob.com](https://willrobotstakemyjob.com/computer-
 
 So far, my experience in the usage of AI code assistants is quite limited; however, I have stumbled upon two popular solutions: [Kite](https://www.kite.com/) and [Tabnine](https://www.tabnine.com/), and I am planning to give a try to the third/latest one: [GitHub Copilot](https://copilot.github.com/). Out of these three options, the first two are quite similar in providing more sophisticated suggestions than the original [IntelliSense built into VS Code](https://code.visualstudio.com/docs/editor/intellisense). For example, here is how Tabnine suggests completing our code as we type (nonetheless, I highly recommend visiting the linked product webpages for some interactive demos):
 
-\[caption id="attachment\_4579" align="aligncenter" width="646"\]![Tabnine suggestions](images/vscode-tabnine.png) The first 2 suggestions in the list come from Tabnine (free) extension\[/caption\]
+![Tabnine suggestions](images/vscode-tabnine.png)
+_The first 2 suggestions in the list come from Tabnine (free) extension_
 
 On the other side of the ring, we have a plugin developed by GitHub and OpenAI, announced this June 2021. As we may assume from the collaboration with OpenAI, the completions of GitHub Copilot are much more extended, bringing programmers even closer to the extinction 🦕. While I am scribing these words, Copilot is still under a technical preview phase, although, one can already give it a try, ideally by following the [Getting Started page on GitHub docs](https://github.com/github/copilot-docs).
 
@@ -370,7 +381,8 @@ Once you are ready, I could optionally recommend getting slightly more familiari
 
 At last, the [official docs](https://code.visualstudio.com/docs) will hold our hand to familiarize us with different set of languages ([C++](https://code.visualstudio.com/docs/languages/cpp), [Java](https://code.visualstudio.com/docs/languages/java), [JavaScript](https://code.visualstudio.com/docs/languages/javascript), [Python](https://code.visualstudio.com/docs/languages/python)...) and domains ([Containers/Docker](https://code.visualstudio.com/docs/containers/overview), [Data Science](https://code.visualstudio.com/docs/datascience/overview)...).
 
-\[caption id="attachment\_4522" align="aligncenter" width="103"\]![VS Code docs](images/vscode-docs.png) Menu of VS Code docs\[/caption\]
+![VS Code docs](images/vscode-docs.png)
+_Menu of VS Code docs_
 
 As I already went through most of the _Python_, _Containers_ and _Data Science_ content, I can greatly advise these sections, since they not only introduce some theory and practice, but present you with some neat VS Code tricks around these technologies.
 

@@ -29,11 +29,13 @@ It was quite challenging coming up with a good idea in such a short time, having
 
 In my group, I was able to share my insights with five other participants, and three of Infrabel's employees responsible for the company's data, who were eager to present their onsite experience, which narrowed down some of our investigations. I enjoyed the diversity of our interests ranging from technical aspects, up to law through business and data services, that let us look at the problem from different perspectives.
 
-\[caption id="attachment\_1645" align="aligncenter" width="509"\]![I'm in!](images/DATAthon-Im_in-1024x953.jpg) I'm in (keeping cute stickers to myself)!\[/caption\]
+![I'm in!](images/DATAthon-Im_in-1024x953.jpg)
+_I'm in (keeping cute stickers to myself)!_
 
 Probably the most challenging part, was about coming to the same agreement with people from different backgrounds, that we just met. Everyone had to hide their ego and sometimes go for a compromise with a person from the other end of the table.
 
-\[caption id="attachment\_1654" align="aligncenter" width="460"\]![Let the collaboration begin!](images/DATAthon-Collaboration.jpg) Let the collaboration begin!\[/caption\]
+![Let the collaboration begin!](images/DATAthon-Collaboration.jpg)
+_Let the collaboration begin!_
 
 To me, it is pleasing to see that another organisation makes a step towards the popularisation of the Open Data movement. I am always looking forward to more initiatives like that, as in the end, it can generate various project ideas and ease approaches to improving a specific sector for the good of humanity.
 
@@ -62,7 +64,8 @@ Punctuality is still the primary concern of the transport companies, but apart f
 
 Our discussion has been enhanced with different clips of accidents being transmitted on the screen beside us. After having some severe discussion about Infrabel's daily concerns with a little bit of chit chat in between, we took a look into the data to support our decisions. Ultimately, it was the moment to doodle our ideas to have the same picture of all the different decisions.
 
-\[caption id="attachment\_1656" align="aligncenter" width="366"\]![My idea](images/DATAthon-my_idea.png) It's always better to visualise your thinking process\[/caption\]
+![My idea](images/DATAthon-my_idea.png)
+_It's always better to visualise your thinking process_
 
 After some time I ended with a set of notes of different approaches, where we had to direct ourselves into a particular plan, in order to elaborate it and prepare the presentation. Our roads focused on using cameras with object recognition technology and speed detection so that we can save lots of lives by optimising the process of the railway trespassing. For now, I will keep the rest of the details to myself, as no one knows if I might get into a collaboration with Infrabel to put this into action. :)
 
@@ -72,7 +75,8 @@ Shortly after the closing speech, together with a colleague from my group, we ha
 
 I advise you to start by having a 5-10 minute overview of the portal, as it hides many exciting features to ease your research. After getting familiar with the different options, you can start with searching through the data using the french/dutch keywords (remember, Google Translator is your friend), or try to dive deep into a specific category.
 
-\[caption id="attachment\_1662" align="aligncenter" width="618"\]![DATAthon - different categories](images/DATAthon-different-categories.png) At the moment, we can find 6 different categories\[/caption\]
+![DATAthon - different categories](images/DATAthon-different-categories.png)
+_At the moment, we can find 6 different categories_
 
 By hovering your mouse over the icons, you can discover the following sections:
 
@@ -87,7 +91,8 @@ Using the "[Useful links](https://opendata.infrabel.be/pages/links/)" tab, you c
 
 In all of this, Infrabel was kind enough to ease our job and next to each of the dataset, everyone was able to use the available features to display the dataset tables and even generate brief data visualisations.
 
-\[caption id="attachment\_1661" align="aligncenter" width="650"\]![DATAthon - opendata portal](images/DATAthon-opendata-portal.png) Infrabel's generosity offers you 5 different functions\[/caption\]
+![DATAthon - opendata portal](images/DATAthon-opendata-portal.png)
+_Infrabel's generosity offers you 5 different functions_
 
 All the different options of each dataset are:
 
@@ -103,7 +108,8 @@ Moreover, keep in mind that if you have any remarks about the portal or the data
 
 ## What is so magical about hackathons?
 
-\[caption id="attachment\_1648" align="aligncenter" width="252"\]![Still not convinced?](images/DATAthon-coffee.png) Still not convinced?\[/caption\]
+![Still not convinced?](images/DATAthon-coffee.png)
+_Still not convinced?_
 
 Is free coffee not enough? What about [all the delicious food](https://pawelcislo.com/wp-content/uploads/2019/05/DATAthon-Food_1.jpg)? I have to admit that it was hard to continue the work after tasting [all the different snacks](https://pawelcislo.com/wp-content/uploads/2019/05/DATAthon-Food_2-e1556701929372.jpg).
 
@@ -117,7 +123,8 @@ There are many other reasons, but as the last one I would point out the **abilit
 
 Lastly, you might meet your manager on the corridor, who will stop you with these words: "_Oh, hi Pawel, I saw you yesterday on the 1st channel of the Belgian TV!_". Speaking in front of [the camera](https://pawelcislo.com/wp-content/uploads/2019/05/DATAthon-Camera-e1556702043762.jpg) during the hackathons is not a daily thing, but be prepared for it. :)
 
-\[caption id="attachment\_1632" align="aligncenter" width="748"\]![Datathons - Belgian TV](images/Datathons_Belgian_TV.jpg) And all the website traffic is ruined by a typo in my last name :(\[/caption\]
+![Datathons - Belgian TV](images/Datathons_Belgian_TV.jpg)
+_And all the website traffic is ruined by a typo in my last name :(_
 
 ## Wonderful communities of Data Science
 
@@ -172,7 +179,8 @@ If you don't like trains ([I hope you do](https://youtu.be/vyItidbjxLM)), then y
 
 Ah, and before you begin:
 
-\[caption id="attachment\_1650" align="aligncenter" width="655"\]![May the data be with you!](images/DATAthon-May-the-data-be-with-you.jpg) May the data be with you!\[/caption\]
+![May the data be with you!](images/DATAthon-May-the-data-be-with-you.jpg)
+_May the data be with you!_
 
 ## Where can I find even more datasets? 🛠
 

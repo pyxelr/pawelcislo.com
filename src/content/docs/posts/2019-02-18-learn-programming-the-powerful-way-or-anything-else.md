@@ -30,7 +30,8 @@ Most importantly, **I believe that everyone can learn something from this post**
 
 Why Bob? It just seems like the most typical name for any example. I'm sorry if I offended any Bobs reading this article.
 
-\[caption id="attachment\_1358" align="aligncenter" width="300"\]![Bob](images/Bob-300x291.jpg) Let's assume that Bob is a little clumsy, just like my drawings\[/caption\]
+![Bob](images/Bob-300x291.jpg)
+_Let's assume that Bob is a little clumsy, just like my drawings_
 
 It is the beginning of the high school year, and Bob is looking forward to his new subjects. One of the mysteriously sounding classes is information technology, where our hero is going to put his hands-on programming for the 1st time. The classes start typically with drawing flowcharts and memorising multiple sorting and searching algorithms, such as bubble sort or linear search. Afterwards, Bob is instructed how to set up his first Integrated development environment (IDE) and implement what he just learned in C++, Java or Python (I hope it's not Pascal, like it was in my case).
 
@@ -62,7 +63,8 @@ If Bob is already attending high school, he should have just keep doing/trying w
 
 In the meantime, Bob is advised to develop a daily habit of solving online coding challenges, on such websites like [HackerRank](https://www.hackerrank.com/). Below, you can find an example of your playground, with the 1st Java challenge requiring to output "Hello, World" message. As you see, every task includes a comprehensive description on the left side, which will be your book, whereas on the right side is where the magic happens. When Bob feels like his code is ready, shining bright like a diamond, he can try clicking the flashy green button "Submit Code", which runs his scribbles through series of tests to check if it works like it should for the predefined input.
 
-\[caption id="attachment\_1400" align="aligncenter" width="1891"\]![HackerRank "Hello World" challenge in Java](images/HackerRank_Example_Challenge.png) HackerRank "Hello World" challenge in Java ([enlarge picture](https://pawelcislo.com/wp-content/uploads/2019/02/HackerRank_Example_Challenge.png))\[/caption\]
+![HackerRank "Hello World" challenge in Java](images/HackerRank_Example_Challenge.png)
+_HackerRank "Hello World" challenge in Java_
 
 What if Bob is feeling lost and lonely, scratching his head and wondering why the world is so cruel? In this scenario, he might want to look into the "Discussions" tab where he will find more Bobs like him. It's a place where it is good to come in, even when we know the answer, so we can benefit from comparing other solutions, inspiring from them and trying to be kind by supporting others.
 
@@ -116,7 +118,8 @@ Never ever blame yourself over forgetting the simplest syntax issues, like inser
 
 Don't rush in your learning. Nobody learned calculus in a day, but started with its the most straightforward variables, trying to understand each element of the sigma notation before developing a neural network of the entirely new architecture.
 
-\[caption id="attachment\_1411" align="aligncenter" width="308"\]![Sigma notation](images/Sigma-notation.jpg) Sigma notation (example of step by step learning)\[/caption\]
+![Sigma notation](images/Sigma-notation.jpg)
+_Sigma notation (example of step by step learning)_
 
 ### Present your results
 
@@ -290,4 +293,5 @@ Last, but not least, **remember about these ultimate living rules**:
 
 **Thanks for reading and happy coding!**
 
-\[caption id="attachment\_1397" align="aligncenter" width="273"\]![Happy Bob](images/Happy_Bob-273x300.jpg) Hey Bob, just don't lose your excitement after the first weeks :)\[/caption\]
+![Happy Bob](images/Happy_Bob-273x300.jpg)
+_Hey Bob, just don't lose your excitement after the first weeks :)_
