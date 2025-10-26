@@ -205,7 +205,7 @@ When deriving a concrete if/else solution for the programmed AI sitting inside t
 - make a random choice
 - let the user set up the ethical preferences before using the car for the 1st time
 - act according to the cultural difference of the country you're in
-- sum up the "social credit" of the objects (basing on the system already tested in China\[ref\]Ma, A. (2018) ‘China Has Started Ranking Citizens with a Creepy “social Credit” System — Here’s What You Can Do Wrong, and the Embarrassing, Demeaning Ways They Can Punish You’. \[29 October 2018\] available from <[https://www.businessinsider.com/china-social-credit-system-punishments-and-rewards-explained-2018-4](https://www.businessinsider.com/china-social-credit-system-punishments-and-rewards-explained-2018-4), as well as presented in one of the Black Mirror episodes ([Nosedive](https://en.wikipedia.org/wiki/Nosedive_\(Black_Mirror\))))
+- sum up the "social credit" of the objects (basing on the system already tested in China[^13], as well as presented in one of the Black Mirror episodes ([Nosedive](https://en.wikipedia.org/wiki/Nosedive_\(Black_Mirror\))))
 
 ![Chinese social credit system](images/china_credit_system.png)
 _Chinese social credit system is a fact_
@@ -224,7 +224,7 @@ Deliberating on the matter with self-driving cars is just a drop in the ocean of
 
 Microsoft decided to perform a small experiment on releasing a chatbot, which would interact with humans in the online world, precisely speaking, on Twitter. It was programmed in a way to learn how to communicate based on the messages it received from anyone.
 
-Theoretically, it was doing what it was supposed to do. Learning and maintaining conversation based on the data submitted by Twitter users. Nonetheless, it took <24 hours to turn the bot from "Hi, how are you?" into a full "nazi mode"\[ref\]Vincent, J. (2016) ‘Twitter Taught Microsoft’s AI Chatbot to Be a Racist Asshole in Less than a Day’. \[24 March 2016\] available from <[https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist).
+Theoretically, it was doing what it was supposed to do. Learning and maintaining conversation based on the data submitted by Twitter users. Nonetheless, it took <24 hours to turn the bot from "Hi, how are you?" into a full "nazi mode"[^14].
 
 What was wrong in this case? Why the mighty AI failed in such a situation? If you carefully read the beginning of this post, you might have guessed right that it lacked the ethics, which let us human to walk every day on the street, having some sense of understanding, that most of the people are living with the same set of values that prevent them from pulling out a knife and stabbing us in the middle of the day.
 
@@ -244,11 +244,11 @@ Maybe the following video will put your imagination into work, of what can happe
 
 If you feel like having a little sneak peek over the next 10 years of the AI robots, have a look at Black Mirror's episode titled as "[Metalhead](https://en.wikipedia.org/wiki/Metalhead_\(Black_Mirror\))".
 
-Let's not introduce all the possible states, as one would need to write a comprehensive book with all the examples. Instead, I will leave you with this single GitHub repository, where you can spend a great part of your evening, getting familiar with all the introduced scary usages of AI in the [Awful AI repository](http://github.com/daviddao/awful-ai). As the author states, hopefully, it will depict the dark side of AI and "_raise awareness to its misuses in society_"\[ref\]Dao, D. (2019) ‘Awful AI’. \[2 February 2019\] available from <[https://github.com/daviddao/awful-ai](https://github.com/daviddao/awful-ai).
+Let's not introduce all the possible states, as one would need to write a comprehensive book with all the examples. Instead, I will leave you with this single GitHub repository, where you can spend a great part of your evening, getting familiar with all the introduced scary usages of AI in the [Awful AI repository](http://github.com/daviddao/awful-ai). As the author states, hopefully, it will depict the dark side of AI and "_raise awareness to its misuses in society_"[^15].
 
 ## A brief note before the farewell
 
-In the end, please don't understand me wrong. **The goal of this post wasn't to make you scared or doubtful in the sense of further work on improving the AI state**. Technology is a great tool, and it can all make our lives better, as it did for all the years. Right, some things did not develop with the time, such as the matter of global warming, but please keep in mind that rapid development of technology isn't the major cause of one of the most concerned environmental problems. Looking on it from the brighter side, AI might be the answer to this and any other problems, as we might need some sort of inhuman intelligence to give us the right answer, as it was explained in the article of Renee Cho\[ref\]Cho, R. (2018) Artificial Intelligence—A Game Changer for Climate Change and the Environment. \[6 May 2018\] available from <[https://blogs.ei.columbia.edu/2018/06/05/artificial-intelligence-climate-environment/](https://blogs.ei.columbia.edu/2018/06/05/artificial-intelligence-climate-environment/). No more than a month ago, Sam Altman (chairman of Y Combinator and co-chairman of OpenAI) also threw some words on this topic\[ref\]Altman, S. (2019) _Sam Altman in Conversation with StrictlyVC_ \[online\] available from <[https://www.youtube.com/watch?v=TzcJlKg2Rc0](https://www.youtube.com/watch?v=TzcJlKg2Rc0):
+In the end, please don't understand me wrong. **The goal of this post wasn't to make you scared or doubtful in the sense of further work on improving the AI state**. Technology is a great tool, and it can all make our lives better, as it did for all the years. Right, some things did not develop with the time, such as the matter of global warming, but please keep in mind that rapid development of technology isn't the major cause of one of the most concerned environmental problems. Looking on it from the brighter side, AI might be the answer to this and any other problems, as we might need some sort of inhuman intelligence to give us the right answer, as it was explained in the article of Renee Cho[^16]. No more than a month ago, Sam Altman (chairman of Y Combinator and co-chairman of OpenAI) also threw some words on this topic[^17]:
 
 \[su\_quote cite="Sam Altman" url="<https://www.youtube.com/watch?v=TzcJlKg2Rc0"\]The> best way to solve climate change is to build really strong AI first. I think it’s that hard of a problem\[/su\_quote\]
 
@@ -315,3 +315,13 @@ Okay, that's it for now. Please enjoy the beautiful weather of June (at least he
 [^11]: Hao, K. (2018) 'Should a Self-Driving Car Kill the Baby or the Grandma? Depends on Where You're from.' [24 October 2018] available from <https://www.technologyreview.com/s/612341/a-global-ethics-study-aims-to-help-ai-solve-the-self-driving-trolley-problem/>
 
 [^12]: United Nations (2017) World Population Prospects. available from <https://www.un.org/development/desa/publications/world-population-prospects-the-2017-revision.html>
+
+[^13]: Ma, A. (2018) 'China Has Started Ranking Citizens with a Creepy "social Credit" System — Here's What You Can Do Wrong, and the Embarrassing, Demeaning Ways They Can Punish You'. [29 October 2018] available from <https://www.businessinsider.com/china-social-credit-system-punishments-and-rewards-explained-2018-4>
+
+[^14]: Vincent, J. (2016) 'Twitter Taught Microsoft's AI Chatbot to Be a Racist Asshole in Less than a Day'. [24 March 2016] available from <https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist>
+
+[^15]: Dao, D. (2019) 'Awful AI'. [2 February 2019] available from <https://github.com/daviddao/awful-ai>
+
+[^16]: Cho, R. (2018) 'Artificial Intelligence—A Game Changer for Climate Change and the Environment'. [6 May 2018] available from <https://blogs.ei.columbia.edu/2018/06/05/artificial-intelligence-climate-environment/>
+
+[^17]: Altman, S. (2019) _Sam Altman in Conversation with StrictlyVC_ [online] available from <https://www.youtube.com/watch?v=TzcJlKg2Rc0>
