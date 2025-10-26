@@ -18,11 +18,11 @@ coverImage: "Flashcard_cover.png"
 
 ## Countless benefits of learning
 
-"_Leaders in every sector seem to agree: Learning is an imperative, not a cliché. Without it, careers derail and companies fail_\[ref\]Petriglieri, G. (2019) ‘Learning for a Living’. \[10 December 2019\] available from <[https://sloanreview.mit.edu/article/learning-for-a-living/](https://sloanreview.mit.edu/article/learning-for-a-living/)\>\[/ref\]_._"
+> _Leaders in every sector seem to agree: Learning is an imperative, not a cliché. Without it, careers derail and companies fail[^1]._
 
 During our lifespan, we regularly study new technical or lexical skills for different projects, and this is what we'll look at - the way to enhance capabilities of the human brain.
 
-Lifelong learning has dozens of benefits, and it's not only increasing our value on the job market. According to the article from Harvard Business Review\[ref\]Coleman, J. (2017) ‘Lifelong Learning Is Good for Your Health, Your Wallet, and Your Social Life’. \[2 February 2017\] available from <[https://hbr.org/2017/02/lifelong-learning-is-good-for-your-health-your-wallet-and-your-social-life](https://hbr.org/2017/02/lifelong-learning-is-good-for-your-health-your-wallet-and-your-social-life)\>\[/ref\], it also leaves positive aspect on our health by improving memory, offsetting cognitive decline or delaying symptoms of Alzheimer\[ref\]Park, A. (2015) ‘Mental and Social Activity Delays the Symptoms of Alzheimer’s’. \[10 June 2015\] available from <[https://time.com/3916777/alzheimers-symptoms-delay/](https://time.com/3916777/alzheimers-symptoms-delay/)\>\[/ref\]. Although it requires us to dedicate some of our time to stay alone with our studying material, in the long term, we benefit from open doors to more social circles.
+Lifelong learning has dozens of benefits, and it's not only increasing our value on the job market. According to the article from Harvard Business Review[^2], it also leaves positive aspect on our health by improving memory, offsetting cognitive decline or delaying symptoms of Alzheimer[^3]. Although it requires us to dedicate some of our time to stay alone with our studying material, in the long term, we benefit from open doors to more social circles.
 
 When we learn new stuff, mixing different approaches is a great strategy to stimulate our brain with more stimuli:
 
@@ -56,7 +56,7 @@ As such, why spaced repetition isn't more popular over cramming? Well, people do
 
 ## What can you study with flashcards?
 
-Let me start with the fact that the use of a Spaced Repetitive Software (SRS) like Anki can be your greatest weapon while preparing for a TV shows like "_Who Wants to Be a Millionaire?_" or "_Jeopardy!_", where one player won almost $300 000\[ref\]Haviland, L. (2020) ‘“Jeopardy!” Champion Arthur Chu’s Old-Fashioned Strategy For Winning Paid Off Big Time’. \[26 June 2020\] available from <[https://www.cheatsheet.com/entertainment/jeopardy-champion-arthur-chus-old-fashioned-strategy-for-winning-paid-off-big-time.html/](https://www.cheatsheet.com/entertainment/jeopardy-champion-arthur-chus-old-fashioned-strategy-for-winning-paid-off-big-time.html/)\>\[/ref\].
+Let me start with the fact that the use of a Spaced Repetitive Software (SRS) like Anki can be your greatest weapon while preparing for a TV shows like "_Who Wants to Be a Millionaire?_" or "_Jeopardy!_", where one player won almost $300 000[^4].
 
 When it comes to me, If I am not mistaken, I started using Anki about a year ago, and it definitely wasn't consistent. Since then, I created a few decks (entire flashcard collections), but most of them were imported not only from the AnkiWeb but Quizlet and Memrise.
 
@@ -143,7 +143,7 @@ Once you have your cards, it's crucial to be consistent with your studies. To he
 
 First and foremost, do not convert a topic straight into flashcards if you don't understand it! For example, you can memorise the history of Poland from the flashcards, but with such information, you'll most likely still not understand the overall picture. Therefore, remember, don't commit the offence of learning without comprehension.
 
-After you understood the topic, here comes the time of designing your first flashcard. The fundamental rule of flashcard creation is the "**_Minimum Information Principle_**". It states that your questions and answers should be as simple as possible. A large number of simple cards is far more efficient to remember than a small number of big, demanding, awkward cards\[ref\]Nagelberg, M. (2020) ‘How to Deal with Lists in Anki’. \[6 July 2020\] available from <[http://www.marknagelberg.com/how-to-deal-with-lists-in-anki/](http://www.marknagelberg.com/how-to-deal-with-lists-in-anki/)\>\[/ref\].
+After you understood the topic, here comes the time of designing your first flashcard. The fundamental rule of flashcard creation is the "**_Minimum Information Principle_**". It states that your questions and answers should be as simple as possible. A large number of simple cards is far more efficient to remember than a small number of big, demanding, awkward cards[^5].
 
 | **Example of a bad card ❌** |  **Examples of good cards ✅** |
 | --- | --- |
@@ -151,7 +151,7 @@ After you understood the topic, here comes the time of designing your first flas
 
 In addition to simplifying the information, try to use images where possible as they will further stimulate your senses. As an example, they work great for learning a new language and finding the word for the presented image. On the other hand, if the graphic contains all the information, you can still learn from it by hiding/unhiding the right areas.
 
-I've just provided the basic, must known principles, but there is more to it if you would like to create the most practical cards. Dr Piotr Woźniak, the author of SuperMemo software, explained this topic thoroughly in 20 rules\[ref\]Wozniak, P. (1999) ‘Effective Learning: Twenty Rules of Formulating Knowledge’. \[February 1999\] available from <[https://www.supermemo.com/en/archives1990-2015/articles/20rules](https://www.supermemo.com/en/archives1990-2015/articles/20rules)\>\[/ref\] with a great set of examples.
+I've just provided the basic, must known principles, but there is more to it if you would like to create the most practical cards. Dr Piotr Woźniak, the author of SuperMemo software, explained this topic thoroughly in 20 rules[^6] with a great set of examples.
 
 \[caption id="attachment\_3466" align="aligncenter" width="513"\]![How Anki users deal with learning new information](images/Anki_new_information.png) It's just like when you [stir your data unless the ML algorithm works](https://pawelcislo.com/wp-content/uploads/2020/07/stir_data_meme.png), right? Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/g9otl1/shitpost_just_shove_dem_flashcards/)\[/caption\]
 
@@ -373,7 +373,7 @@ If by any reason you don't feel like using Anki, there do are other options whic
 - [ShortcutFoo](https://www.shortcutfoo.com/) ← fun way to memorise shortcuts and commands
 - [Tinycards](https://tinycards.duolingo.com/) ← flashcard app from the creators of Duolingo.
 
-Maybe the nature of flashcards still doesn't suit you? Well, then I hope that finding something inside [my list of recommendations](https://pawelcislo.com/recommendations/#ftoc-heading-44) will satisfy you. Alternatively, you might apply spaced repetition in an old-school way while using pen and paper in The Leitner Box methodology\[ref\]Wikipedia (2020) 'Leitner System'. \[10 July 2020\] available from <[https://en.wikipedia.org/wiki/Leitner\_system](https://en.wikipedia.org/wiki/Leitner_system)\>\[/ref\]:
+Maybe the nature of flashcards still doesn't suit you? Well, then I hope that finding something inside [my list of recommendations](https://pawelcislo.com/recommendations/#ftoc-heading-44) will satisfy you. Alternatively, you might apply spaced repetition in an old-school way while using pen and paper in The Leitner Box methodology[^7]:
 
 <iframe
   width="560"
@@ -486,4 +486,21 @@ Okay, I think it's much more than enough for you to start. My intend wasn't to m
 
 Now, my dear digital traveller, practice what you just learned and spread the knowledge!
 
-\[caption id="attachment\_3468" align="aligncenter" width="622"\]![ Posted byu/MCcmd Everything 8 months ago Me explaining Anki to people](images/Me_explaining_Anki-1024x671.jpg) Me explaining Anki to people. Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/dh7vsh/me_explaining_anki_to_people/)\[/caption\]
+![Me explaining Anki to people](images/Me_explaining_Anki-1024x671.jpg)
+_Me explaining Anki to people. Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/dh7vsh/me_explaining_anki_to_people/)_
+
+## References
+
+[^1]: Petriglieri, G. (2019) 'Learning for a Living'. [10 December 2019] available from <https://sloanreview.mit.edu/article/learning-for-a-living/>
+
+[^2]: Coleman, J. (2017) 'Lifelong Learning Is Good for Your Health, Your Wallet, and Your Social Life'. [2 February 2017] available from <https://hbr.org/2017/02/lifelong-learning-is-good-for-your-health-your-wallet-and-your-social-life>
+
+[^3]: Park, A. (2015) 'Mental and Social Activity Delays the Symptoms of Alzheimer's'. [10 June 2015] available from <https://time.com/3916777/alzheimers-symptoms-delay/>
+
+[^4]: Haviland, L. (2020) '"Jeopardy!" Champion Arthur Chu's Old-Fashioned Strategy For Winning Paid Off Big Time'. [26 June 2020] available from <https://www.cheatsheet.com/entertainment/jeopardy-champion-arthur-chus-old-fashioned-strategy-for-winning-paid-off-big-time.html/>
+
+[^5]: Nagelberg, M. (2020) 'How to Deal with Lists in Anki'. [6 July 2020] available from <http://www.marknagelberg.com/how-to-deal-with-lists-in-anki/>
+
+[^6]: Wozniak, P. (1999) 'Effective Learning: Twenty Rules of Formulating Knowledge'. [February 1999] available from <https://www.supermemo.com/en/archives1990-2015/articles/20rules>
+
+[^7]: Wikipedia (2020) 'Leitner System'. [10 July 2020] available from <https://en.wikipedia.org/wiki/Leitner_system>
