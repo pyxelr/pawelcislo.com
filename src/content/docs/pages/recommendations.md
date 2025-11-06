@@ -950,6 +950,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [Data Science Weekly](https://www.datascienceweekly.org/) ← featuring curated news, articles and jobs related to Data Science. You can read the [archive](https://www.datascienceweekly.org/newsletters) at any time
 - [DEV Community](https://dev.to/settings/notifications) ← weekly newsletter of top 7 posts (activate in settings of your account)
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) ← subscribe to weekly/daily sets of trending repositories from different languages
+- [Hacker News Daily](https://www.hackernewsdaily.com/) ← daily newsletter of best posts from Hacker News with AI summarizations
 - [Hacker Newsletter](https://hackernewsletter.com/) ← weekly newsletter of best posts from Hacker News
 - [Highbrow](https://gohighbrow.com/) ← choose a topic to learn and receive a daily message
 - [Infopigula](https://infopigula.pl/) (🇵🇱) ← the most important polish/global news in a nutshell
