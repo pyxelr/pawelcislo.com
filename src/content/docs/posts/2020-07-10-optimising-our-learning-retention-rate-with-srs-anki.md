@@ -10,8 +10,6 @@ tags:
 coverImage: "Flashcard_cover.png"
 ---
 
-\[su\_spoiler title="Last updated on: 02/04/2023" icon="plus-square-2"\] • \[02/04/2023\] Update the list of flashcards and plugins • \[20/03/2021\] Update the list of flashcards and plugins • \[10/07/2020\] Initial release\[/su\_spoiler\]
-
 ![Flashcards - Blog post background](images/Flashcards_background.png)
 
 **No, this article is not about some novel machine learning techniques, but it does cover the part of preparing a down to earth "_learning_ _model_".**

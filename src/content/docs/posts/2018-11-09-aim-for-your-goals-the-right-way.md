@@ -11,8 +11,6 @@ tags:
 coverImage: "Aim-for-your-goals-the-right-way-thumbnail.png"
 ---
 
-\[su\_spoiler title="Last updated on: 19/11/2021" icon="plus-square-2"\]• \[19/11/2021\] Update the currently applied set of Todoist projects & labels • \[09/11/2018\] Initial release\[/su\_spoiler\]
-
 ![](images/Aim-for-your-Goals-the-Right-Way-in-post.png)
 
 **How implementing the book knowledge from 2001 can increase the trust in collaboration with your team and let you finally fix your messy room.**
