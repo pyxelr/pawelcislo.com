@@ -10,6 +10,9 @@ export default defineConfig({
 			title: 'Paweł Cisło',
 			description: 'Personal website and blog of Paweł Cisło - MLOps Engineer, Data Scientist, and tech enthusiast',
 			customCss: ['./src/styles/custom.css'],
+			components: {
+				ThemeSelect: './src/components/ThemeSelect.astro',
+			},
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/pyxelr' },
 				{ icon: 'x.com', label: 'X', href: 'https://x.com/pawel_cislo' },
