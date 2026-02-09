@@ -104,7 +104,7 @@ No problem my friend. Just go on the home page and click the F5 page from time t
 
 No? That is too hard to press a single button?
 
-Okay... the alternative is to [sign up for my newsletter](http://eepurl.com/dDqG-z) or solely following me on social media (links in the header of this website and ["About Me" section](https://pawelcislo.com/about/)).
+Okay... the alternative is to [sign up for my newsletter](http://eepurl.com/dDqG-z) or solely following me on social media (links in the header of this website and ["About Me" section](https://pawelcislo.com/)).
 
 ## Addendum
 

@@ -26,7 +26,7 @@ If you have a question that was not listed on this page, please do not hesitate 
     Discipline.  
 
 5. **Places you are actively visible online?**  
-    See "My Internet Persona" section in the [About Me](https://pawelcislo.com/about/) page.  
+    See "My Internet Persona" section in the [About Me](https://pawelcislo.com/) page.  
 
 6. **Who are your life influencers and why?**  
     • [Mike Shinoda](http://www.mikeshinoda.com/) ← for the overall lifestyle, kindness, and performance in one of my favourite bands - Linkin Park  

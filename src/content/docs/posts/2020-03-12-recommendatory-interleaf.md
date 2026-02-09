@@ -54,7 +54,7 @@ As this is more of an "announcement" post, I will try to be as concise as possib
   - I've mainly explained the reason behind each of the individuals that inspires me
 - ✍ More citations in the [Favourite Thoughts](https://pawelcislo.com/favourite-thoughts/) segment
 - ✍ Redefined objectives in [Three Goals](https://pawelcislo.com/three-goals/). Being honest, it is very challenging to keep up with all these challenges in the face of unscheduled life novelties
-- ✍ Supplementary sections on the [About Me](https://pawelcislo.com/about/) page
+- ✍ Supplementary sections on the [About Me](https://pawelcislo.com/) page
   - Modified _Extra-professional Activities_
   - Summary of online presence within _My Internet Persona_
 - ✨ Redesigned [newsletter signup form](http://eepurl.com/dDqG-z)

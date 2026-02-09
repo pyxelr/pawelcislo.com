@@ -10,3 +10,11 @@
 	--sl-color-accent: #148991;
 	--sl-color-accent-high: #0a4448;
 }
+
+/* Avatar float right */
+.avatar-right {
+	float: right;
+	margin: 0 0 1rem 1.5rem;
+	max-width: 180px;
+	border-radius: 8px;
+}
