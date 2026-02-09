@@ -22,7 +22,7 @@ export default defineConfig({
 				{ icon: 'document', label: 'Hypothes.is', href: 'https://hypothes.is/users/pyxelr' },
 			],
 			sidebar: [
-				{ label: 'Home', link: '/' },
+				{ label: 'About', link: '/' },
 				{
 					label: 'Profile',
 					items: [
