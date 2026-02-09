@@ -3,7 +3,7 @@ title: "Portfolio"
 date: 2020-05-27
 ---
 
-For contract work, have a look at my [Résumé](https://pawelcislo.com/resume/).
+For contract work, have a look at my [Résumé](/Resume_PawelCislo.pdf).
 
 ### Projects
 
