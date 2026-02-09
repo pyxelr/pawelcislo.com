@@ -9,6 +9,7 @@ export default defineConfig({
 		starlight({
 			title: 'Paweł Cisło',
 			description: 'Personal website and blog of Paweł Cisło - MLOps Engineer, Data Scientist, and tech enthusiast',
+			customCss: ['./src/styles/custom.css'],
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/pyxelr' },
 				{ icon: 'x.com', label: 'X', href: 'https://x.com/pawel_cislo' },
