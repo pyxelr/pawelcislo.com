@@ -1,5 +1,5 @@
 ---
-title: "Is Data Science the inevitable cultivation?"
+title: "#7 – Is Data Science the inevitable cultivation?"
 date: 2019-03-25
 categories: 
   - "data-science"

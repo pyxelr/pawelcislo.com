@@ -1,5 +1,5 @@
 ---
-title: "Perplexing Ethics of AI"
+title: "#9 – Perplexing Ethics of AI"
 date: 2019-06-02
 categories: 
   - "data-science"

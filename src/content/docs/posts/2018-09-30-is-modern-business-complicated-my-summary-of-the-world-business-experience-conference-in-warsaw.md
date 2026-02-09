@@ -1,5 +1,5 @@
 ---
-title: "Is modern business complicated? My summary of the World Business Experience conference in Warsaw"
+title: "#3 – Is modern business complicated? My summary of the World Business Experience conference in Warsaw"
 date: 2018-09-30
 categories: 
   - "overtime"

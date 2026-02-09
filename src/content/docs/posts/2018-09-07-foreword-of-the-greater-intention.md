@@ -1,5 +1,5 @@
 ---
-title: "Foreword of the Greater Intention"
+title: "#1 – Foreword of the Greater Intention"
 date: 2018-09-07
 categories: 
   - "announcement"
