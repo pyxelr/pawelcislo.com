@@ -8,6 +8,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Paweł Cisło',
+			logo: {
+				src: './src/assets/favicon.svg',
+			},
 			description: 'Personal website and blog of Paweł Cisło - MLOps Engineer, Data Scientist, and tech enthusiast',
 			customCss: ['./src/styles/custom.css'],
 			components: {
