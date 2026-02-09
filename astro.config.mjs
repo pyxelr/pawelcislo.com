@@ -27,6 +27,7 @@ export default defineConfig({
 					label: 'Profile',
 					items: [
 						{ label: 'Portfolio', slug: 'pages/portfolio' },
+						{ label: 'Uses', slug: 'pages/uses' },
 						{ label: 'Contact', slug: 'pages/contact' },
 					],
 				},
