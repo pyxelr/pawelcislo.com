@@ -1,5 +1,6 @@
 ---
 title: "#12 – Optimising our learning retention rate with SRS (Anki)"
+slug: posts/optimising-our-learning-retention-rate-with-srs-anki
 date: 2020-07-10
 categories: 
   - "lifestyle"

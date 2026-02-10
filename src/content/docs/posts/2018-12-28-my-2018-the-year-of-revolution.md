@@ -1,5 +1,6 @@
 ---
 title: "#5 – My 2018 – The Year of Revolution"
+slug: posts/my-2018-the-year-of-revolution
 date: 2018-12-28
 categories: 
   - "overtime"

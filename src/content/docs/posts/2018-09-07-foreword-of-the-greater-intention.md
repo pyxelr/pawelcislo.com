@@ -1,5 +1,6 @@
 ---
 title: "#1 – Foreword of the Greater Intention"
+slug: posts/foreword-of-the-greater-intention
 date: 2018-09-07
 categories: 
   - "announcement"

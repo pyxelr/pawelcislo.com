@@ -1,5 +1,6 @@
 ---
 title: "#11 – Recommendatory Interleaf"
+slug: posts/recommendatory-interleaf
 date: 2020-03-12
 categories: 
   - "announcement"

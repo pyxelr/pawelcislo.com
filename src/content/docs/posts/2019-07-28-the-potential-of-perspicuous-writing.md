@@ -1,5 +1,6 @@
 ---
 title: "#10 – The Potential of Perspicuous Writing"
+slug: posts/the-potential-of-perspicuous-writing
 date: 2019-07-28
 categories: 
   - "lifestyle"

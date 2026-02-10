@@ -1,5 +1,6 @@
 ---
 title: "#6 – Learn Programming The Powerful Way (or anything else)"
+slug: posts/learn-programming-the-powerful-way-or-anything-else
 date: 2019-02-18
 categories: 
   - "programming"

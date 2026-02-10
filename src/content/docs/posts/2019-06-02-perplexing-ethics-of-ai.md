@@ -1,5 +1,6 @@
 ---
 title: "#9 – Perplexing Ethics of AI"
+slug: posts/perplexing-ethics-of-ai
 date: 2019-06-02
 categories: 
   - "data-science"

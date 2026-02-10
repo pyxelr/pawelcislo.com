@@ -1,5 +1,6 @@
 ---
 title: "#13 – My VS Code Playground"
+slug: posts/my-vs-code-playground
 date: 2021-11-14
 categories: 
   - "programming"

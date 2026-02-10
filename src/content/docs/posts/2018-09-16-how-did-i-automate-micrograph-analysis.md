@@ -1,5 +1,6 @@
 ---
 title: "#2 – How did I automate Micrograph Analysis?"
+slug: posts/how-did-i-automate-micrograph-analysis
 date: 2018-09-16
 categories: 
   - "data-science"

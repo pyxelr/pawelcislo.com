@@ -1,5 +1,6 @@
 ---
 title: "#4 – Aim for your goals the right way"
+slug: posts/aim-for-your-goals-the-right-way
 date: 2018-11-09
 categories: 
   - "lifestyle"
