@@ -3,8 +3,6 @@ title: "Favourite Thoughts"
 date: 2018-08-18
 ---
 
-_Last updated on: 30/09/2025_
-
 The place to store all the ideas, thoughts and tips that inspired me. From time to time, I tend to throw in my own reflections.
 
 _Note_: Each notion has its author, date of my discovery and sometimes a hyperlink to the source. Part of the citations originally come from a different language, what has been marked with the appropriate flag, such as (🇵🇱) for Polish.
