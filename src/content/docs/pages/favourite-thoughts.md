@@ -139,10 +139,7 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
   - "_More and more often I realise that making decisions that we are proud of is one of the most important things we can do in our life._" ~ [MiroBurn](https://www.youtube.com/watch?v=t8h9Vyu6NGI) (🇵🇱)  
 
 - 22/08/2018
-  - "_Find any job. Find a good leader. Do your job. Learn. If needed, get promoted. Do it as long as you learn._  
-                  _A) find the next leader and repeat_  
-                  _B) based on experience, build your own company_  
-        _Option A is easy. Option B is challenging but more profitable._"~ [MiroBurn](https://twitter.com/miroburn/status/1004027894958608389) (🇵🇱)  
+  - "_Find any job. Find a good leader. Do your job. Learn. If needed, get promoted. Do it as long as you learn. A) find the next leader and repeat B) based on experience, build your own company. Option A is easy. Option B is challenging but more profitable._" ~ [MiroBurn](https://twitter.com/miroburn/status/1004027894958608389) (🇵🇱)
 
 - 27/08/2018
   - "_If you have to take a holiday from work, it means that you have to change this job (especially if you feel a burnout). Look for a job where you go on vacation, because you can, not because you have to._" ~ [MiroBurn](https://youtu.be/TMcDlQ__wU8?t=4m19s) (🇵🇱)
@@ -160,10 +157,7 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
   - "_If you do what you love, you'll never work a day in your life._" - Marc Anthony
     - But, the other side of the coin is "_Make money on what you love, and you will never leave the job._" ~ [Maciej Aniserowicz](https://youtu.be/NtcTQJCFFEU?t=4m6s) (🇵🇱)
   - "_Should you become a photographer or a programmer? In my opinion, it is good to do both. Do two things, one of which will be purely profitable and the other will be a hobby._" ~ [Maciej Aniserowicz](https://youtu.be/NtcTQJCFFEU?t=4m58s) (🇵🇱)
-  - "_Find 3 hobbies you love:_  
-                  _1) One to make you $$_  
-                  _2) One to keep you in shape_  
-                  _3) And one to be creative_" ~ Unknown author  
+- "_Find 3 hobbies you love: 1) One to make you $$, 2) One to keep you in shape, 3) And one to be creative._" ~ Unknown author
 
 - 21/09/2018
   - "_Being an entrepreneur is like being a painter or someone who creates in general. You can have one painting, create it for your entire life and make it perfect, but sometimes we want to do something different. Even if the next work is not that beautiful as others, if we just exclude the subject of comparing ourselves, and we will start to look at it as on creating something wonderful, we will see the need of our work._" ~ [MiroBurn](https://youtu.be/cIeRJdsV5-8?t=5m15s) (🇵🇱)  
@@ -227,11 +221,8 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
   - “_If you want something to be part of your identity, talk about it. If you want to learn something, teach it._” ~ [Justin Kan](https://podcastnotes.org/2019/06/12/kan/)  
 
 - 30/08/2019
-  - "_You know yourself mostly by your thoughts._  
-        _Everyone else in the world knows you only by your actions._  
-        _Remember this when you feel misunderstood. You have to do or say something for others to know how you feel._" ~ James Clear
-  - "_Habits will form whether you want them or not._  
-        _Whatever you repeat, you reinforce._" ~ James Clear  
+  - "_You know yourself mostly by your thoughts. Everyone else in the world knows you only by your actions. Remember this when you feel misunderstood. You have to do or say something for others to know how you feel._" ~ James Clear
+  - "_Habits will form whether you want them or not. Whatever you repeat, you reinforce._" ~ James Clear  
 
 - 27/11/2019
   - Definition Of Hell: “_On your last day on earth, the person you became will meet the person you could have become._” ~ Unknown author  
@@ -241,8 +232,7 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
   - "_Going to gym for 5 minutes might not transform your body, but it does reaffirm your identity._" ~ James Clear  
 
 - 12/12/2019
-  - "_Modern society is defined by an excess of opportunity. We have more information, more products, and more options than ever before._  
-        _As a result, curating, filtering, and refining are more important skills than ever before. Those who edit best will find the signal in the noise._" ~ James Clear  
+  - "_Modern society is defined by an excess of opportunity. We have more information, more products, and more options than ever before. As a result, curating, filtering, and refining are more important skills than ever before. Those who edit best will find the signal in the noise._" ~ James Clear  
 
 - 20/12/2019
   - "_In fact, the most powerful form of hard work is thinking clearly. Designing a winning strategy may not look very active, but make no mistake: it is very hard work._" ~ James Clear
@@ -262,9 +252,7 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
   - "_When you tell yourself "just one more game" or "just one more post", or "just one more video" and end up doing 3-5 hours more, do that with your other tasks too! "just one line of code", "just one tutorial", "just one rep", "just one line of reading/writing._" ~ [Stay\_Frosty\_Friends](https://www.reddit.com/r/productivity/comments/cdir3g/trick_yourself_into_productivity_the_same_way_you/)  
 
 - 19/03/2020
-  - "_The most useful form of patience is persistence._  
-        _Patience implies waiting for things to improve on their own._  
-        _Persistence implies keeping your head down and continuing to work when things take longer than you expect._" ~ James Clear  
+  - "_The most useful form of patience is persistence. Patience implies waiting for things to improve on their own. Persistence implies keeping your head down and continuing to work when things take longer than you expect._" ~ James Clear  
 
 - 27/04/2020
   - "_What Matters In Media: People pay for premium content for the content itself and connection to the creator, not for studio lighting and animations_" ~ [Erika Nardini](https://podcastnotes.org/north-star-podcast/erika-nardini-media/)  
@@ -273,70 +261,46 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
   - "_Sometimes you have to separate yourself from everything you know, in order to grow as a person… Can you really hear yourself with all that noise?_" ~ [Souhex](https://www.youtube.com/watch?v=K6qqYlRI7Cg)  
 
 - 21/05/2020
-  - "_There are 3 primary drivers of results in life:_  
-                  _1) Your luck (randomness)._  
-                  _2) Your strategy (choices)._  
-                  _3) Your actions (habits)._  
-
-        _Only 2 of the 3 are under your control. But if you master those 2, you can improve the odds that luck will work for you rather than against you._" ~ James Clear  
-
+  - "_There are 3 primary drivers of results in life: 1) Your luck (randomness), 2) Your strategy (choices), 3) Your actions (habits). Only 2 of the 3 are under your control. But if you master those 2, you can improve the odds that luck will work for you rather than against you._" ~ James Clear
 - 02/06/2020
-  - "_Five thoughts on writing:_  
-        _1) Great writers comfort the confused and confuse the comforted._  
-        _​2) We tell stories when the truth is too painful to talk about directly._  
-        _​3) Writing every day is the best way to become a better public speaker. Talking about things you’ve already written about it easy, and your ideas will be so well-structured that people will call you a genius._  
-        _​4) Writing becomes a lot easier once you realize people only remember your best work._  
-        _​5) Writing isn’t the byproduct of deep thinking. It's where deep thinking actually happens._" ~ David Perell (Monday Musings 6/1/2020)  
+  - "_Five thoughts on writing: 1) Great writers comfort the confused and confuse the comforted. 2) We tell stories when the truth is too painful to talk about directly. 3) Writing every day is the best way to become a better public speaker. Talking about things you've already written about it easy, and your ideas will be so well-structured that people will call you a genius. 4) Writing becomes a lot easier once you realize people only remember your best work. 5) Writing isn't the byproduct of deep thinking. It's where deep thinking actually happens._" ~ David Perell (Monday Musings 6/1/2020)
 
 - 12/06/2020
   - "_You keep on learning and learning, and pretty soon you learn something no one has learned before_" - [Richard Feynman](https://mathoverflow.net/a/43712)  
 
 - 09/07/2020
-  - "_3 things that help habits stick:_  
-        _1) Repetition. Habits form based on frequency, not time._  
-        _2) Stable context. If the context is always changing, so is the behavior. You need a reliable environment._  
-        _3) Positive emotions. If it feels good, you’ll want to repeat it._" ~ James Clear
+  - "_3 things that help habits stick: 1) Repetition. Habits form based on frequency, not time. 2) Stable context. If the context is always changing, so is the behavior. You need a reliable environment. 3) Positive emotions. If it feels good, you'll want to repeat it._" ~ James Clear
   - "_When you lose track of time, you are either living your best life or wasting it._" ~ James Clear  
 
 - 14/07/2020
-  - "_Hard times create strong men. Strong men create good times. Good times create weak men. And, weak men create hard times."_ ~ G. Michael Hopf  
+  - "_Hard times create strong men. Strong men create good times. Good times create weak men. And, weak men create hard times._" ~ G. Michael Hopf  
 
 - 28/07/2020
-  - "_As many languages you know, as many times you are a human being."_ ~ Johann Wolfgang von Goethe  
+  - "_As many languages you know, as many times you are a human being._" ~ Johann Wolfgang von Goethe  
 
 - 23/09/2020
-  - "_You should write every day, even if it's torturous, even if you hate it, you sit down and say: "this is not what I wanna be doing, I'm not in the mood, I've got too many things going on". But you should do it anyway, cause it keeps your creative muscles strong, and eventually, even on the bad day, you can come up with something that's remarkable and surprising that you can use later."_ ~ [Mike Shinoda addressing the idea from Stephen King's book "On Writing"](https://youtu.be/r6LaPAFQoko?t=974)  
+  - "_You should write every day, even if it's torturous, even if you hate it, you sit down and say: "this is not what I wanna be doing, I'm not in the mood, I've got too many things going on". But you should do it anyway, cause it keeps your creative muscles strong, and eventually, even on the bad day, you can come up with something that's remarkable and surprising that you can use later._" ~ [Mike Shinoda addressing the idea from Stephen King's book "On Writing"](https://youtu.be/r6LaPAFQoko?t=974)  
 
 - 30/10/2020
-  - "_Reading can teach you the best of what others already know._  
-        _Reflection can teach you the best of what only you can know._" ~ James Clear  
+  - "_Reading can teach you the best of what others already know. Reflection can teach you the best of what only you can know._" ~ James Clear  
 
 - 12/11/2020
-  - "_When reading books or listening to podcasts or taking advice, remember that everyone is biased to their personal history._  
-        _The world is complex and there is no single path to a success. Look for patterns that are repeated across many successful people, not single stories._" ~ James Clear
+  - "_When reading books or listening to podcasts or taking advice, remember that everyone is biased to their personal history. The world is complex and there is no single path to a success. Look for patterns that are repeated across many successful people, not single stories._" ~ James Clear
 
 ## 2021
 
 - 25/02/2021
-  - "_Clarity is the elimination of mental clutter._  
-        _Agility is the elimination of physical clutter._  
-        _Tranquility is the elimination of spiritual clutter._" ~ James Clear  
+  - "_Clarity is the elimination of mental clutter. Agility is the elimination of physical clutter. Tranquility is the elimination of spiritual clutter._" ~ James Clear  
 
 - 27/02/2021
   - "_Einstein’s fundamental creed was that freedom was the lifeblood of creativity. “The development of science and of the creative activities of the spirit,” he said, “requires a freedom that consists in the independence of thought from the restrictions of authoritarian and social prejudice.” Nurturing that should be the fundamental role of government, he felt, and the mission of education._" ~ from the biography: [Einstein: His Life and Universe](https://www.goodreads.com/book/show/8030965-einstein)  
 
 - 05/03/2021
-  - "_People generally have more control over their actions than their feelings._  
-        _But we can influence our feelings by taking action._  
-        _Take one small step. Move the body first and the mind will follow._" ~ James Clear  
+  - "_People generally have more control over their actions than their feelings. But we can influence our feelings by taking action. Take one small step. Move the body first and the mind will follow._" ~ James Clear  
 
 - 18/03/2021
-  - "_New goals don't deliver new results. New lifestyles do._  
-        _And a lifestyle is a process, not an outcome._  
-        _For this reason, your energy should go into building better habits, not chasing better results._" ~ James Clear
-  - "_Some things are better off ignored than attacked._  
-        _Attention is the oxygen of conflict. When you fight a problem, you breathe life into it. When you starve a problem of your attention, you suffocate it._  
-        _In a surprising number of cases, the way to solve a problem is to ignore it._" ~ James Clear  
+  - "_New goals don't deliver new results. New lifestyles do. And a lifestyle is a process, not an outcome. For this reason, your energy should go into building better habits, not chasing better results._" ~ James Clear
+  - "_Some things are better off ignored than attacked. Attention is the oxygen of conflict. When you fight a problem, you breathe life into it. When you starve a problem of your attention, you suffocate it. In a surprising number of cases, the way to solve a problem is to ignore it._" ~ James Clear  
 
 - 15/05/2021
   - "_Half-formed ideas, they float around. They come from different places, and the mind has got this wonderful way of somehow just shoveling them around until one day they fit. They may fit not so well, and then we go for a bike ride or something, and it’s better._" ~ Tim Berners-Lee interview, Academy of Achievement, June 22, 2007 (I found it in the book [The Innovators](https://www.goodreads.com/book/show/23813606-the-innovators))  
@@ -345,9 +309,7 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
   - "_Play better games. Win better prizes._" ~ James Clear  
 
 - 09/09/2021
-  - "_Friendship happens on the way to something else._  
-        _If you "try to meet new people" it feels weird and forced. The more you aim for friendship, the more it eludes you._  
-        _But if you aim to learn or achieve something with others, friendship happens naturally during the shared pursuit._" ~ James Clear  
+  - "_Friendship happens on the way to something else. If you "try to meet new people" it feels weird and forced. The more you aim for friendship, the more it eludes you. But if you aim to learn or achieve something with others, friendship happens naturally during the shared pursuit._" ~ James Clear  
 
 - 08/11/2021
   - "_Try your best to be right, but don't worry when you're wrong. Repeatedly. If you feel uncomfortable, or like an impostor, good. You're pushing yourself. Don't assume you know everything, but try your best anyway, and let the internet correct you when you are inevitably wrong. Wear your noobyness on your sleeve._" ~ [Shawn Wang (swyx)](https://www.swyx.io/learn-in-public/)
@@ -364,18 +326,10 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
   - "_What may be a hassle at first soon becomes habit, and eventually a source of pride and productivity for all involved._" ~ [cbeams](https://cbea.ms/git-commit/#:~:text=What%20may%20be%20a%20hassle%20at%20first%20soon%20becomes%20habit%2C%20and%20eventually%20a%20source%20of%20pride%20and%20productivity%20for%20all%20involved.)  
 
 - 17/11/2022
-  - “_Persistence and variety. These are the two primary ways to develop great ideas or to solve important problems.  
-
-        __Keep leaning your head against a topic for a long time. Certainly for weeks, possibly for years. And along the way, try many lines of attack. Continue to generate options, explore paths, and propose silly ideas. Copy and paste concepts from widely different disciplines and see if it gets you anywhere. All the while, continue to refine the best solution you’ve found thus far.  
-
-        __What looks like genius may simply be the byproduct of persistence and variety._“ ~ James Clear  
+  - "_Persistence and variety. These are the two primary ways to develop great ideas or to solve important problems.<br/><br/>Keep leaning your head against a topic for a long time. Certainly for weeks, possibly for years. And along the way, try many lines of attack. Continue to generate options, explore paths, and propose silly ideas. Copy and paste concepts from widely different disciplines and see if it gets you anywhere. All the while, continue to refine the best solution you've found thus far.<br/><br/>What looks like genius may simply be the byproduct of persistence and variety._" ~ James Clear
 
 - 24/11/2022
-  - "_The truth about productivity is that it's not really about the apps, it's not really about having a perfect system or about being disciplined or motivated more than anyone else.  
-        _  
-        _When I think of my own life and how I do things like: YouTube channel, entrepreneurship, medical school, being a doctor, none of it feels like suffering, none of it feels like a grind. So, when my housemate says: "It's 11 o'clock at night, why are you still working?", it's always a bit surprising because it really doesn't feel like work because it's actually fun.  
-        _  
-        _The main insight that I've realized is that productivity isn't really about getting more things done, it's mostly about LEARNING TO ENJOY THE JOURNEY._" ~ [Ali Abdaal](https://www.youtube.com/shorts/zbGR03h1uAU)  
+  - "_The truth about productivity is that it's not really about the apps, it's not really about having a perfect system or about being disciplined or motivated more than anyone else.<br/><br/>When I think of my own life and how I do things like: YouTube channel, entrepreneurship, medical school, being a doctor, none of it feels like suffering, none of it feels like a grind. So, when my housemate says: "It's 11 o'clock at night, why are you still working?", it's always a bit surprising because it really doesn't feel like work because it's actually fun.<br/><br/>The main insight that I've realized is that productivity isn't really about getting more things done, it's mostly about LEARNING TO ENJOY THE JOURNEY._" ~ [Ali Abdaal](https://www.youtube.com/shorts/zbGR03h1uAU)  
 
 - 30/12/2022
   - "_If you find that you're spending almost all your time on theory, start turning some attention to practical things; it will improve your theories. If you find that you're spending almost all your time on practice, start turning some attention to theoretical things; it will improve your practice._" ~ Donald Knuth
@@ -383,21 +337,13 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
 ## 2023
 
 - 25/05/2023  
-  - "_One of the most valuable skills in life is being able to see another person's perspective._  
-
-        _If you're going to someone's house, think about how it might feel to be the host. If you're creating a product, spend as much time as possible thinking like the customer. If you're calling customer service, think about how it might feel to be on the other end of the conversation._  
-
-        _The more clearly you understand the viewpoint of your spouse or customer or coworker, the better positioned you are to find a solution._" ~ James Clear  
+  - "_One of the most valuable skills in life is being able to see another person's perspective.<br/><br/>If you're going to someone's house, think about how it might feel to be the host. If you're creating a product, spend as much time as possible thinking like the customer. If you're calling customer service, think about how it might feel to be on the other end of the conversation.<br/><br/>The more clearly you understand the viewpoint of your spouse or customer or coworker, the better positioned you are to find a solution._" ~ James Clear  
 
 - 28/05/2023  
   - "_Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way._" ~ Viktor E. Frankl in [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
 
 - 24/11/2023  
-  - "_You probably don't want maximum effectiveness.  
-
-        __For example, the most effective way to make money likely requires a lifestyle you don't want to live. Instead, you want the most effective path that fits your desired lifestyle.  
-
-        __How do you want to spend your days? Start there, then optimize._" ~ James Clear
+  - "_You probably don't want maximum effectiveness.<br/><br/>For example, the most effective way to make money likely requires a lifestyle you don't want to live. Instead, you want the most effective path that fits your desired lifestyle.<br/><br/>How do you want to spend your days? Start there, then optimize._" ~ James Clear
 
 ## 2024
 
@@ -410,22 +356,10 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
   - "_I think a lot of people, they do like the company of others, but I think they maybe like the company of others because it takes them off their own mind._" ~ [Bryan Johnson](https://youtu.be/Ci7cWTGLm1Q?si=uN8fwpxEOfNmEZnG&t=970)
 
 - 03/07/2025  
-  - "_Three qualities that have nothing to do with talent or intelligence, but can make a dramatic impact on your results:  
-        __\- Cheerful. You are pleasant to work with and generally raise the level of energy in the room._  
-        _\- Accountable. You feel personally responsible for what you want to accomplish. It is not someone else's job. It's your job._  
-        _\- Adaptable. You can find alternate paths to success. You don't need things to be a certain way to be happy._" ~ James Clear
+  - "_Three qualities that have nothing to do with talent or intelligence, but can make a dramatic impact on your results: Cheerful - You are pleasant to work with and generally raise the level of energy in the room. Accountable - You feel personally responsible for what you want to accomplish. It is not someone else's job. It's your job. Adaptable - You can find alternate paths to success. You don't need things to be a certain way to be happy._" ~ James Clear
 
 - 14/08/2025  
-  - "_Running one mile has more in common with running a marathon than sitting at home.  
-        __  
-        Investing $100 has more in common with being a millionaire than being broke.  
-        __  
-        Writing one sentence has more in common with writing a book than never writing one.  
-        __  
-        It always feels small in the beginning and the big goals seem far away. It's easy to talk yourself out of the early attempts because they feel kind of meaningless.  
-        __But every race starts with one step. Every fortune starts with a small deposit. Every book begins as one sentence.  
-        _  
-        The real question is not "What is my current position?" but rather, "What is my current trajectory?" Doing nothing builds nothing. Put yourself on the path to something better. Start small, but make sure you start._"_ ~ James Clear
+  - "_Running one mile has more in common with running a marathon than sitting at home.<br/><br/>Investing $100 has more in common with being a millionaire than being broke.<br/><br/>Writing one sentence has more in common with writing a book than never writing one.<br/><br/>It always feels small in the beginning and the big goals seem far away. It's easy to talk yourself out of the early attempts because they feel kind of meaningless.<br/><br/>But every race starts with one step. Every fortune starts with a small deposit. Every book begins as one sentence.<br/><br/>The real question is not "What is my current position?" but rather, "What is my current trajectory?" Doing nothing builds nothing. Put yourself on the path to something better. Start small, but make sure you start._" ~ James Clear
 
 - 30/09/2025  
   - "_I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel._" ~ Maya Angelou
@@ -438,5 +372,4 @@ Want more? Make sure to check this site later, as I will be adding new content e
 
 I can also recommend you to check these Twitter profiles, which will give you a great reflection time:
 
-- [Muaaz Quadri](https://twitter.com/muaaz_qadri)
 - [The Stoic Emperor](https://twitter.com/TheStoicEmperor)
