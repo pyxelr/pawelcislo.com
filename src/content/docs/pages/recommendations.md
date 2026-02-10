@@ -5,7 +5,7 @@ date: 2019-11-24
 
 All of my recommendations for aspiring engineers in a single place, coming from various areas of interest. The principal scope supports data science, programming, python, math, cybersecurity, business, and productivity.
 
-The list also aggregates and extends most of the suggestions from my blog posts, where some of the entries come from a different language (🇵🇱). Although it's my personal list, don't hesitate to [tell me](https://pawelcislo.com/contact/) if I missed something interesting or if there is a dead link. You are also welcome to create a pull request and see the history of edits in the [GitHub repo](https://github.com/pyxelr/recommendations-for-engineers).
+The list also aggregates and extends most of the suggestions from my blog posts, where some of the entries come from a different language (🇵🇱). Although it's my personal list, don't hesitate to [tell me](/pages/contact/) if I missed something interesting or if there is a dead link. You are also welcome to create a pull request and see the history of edits in the [GitHub repo](https://github.com/pyxelr/recommendations-for-engineers).
 
 _Tip_: The catalogue is sorted chronologically, but I believe it is easier and more practical to browse this site by categories (using the TOC).
 
@@ -656,7 +656,7 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 
 ### flashcards
 
-I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog post](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/).
+I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog post](/posts/optimising-our-learning-retention-rate-with-srs-anki/).
 
 - [Anki](https://apps.ankiweb.net/) ← my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/my-anki-decks-of-flashcards)
 - [flashcards.wizardzines](https://flashcards.wizardzines.com/) ← set of flashcards from Julia Evans
@@ -1082,7 +1082,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 - [Raindrop.io](https://raindrop.io/) ← bookmark manager (Pocket like app)
 - [RemNote](https://www.remnote.io/homepage) ← note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
 - [Roam](https://roamresearch.com/) ← note-taking tool as powerful as a graph database, applying the Zettelkasten method (alternative to Obsidian)
-- [Todoist](https://todoist.com/r/pyxelr_kjtwbq) ← my daily to-do app (using this link you will get 2 months of premium for free!). If you don't know how to start, [check out my Todoist setup](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/#ftoc-heading-3) and inspire yourself!
+- [Todoist](https://todoist.com/r/pyxelr_kjtwbq) ← my daily to-do app (using this link you will get 2 months of premium for free!). If you don't know how to start, [check out my Todoist setup](/posts/aim-for-your-goals-the-right-way/#todoist) and inspire yourself!
 - [Toggl](https://toggl.com/) ← the most integrated time tracker
 
 ## 👨‍💻 Programming
@@ -1118,7 +1118,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
   - [RStudio](https://rstudio.com/) ← R IDE
 - [Google Colab](https://colab.research.google.com/) ← alternative to Jupyter Notebook. Run your code entirely in the browser and improve the model learning time by leveraging Google's GPU/TPU
 - [PyCharm](https://www.jetbrains.com/pycharm/) ← more robust Python IDE
-- [Visual Studio Code](https://code.visualstudio.com/) ← highly extensible IDE from Microsoft (explained thoroughly in [My VS Code Playground](https://pawelcislo.com/2021/11/14/my-vs-code-playground/) blog post)
+- [Visual Studio Code](https://code.visualstudio.com/) ← highly extensible IDE from Microsoft (explained thoroughly in [My VS Code Playground](/posts/my-vs-code-playground/) blog post)
 - [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text)
 
 ### online tools
@@ -1488,7 +1488,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 - [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) ← list of student discounts for learning & development
 - [DistroTest](https://distrotest.net/) ← try running any Linux distro in the cloud VM
 - [Follow Friday](https://followfriday.io/) ← interesting people to follow, categorised by topics like AI, design or programming
-  - [list of accounts I'm following](https://twitter.com/pawel_cislo/following) ← all the people that influence my writing on [pawelcislo.com](https://pawelcislo.com/)
+  - [list of accounts I'm following](https://twitter.com/pawel_cislo/following) ← all the people that influence my writing on [pawelcislo.com](/)
 - [Future Timeline](https://www.futuretimeline.net/) ← timeline of future predictions
 - [How much free time do you have?](https://erikrood.com/Posts/free_time_calc.html) ← specify values and get the result
 - [Internet Archive](https://archive.org/web/) ← wayback machine with a digital library of Internet sites

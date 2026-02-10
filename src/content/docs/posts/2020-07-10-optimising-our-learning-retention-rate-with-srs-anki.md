@@ -107,7 +107,7 @@ I know such dull explanations of spaced repetition can be tiresome, but luckily 
 
 ## Setting up Anki
 
-At first, the use of this software won't be the most straightforward in comparison to [its alternatives](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/#ftoc-heading-14), but as we know, there are no ideal solutions. In this section, I'll provide you with the information that will save you lots of time to start your first studying session.
+At first, the use of this software won't be the most straightforward in comparison to [its alternatives](/posts/optimising-our-learning-retention-rate-with-srs-anki/#i-dont-like-anki-what-else-can-i-use), but as we know, there are no ideal solutions. In this section, I'll provide you with the information that will save you lots of time to start your first studying session.
 
 ### Quick installation guide
 
@@ -119,7 +119,7 @@ At first, the use of this software won't be the most straightforward in comparis
 
 ### How to use Anki
 
-Unfortunately, installing Anki doesn't make you ready to start your study sessions. It's somewhat comparable to buying a blank notebook from which you could've studied, but it's missing your notes. Luckily for us, the community is quite generous, and there're lots of great flashcards already available. You'll find some great examples in [the further part of this post](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/#ftoc-heading-11).
+Unfortunately, installing Anki doesn't make you ready to start your study sessions. It's somewhat comparable to buying a blank notebook from which you could've studied, but it's missing your notes. Luckily for us, the community is quite generous, and there're lots of great flashcards already available. You'll find some great examples in [the further part of this post](/posts/optimising-our-learning-retention-rate-with-srs-anki/#my-flashcards).
 
 Just like before, it's best to present some things visually. Here is one of the most practical YouTube tutorials showing the most common Anki functions (card reveal, clozes, image occlusion). If you don't feel like watching the entire clip, you can use the predefined timestamps to go to the right part (to see them, open the video on the YouTube website).
 
@@ -135,12 +135,12 @@ Just like before, it's best to present some things visually. Here is one of the 
 
 As previously mentioned, we can get some premade cards, but it's like learning from someone's else notes. Making cards isn't as bad once we make at least one of them. I bet you'll also enjoy card formatting with the CSS code, so the card looks more eye-pleasing (but don't spend too much time on that!).
 
-Nonetheless, there are ways to facilitate the card-creation process. For example, if you tend to annotate some text online (such as I do with [Hypothesis](https://hypothes.is/users/pyxelr)), you can use your annotation on the front side of the card and the highlighted part as the answer (back side). Apart from Hypothesis, you may also try using a different annotation tool – Polar that officially supports such conversion [straight from its software](https://getpolarized.io/docs/anki-sync-for-spaced-repetition.html). You can even get automatically generated cards from the displayed word definitions or highlights you create on your Kindle device (the required tools are mentioned in [the further part of this post](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/#ftoc-heading-12)).
+Nonetheless, there are ways to facilitate the card-creation process. For example, if you tend to annotate some text online (such as I do with [Hypothesis](https://hypothes.is/users/pyxelr)), you can use your annotation on the front side of the card and the highlighted part as the answer (back side). Apart from Hypothesis, you may also try using a different annotation tool – Polar that officially supports such conversion [straight from its software](https://getpolarized.io/docs/anki-sync-for-spaced-repetition.html). You can even get automatically generated cards from the displayed word definitions or highlights you create on your Kindle device (the required tools are mentioned in [the further part of this post](/posts/optimising-our-learning-retention-rate-with-srs-anki/#my-plugins)).
 
-Once you have your cards, it's crucial to be consistent with your studies. To help yourself with it, you can use a review heatmap to have a quick glance over your frequency, as well as define a [goal similar to mine](https://pawelcislo.com/three-goals/): "_Daily Anki Flashcards_". Try to do your studies at the same time of the day, so it will become a habit just like brushing your teeth. To contribute to the community, don't forget to [share some of your creations](https://ankiweb.net/shared/decks/).
+Once you have your cards, it's crucial to be consistent with your studies. To help yourself with it, you can use a review heatmap to have a quick glance over your frequency, as well as define a [goal similar to mine](/pages/three-goals/): "_Daily Anki Flashcards_". Try to do your studies at the same time of the day, so it will become a habit just like brushing your teeth. To contribute to the community, don't forget to [share some of your creations](https://ankiweb.net/shared/decks/).
 
 ![Sample of my 3 Anki goals of a Three Goals programme](images/example_of_my_3_Anki_levels.png)
-_Sample of my 3 Anki goals of a [Three Goals](https://pawelcislo.com/three-goals/) programme_
+_Sample of my 3 Anki goals of a [Three Goals](/pages/three-goals/) programme_
 
 ### Make effective flashcards
 
@@ -382,7 +382,7 @@ If by any reason you don't feel like using Anki, there do are other options whic
 - [ShortcutFoo](https://www.shortcutfoo.com/) ← fun way to memorise shortcuts and commands
 - [Tinycards](https://tinycards.duolingo.com/) ← flashcard app from the creators of Duolingo.
 
-Maybe the nature of flashcards still doesn't suit you? Well, then I hope that finding something inside [my list of recommendations](https://pawelcislo.com/recommendations/#ftoc-heading-44) will satisfy you. Alternatively, you might apply spaced repetition in an old-school way while using pen and paper in The Leitner Box methodology[^7]:
+Maybe the nature of flashcards still doesn't suit you? Well, then I hope that finding something inside [my list of recommendations](/pages/recommendations/#ftoc-heading-44) will satisfy you. Alternatively, you might apply spaced repetition in an old-school way while using pen and paper in The Leitner Box methodology[^7]:
 
 <iframe
   width="560"
@@ -398,7 +398,7 @@ Maybe the nature of flashcards still doesn't suit you? Well, then I hope that fi
 
 If you still bravely decided to stay with Anki despite all this plethora of information, there is a great reason to gamify your sessions. Why so? Have you wondered why Duolingo remains so popular and **enjoyable**? Well, its developers knew how to gamify the experience by providing us with achievements, sounds, day streaks, internal currency and variations of exercises. In fact, [Duolingo knows and applies spaced repetition in its sessions](https://blog.duolingo.com/how-we-learn-how-you-learn/).
 
-Gamifying Anki will help us stick to it thanks to the additional reinforcement to do our best. We can do it by installing/developing plugins that will add [funny images every few cards](https://ankiweb.net/shared/info/1722658993), provide [visual feedback](https://ankiweb.net/shared/info/1749604199) and following a [progress bar](https://ankiweb.net/shared/info/2091361802) (I've mentioned all these plugins in [my previous list](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/#ftoc-heading-12)).
+Gamifying Anki will help us stick to it thanks to the additional reinforcement to do our best. We can do it by installing/developing plugins that will add [funny images every few cards](https://ankiweb.net/shared/info/1722658993), provide [visual feedback](https://ankiweb.net/shared/info/1749604199) and following a [progress bar](https://ankiweb.net/shared/info/2091361802) (I've mentioned all these plugins in [my previous list](/posts/optimising-our-learning-retention-rate-with-srs-anki/#my-plugins)).
 
 <iframe
   width="560"

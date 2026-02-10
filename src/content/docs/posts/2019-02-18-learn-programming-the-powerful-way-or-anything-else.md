@@ -111,7 +111,7 @@ Finally, when you join the corporation, try to keep the following in mind (I wil
 
 As already mentioned, having a daily habit is critical. It doesn't mean developing a new website every day, but trying to do at least one thing about the skill you wish to master. As such, the easiest would be to solve a single challenge on HackerRank a day.
 
-Remember, don't think about long-term goals from the beginning, but divide them into smaller steps. I hope you will get the idea [basing on my example](https://pawelcislo.com/three-goals/).
+Remember, don't think about long-term goals from the beginning, but divide them into smaller steps. I hope you will get the idea [basing on my example](/pages/three-goals/).
 
 ### Take your time
 

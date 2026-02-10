@@ -19,7 +19,7 @@ coverImage: "Recommendations_cover.png"
 
 ## Recommendations for Engineers
 
-As of today (12/03), my recent list of [Recommendations for Engineers](https://pawelcislo.com/recommendations/) managed to appear in my favourite [tech newsletter](https://news.mrugalski.pl/post/189347449362/28-listopada-2019) (1st position), hit 2103 page views and 14 stars on its [GitHub repository](https://github.com/pyxelr/recommendations-for-engineers). Those statistics motivated me to spread its existence even further with this blog index, since after its initial release in the last November, it counts 94 commits (updates) and counting (≈ 0.87 commits per day).
+As of today (12/03), my recent list of [Recommendations for Engineers](/pages/recommendations/) managed to appear in my favourite [tech newsletter](https://news.mrugalski.pl/post/189347449362/28-listopada-2019) (1st position), hit 2103 page views and 14 stars on its [GitHub repository](https://github.com/pyxelr/recommendations-for-engineers). Those statistics motivated me to spread its existence even further with this blog index, since after its initial release in the last November, it counts 94 commits (updates) and counting (≈ 0.87 commits per day).
 
 Enough on the statistical side, as at that point, you might still wonder what is inside this list that makes me want to brag about it today.
 
@@ -27,7 +27,7 @@ In short, I have aggregated all of my recommendations for aspiring engineers in 
 
 Although it is a personal list, do not hesitate to create a [pull request](https://github.com/pyxelr/recommendations-for-engineers/pulls) if I missed something interesting or if there is a dead link. Once again, before moving to the next section on a different subject, you are more than welcome to review my:
 
-[⭐ Recommendations for Engineers](https://pawelcislo.com/recommendations/)
+[⭐ Recommendations for Engineers](/pages/recommendations/)
 
 ## Reason for my recent absence
 
@@ -48,19 +48,19 @@ As this is more of an "announcement" post, I will try to be as concise as possib
 
 ### 🌐 Changes on this website
 
-- 🆕 \[June\] New post about the art of writing: #10 – [The Potential of Perspicuous Writing](https://pawelcislo.com/2019/07/28/the-potential-of-perspicuous-writing/)
-- 🆕 \[November\] Completely new subsection on [Recommendations for Engineers](https://pawelcislo.com/recommendations/)
-- ✍ Updated my [article on the use of Todoist](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/) with new projects, labels and priorities
-- ✍ Added questions and answers on the [FAQ](https://pawelcislo.com/faq/) page. Some of the responses have been converted into the Recommendations for Engineers
+- 🆕 \[June\] New post about the art of writing: #10 – [The Potential of Perspicuous Writing](/posts/the-potential-of-perspicuous-writing/)
+- 🆕 \[November\] Completely new subsection on [Recommendations for Engineers](/pages/recommendations/)
+- ✍ Updated my [article on the use of Todoist](/posts/aim-for-your-goals-the-right-way/) with new projects, labels and priorities
+- ✍ Added questions and answers on the [FAQ](/pages/faq/) page. Some of the responses have been converted into the Recommendations for Engineers
   - I've mainly explained the reason behind each of the individuals that inspires me
-- ✍ More citations in the [Favourite Thoughts](https://pawelcislo.com/favourite-thoughts/) segment
-- ✍ Redefined objectives in [Three Goals](https://pawelcislo.com/three-goals/). Being honest, it is very challenging to keep up with all these challenges in the face of unscheduled life novelties
-- ✍ Supplementary sections on the [About Me](https://pawelcislo.com/) page
+- ✍ More citations in the [Favourite Thoughts](/pages/favourite-thoughts/) segment
+- ✍ Redefined objectives in [Three Goals](/pages/three-goals/). Being honest, it is very challenging to keep up with all these challenges in the face of unscheduled life novelties
+- ✍ Supplementary sections on the [About Me](/) page
   - Modified _Extra-professional Activities_
   - Summary of online presence within _My Internet Persona_
 - ✨ Redesigned [newsletter signup form](http://eepurl.com/dDqG-z)
 - ✨ Redesigned mobile navigation bar (visible on your smartphone)
-- ✨ Improved layout of the [Favourite Thoughts](https://pawelcislo.com/favourite-thoughts/) page (it's a bit more explicit and has a TOC)
+- ✨ Improved layout of the [Favourite Thoughts](/pages/favourite-thoughts/) page (it's a bit more explicit and has a TOC)
 - 👨‍💻 Applied gzip-compressing to improve the site performance
 - 👨‍💻 Improved SEO score of the entire website
 - 👨‍💻 Specified 301 redirections. You can access all the posts using a number within the path, such as this one with _pawelcislo.com/11_. The same works for my social media, such as _pawelcislo.com/twitter_ or _pawelcislo.com/linkedin_.
@@ -73,7 +73,7 @@ This part would definitely challenge my memory if I wouldn't keep track of my da
   - 📚 Listened to the _Lying_ audiobook ([my review](https://www.goodreads.com/review/show/2552323407))
   - 💼 **Start of a new project at Alstom**
   - 📚 Consumed [Head Strong](https://www.goodreads.com/book/show/31850600-head-strong) and [Anything You Want](https://www.goodreads.com/review/show/2847490814) audiobook
-  - 📰 Found my [ethicAI](https://pawelcislo.com/2019/06/02/perplexing-ethics-of-ai/) write-up to be reshared on
+  - 📰 Found my [ethicAI](/posts/perplexing-ethics-of-ai/) write-up to be reshared on
     - [\[Twitter\] BXL Legal Hackers](https://twitter.com/LegalHackersBXL/status/1135256502049083395)
     - [\[FB\] DigitYser](https://www.facebook.com/digityser/photos/a.1425811514105483/2451036228249668/?type=3&permPage=1)
     - [\[LinkedIn\] Philippe Van Impe](https://www.linkedin.com/feed/update/urn:li:activity:6543012751583911936)
@@ -92,7 +92,7 @@ This part would definitely challenge my memory if I wouldn't keep track of my da
     - later, thanks to all this information we began using different algorithms to select the teams automatically
   - 📚 Listened to _Steve Jobs_ biography ([my review](https://www.goodreads.com/review/show/2847488455))
   - 📚 Accomplished reading _The Subtle Art of Not Giving a F\*ck_ ([my review](https://www.goodreads.com/review/show/2480444228))
-  - 📚 Published [The Potential of Perspicuous Writing](https://pawelcislo.com/2019/07/28/the-potential-of-perspicuous-writing/) (10th blog post)
+  - 📚 Published [The Potential of Perspicuous Writing](/posts/the-potential-of-perspicuous-writing/) (10th blog post)
   - 📼 Watched [The Great Hack](https://www.imdb.com/title/tt9358204/) (documentary on the Cambridge Analytica case)
 - **August**
   - 📖 Changed the way of reading books by selling my Kindle Paperwhite 3 and switching to Kindle Oasis 3. Cannot regret this decision :)
@@ -139,8 +139,8 @@ This part would definitely challenge my memory if I wouldn't keep track of my da
   - 📅 Last session of [_DataBeers Brussels #13_](images/data_beers_13-scaled.jpg) this year. After the presentation, we [voted for the favourite beer](images/data_beer_voting-scaled.jpg) of our members
   - 📚 Finished listening to _Next Steps in French with Paul Noble_ ([my review](https://www.goodreads.com/review/show/3024520857))
   - 📼 Watched [Pi (1998)](https://www.imdb.com/title/tt0138704/). How to stop thinking about algorithms now?
-  - ✍ Explained the reason behind each of the person that inspires me in the [FAQ section](https://pawelcislo.com/faq/)
-  - ✍ Published my [Recommendation for Engineers](https://pawelcislo.com/recommendations/)
+  - ✍ Explained the reason behind each of the person that inspires me in the [FAQ section](/pages/faq/)
+  - ✍ Published my [Recommendation for Engineers](/pages/recommendations/)
     - it managed to appear in [#unknownews](images/recommendations_in_unknownews.jpg), which brought [a lot of visits](images/recommendations_stats_graph.jpg) in the first 5 days from [all around the world](images/recommendations_map.jpg)
   - ✍ Wrote a quick article for my employer on the use of Anki/SuperMemo. I'll try to rewrite it with much more details on this blog at some point
   - ⛸ [Ice skating](images/ice_skating-scaled.jpg) again after such a long time

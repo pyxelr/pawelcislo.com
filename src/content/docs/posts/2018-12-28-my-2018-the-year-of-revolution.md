@@ -30,10 +30,10 @@ I heard it is recommended to start the post with the most mattering message righ
 - Was more active in sharing own content on social media 💬
 - Continued to note a daily journal (never missed a day since April 2017). It clearly helped in the preparation of this post 🗒
 - Worked with Todoist and OneNote for another full year ✅
-- Implemented new productivity method: "[Three Goals](https://pawelcislo.com/three-goals/)" which I am consistently using ✅
+- Implemented new productivity method: "[Three Goals](/pages/three-goals/)" which I am consistently using ✅
 - Continually updated my technical knowledge through: [#unknownews](https://news.uw-team.org/), [Hacker News](https://news.ycombinator.com/), [Inside](https://inside.com/),  weekly trending repositories on GitHub, [Ars Technica](https://arstechnica.com/), [dobreprogramy](https://www.dobreprogramy.pl/),  subreddits, and many personal blogs 📖
 - Regularly watched [MiroBurn](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw) and [devstyle](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) vlogs that were the main source of my motivation 📼
-  - I did watch other YouTube channels almost regularly, which I have listed [here](https://pawelcislo.com/recommendations/) 📼
+  - I did watch other YouTube channels almost regularly, which I have listed [here](/pages/recommendations/) 📼
 - Listened to even more podcasts 📻
 - Discovered some great ways to increase my focus by using [Brain.fm](https://www.brain.fm/) and [toggl](https://toggl.com/). I might describe them once on this blog ⚡
 - Was actively using several mobile apps to develop myself, such as [Brilliant](https://brilliant.org/) and [Elevate](https://www.elevateapp.com/) 🧠
@@ -83,13 +83,13 @@ I heard it is recommended to start the post with the most mattering message righ
   - Between the trailer and site publishing, I've written my e-book: "[Data Science Resources](https://www.facebook.com/pawelcislocom/photos/a.2657957824278703/2684903604917458/?type=3&theater)" + finalised all the subpages and implemented a newsletter system
   - (07/09/2018) Published this website. The same night I've received excellent results from my dissertation 📣
   - (08/09/2018) Too much of stress required me to start meditation streak 🧘
-  - Published the 2nd blog post: [How did I automate Micrograph Analysis?](https://pawelcislo.com/2018/09/16/how-did-i-automate-micrograph-analysis/) 📰
+  - Published the 2nd blog post: [How did I automate Micrograph Analysis?](/posts/how-did-i-automate-micrograph-analysis/) 📰
   - Last shift at my part-time work (oh, I didn't mention it yet? That's how I survived in the UK) 🏁
   - Flight to Poland! ✈🇵🇱
   - Continued my gym streak after a very long time with my friend. Before, in the UK, I used to exercise at home and run outside 💪
   - Organised my [Pinterest profile](https://pinterest.com/pyxelrr/) with high-quality infographics (Data Science, Math, Python, and more...) 📌
   - Attended the [World Business Experience](http://www.wbexp.pl/) conference. A fantastic day where I was also able to meet in person three of my favourite vloggers. You can read some of my words of gratitude [here](https://www.instagram.com/p/BoPdMssB4zW/) 💰
-  - 2 days later I promulgated the [blog post](https://pawelcislo.com/2018/09/30/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw/) about the conference 📰
+  - 2 days later I promulgated the [blog post](/posts/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw/) about the conference 📰
 - October
   - Updated my e-book, which you can download from the right-hand side panel of this website 📘
   - Spent my 1st week in Dubai. You can find 9 posts on my Instagram with lots of photos (sorry for the spam) 🏖🇦🇪
@@ -100,7 +100,7 @@ I heard it is recommended to start the post with the most mattering message righ
 - November
   - Think I found my favourite quote of the year: "No one told you when to run. You missed the starting gun" ~ Pink Floyd 💡
   - First floating session for 1 hour 💚
-  - Published another [blog post](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/) about managing your goals 📰
+  - Published another [blog post](/posts/aim-for-your-goals-the-right-way/) about managing your goals 📰
   - Finished 10 km run in 53 minutes: "[6 PKO Bieg Niepodległości](http://runrzeszow.pl/zapisy/bieg-niepodleglosci/)" on the 100th anniversary of Poland regaining its independence ([pic or it didn't happen](https://www.instagram.com/p/BqC-Z1iDg_A/)) 🥇
   - Organised a list of "biohacking" techniques that I apply/might apply in daily life. Maybe one day I will share it on this blog ✅
   - Revisited Coventry for 3 days to attend the [graduation ceremony](https://www.instagram.com/p/BqkB3i6DDgN/). Afterwards, I took part in a short video interview to promote CU campus in Wroclaw (Poland) 🎓
@@ -174,7 +174,7 @@ I'm going to start 2019 with a new position: International Engineering Consultan
 
 In the meantime, I'm about to continue developing my skills not only around technical areas.
 
-Moreover, I always consider to work on projects remotely, so if you think like we can benefit from each other, please [let me know](https://pawelcislo.com/contact/).
+Moreover, I always consider to work on projects remotely, so if you think like we can benefit from each other, please [let me know](/pages/contact/).
 
 ## Woah, good job! What about the year 2017?
 
@@ -213,7 +213,7 @@ Oh, also, I am going to read more books as there are 154 of them in my list.
 
 ## Message to you
 
-At the end of this babbling, I encourage you to plan your 2019 the way you will be feeling proud at its end. You might look into [the way I design some of my goals](https://pawelcislo.com/three-goals/) and do the same. Just like the mentioned friend, you can ask me for support in it.
+At the end of this babbling, I encourage you to plan your 2019 the way you will be feeling proud at its end. You might look into [the way I design some of my goals](/pages/three-goals/) and do the same. Just like the mentioned friend, you can ask me for support in it.
 
 Invest in yourself and treat your time well, as it's a non-renewable resource, which you wouldn't like to waste.
 

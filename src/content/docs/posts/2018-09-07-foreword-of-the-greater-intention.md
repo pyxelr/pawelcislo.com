@@ -32,7 +32,7 @@ Being on a constant pressure and deadlines set in advance for ~17 years of my li
 
 First of all, I like writing (more explicitly presenting my point of views in the most clarified way possible). Yeah, I know that if the current version of myself told me that thing even just two years ago, I would laugh and lost hope in the world; however, something changed. Maybe spending more time with myself due to my studies abroad in the UK,  sparked some source of power in the central organ of the nervous system. Maybe I was just overthinking all the time, what has been told to me by too many people. Maybe, I just wanted a change.
 
-It started with the phrase "_**Let yourself be known**_" stuck in my head for waaaay too many hours than enough. I think I have to thank for it Maciej Aniserowicz – a former programmer who nowadays encourages IT practitioners, to share their knowledge to quench the thirst of online surfers. Obviously, the change wasn't just initiated by Maciej, but many other influencers (especially those included in one answer of [my FAQ page](https://pawelcislo.com/faq/)) that I cannot thank enough. To pinpoint three more personalities, it would be:
+It started with the phrase "_**Let yourself be known**_" stuck in my head for waaaay too many hours than enough. I think I have to thank for it Maciej Aniserowicz – a former programmer who nowadays encourages IT practitioners, to share their knowledge to quench the thirst of online surfers. Obviously, the change wasn't just initiated by Maciej, but many other influencers (especially those included in one answer of [my FAQ page](/pages/faq/)) that I cannot thank enough. To pinpoint three more personalities, it would be:
 
 - Andrzej Krzywda and his book "[Blogging for Busy programmers](https://www.goodreads.com/book/show/28245875-blogging-for-busy-programmers)"
 - Jakub Mrugalski and [his podcast](https://anchor.fm/unknow) about being an online creator
@@ -88,7 +88,7 @@ Of course, the whole spectrum will base on the modern technology and the ways of
 
 ## What did the creation of this blog teach me?
 
-Most importantly, that the only limits are in our head and with the resources of the current world, we can achieve pretty much anything if we just want that and work on it consistently. See, publishing this blog wasn't as hard; apparently, it did cost me some time that I believe anyone has. Financially analysing, it cost me only £44.34 for the annual warranty of my domain and hosting. Again, this is not the amount that might stop most of us from starting a blog, and if you're running low on budget, you can start for free with [GitHub Pages](https://pages.github.com/) or [Medium](https://medium.com/) (well, Medium is more for opinion based posts if you ask me). Don't you have anything interesting to say? Start reading books, watch some YouTube videos, listen to podcasts and you will definitely have a topic in a month or two. If you got any other doubts if you should start a blog or you struggle with its implementation, please leave a comment under this post or [contact me](https://pawelcislo.com/contact/) directly.
+Most importantly, that the only limits are in our head and with the resources of the current world, we can achieve pretty much anything if we just want that and work on it consistently. See, publishing this blog wasn't as hard; apparently, it did cost me some time that I believe anyone has. Financially analysing, it cost me only £44.34 for the annual warranty of my domain and hosting. Again, this is not the amount that might stop most of us from starting a blog, and if you're running low on budget, you can start for free with [GitHub Pages](https://pages.github.com/) or [Medium](https://medium.com/) (well, Medium is more for opinion based posts if you ask me). Don't you have anything interesting to say? Start reading books, watch some YouTube videos, listen to podcasts and you will definitely have a topic in a month or two. If you got any other doubts if you should start a blog or you struggle with its implementation, please leave a comment under this post or [contact me](/pages/contact/) directly.
 
 ## What's next?
 
@@ -105,7 +105,7 @@ No problem my friend. Just go on the home page and click the F5 page from time t
 
 No? That is too hard to press a single button?
 
-Okay... the alternative is to [sign up for my newsletter](http://eepurl.com/dDqG-z) or solely following me on social media (links in the header of this website and ["About Me" section](https://pawelcislo.com/)).
+Okay... the alternative is to [sign up for my newsletter](http://eepurl.com/dDqG-z) or solely following me on social media (links in the header of this website and ["About Me" section](/)).
 
 ## Addendum
 
@@ -113,7 +113,7 @@ In the end, I wanted to add that sometimes the pressure of time is the best thin
 
 The entire last years of pushing myself to the limits with the bachelor and master's degree made me much more resistant to this kind of things; however, it doesn't mean that I should be proud of it. Every human being has his perspective on what's more important. For ones, it may be time spent with family, for others purchasing luxury goods, whereas for someone like me it's something that I am still trying to answer during that such a short lifespan.
 
-**Did you like this article** (my hybrid theories, which want to get out inside of my head to verify their appropriateness)? Please let me know in the comments, and if you can, please share it with your friends as I think that it can benefit each of us. I hope this post wasn't too long as I wanted to keep it short to be read by most of you. In the next post, most probably, I will present my automatic micrograph analyser with the code for your own implementation, so stay calm. If some topics interest you specifically, let me know as well (in the comments or [privately](https://pawelcislo.com/contact/)), I can consider even writing a feuilleton about sewing buttons on handknits, as I would like to know no limits and write for all of us. ;)
+**Did you like this article** (my hybrid theories, which want to get out inside of my head to verify their appropriateness)? Please let me know in the comments, and if you can, please share it with your friends as I think that it can benefit each of us. I hope this post wasn't too long as I wanted to keep it short to be read by most of you. In the next post, most probably, I will present my automatic micrograph analyser with the code for your own implementation, so stay calm. If some topics interest you specifically, let me know as well (in the comments or [privately](/pages/contact/)), I can consider even writing a feuilleton about sewing buttons on handknits, as I would like to know no limits and write for all of us. ;)
 
 Ciao!
 

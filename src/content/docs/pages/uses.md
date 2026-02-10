@@ -7,7 +7,7 @@ A list of my current tools and setup. Inspired by [uses.tech](https://uses.tech/
 
 ## Software
 
-- IDE: [VS Code](https://pawelcislo.com/2021/11/14/my-vs-code-playground/) ([profile gist](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b))
+- IDE: [VS Code](/posts/my-vs-code-playground/) ([profile gist](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b))
 - Terminal: [Warp/iTerm2/Windows Terminal/Neovim/Termux](https://github.com/pyxelr/my-terminal)
 - My config (GitHub topic): [pyxelr-setup](https://github.com/topics/pyxelr-setup)
 - Note-taking: [Obsidian](https://obsidian.md/)

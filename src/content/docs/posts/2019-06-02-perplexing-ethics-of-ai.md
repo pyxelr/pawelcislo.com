@@ -164,7 +164,7 @@ Interested to know even more about was shared by Nathalie and feel like particip
 
 More or less, the text above summarised the 1,5h video recording, but everyone could have been interested in noting different pieces of information; hence, I am sharing the YouTube link. Hopefully, after watching the presentation, you will understand that you can start attending local meetups without knowing much about the topic of discussion, and you're not even required to share anything. Just come and start slowly by listening and getting familiar with the atmosphere, ideally slowly making some contact with participants of the same interest. Who knows, maybe your next co-worker will sit once next to you?
 
-Moreover, if you would like to know more about the Data Science events in Brussels, head towards my previous article "[Data Hackathons – #TRACKathon19](https://pawelcislo.com/2019/05/01/data-hackathons-trackathon19/#ftoc-heading-7)".
+Moreover, if you would like to know more about the Data Science events in Brussels, head towards my previous article "[Data Hackathons – #TRACKathon19](/posts/data-hackathons-trackathon19/#where-to-look-for-data-events-in-belgium)".
 
 ## Moral Machine Problem
 

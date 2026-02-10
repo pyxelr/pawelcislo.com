@@ -29,7 +29,7 @@ Last Thursday I had an exceptional chance of being one of the representatives of
 
 At the moment, when it is a few days after the event, I decided to summarise the essence of this symposium, so that the rest of my colleagues from the office can be aware of the current technological trends. In order to make this wall of text more valuable, I decided to extend it and provide personal advice for aspiring students and businesses trying to adapt to the modern market of Data Science.
 
-For those of you who might be specifically interested in the marketing world, a couple of months ago I attended and [summarised another conference in a single blog post](https://pawelcislo.com/2018/09/30/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw/). I feel like it is one of the most pleasant ways to find something interesting to share with all of you; however, instead of being on the more populated side of the room, I believe that once I will be the one holding the microphone. :)
+For those of you who might be specifically interested in the marketing world, a couple of months ago I attended and [summarised another conference in a single blog post](/posts/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw/). I feel like it is one of the most pleasant ways to find something interesting to share with all of you; however, instead of being on the more populated side of the room, I believe that once I will be the one holding the microphone. :)
 
 ### What was in for us?
 

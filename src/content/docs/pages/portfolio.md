@@ -17,9 +17,9 @@ For contract work, have a look at my [Résumé](/Resume-PawelCislo.pdf).
   EDA & prediction of customer churn at Orange with the use of Machine Learning.
 - [Log to CSV Parser](https://github.com/pyxelr/log-to-csv-parser) <span class="meta">[python] [regex] [tkinter] • 2020 • done</span><br/>
   Python application to parse selected values from LOG or TXT files into a CSV format.
-- [Recommendations for Engineers](https://pawelcislo.com/recommendations/) <span class="meta">[list] • 2019 • ongoing</span><br/>
+- [Recommendations for Engineers](/pages/recommendations/) <span class="meta">[list] • 2019 • ongoing</span><br/>
   List of my recommendations for aspiring engineers in a single place, coming from various areas of interest.
-- [Automated Image Analysis of Micrographs](https://github.com/pyxelr/automatic-micrograph-analyser) <span class="meta">[imagej] [image-analysis] • 2018 • done • [blog post](https://pawelcislo.com/2018/09/16/how-did-i-automate-micrograph-analysis/)</span><br/>
+- [Automated Image Analysis of Micrographs](https://github.com/pyxelr/automatic-micrograph-analyser) <span class="meta">[imagej] [image-analysis] • 2018 • done • [blog post](/posts/how-did-i-automate-micrograph-analysis/)</span><br/>
   Automation system for image analysis process which can characterise biomedical scans rapidly.
 - [Advancement of Convolutional Neural Networks for Image Classification](https://github.com/pyxelr/m23com-cifar-10-classification) <span class="meta">[python] [deep-learning] • 2018 • done</span><br/>
   Use of three neural network types, data augmentation and visualisation to improve the accuracy of a general CNN architecture.

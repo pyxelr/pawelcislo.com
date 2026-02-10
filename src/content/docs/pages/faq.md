@@ -5,12 +5,12 @@ date: 2018-08-18
 
 Well, maybe I'm not as popular to be frequently asked about all these things; however, you can treat this page more like an aggregator for some of my handy answers.  
   
-If you have a question that was not listed on this page, please do not hesitate to [get in touch with me](https://pawelcislo.com/contact/). I will also try to let myself be known in different posts and pages of this blog.
+If you have a question that was not listed on this page, please do not hesitate to [get in touch with me](/pages/contact/). I will also try to let myself be known in different posts and pages of this blog.
 
 * * *
 
 1. **Why did you start this** **blog?**  
-    I tried to answer this question in depth in [my first post](https://pawelcislo.com/2018/09/07/foreword-of-the-greater-intention/).  
+    I tried to answer this question in depth in [my first post](/posts/foreword-of-the-greater-intention/).  
     Briefly speaking, I enjoy writing, and I would feel unfulfilled keeping all the exciting stuff locked in my mind without sharing it with someone who might greatly benefit from it.  
 
 2. **What is your life goal/direction?**  
@@ -20,13 +20,13 @@ If you have a question that was not listed on this page, please do not hesitate 
     _"Try to be the best version of yourself"_  
 
     I also keep _"Done is better than perfect"_ close to my heart, to ease my fight with procrastination and perfectionism.  
-    You can find the list of all my [favourite thoughts](https://pawelcislo.com/favourite-thoughts/) (updated regularly).  
+    You can find the list of all my [favourite thoughts](/pages/favourite-thoughts/) (updated regularly).  
 
 4. **Answer in one word: _What is the must-have for success_?**  
     Discipline.  
 
 5. **Places you are actively visible online?**  
-    See "My Internet Persona" section in the [About Me](https://pawelcislo.com/) page.  
+    See "My Internet Persona" section in the [About Me](/) page.  
 
 6. **Who are your life influencers and why?**  
     - [Mike Shinoda](http://www.mikeshinoda.com/) ← for the overall lifestyle, kindness, and performance in one of my favourite bands - Linkin Park  
@@ -71,12 +71,12 @@ If you have a question that was not listed on this page, please do not hesitate 
     Apart from these technologies, we need to keep our heads up for the rapid intake of Julia and Scala, which seem to be more optimised over Python.  
 
 8. **IDE for data science?**  
-    - [VS Code](https://code.visualstudio.com/) (explained thoroughly in "[My VS Code Playground](https://pawelcislo.com/2021/11/14/my-vs-code-playground/)" blog post)  
+    - [VS Code](https://code.visualstudio.com/) (explained thoroughly in "[My VS Code Playground](/posts/my-vs-code-playground/)" blog post)  
     - [R Studio](https://www.rstudio.com/) specifically for R  
     - [Google Colab](https://colab.research.google.com/) for the web IDE  
 
 9. **Can you also recommend me XYZ (blogs, tools, data science resources, programming learning materials, etc.)?**  
-    Sure, have a look at [my great list of recommendations](https://pawelcislo.com/recommendations/).  
+    Sure, have a look at [my great list of recommendations](/pages/recommendations/).  
 
 10. **What books are you currently reading? Do you publish some reviews?**  
     Of course, you can check my reading progress and the [reviews on my Goodreads profile](https://www.goodreads.com/review/list/57442889-pawel-cislo?order=d&shelf=read&sort=review&view=reviews). I am also spending a lot of time with online materials and annotating them with [my Hypothes.is account](https://hypothes.is/users/pyxelr).  

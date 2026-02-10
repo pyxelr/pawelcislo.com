@@ -128,7 +128,7 @@ You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-deck
 
 #### ✍ Blogger
 
-1. Wrote [the first post on my blog](https://pawelcislo.com/2018/09/07/foreword-of-the-greater-intention/) — 07/09/2018
+1. Wrote [the first post on my blog](/posts/foreword-of-the-greater-intention/) — 07/09/2018
 2. Wrote 3 posts on my blog — 30/09/2018
 3. Wrote 10 posts on my blog — 28/07/2019
 

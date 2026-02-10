@@ -211,7 +211,7 @@ No worries, I won't judge you if you don't like trains, as there is plenty of ot
 - [World Bank Open Data](https://data.worldbank.org/) ← economic data
 - [YouTube 8M](https://research.google.com/youtube8m/) – dataset of YouTube videos
 
-Now, I provided you with the pond, but if you still need a fishing rod, please have a look into [my previous post](https://pawelcislo.com/2019/03/25/is-data-science-the-inevitable-cultivation/) to get an idea on how you can touch these sets.
+Now, I provided you with the pond, but if you still need a fishing rod, please have a look into [my previous post](/posts/is-data-science-the-inevitable-cultivation/) to get an idea on how you can touch these sets.
 
 ## Addendum
 
@@ -221,4 +221,4 @@ Once again, thanks for reading and staying up with this blog. I did not hold a s
 
 Writing a blog post is full of taking decisions which drain a lot of energy. As I heard last time in the "Head Strong" audiobook by Dave Asprey, even the smallest decision affect your performance, as such try to do the fundamental duties from the beginning of the day, to have a rest by night.
 
-Lots of ideas come in the most unforeseeable moments, and this is the message you can take from this addendum. Do you remember [my text about Einstein's Miracle Year](https://pawelcislo.com/2018/12/28/my-2018-the-year-of-revolution/#ftoc-heading-9)?
+Lots of ideas come in the most unforeseeable moments, and this is the message you can take from this addendum. Do you remember [my text about Einstein's Miracle Year](/posts/my-2018-the-year-of-revolution/#expectations-for-2019)?

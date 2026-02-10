@@ -61,7 +61,7 @@ The other thing that was the saddest to hear during the entire day was: "Network
 >
 > — Own idea
 
-Thinking about what I just scribbled down, you might see, that the previous problem indicates that people do not plan their goals for years ahead. You might get inspired by visiting my "[Three Goals](https://pawelcislo.com/three-goals/)" section on this website, where I encourage you to implement something similar. You might even copy my goals, and see how strong is your patience. Even if the goal sounds stupid, it might give you a significant advancement over your **regularity**.
+Thinking about what I just scribbled down, you might see, that the previous problem indicates that people do not plan their goals for years ahead. You might get inspired by visiting my "[Three Goals](/pages/three-goals/)" section on this website, where I encourage you to implement something similar. You might even copy my goals, and see how strong is your patience. Even if the goal sounds stupid, it might give you a significant advancement over your **regularity**.
 
 **Patience** is another factor commonly mentioned by Gary Vee, together with **gratitude**, **passion** and **happiness**. You see, if you combine all of these, meaning that you work on something that makes you happy and keeps you focused, you need to stick to it. Master that skill and don't stop on your failures as everyone has to face them one day. Remember, without them, you will never learn. Moreover, **don't look for encouragement** from others and do what you like. **Don't be scared** of what others will think. **People hate change**, as we are taught in schools to follow the given rules in order to be safe and harmless to the world. Without a drastic transformation, you might at most be given a chance to live better by winning a lottery (but even that requires some effort to be in the prize pool). If you got someone who will support you in what you do (and it is not your mom), you have to understand, that it is better not to lose relation with this person, as it is rare to find someone like this.
 
@@ -292,7 +292,7 @@ Moreover, think about focusing on the core duties of your business. **Try to eli
 
 What to do, to start executing? Here is a solution presented on the example of Łukasz Jakóbiak:
 
-1. Have goals ([like me](https://pawelcislo.com/three-goals/) 😉)
+1. Have goals ([like me](/pages/three-goals/) 😉)
 2. Be aware - meditate - think about death and how little time you have
 3. Work on your mind - answer what makes you feel good and bad
 4. Be consequent
