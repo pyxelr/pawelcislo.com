@@ -46,8 +46,8 @@ The following list is designed entirely by taking the inspiration from **[MiroBu
 
 Not planning to stop at the moment.
 
-**_My profile_**: [pyXelr](https://www.duolingo.com/profile/pyXelr)**_  
-Inspiration_**: Me myself.
+**_My profile_**: [pyXelr](https://www.duolingo.com/profile/pyXelr)  
+**_Inspiration_**: Me myself.
 
 #### 🃏 Daily Anki Flashcards (V3)
 
@@ -93,8 +93,8 @@ You can check out some of my own cards [here](https://github.com/pyxelr/my-anki-
 2. [Reached 750-day streak](https://pawelcislo.com/wp-content/uploads/2022/03/Daily_French_Duolingo-750.jpg.jpg) — 21/03/2022
 3. [Reached 1000-day streak](https://twitter.com/pawel_cislo/status/1596310278601318407) — 26/11/2022
 
-**_My profile_**: [pyXelr](https://www.duolingo.com/profile/pyXelr)**_  
-Inspiration_**: Me myself.
+**_My profile_**: [pyXelr](https://www.duolingo.com/profile/pyXelr)  
+**_Inspiration_**: Me myself.
 
 #### 🃏 Daily Anki Flashcards
 
@@ -112,8 +112,8 @@ You can check out some of my own cards [here](https://github.com/pyxelr/my-anki-
 2. [Reached 100-day streak](https://pawelcislo.com/wp-content/uploads/2020/06/Daily_French_Duolingo-100.png) — 09/06/2020
 3. [Reached 365-day streak](https://pawelcislo.com/wp-content/uploads/2021/02/Daily_French_Duolingo-365.jpg) — 01/03/2021
 
-**_My profile_**: [pyXelr](https://www.duolingo.com/profile/pyXelr)**_  
-Inspiration_**: Me myself.
+**_My profile_**: [pyXelr](https://www.duolingo.com/profile/pyXelr)  
+**_Inspiration_**: Me myself.
 
 #### 👨‍💻 Programmer
 
@@ -121,7 +121,7 @@ Inspiration_**: Me myself.
 2. [Solved 120 coding problems](https://pawelcislo.com/wp-content/uploads/2019/12/Programmer-Goal-2.png) — 25/12/2019
 3. Solved 250 coding problems — 2020
 
-_**My** **profiles**_: [HackerRank](https://www.hackerrank.com/pyxelr), [JetBrains Academy](https://hyperskill.org/profile/21057352), [CheckiO](https://py.checkio.org/user/pyxelr/), [CodeSignal](https://app.codesignal.com/profile/pyxelr), [LeetCode](https://leetcode.com/pyxelr).  
+**_My profiles_**: [HackerRank](https://www.hackerrank.com/pyxelr), [JetBrains Academy](https://hyperskill.org/profile/21057352), [CheckiO](https://py.checkio.org/user/pyxelr/), [CodeSignal](https://app.codesignal.com/profile/pyxelr), [LeetCode](https://leetcode.com/pyxelr).  
 **_Note 1_**: It's a little tricky, to count my solutions from multiple sources, but eventually, it's all about doing the work. :)  
 **_Note 2 (after achieving the goal)_**: I reached the 3rd level somewhere in 2020 thanks to my activity on JetBrains. Naturally, I will be still challenging myself with these excellent puzzles :)  
 **_Inspiration_**: My friend Recep.
