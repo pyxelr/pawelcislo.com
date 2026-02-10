@@ -16,11 +16,11 @@ If you have a question that was not listed on this page, please do not hesitate 
 2. **What is your life goal/direction?**  
     To be happy with what I do for the living and contribute as much as I can to the constantly developing world, leaving the universe in a better state in the end.  
 
-3. **Your** **motto?**  
-    _"**Try to be the best version of yourself**".  
+3. **Your motto?**  
+    _"Try to be the best version of yourself"_  
 
-    _I also keep _"**Done is better than**_ _**perfect**"_ close to my heart, to ease my fight with procrastination and perfectionism.  
-    You can find the list of all my favourite thoughts [here](https://pawelcislo.com/favourite-thoughts/) (updated regularly).  
+    I also keep _"Done is better than perfect"_ close to my heart, to ease my fight with procrastination and perfectionism.  
+    You can find the list of all my [favourite thoughts](https://pawelcislo.com/favourite-thoughts/) (updated regularly).  
 
 4. **Answer in one word: _What is the must-have for success_?**  
     Discipline.  
@@ -50,7 +50,7 @@ If you have a question that was not listed on this page, please do not hesitate 
     • [Adrian Olszewski](https://www.linkedin.com/in/adrianolszewski/) (🇵🇱) ← for his in-depth knowledge on statistical topics and patience in teaching others throughout LinkedIn  
     • [Mirosław Zelent](https://miroslawzelent.pl/) (🇵🇱) ← for guiding me in making my first steps in programming  
     • [Łukasz Prokulski](https://blog.prokulski.science/) (🇵🇱) ← for explaining so many different use cases of data analysis  
-    • [Kamil J. Dudek](https://blog.xn--oo-7j4ac2n.xn--q9jyb4c/) (🇵🇱) ← for his eloquent writing style and knowledge about tech  
+    • [Kamil J. Dudek](https://www.dobreprogramy.pl/kamil-j-dudek,autor,6507838288697473) (🇵🇱) ← for his eloquent writing style and knowledge about tech  
     • [Mirosław Burnejko](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw) (🇵🇱) ← for motivating me and showing every step of his early entrepreneurship through daily YouTube vlogs  
     • [Maciej Aniserowicz](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) (🇵🇱) ← for doing the same as Mirosław Burnejko, but more inside the programming sphere  
     • [Andrzej Krzywda](https://www.youtube.com/channel/UCmrGGj6Y_XQuockwwI3yemA) (🇵🇱) ← for the encouragement to start this blog  
