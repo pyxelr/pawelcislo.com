@@ -55,7 +55,7 @@ Not planning to stop at the moment.
 
 **_Inspiration_**: Me myself.  
 **_Note_**: Studying French, German, Machine Learning, Statistics, Geography, Python, and anything else that I find interesting.  
-You can check out some of my own cards [here](https://github.com/pyxelr/my-anki-decks-of-flashcards).
+You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-decks-of-flashcards).
 
 #### 🇫🇷 French Speaker
 
@@ -85,7 +85,7 @@ You can check out some of my own cards [here](https://github.com/pyxelr/my-anki-
 
 **_Inspiration_**: Me myself.  
 **_Note_**: Studying French, German, Machine Learning, Statistics, Geography, Python, and anything else that I find interesting.  
-You can check out some of my own cards [here](https://github.com/pyxelr/my-anki-decks-of-flashcards).
+You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-decks-of-flashcards).
 
 #### 🦉 Daily Duolingo (V2)
 
@@ -104,7 +104,7 @@ You can check out some of my own cards [here](https://github.com/pyxelr/my-anki-
 
 **_Inspiration_**: Me myself.  
 **_Note_**: Studying French, German, Machine Learning, Statistics, Geography, Python, and anything else that I find interesting.  
-You can check out some of my own cards [here](https://github.com/pyxelr/my-anki-decks-of-flashcards).
+You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-decks-of-flashcards).
 
 #### 🦉 Daily French Duolingo
 
