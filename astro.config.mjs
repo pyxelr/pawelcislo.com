@@ -12,6 +12,7 @@ export default defineConfig({
 				src: './src/assets/favicon.svg',
 			},
 			description: 'Personal website and blog of Paweł Cisło - MLOps Engineer, Data Scientist, and tech enthusiast',
+			pagination: false,
 			editLink: {
 				baseUrl: 'https://github.com/pyxelr/pawelcislo.com/edit/main/',
 			},
