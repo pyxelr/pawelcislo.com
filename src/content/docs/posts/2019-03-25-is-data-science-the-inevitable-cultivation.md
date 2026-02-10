@@ -259,7 +259,15 @@ I always say that in Data Science it is the most important to train logic and ma
 
 Once I found a great comparison between the languages in a [single presentation](https://www.slideshare.net/VineetJaiswal8/r-and-python-a-code-demo), which might give you a nice contrast between both of the options.
 
-You may also want to try and combine both languages to use the best part of each. I found [this blog post](https://www.business-science.io/business/2018/10/08/python-and-r.html) to explain how to do it most conveniently. tl;dr: • (R) reticulate for connecting R with Python • (R) tidyverse for data exploration • (Python) scikit-learn/TensorFlow for ML and DL • (R) ggplot2 for visualisation • (R) R Markdown for reporting and Shiny for web apps
+You may also want to try and combine both languages to use the best part of each. I found [this blog post](https://www.business-science.io/business/2018/10/08/python-and-r.html) to explain how to do it most conveniently.
+
+tl;dr:
+
+- (R) reticulate for connecting R with Python
+- (R) tidyverse for data exploration
+- (Python) scikit-learn/TensorFlow for ML and DL
+- (R) ggplot2 for visualisation
+- (R) R Markdown for reporting and Shiny for web apps
 
 #### **What about the IDE?**
 

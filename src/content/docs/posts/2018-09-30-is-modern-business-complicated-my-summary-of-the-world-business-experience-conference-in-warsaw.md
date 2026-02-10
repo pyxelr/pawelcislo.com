@@ -86,12 +86,20 @@ Why do companies like to hire data scientists? To predict the future; however, t
 
 The other way to get that information is to listen to someone with experience, like Jakub B Bączek, who introduced three upcoming trends. The sooner you act upon them, the more advantage you will have over your competitors.
 
-1. **Migration** of multi-culture caused not only by the global warming. • _Description_: here in Poland we might expect to have more and more immigrants over the year who will come from different ethnicities. That will be partly caused by politics and partly by the global warming near the equator. • _Solution_: start modifying your business to satisfy immigrants from tier 3 (figure below). You can do that for example by offering multilanguage support and diversity of products.
+1. **Migration** of multi-culture caused not only by the global warming.
+   - _Description_: here in Poland we might expect to have more and more immigrants over the year who will come from different ethnicities. That will be partly caused by politics and partly by the global warming near the equator.
+   - _Solution_: start modifying your business to satisfy immigrants from tier 3 (figure below). You can do that for example by offering multilanguage support and diversity of products.
 
 ![The Three Tiers of Noncustomers](images/the-three-tiers.jpg)
 _The Three Tiers of Noncustomers. Credit: Blue Ocean[^3]_
-2. **Technologization** ---> AI ---> dying professions. • _Description_: 47% of jobs in the US are in the risk of extinction (99% call centre, 98% judges, 97% cashiers, 96% chefs, 94% waiters, 89% drivers (...) but less than 1% of archaeologists 🤔 • _Solution_: prepare to learn something that won't be automated in the near future. These are mostly professions that include emotions (motivator).
-3. **Welfare** ---> civilization diseases (overweight) ---> loss (depression). • _Description_: rapid growth in IT causes civilisation diseases, making people feeling lost. • _Solution_: diversify your business for diversity, be innovative and solve global problems. Maybe you can get inspiration from the following graph:
+2. **Technologization** ---> AI ---> dying professions.
+
+- _Description_: 47% of jobs in the US are in the risk of extinction (99% call centre, 98% judges, 97% cashiers, 96% chefs, 94% waiters, 89% drivers (...) but less than 1% of archaeologists 🤔
+- _Solution_: prepare to learn something that won't be automated in the near future. These are mostly professions that include emotions (motivator).
+
+3. **Welfare** ---> civilization diseases (overweight) ---> loss (depression).
+   - _Description_: rapid growth in IT causes civilisation diseases, making people feeling lost.
+   - _Solution_: diversify your business for diversity, be innovative and solve global problems. Maybe you can get inspiration from the following graph:
 
 ![ikigai](images/ikigai.jpg)
 _Aspects of physical exercise. Credit: Biohacker's Handbook[^4]_
@@ -185,12 +193,12 @@ However, when you pursue your goals remember that health is your #1 asset! Perso
 
 Paweł Danielewski introduced one of the most efficient marketing frameworks.
 
-1. Build awareness of your brand, answer "what am I doing?" • promote the motivational video to gain customers.
+1. Build awareness of your brand, answer "what am I doing?" - promote the motivational video to gain customers.
 2. Get micro-actions (check "Tools" chapter below)
-3. Get your contact • for example for access to a free webinar
+3. Get your contact - for example for access to a free webinar
 4. Convert your contact into a client
-5. Double the excitement • everyone likes two gifts more than one. Give something for free after some time of giving something for free before, like another e-book
-6. Ladder of growth • build additional services
+5. Double the excitement - everyone likes two gifts more than one. Give something for free after some time of giving something for free before, like another e-book
+6. Ladder of growth - build additional services
 
 One more tip given by Paweł was to use the QUIZ method. Instead of a classic registration form to the newsletter (like on my website), you might start with asking an encouraging question. For example, what is your favourite car brand and what colour would you choose. After that, present the user with the registration form. Statistically more users might end up with registration.
 
@@ -285,8 +293,8 @@ Moreover, think about focusing on the core duties of your business. **Try to eli
 What to do, to start executing? Here is a solution presented on the example of Łukasz Jakóbiak:
 
 1. Have goals ([like me](https://pawelcislo.com/three-goals/) 😉)
-2. Be aware • meditate • think about death and how little time you have
-3. Work on your mind • answer what makes you feel good and bad
+2. Be aware - meditate - think about death and how little time you have
+3. Work on your mind - answer what makes you feel good and bad
 4. Be consequent
 5. Work
 6. Control your life

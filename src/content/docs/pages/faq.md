@@ -29,31 +29,31 @@ If you have a question that was not listed on this page, please do not hesitate 
     See "My Internet Persona" section in the [About Me](https://pawelcislo.com/) page.  
 
 6. **Who are your life influencers and why?**  
-    • [Mike Shinoda](http://www.mikeshinoda.com/) ← for the overall lifestyle, kindness, and performance in one of my favourite bands - Linkin Park  
-    • [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) ← for all the input to engineering and staying loose while being on the top  
-    • [Andrej Karpathy](https://karpathy.github.io/) ← for his contribution to driverless cars at Tesla  
-    • [Grant Sanderson](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) ← for encouraging me to study math through clear animations  
-    • [Andrew Ng](https://www.andrewng.org/) ← for teaching me the patience to learn machine learning  
-    • [Yann LeCun](http://yann.lecun.com/) ← for his contribution to computer vision (CNN)  
-    • [Daniel Bourke](https://www.mrdbourke.com/) ← for sharing a motivation to keep practising machine learning while maintaining a healthy lifestyle  
-    • [Lex Fridman](https://lexfridman.com/) ← for the way he expresses an interest in such a broad variety of topics while hosting the discussions on his podcast  
-    • [Victor Zhou](https://victorzhou.com/) & [Jay Alammar](https://jalammar.github.io/) ← for the way of explaining machine learning topics in their blog posts  
-    • [Tania Rascia](https://www.taniarascia.com/) ← for presenting a clear and visually pleasing way of web development  
-    • [vas3k](https://vas3k.com/) ← for applying the _quality over quantity_ strategy in blog posting  
-    • [Ali Abdaal](https://aliabdaal.com/) ← for the way of staying organised and charming to his viewers. Don't know if I ever found someone more structured  
-    • [Jordan B Peterson](https://jordanbpeterson.com/) ← for teaching me how to think of almost every life aspect  
-    • [Gary Vaynerchuk](https://www.garyvaynerchuk.com/) ← for giving me the courage to act  
-    • [Tim Ferris](https://tim.blog/) ← for inspiring so many of us through his lifestyle  
-    • [Grant Cardone](https://grantcardone.com/) ← for teaching me how to be fearless of business/marketing  
-    • [Felix Kjellberg](https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw) ← for showing how not to take everything too seriously  
-    • [Jakub Mrugalski](https://mrugalski.pl/) (🇵🇱) ← for sharing all the engaging content and showing the right approach to interact with the online community  
-    • [Adrian Olszewski](https://www.linkedin.com/in/adrianolszewski/) (🇵🇱) ← for his in-depth knowledge on statistical topics and patience in teaching others throughout LinkedIn  
-    • [Mirosław Zelent](https://miroslawzelent.pl/) (🇵🇱) ← for guiding me in making my first steps in programming  
-    • [Łukasz Prokulski](https://blog.prokulski.science/) (🇵🇱) ← for explaining so many different use cases of data analysis  
-    • [Kamil J. Dudek](https://www.dobreprogramy.pl/kamil-j-dudek,autor,6507838288697473) (🇵🇱) ← for his eloquent writing style and knowledge about tech  
-    • [Mirosław Burnejko](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw) (🇵🇱) ← for motivating me and showing every step of his early entrepreneurship through daily YouTube vlogs  
-    • [Maciej Aniserowicz](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) (🇵🇱) ← for doing the same as Mirosław Burnejko, but more inside the programming sphere  
-    • [Andrzej Krzywda](https://www.youtube.com/channel/UCmrGGj6Y_XQuockwwI3yemA) (🇵🇱) ← for the encouragement to start this blog  
+    - [Mike Shinoda](http://www.mikeshinoda.com/) ← for the overall lifestyle, kindness, and performance in one of my favourite bands - Linkin Park  
+    - [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) ← for all the input to engineering and staying loose while being on the top  
+    - [Andrej Karpathy](https://karpathy.github.io/) ← for his contribution to driverless cars at Tesla  
+    - [Grant Sanderson](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) ← for encouraging me to study math through clear animations  
+    - [Andrew Ng](https://www.andrewng.org/) ← for teaching me the patience to learn machine learning  
+    - [Yann LeCun](http://yann.lecun.com/) ← for his contribution to computer vision (CNN)  
+    - [Daniel Bourke](https://www.mrdbourke.com/) ← for sharing a motivation to keep practising machine learning while maintaining a healthy lifestyle  
+    - [Lex Fridman](https://lexfridman.com/) ← for the way he expresses an interest in such a broad variety of topics while hosting the discussions on his podcast  
+    - [Victor Zhou](https://victorzhou.com/) & [Jay Alammar](https://jalammar.github.io/) ← for the way of explaining machine learning topics in their blog posts  
+    - [Tania Rascia](https://www.taniarascia.com/) ← for presenting a clear and visually pleasing way of web development  
+    - [vas3k](https://vas3k.com/) ← for applying the _quality over quantity_ strategy in blog posting  
+    - [Ali Abdaal](https://aliabdaal.com/) ← for the way of staying organised and charming to his viewers. Don't know if I ever found someone more structured  
+    - [Jordan B Peterson](https://jordanbpeterson.com/) ← for teaching me how to think of almost every life aspect  
+    - [Gary Vaynerchuk](https://www.garyvaynerchuk.com/) ← for giving me the courage to act  
+    - [Tim Ferris](https://tim.blog/) ← for inspiring so many of us through his lifestyle  
+    - [Grant Cardone](https://grantcardone.com/) ← for teaching me how to be fearless of business/marketing  
+    - [Felix Kjellberg](https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw) ← for showing how not to take everything too seriously  
+    - [Jakub Mrugalski](https://mrugalski.pl/) (🇵🇱) ← for sharing all the engaging content and showing the right approach to interact with the online community  
+    - [Adrian Olszewski](https://www.linkedin.com/in/adrianolszewski/) (🇵🇱) ← for his in-depth knowledge on statistical topics and patience in teaching others throughout LinkedIn  
+    - [Mirosław Zelent](https://miroslawzelent.pl/) (🇵🇱) ← for guiding me in making my first steps in programming  
+    - [Łukasz Prokulski](https://blog.prokulski.science/) (🇵🇱) ← for explaining so many different use cases of data analysis  
+    - [Kamil J. Dudek](https://www.dobreprogramy.pl/kamil-j-dudek,autor,6507838288697473) (🇵🇱) ← for his eloquent writing style and knowledge about tech  
+    - [Mirosław Burnejko](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw) (🇵🇱) ← for motivating me and showing every step of his early entrepreneurship through daily YouTube vlogs  
+    - [Maciej Aniserowicz](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) (🇵🇱) ← for doing the same as Mirosław Burnejko, but more inside the programming sphere  
+    - [Andrzej Krzywda](https://www.youtube.com/channel/UCmrGGj6Y_XQuockwwI3yemA) (🇵🇱) ← for the encouragement to start this blog  
 
 7. **Let's get a bit more technical. What do you prefer: Python, R or maybe something else?**  
     I always say that in data science it's the most important to excel in logic and statistical familiarity. Later, the language is like a suit you wear, and in my case, I mostly reach for Python. I found many senior R developers, who claimed that they would start with Python if they got another chance (mainly for the reason of ML-based resources); however, I'm jealous of their pretty looking RStudio.  
@@ -62,18 +62,18 @@ If you have a question that was not listed on this page, please do not hesitate 
 
     You may also want to try and combine both languages to use the best part of each. [This blog post](https://www.business-science.io/business/2018/10/08/python-and-r.html) should explain how to do it most conveniently.  
     tl;dr:  
-    • (R) reticulate for connecting R with Python  
-    • (R) tidyverse for data exploration  
-    • (Python) scikit-learn/TensorFlow/PyTorch for ML and DL  
-    • (R) ggplot2 for visualisation  
-    • (R) R Markdown for reporting and Shiny for web apps  
+    - (R) reticulate for connecting R with Python  
+    - (R) tidyverse for data exploration  
+    - (Python) scikit-learn/TensorFlow/PyTorch for ML and DL  
+    - (R) ggplot2 for visualisation  
+    - (R) R Markdown for reporting and Shiny for web apps  
 
     Apart from these technologies, we need to keep our heads up for the rapid intake of Julia and Scala, which seem to be more optimised over Python.  
 
 8. **IDE for data science?**  
-    • [VS Code](https://code.visualstudio.com/) (explained thoroughly in "[My VS Code Playground](https://pawelcislo.com/2021/11/14/my-vs-code-playground/)" blog post)  
-    • [R Studio](https://www.rstudio.com/) specifically for R  
-    • [Google Colab](https://colab.research.google.com/) for the web IDE  
+    - [VS Code](https://code.visualstudio.com/) (explained thoroughly in "[My VS Code Playground](https://pawelcislo.com/2021/11/14/my-vs-code-playground/)" blog post)  
+    - [R Studio](https://www.rstudio.com/) specifically for R  
+    - [Google Colab](https://colab.research.google.com/) for the web IDE  
 
 9. **Can you also recommend me XYZ (blogs, tools, data science resources, programming learning materials, etc.)?**  
     Sure, have a look at [my great list of recommendations](https://pawelcislo.com/recommendations/).  
