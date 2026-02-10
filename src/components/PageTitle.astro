@@ -1,5 +1,5 @@
 ---
-const { entry, editUrl, lastUpdated } = Astro.locals.starlightRoute;
+const { entry, editUrl } = Astro.locals.starlightRoute;
 const title = entry.data.title;
 const slug = entry.slug;
 
@@ -27,9 +27,6 @@ if (showMeta && entry.body) {
 	wordCount = text.split(/\s+/).filter(word => word.length > 0).length;
 	readingTime = Math.ceil(wordCount / 200);
 }
-
-// Format last updated date from git
-const formattedDate = lastUpdated ? lastUpdated.toISOString().split('T')[0] : null;
 ---
 
 <div class="page-title-wrapper">
@@ -46,8 +43,7 @@ const formattedDate = lastUpdated ? lastUpdated.toISOString().split('T')[0] : nu
 
 {showMeta && (
 	<p class="page-meta">
-		{readingTime} min read · {wordCount} words<br/>
-		{formattedDate && <>last edited: {formattedDate}</>}
+		{readingTime} min read · {wordCount} words
 	</p>
 )}
 
