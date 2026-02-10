@@ -1,6 +1,35 @@
 ---
-const { entry, editUrl } = Astro.locals.starlightRoute;
+const { entry, editUrl, lastUpdated } = Astro.locals.starlightRoute;
 const title = entry.data.title;
+const slug = entry.slug;
+
+// Check if this is a blog post or resources page
+const isPost = slug.startsWith('posts/');
+const resourcePages = ['pages/recommendations', 'pages/favourite-thoughts', 'pages/three-goals', 'pages/faq'];
+const isResourcePage = resourcePages.includes(slug);
+const showMeta = isPost || isResourcePage;
+
+// Get the raw content body to calculate words
+let wordCount = 0;
+let readingTime = 0;
+
+if (showMeta && entry.body) {
+	// Strip markdown/HTML and count words
+	const text = entry.body
+		.replace(/```[\s\S]*?```/g, '') // Remove code blocks
+		.replace(/`[^`]*`/g, '') // Remove inline code
+		.replace(/!?\[.*?\]\(.*?\)/g, '') // Remove links/images
+		.replace(/<[^>]*>/g, '') // Remove HTML tags
+		.replace(/[#*_~>`-]/g, '') // Remove markdown symbols
+		.replace(/\s+/g, ' ') // Normalize whitespace
+		.trim();
+	
+	wordCount = text.split(/\s+/).filter(word => word.length > 0).length;
+	readingTime = Math.ceil(wordCount / 200);
+}
+
+// Format last updated date from git
+const formattedDate = lastUpdated ? lastUpdated.toISOString().split('T')[0] : null;
 ---
 
 <div class="page-title-wrapper">
@@ -14,6 +43,13 @@ const title = entry.data.title;
 		</a>
 	)}
 </div>
+
+{showMeta && (
+	<p class="page-meta">
+		{readingTime} min read · {wordCount} words<br/>
+		{formattedDate && <>last edited: {formattedDate}</>}
+	</p>
+)}
 
 <style>
 	.page-title-wrapper {
@@ -37,5 +73,11 @@ const title = entry.data.title;
 	}
 	.edit-link-top svg {
 		display: block;
+	}
+	.page-meta {
+		color: var(--sl-color-gray-3);
+		font-size: 0.9em;
+		margin-top: 0.5rem;
+		margin-bottom: 1rem;
 	}
 </style>

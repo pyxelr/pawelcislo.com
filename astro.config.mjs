@@ -13,6 +13,7 @@ export default defineConfig({
 			},
 			description: 'Personal website and blog of Paweł Cisło - MLOps Engineer, Data Scientist, and tech enthusiast',
 			pagination: false,
+			lastUpdated: true,
 			editLink: {
 				baseUrl: 'https://github.com/pyxelr/pawelcislo.com/edit/main/',
 			},
