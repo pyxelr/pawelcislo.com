@@ -18,3 +18,9 @@
 	max-width: 180px;
 	border-radius: 8px;
 }
+
+/* Portfolio metadata (tags, year, status) */
+.meta {
+	color: var(--sl-color-gray-3);
+	font-size: 0.85em;
+}
