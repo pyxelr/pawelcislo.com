@@ -16,7 +16,7 @@
  * Run: node scripts/sync-recommendations.mjs
  */
 
-import { writeFileSync } from 'node:fs';
+import { existsSync, writeFileSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -114,6 +114,11 @@ async function main() {
 }
 
 main().catch((err) => {
-	console.error('❌ Sync failed:', err.message);
-	process.exit(1);
+	console.error('⚠️  Sync failed:', err.message);
+	if (existsSync(OUTPUT_PATH)) {
+		console.log('ℹ️  Keeping existing recommendations.md');
+	} else {
+		console.error('❌ No existing file to fall back to — aborting build.');
+		process.exit(1);
+	}
 });
