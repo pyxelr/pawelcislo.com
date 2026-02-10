@@ -92,12 +92,12 @@ The other way to get that information is to listen to someone with experience, l
 
 ![The Three Tiers of Noncustomers](images/the-three-tiers.jpg)
 _The Three Tiers of Noncustomers. Credit: Blue Ocean[^3]_
-2. **Technologization** ---> AI ---> dying professions.
+2. **Technologization** → AI → dying professions.
 
 - _Description_: 47% of jobs in the US are in the risk of extinction (99% call centre, 98% judges, 97% cashiers, 96% chefs, 94% waiters, 89% drivers (...) but less than 1% of archaeologists 🤔
 - _Solution_: prepare to learn something that won't be automated in the near future. These are mostly professions that include emotions (motivator).
 
-3. **Welfare** ---> civilization diseases (overweight) ---> loss (depression).
+3. **Welfare** → civilization diseases (overweight) → loss (depression).
    - _Description_: rapid growth in IT causes civilisation diseases, making people feeling lost.
    - _Solution_: diversify your business for diversity, be innovative and solve global problems. Maybe you can get inspiration from the following graph:
 
@@ -256,7 +256,7 @@ If CLV < CAC you need to reconsider your actions.
 
 Be a rebel, be original, be innovative. Yes, that is important.
 
-Rahim also mentioned what the technology of building a personal brand is. content ---> facts ---> value ---> goal ---> call to action (ask question)
+Rahim also mentioned what the technology of building a personal brand is. content → facts → value → goal → call to action (ask question)
 
 Act this way, and you will be one of the best marketers.
 
@@ -276,9 +276,9 @@ Do you know Elon Musk? He has dozens of great companies, but if you would be abl
 
 ### Decide quickly
 
-Piotr Bijańśki explained that the traditional business model looks somehow like this: idea ---> realisation ---> sale ---> profit
+Piotr Bijańśki explained that the traditional business model looks somehow like this: idea → realisation → sale → profit
 
-It is not bad; however, we might fall into the perfectionism problem and never start the business. So what to do now? Let's reconstruct the model: idea ---> sale ---> profit ---> realisation
+It is not bad; however, we might fall into the perfectionism problem and never start the business. So what to do now? Let's reconstruct the model: idea → sale → profit → realisation
 
 This way, you might have more mistakes, but what to learn on, than not on mistakes?
 

@@ -470,7 +470,7 @@ Don't overwhelm yourself with data, as it's impossible to process all of it. If 
 
 Last time I organised my first 2.5-hour training on "[Personal Organisation](https://pawelcislo.com/wp-content/uploads/2019/03/Personal_organisation_training.jpg)", which covered various topics around its broad title (remembering, optimising, focusing, learning, respecting health, planning & celebrating). For now, it had internal premiere inside the offices, and the first attendants provided me with excellent feedback, giving me the opportunity to continue my training for other co-workers. I believe that the values provided in the scope of the presentation can profoundly influence every human being and. Keep your fingers crossed and once I might provide the training to larger groups around the world!
 
-As it will never take place to be able to deliver it to most of my readers, I can consider recording an online course, where I will go through the contents of my presentation in depth. In the end, I wish to let everyone change his state from :( ---> 🙂.
+As it will never take place to be able to deliver it to most of my readers, I can consider recording an online course, where I will go through the contents of my presentation in depth. In the end, I wish to let everyone change his state from 🙁 → 🙂.
 
 Lastly, as you see, even my watch is starting to run out of space for data:
 

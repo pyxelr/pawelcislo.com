@@ -166,7 +166,7 @@ If there is something that you go through continuously in the exact same structu
 
 ### Online Calendar
 
-If you have Todoist Premium, you can head into "Settings --> Integrations" to get your personalised token (iCal). With this URL you can tightly integrate Todoist with Google Calendar, so whenever you open it up, you will also see your Todoist tasks planned for that day (as on the image below).
+If you have Todoist Premium, you can head into "Settings → Integrations" to get your personalised token (iCal). With this URL you can tightly integrate Todoist with Google Calendar, so whenever you open it up, you will also see your Todoist tasks planned for that day (as on the image below).
 
 ![Google Calendar + Todoist](images/Google-Calendar-Todoist.png)
 _Todoist can also automatically sync all the tasks to Google Calendar_
