@@ -1,0 +1,41 @@
+---
+const { entry, editUrl } = Astro.locals.starlightRoute;
+const title = entry.data.title;
+---
+
+<div class="page-title-wrapper">
+	<h1 id="_top">{title}</h1>
+	{editUrl && (
+		<a href={editUrl} class="edit-link-top" target="_blank" rel="noopener noreferrer" title="Edit page">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M17 3a2.85 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5Z"/>
+				<path d="m15 5 4 4"/>
+			</svg>
+		</a>
+	)}
+</div>
+
+<style>
+	.page-title-wrapper {
+		display: flex;
+		align-items: flex-start;
+		justify-content: space-between;
+		gap: 1rem;
+	}
+	h1 {
+		margin: 0;
+	}
+	.edit-link-top {
+		flex-shrink: 0;
+		padding: 0.25rem;
+		color: var(--sl-color-gray-3);
+		transition: color 0.2s ease;
+		margin-top: 1.25rem;
+	}
+	.edit-link-top:hover {
+		color: var(--sl-color-white);
+	}
+	.edit-link-top svg {
+		display: block;
+	}
+</style>

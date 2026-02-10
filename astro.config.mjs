@@ -19,6 +19,8 @@ export default defineConfig({
 			customCss: ['./src/styles/custom.css'],
 			components: {
 				ThemeSelect: './src/components/ThemeSelect.astro',
+				EditLink: './src/components/EditLink.astro',
+				PageTitle: './src/components/PageTitle.astro',
 			},
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/pyxelr' },
