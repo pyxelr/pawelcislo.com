@@ -1,7 +1,5 @@
 # pawelcislo.com
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
-
 Personal website and blog of Paweł Cisło.
 
 Migrated from WordPress to [Astro Starlight](https://starlight.astro.build/) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
@@ -12,17 +10,18 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 
 ```text
 .
-├── public/
+├── public/                     # Static assets served as-is (favicon, etc.)
+├── scripts/                    # Utility scripts
 ├── src/
-│   ├── assets/
+│   ├── assets/                 # Optimised assets (processed by Astro)
 │   ├── content/
 │   │   ├── docs/
-│   │   │   ├── pages/        # Pages (About, Portfolio, Contact, etc.)
-│   │   │   └── posts/        # Blog posts with images
-│   │   └── content.config.ts
+│   │   │   ├── pages/          # Pages (About, Portfolio, Contact, etc.)
+│   │   │   └── posts/          # Blog posts with images
+│   │   └── content.config.ts   # Content collection schema
 ├── astro.config.mjs            # Site configuration
-├── package.json
-└── tsconfig.json
+├── package.json                # Dependencies and scripts
+└── tsconfig.json               # TypeScript configuration
 ```
 
 **Content organization:**
@@ -71,3 +70,7 @@ This site is deployed on **Cloudflare Pages** with automatic deployments from Gi
 - [Astro Documentation](https://docs.astro.build)
 - [Cloudflare Pages Documentation](https://developers.cloudflare.com/pages/)
 - [Astro Discord](https://astro.build/chat)
+
+---
+
+[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
