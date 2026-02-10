@@ -1,0 +1,84 @@
+---
+import EditLink from 'virtual:starlight/components/EditLink';
+import LastUpdated from 'virtual:starlight/components/LastUpdated';
+import Pagination from 'virtual:starlight/components/Pagination';
+import config from 'virtual:starlight/user-config';
+import { Icon } from '@astrojs/starlight/components';
+
+const currentYear = new Date().getFullYear();
+const startYear = 2018;
+const yearRange = currentYear > startYear ? `${startYear} – ${currentYear}` : startYear;
+---
+
+<footer class="sl-flex">
+	<div class="meta sl-flex">
+		<EditLink />
+		<LastUpdated />
+	</div>
+	<Pagination />
+
+	<div class="site-footer">
+		{config.credits && (
+			<a class="kudos sl-flex" href="https://starlight.astro.build">
+				<Icon name="starlight" /> {Astro.locals.t('builtWithStarlight.label')}
+			</a>
+		)}
+		<p class="copyright">
+			© {yearRange} Paweł Cisło. Except where otherwise noted, content licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>.
+		</p>
+	</div>
+</footer>
+
+<style>
+	footer {
+		flex-direction: column;
+		gap: 1.5rem;
+	}
+	.meta {
+		gap: 0.75rem 3rem;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		margin-top: 3rem;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+	}
+	.meta > :global(p:only-child) {
+		margin-inline-start: auto;
+	}
+
+	.site-footer {
+		text-align: center;
+		margin-top: 1rem;
+		padding-top: 1rem;
+		border-top: 1px solid var(--sl-color-gray-5);
+	}
+
+	.kudos {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.5em;
+		margin-bottom: 0.5rem;
+		font-size: var(--sl-text-xs);
+		text-decoration: none;
+		color: var(--sl-color-gray-3);
+	}
+	.kudos:hover {
+		color: var(--sl-color-white);
+	}
+	.kudos :global(svg) {
+		color: var(--sl-color-orange);
+	}
+
+	.copyright {
+		font-size: var(--sl-text-xs);
+		color: var(--sl-color-gray-3);
+		margin: 0;
+	}
+	.copyright a {
+		color: var(--sl-color-gray-3);
+		text-decoration: underline;
+	}
+	.copyright a:hover {
+		color: var(--sl-color-white);
+	}
+</style>
