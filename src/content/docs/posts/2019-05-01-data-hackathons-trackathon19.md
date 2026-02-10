@@ -112,7 +112,7 @@ Moreover, keep in mind that if you have any remarks about the portal or the data
 ![Still not convinced?](images/DATAthon-coffee.png)
 _Still not convinced?_
 
-Is free coffee not enough? What about [all the delicious food](https://pawelcislo.com/wp-content/uploads/2019/05/DATAthon-Food_1.jpg)? I have to admit that it was hard to continue the work after tasting [all the different snacks](https://pawelcislo.com/wp-content/uploads/2019/05/DATAthon-Food_2-e1556701929372.jpg).
+Is free coffee not enough? What about [all the delicious food](images/DATAthon-Food_1.jpg)? I have to admit that it was hard to continue the work after tasting [all the different snacks](images/DATAthon-Food_2-e1556701929372.jpg).
 
 Okay, you want to be serious? There are tons of benefits in attending hackathons and in my opinion, it is one of the best decisions you can do for the sake of your career.
 
@@ -122,7 +122,7 @@ Secondly, **you are getting an easy opportunity to showcase your technical and i
 
 There are many other reasons, but as the last one I would point out the **ability to enter a simulation of potential working space**. This is where students can highly benefit from having a chance to experience what it can be like after they finally graduate and get one of their own computer desks.
 
-Lastly, you might meet your manager on the corridor, who will stop you with these words: "_Oh, hi Pawel, I saw you yesterday on the 1st channel of the Belgian TV!_". Speaking in front of [the camera](https://pawelcislo.com/wp-content/uploads/2019/05/DATAthon-Camera-e1556702043762.jpg) during the hackathons is not a daily thing, but be prepared for it. :)
+Lastly, you might meet your manager on the corridor, who will stop you with these words: "_Oh, hi Pawel, I saw you yesterday on the 1st channel of the Belgian TV!_". Speaking in front of [the camera](images/DATAthon-Camera-e1556702043762.jpg) during the hackathons is not a daily thing, but be prepared for it. :)
 
 ![Datathons - Belgian TV](images/Datathons_Belgian_TV.jpg)
 _And all the website traffic is ruined by a typo in my last name :(_

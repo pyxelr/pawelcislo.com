@@ -20,7 +20,7 @@ coverImage: "Aim-for-your-Goals-the-Right-Way__thumbnail.png"
 
 Business & Technology. Last time, these two terms stick to each other more than ever before, such that it became a standard for every university to offer "Business Intelligence" modules. We all know that the world moves faster than ever before, creating a more rapid variation of Moore's law[^1]. So, how to stick to the current trends in order to prevent the failure or rise from it like Phoenix from the ashes? Well... first of all, we should hack our mind and start thinking how not to stick to the trends, but be ahead of the competition.
 
-In the thumbnail/background image of this post, you may have noticed the term "[World Business Experience](http://www.wbexp.pl) (WBE)". Sounds intriguing, but what is it? Three days ago (27/09/2018) I have attended the all-day conference in Warsaw (🇵🇱), that did cost a little bit (~208 €), but just as every attendant, I will never regret spending any money for that time. The main star of the WBE was no one else but [Gary Vaynerchuk](https://www.garyvaynerchuk.com/) who was preceded with dozens of different stories from other business winners. All of the presenters were so great that I had come home with a quite considerable pile of notes ([pic](https://pawelcislo.com/wp-content/uploads/2018/09/WBE-Notes.jpg)), that I am trying to digitalise here, leaving the most fundamental framework.
+In the thumbnail/background image of this post, you may have noticed the term "[World Business Experience](http://www.wbexp.pl) (WBE)". Sounds intriguing, but what is it? Three days ago (27/09/2018) I have attended the all-day conference in Warsaw (🇵🇱), that did cost a little bit (~208 €), but just as every attendant, I will never regret spending any money for that time. The main star of the WBE was no one else but [Gary Vaynerchuk](https://www.garyvaynerchuk.com/) who was preceded with dozens of different stories from other business winners. All of the presenters were so great that I had come home with a quite considerable pile of notes ([pic](images/WBE-Notes.jpg)), that I am trying to digitalise here, leaving the most fundamental framework.
 
 Why did I decide to show up at the conference? What did I learn? What tools might help you with your business? My answer to all of these and more questions will be down below. Have a great time reading! 😉
 
@@ -97,7 +97,7 @@ _The Three Tiers of Noncustomers. Credit: Blue Ocean[^3]_
 - _Description_: 47% of jobs in the US are in the risk of extinction (99% call centre, 98% judges, 97% cashiers, 96% chefs, 94% waiters, 89% drivers (...) but less than 1% of archaeologists 🤔
 - _Solution_: prepare to learn something that won't be automated in the near future. These are mostly professions that include emotions (motivator).
 
-3. **Welfare** → civilization diseases (overweight) → loss (depression).
+1. **Welfare** → civilization diseases (overweight) → loss (depression).
    - _Description_: rapid growth in IT causes civilisation diseases, making people feeling lost.
    - _Solution_: diversify your business for diversity, be innovative and solve global problems. Maybe you can get inspiration from the following graph:
 

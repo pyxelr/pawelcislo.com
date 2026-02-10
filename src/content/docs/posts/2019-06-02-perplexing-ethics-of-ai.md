@@ -170,7 +170,7 @@ Moreover, if you would like to know more about the Data Science events in Brusse
 
 Nowadays, self-driving cars is a hot topic, when deliberating on the moral behaviour of the machines. On the road, due to not only the human error, there can be situations when the car will have to choose between killing one person over another. Unfortunately, the handling mechanism and physics won't let the vehicle to stop immediately, so when you put in front of the car two objects, it will need to hit one of them.
 
-Probably the most classic example of this perplexity is the so-called [Trolley Dilemma Problem](https://pawelcislo.com/wp-content/uploads/2019/06/trolley-dilemma.jpg), which is not strictly related to self-driving cars, as it was in studies since 1905, as a part of a moral questionnaire given to undergraduates at the University of Wisconsin in 1905[^9]. In this experiment, you are usually in a situation, where you can pull a lever to change the track of the upcoming train so that it will kill either someone closely related to you (such as your parent) or five strangers. What would you do?
+Probably the most classic example of this perplexity is the so-called [Trolley Dilemma Problem](images/trolley-dilemma.jpg), which is not strictly related to self-driving cars, as it was in studies since 1905, as a part of a moral questionnaire given to undergraduates at the University of Wisconsin in 1905[^9]. In this experiment, you are usually in a situation, where you can pull a lever to change the track of the upcoming train so that it will kill either someone closely related to you (such as your parent) or five strangers. What would you do?
 
 ### Test yourself
 

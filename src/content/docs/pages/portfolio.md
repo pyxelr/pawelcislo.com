@@ -36,7 +36,7 @@ For contract work, have a look at my [Résumé](/Resume-PawelCislo.pdf).
   13.10.2022 – talked about "_The use of cloud computing in business and artificial intelligence_" during a local conference in Rzeszów ("_Carpathian Startup Fest 2022: Deep Tech_").
 - [CyberDefence24 interview](https://cyberdefence24.pl/social-media/cybermagazyn-etyczna-sztuczna-inteligencja-to-fikcja-dylematy-jej-tworcow-moga-uchronic-nas-przed-zagrozeniem) <span class="meta">[interview] [ai] [ethics] • 2021 • done</span><br/>
   20.11.2021 – interview (in Polish) for CyberDefence24.pl about the ethical aspects of designing AI systems.
-- [#TRACKathon19 interview](https://pawelcislo.com/wp-content/uploads/2019/04/Datathons_Belgian_TV.jpg) <span class="meta">[interview] [ai] • 2019 • done</span><br/>
+- [#TRACKathon19 interview](../posts/images/Datathons_Belgian_TV.jpg) <span class="meta">[interview] [ai] • 2019 • done</span><br/>
   28.04.2019 – interview (in English) for RTBF, one of the biggest Belgian TV stations (see the blog post about the event; unfortunately, the recording is lost).
 
 * * *

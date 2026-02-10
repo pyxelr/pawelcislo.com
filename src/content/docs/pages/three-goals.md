@@ -60,7 +60,7 @@ You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-deck
 #### 🇫🇷 French Speaker
 
 1. Achieved A2 level — 2019
-2. [Achieved B1 level](https://pawelcislo.com/wp-content/uploads/2020/05/French_B1.jpg) — 2020
+2. [Achieved B1 level](images/French_B1.jpg) — 2020
 3. Achieved B2 level — 202?
 
 **_Inspiration_**: Me myself.
@@ -79,9 +79,9 @@ You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-deck
 
 #### 🃏 Daily Anki Flashcards (V2)
 
-1. [Reached 500-day streak](https://pawelcislo.com/wp-content/uploads/2021/11/Daily_Anki-529_a-bit-late.png) — 09/10/2021
-2. [Reached 750-day streak](https://pawelcislo.com/wp-content/uploads/2022/06/Daily_Anki-750.png) — 16/06/2022
-3. [Reached 1000-day streak](https://pawelcislo.com/wp-content/uploads/2023/03/Daily_Anki-1027.png.png) — 21/02/2023
+1. [Reached 500-day streak](images/Daily_Anki-529_a-bit-late.png) — 09/10/2021
+2. [Reached 750-day streak](images/Daily_Anki-750.png) — 16/06/2022
+3. [Reached 1000-day streak](images/Daily_Anki-1027.png) — 21/02/2023
 
 **_Inspiration_**: Me myself.  
 **_Note_**: Studying French, German, Machine Learning, Statistics, Geography, Python, and anything else that I find interesting.  
@@ -89,8 +89,8 @@ You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-deck
 
 #### 🦉 Daily Duolingo (V2)
 
-1. [Reached 500-day streak](https://pawelcislo.com/wp-content/uploads/2021/07/Daily_French_Duolingo-500.jpg) — 14/07/2021
-2. [Reached 750-day streak](https://pawelcislo.com/wp-content/uploads/2022/03/Daily_French_Duolingo-750.jpg.jpg) — 21/03/2022
+1. [Reached 500-day streak](images/Daily_French_Duolingo-500.jpg) — 14/07/2021
+2. [Reached 750-day streak](images/Daily_French_Duolingo-750.jpg) — 21/03/2022
 3. [Reached 1000-day streak](https://twitter.com/pawel_cislo/status/1596310278601318407) — 26/11/2022
 
 **_My profile_**: [pyXelr](https://www.duolingo.com/profile/pyXelr)  
@@ -98,9 +98,9 @@ You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-deck
 
 #### 🃏 Daily Anki Flashcards
 
-1. [Reached 30-day streak](https://pawelcislo.com/wp-content/uploads/2020/06/Daily_Anki-30.png) — 26/06/2020
-2. [Reached 100-day streak](https://pawelcislo.com/wp-content/uploads/2020/09/Daily_Anki-100.png) — 04/09/2020
-3. [Reached 365-day streak](https://pawelcislo.com/wp-content/uploads/2021/05/Daily_Anki-365.png) — 27/05/2021
+1. [Reached 30-day streak](images/Daily_Anki-30.png) — 26/06/2020
+2. [Reached 100-day streak](images/Daily_Anki-100.png) — 04/09/2020
+3. [Reached 365-day streak](images/Daily_Anki-365.png) — 27/05/2021
 
 **_Inspiration_**: Me myself.  
 **_Note_**: Studying French, German, Machine Learning, Statistics, Geography, Python, and anything else that I find interesting.  
@@ -109,8 +109,8 @@ You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-deck
 #### 🦉 Daily French Duolingo
 
 1. Reached 30-day streak — 31/03/2020
-2. [Reached 100-day streak](https://pawelcislo.com/wp-content/uploads/2020/06/Daily_French_Duolingo-100.png) — 09/06/2020
-3. [Reached 365-day streak](https://pawelcislo.com/wp-content/uploads/2021/02/Daily_French_Duolingo-365.jpg) — 01/03/2021
+2. [Reached 100-day streak](images/Daily_French_Duolingo-100.png) — 09/06/2020
+3. [Reached 365-day streak](images/Daily_French_Duolingo-365.jpg) — 01/03/2021
 
 **_My profile_**: [pyXelr](https://www.duolingo.com/profile/pyXelr)  
 **_Inspiration_**: Me myself.
@@ -118,7 +118,7 @@ You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-deck
 #### 👨‍💻 Programmer
 
 1. Solved 30 coding problems — 12/11/2018
-2. [Solved 120 coding problems](https://pawelcislo.com/wp-content/uploads/2019/12/Programmer-Goal-2.png) — 25/12/2019
+2. [Solved 120 coding problems](images/Programmer-Goal-2.png) — 25/12/2019
 3. Solved 250 coding problems — 2020
 
 **_My profiles_**: [HackerRank](https://www.hackerrank.com/pyxelr), [JetBrains Academy](https://hyperskill.org/profile/21057352), [CheckiO](https://py.checkio.org/user/pyxelr/), [CodeSignal](https://app.codesignal.com/profile/pyxelr), [LeetCode](https://leetcode.com/pyxelr).  
@@ -136,8 +136,8 @@ You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-deck
 
 #### 🧘 Meditator
 
-1. [Meditated 30 days in a row](https://pawelcislo.com/wp-content/uploads/2018/10/Meditator-30.jpg) — 07/10/2018
+1. [Meditated 30 days in a row](images/Meditator-30.jpg) — 07/10/2018
 2. Meditated 130 days in a row — 15/01/2019
-3. [Meditated 365 days in a row](https://pawelcislo.com/wp-content/uploads/2019/09/365-days-of-meditation.jpg) — 07/09/2019
+3. [Meditated 365 days in a row](images/365-days-of-meditation.jpg) — 07/09/2019
 
 **_Inspiration_**: Buddhist monks.

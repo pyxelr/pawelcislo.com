@@ -157,7 +157,7 @@ In addition to simplifying the information, try to use images where possible as 
 I've just provided the basic, must known principles, but there is more to it if you would like to create the most practical cards. Dr Piotr Woźniak, the author of SuperMemo software, explained this topic thoroughly in 20 rules[^6] with a great set of examples.
 
 ![How Anki users deal with learning new information](images/Anki_new_information.png)
-_It's just like when you [stir your data unless the ML algorithm works](https://pawelcislo.com/wp-content/uploads/2020/07/stir_data_meme.png), right? Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/g9otl1/shitpost_just_shove_dem_flashcards/)_
+_It's just like when you [stir your data unless the ML algorithm works](images/stir_data_meme.png), right? Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/g9otl1/shitpost_just_shove_dem_flashcards/)_
 
 ## My Anki Setup 🛠
 
