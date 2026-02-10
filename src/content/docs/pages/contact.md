@@ -5,7 +5,7 @@ date: 2018-08-05
 
 You can contact me via:
 
-- one of my social profiles located in the top-right bar of this page, such as:
+- one of my social profiles:
   - [LinkedIn](https://www.linkedin.com/in/pawelcislo/)
   - [X](https://x.com/pawel_cislo)
   - [Facebook](https://www.facebook.com/pawelcislocom/)
