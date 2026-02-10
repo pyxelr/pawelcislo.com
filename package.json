@@ -5,6 +5,8 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
+    "sync:recommendations": "node scripts/sync-recommendations.mjs",
+    "prebuild": "node scripts/sync-recommendations.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"

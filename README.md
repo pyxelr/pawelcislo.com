@@ -43,16 +43,17 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 
 All commands are run from the root of the project, from a terminal:
 
-| Command                     | Action                                       |
-| :-------------------------- | :------------------------------------------- |
-| `npm install`               | Installs dependencies                        |
-| `npm run dev`               | Starts local dev server at `localhost:4321`  |
-| `npm run build`             | Build your production site to `./dist/`      |
-| `npm run preview`           | Preview your build locally, before deploying |
-| `npm update`                | Updates packages within semver ranges        |
-| `npm outdated`              | Shows which packages have newer versions     |
-| `npm run astro ...`         | Run CLI commands like `astro add`, `check`   |
-| `npm run astro -- --help`   | Get help using the Astro CLI                 |
+| Command                          | Action                                                                                           |
+| :------------------------------- | :----------------------------------------------------------------------------------------------- |
+| `npm install`                    | Installs dependencies                                                                            |
+| `npm run dev`                    | Starts local dev server at `localhost:4321`                                                      |
+| `npm run sync:recommendations`   | Sync recommendations page from [GitHub](https://github.com/pyxelr/recommendations-for-engineers) |
+| `npm run build`                  | Build your production site to `./dist/` (auto-syncs recommendations page)                        |
+| `npm run preview`                | Preview your build locally, before deploying                                                     |
+| `npm update`                     | Updates packages within semver ranges                                                            |
+| `npm outdated`                   | Shows which packages have newer versions                                                         |
+| `npm run astro ...`              | Run CLI commands like `astro add`, `check`                                                       |
+| `npm run astro -- --help`        | Get help using the Astro CLI                                                                     |
 
 ## 🚀 Deployment
 
