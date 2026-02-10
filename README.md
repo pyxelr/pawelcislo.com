@@ -50,7 +50,6 @@ All commands are run from the root of the project, from a terminal:
 | `npm run build`             | Build your production site to `./dist/`      |
 | `npm run preview`           | Preview your build locally, before deploying |
 | `npm update`                | Updates packages within semver ranges        |
-| `npx ncu -u && npm install` | Update all packages to latest versions       |
 | `npm outdated`              | Shows which packages have newer versions     |
 | `npm run astro ...`         | Run CLI commands like `astro add`, `check`   |
 | `npm run astro -- --help`   | Get help using the Astro CLI                 |
