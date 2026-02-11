@@ -32,7 +32,7 @@ First and foremost, the psychologist tries to shape the real purpose of writing,
 
 Nonetheless, let's not stop on generalised logical/material benefits and extend the value of writing based on the example of writing an essay. To express it in a single sentence: the primary reason to write an essay is so that the writer can formulate and organise an informed, coherent and sophisticated set of ideas about something important.[^1]
 
-![Writing as a weapon](images/Writing_as_a_weapon.png)
+![Writing as a weapon](images/Writing-as-a-weapon.png)
 
 > _If you can think and speak and write, you are absolutely deadly (…) It’s the most powerful weapon you can possibly provide someone with (…) those people, you don’t want to have an argument with them, they will just slash you into pieces._
 >
@@ -65,7 +65,7 @@ Now, before we talk about a highly correlated form of communication, take into c
 
 Speaking is something I don't feel particularly good with; hence, I profoundly supported this part with a popular TED talk "_How to speak so that people want to listen_" given by Julian Treasure.[^2]
 
-![Public speaking](images/public_speaking.jpg)
+![Public speaking](images/public-speaking.jpg)
 
 > "_Well-timed silence hath more eloquence than speech._"
 >
@@ -186,7 +186,7 @@ Coming back to the merits of this post (writing), it's worth to have an ultimate
 
 ### The way I write blog posts
 
-![](images/adding_new_posts.png)
+![](images/adding-new-posts.png)
 
 Let's make it clear that I do not always follow the 10 steps presented above, but I do keep them in mind. Don't take anyone's approach for granted, yet keep to yourself the ideas you value the most.
 
@@ -225,7 +225,7 @@ In the end, make sure not to end up on continuous yet vacant book consumption. D
 
 Apart from reading, I can give you an honest recommendation to try [Elevate app](https://www.elevateapp.com/), which is full of games that will improve your English vocabulary to a highly professional level. At first, try the free version, and if you like it, you can decide funding yourself a premium account.
 
-![Elevate screenshot](images/Elevate_screenshot-498x1024.jpg)
+![Elevate screenshot](images/Elevate-screenshot-498x1024.jpg)
 _Elevate's "memory" game_
 
 ## Researching Scientific Papers
@@ -298,7 +298,7 @@ According to the guide, there is no need to overcomplex your craft, particularly
 
 Traditionally in Word, you can find a thesaurus dictionary, solely by right-clicking the term you would like to exchange, so to maintain some variance in your vocabulary range. Besides, you can always reach for [Thesaurus web service](https://www.thesaurus.com/) and get a more comprehensive view.
 
-![You're fired](images/you_re_fired.png)
+![You're fired](images/you-re-fired.png)
 _oopsie_
 
 Apart from Thesaurus, I tend to find even more synonyms, by merely typing down the phrase in [Google Translate](https://translate.google.com/), but you can also take advantage of previously discussed Grammarly by simply double-clicking the right set of characters.
@@ -325,7 +325,7 @@ This list could go on and on, so if you would like to know more pros over MS Wor
 
 In general, the reason to type documents in LaTeX increases with the complexity of your documents.
 
-![](images/word_vs_latex.png)
+![](images/word-vs-latex.png)
 
 ### Set of LaTeX resources 🛠
 

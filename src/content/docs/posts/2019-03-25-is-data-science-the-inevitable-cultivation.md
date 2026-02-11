@@ -63,7 +63,7 @@ In order to address everything concisely without the struggle of paying attentio
   - AI will be a priority on the Belgian market
   - Only 1 out of 4 Belgians know what AI is
 - **#2 Digital trends for Biotech – data for the best?** \[Benjamin Docquir (Osborne Clarke, partner), Hadrien Chef (Osborne Clarke, partner)\]
-  - pharma and medical technology [scores only 27/100 points](images/BioTech_trends_in_digital_transformation.jpg) in trends of digital transformation for healthcare providers
+  - pharma and medical technology [scores only 27/100 points](images/BioTech-trends-in-digital-transformation.jpg) in trends of digital transformation for healthcare providers
     - that is more than the public sector (22)
     - but less than telecom (37), retail (42), travel and hospitality (46)
   - pre-clinical and clinical activities are still paper-based and it has to change
@@ -80,9 +80,9 @@ In order to address everything concisely without the struggle of paying attentio
     - data is an asset... not an isolation
 - **#3 How to find the right patterns in order to turn data into actionable insights** \[Lien Van Den Berghe (Möbius Healthcare, Business Consultant Healthcare & Lifesciences)\]
   - data is the new oil
-  - only [8% of companies know how to utilise data](images/BioTech_8percent.jpg)
+  - only [8% of companies know how to utilise data](images/BioTech-8percent.jpg)
   - we lack skills in data analytics
-  - presentation of clear data analytics process ([explanation graph](images/BioTech_analytics_process.jpg))
+  - presentation of clear data analytics process ([explanation graph](images/BioTech-analytics-process.jpg))
   - understanding that business is vital - ask the right questions
   - Data Scientist is the 21st century's sexiest job (according to Harvard Business)
   - 5 key learnings
@@ -103,13 +103,13 @@ In order to address everything concisely without the struggle of paying attentio
       - 2-4 times yield improvement
   - in Texere, 50% of workers are robots, whereas in other companies it's usually 8%
     - clearly, robots are easier to be managed
-  - analysis of the most wanted jobs of the industry 4.0 ([infographic](images/BioTech_industry40_jobs.jpg))
+  - analysis of the most wanted jobs of the industry 4.0 ([infographic](images/BioTech-industry40-jobs.jpg))
 - **#5 Early prediction on quality attributes & parametric release by a global smart GMP monitoring** \[Nicolas Tijs (NOVADIP Biosciences), Anne Cassart (Sapristic Biion, Sales Director - International Business Development)\]
   - introduction of next-generation monitoring including process monitoring
   - presentation of mirrhia (global monitoring system: clean rooms, lab environment & equipment)
 - **#6 Biomanufacturing excellence through data sciences at GSK vaccines** \[Thibault Helleputte (DNAlytics, CEO)\]
   - data needs to be processed in real time
-  - DS in biomanufacturing - a retrospective/prospective analysis ([infographic](images/BioTech_DS_in_biomanufacturing.jpg))
+  - DS in biomanufacturing - a retrospective/prospective analysis ([infographic](images/BioTech-DS-in-biomanufacturing.jpg))
   - a typical vaccine production process (types of data)
     - we have mostly 2nd-hand data
     - heterogenous
@@ -174,7 +174,7 @@ In order to address everything concisely without the struggle of paying attentio
 
 Woah, that is a lot of information!
 
-Luckily everything ended up with a productive networking session, full of [tasty sandwiches](images/BioTech_sandwiches.jpg) and [various drinks](images/BioTech_drinks-e1553434016959.jpg). :)
+Luckily everything ended up with a productive networking session, full of [tasty sandwiches](images/BioTech-sandwiches.jpg) and [various drinks](images/BioTech-drinks-e1553434016959.jpg). :)
 
 As there is still a lot to cover in this post, I will not elaborate on the conference. The need for data scientists will grow, and this is what I am going to facilitate in the rest of this article.
 
@@ -353,7 +353,7 @@ For now, let's stop our fascination about everything involving data, and agree o
 
 Regression is just a line of best fit. It's like taking a bunch of dots and finding a curve that fits nicely to them. Nonetheless, there are 2 ways to make it harder: make it curvier than just a line or make it multi-dimensional.
 
-![Linear Regression](images/linear_regression.png)
+![Linear Regression](images/linear-regression.png)
 _Linear Regression - just try to fit the line of the best fit, but this time you can't go with your eyeball and the ruler_
 
 Classification is just taking a bunch of coloured dots and finding the curve that goes between them. Each row in the table is a feature vector and for each vector, we can draw a point on the grid. We can just draw a classification boundary between the points and when the new point appears, we can decide to which class it belongs. Ah, and it doesn't matter what the axes are or what the groups represent.
@@ -468,13 +468,13 @@ Let's end this post with a funny situation shared by Piotr Migdał on his social
 
 Don't overwhelm yourself with data, as it's impossible to process all of it. If you are continually being overloaded with the information, I have some good news for you.
 
-Last time I organised my first 2.5-hour training on "[Personal Organisation](images/Personal_organisation_training.jpg)", which covered various topics around its broad title (remembering, optimising, focusing, learning, respecting health, planning & celebrating). For now, it had internal premiere inside the offices, and the first attendants provided me with excellent feedback, giving me the opportunity to continue my training for other co-workers. I believe that the values provided in the scope of the presentation can profoundly influence every human being and. Keep your fingers crossed and once I might provide the training to larger groups around the world!
+Last time I organised my first 2.5-hour training on "[Personal Organisation](images/Personal-organisation-training.jpg)", which covered various topics around its broad title (remembering, optimising, focusing, learning, respecting health, planning & celebrating). For now, it had internal premiere inside the offices, and the first attendants provided me with excellent feedback, giving me the opportunity to continue my training for other co-workers. I believe that the values provided in the scope of the presentation can profoundly influence every human being and. Keep your fingers crossed and once I might provide the training to larger groups around the world!
 
 As it will never take place to be able to deliver it to most of my readers, I can consider recording an online course, where I will go through the contents of my presentation in depth. In the end, I wish to let everyone change his state from 🙁 → 🙂.
 
 Lastly, as you see, even my watch is starting to run out of space for data:
 
-![Gear S3](images/Gear_s3_data-739x1024.jpg)
+![Gear S3](images/Gear-s3-data-739x1024.jpg)
 _My Gear S3 raises so many ideas for data science projects_
 
 ## References

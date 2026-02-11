@@ -30,7 +30,7 @@ It was quite challenging coming up with a good idea in such a short time, having
 
 In my group, I was able to share my insights with five other participants, and three of Infrabel's employees responsible for the company's data, who were eager to present their onsite experience, which narrowed down some of our investigations. I enjoyed the diversity of our interests ranging from technical aspects, up to law through business and data services, that let us look at the problem from different perspectives.
 
-![I'm in!](images/DATAthon-Im_in-1024x953.jpg)
+![I'm in!](images/DATAthon-Im-in-1024x953.jpg)
 _I'm in (keeping cute stickers to myself)!_
 
 Probably the most challenging part, was about coming to the same agreement with people from different backgrounds, that we just met. Everyone had to hide their ego and sometimes go for a compromise with a person from the other end of the table.
@@ -65,7 +65,7 @@ Punctuality is still the primary concern of the transport companies, but apart f
 
 Our discussion has been enhanced with different clips of accidents being transmitted on the screen beside us. After having some severe discussion about Infrabel's daily concerns with a little bit of chit chat in between, we took a look into the data to support our decisions. Ultimately, it was the moment to doodle our ideas to have the same picture of all the different decisions.
 
-![My idea](images/DATAthon-my_idea.png)
+![My idea](images/DATAthon-my-idea.png)
 _It's always better to visualise your thinking process_
 
 After some time I ended with a set of notes of different approaches, where we had to direct ourselves into a particular plan, in order to elaborate it and prepare the presentation. Our roads focused on using cameras with object recognition technology and speed detection so that we can save lots of lives by optimising the process of the railway trespassing. For now, I will keep the rest of the details to myself, as no one knows if I might get into a collaboration with Infrabel to put this into action. :)
@@ -112,7 +112,7 @@ Moreover, keep in mind that if you have any remarks about the portal or the data
 ![Still not convinced?](images/DATAthon-coffee.png)
 _Still not convinced?_
 
-Is free coffee not enough? What about [all the delicious food](images/DATAthon-Food_1.jpg)? I have to admit that it was hard to continue the work after tasting [all the different snacks](images/DATAthon-Food_2-e1556701929372.jpg).
+Is free coffee not enough? What about [all the delicious food](images/DATAthon-Food-1.jpg)? I have to admit that it was hard to continue the work after tasting [all the different snacks](images/DATAthon-Food-2-e1556701929372.jpg).
 
 Okay, you want to be serious? There are tons of benefits in attending hackathons and in my opinion, it is one of the best decisions you can do for the sake of your career.
 
@@ -124,7 +124,7 @@ There are many other reasons, but as the last one I would point out the **abilit
 
 Lastly, you might meet your manager on the corridor, who will stop you with these words: "_Oh, hi Pawel, I saw you yesterday on the 1st channel of the Belgian TV!_". Speaking in front of [the camera](images/DATAthon-Camera-e1556702043762.jpg) during the hackathons is not a daily thing, but be prepared for it. :)
 
-![Datathons - Belgian TV](images/Datathons_Belgian_TV.jpg)
+![Datathons - Belgian TV](images/Datathons-Belgian-TV.jpg)
 _And all the website traffic is ruined by a typo in my last name :(_
 
 ## Wonderful communities of Data Science

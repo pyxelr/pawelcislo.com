@@ -8,10 +8,10 @@ tags:
   - "blog"
   - "motivation"
   - "productivity"
-coverImage: "hello_world_thumbnail.png"
+coverImage: "hello-world-thumbnail.png"
 ---
 
-![Hello World - in post](images/hello_world_in_post.png)
+![Hello World - in post](images/hello-world-in-post.png)
 
 **To start with, bear in mind, that this post is not merely a "hello world" message to all the readers, but something to bring life-changing deliberations.**
 

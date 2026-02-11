@@ -110,7 +110,7 @@ I heard it is recommended to start the post with the most mattering message righ
   - Learned how to use LaTeX to write beautiful documents 💻
   - Started using an excellent app for the at-home workout: "[Home Workout - No Equipment](https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment&fbclid=IwAR2W3FPCjMhz9hNp-FCfRhWYCxnbXZTrnL6nHGYFwj9C1rh4gbRlgqjKHAI)" 💪
   - Dressed as [Santa Claus](images/Santa.jpg) for my neighborhood 🎅
-  - (16/12/2018) [100 days of meditation](images/100_days_of_meditation.jpg) in a row 🧘
+  - (16/12/2018) [100 days of meditation](images/100-days-of-meditation.jpg) in a row 🧘
   - Completed 22.5-hour video course: "[Python for Data Science and Machine Learning Bootcamp](https://www.linkedin.com/feed/update/urn:li:activity:6482599706026475520/)" 🏆
   - Published the 2018 Year Review on this blog 📰
 
@@ -128,7 +128,7 @@ Here you can see a photo taken by one of my good friends on this day (I did smil
 
 If you ask me which moment of my existence do I consider to be the most life-changing, I might facetiously answer: "New Year's Eve 2016". Right, it was two years ago when I took another sip of champagne and finally decided that it is time to have some fun, get out of my comfort zone and try my best to study in the UK. Too many things happened from that time till this day, that are not the main idea of this post, but I do consider describing it for the benefit of those in a similar situation like I was. In general, the advice cannot use the binary format (yes/no), so there is a lot to talk about, and if you wish to read about it, please let me know in the comments section, and I will push myself for another time of reflection. :)
 
-![Tough year](images/Tough_year.png)
+![Tough year](images/Tough-year.png)
 _Here I am, [still alive](https://youtu.be/TERyxFfMqDk)_
 
 Coffee did its job flawlessly. Although, it wasn't needed for the 4th point, as it didn't work out for the full-time master's students.

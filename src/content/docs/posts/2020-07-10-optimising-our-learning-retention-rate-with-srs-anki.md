@@ -8,10 +8,10 @@ tags:
   - "anki"
   - "flashcards"
   - "learning"
-coverImage: "Flashcard_cover.png"
+coverImage: "Flashcard-cover.png"
 ---
 
-![Flashcards - Blog post background](images/Flashcards_background.png)
+![Flashcards - Blog post background](images/Flashcards-background.png)
 
 **No, this article is not about some novel machine learning techniques, but it does cover the part of preparing a down to earth "_learning_ _model_".**
 
@@ -41,7 +41,7 @@ Therefore, what is the more effective method that you can apply for the upcoming
 
 Classically, there is no spaced repetition post without the forgetting curve, which shows how you can lose newly learned information if you don't attempt to retain it:
 
-![Ebbinghaus Forgetting Curve](images/ebbinghaus_curve.png)
+![Ebbinghaus Forgetting Curve](images/ebbinghaus-curve.png)
 _Ebbinghaus Forgetting Curve_
 
 In the latter (active recall) technique, we're actively stimulating memory during the learning process. It contrasts with reading or watching information - passive review method.
@@ -52,7 +52,7 @@ Spaced repetition on its own is mostly used by medical students such as [Ali Abd
 
 As such, why spaced repetition isn't more popular over cramming? Well, people don't know about it, and it's not as straightforward in its use. We talk big about self-improvement but don't want to do any stinkin' hard work. Can you imagine a student who wants to type his notes back home into a flashcard app?
 
-![le efficient studying is just around the corner](images/cramming_vs_spaced_rep-768x1024.png)
+![le efficient studying is just around the corner](images/cramming-vs-spaced-rep-768x1024.png)
 _le efficient studying is just around the corner. Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/fbs7ma/le_efficient_studying_has_not_arrived/)_
 
 ## What can you study with flashcards?
@@ -100,7 +100,7 @@ Watching this great explanation will further and more intuitively illustrate how
 
 Another strong point of Anki is its way of providing us with lots of statistics, where some are summarised in the form of histograms. There I've got a sample estimation of the number of cards that I'm likely to study in the next 30 days of my French set.
 
-![Forecast Anki](images/Forecast_Anki.png)
+![Forecast Anki](images/Forecast-Anki.png)
 _Positive forecast of my French Anki cards_
 
 I know such dull explanations of spaced repetition can be tiresome, but luckily there are interactive simulations in your browser to help with that. For that, there is nothing better than Nicky's blog post: "[How To Remember Anything Forever-Ish](https://ncase.me/remember/)".
@@ -139,7 +139,7 @@ Nonetheless, there are ways to facilitate the card-creation process. For example
 
 Once you have your cards, it's crucial to be consistent with your studies. To help yourself with it, you can use a review heatmap to have a quick glance over your frequency, as well as define a [goal similar to mine](/pages/three-goals/): "_Daily Anki Flashcards_". Try to do your studies at the same time of the day, so it will become a habit just like brushing your teeth. To contribute to the community, don't forget to [share some of your creations](https://ankiweb.net/shared/decks/).
 
-![Sample of my 3 Anki goals of a Three Goals programme](images/example_of_my_3_Anki_levels.png)
+![Sample of my 3 Anki goals of a Three Goals programme](images/example-of-my-3-Anki-levels.png)
 _Sample of my 3 Anki goals of a [Three Goals](/pages/three-goals/) programme_
 
 ### Make effective flashcards
@@ -156,8 +156,8 @@ In addition to simplifying the information, try to use images where possible as 
 
 I've just provided the basic, must known principles, but there is more to it if you would like to create the most practical cards. Dr Piotr Woźniak, the author of SuperMemo software, explained this topic thoroughly in 20 rules[^6] with a great set of examples.
 
-![How Anki users deal with learning new information](images/Anki_new_information.png)
-_It's just like when you [stir your data unless the ML algorithm works](images/stir_data_meme.png), right? Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/g9otl1/shitpost_just_shove_dem_flashcards/)_
+![How Anki users deal with learning new information](images/Anki-new-information.png)
+_It's just like when you [stir your data unless the ML algorithm works](images/stir-data-meme.png), right? Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/g9otl1/shitpost_just_shove_dem_flashcards/)_
 
 ## My Anki Setup 🛠
 
@@ -167,7 +167,7 @@ While writing this sentence, I have been using Anki for around 1 year, and throu
 
 Usually, after opening Anki on your desktop machine, you might be notified that one of your plugins has been updated. After continuing with the update process, applying the night mode, gathering some flashcards and installing a few plugins, this is how your Anki might look like:
 
-![Anki (main screen)](images/Anki_main_window.png)
+![Anki (main screen)](images/Anki-main-window.png)
 _Anki on Windows (my main screen)_
 
 On my version above, looking from the top, we've:
@@ -308,7 +308,7 @@ Of course, there are other places to look for even more Anki decks of cards:
 - [DJT Quizmaster Anki Guide](https://www.animecards.site/home) ← set of cards and extensive explanation of the practical way to study Japanese
 - [Language cards](https://ankiweb.net/shared/byauthor/785874566) by Neri.
 
-![Explaining Anki](images/explaining_anki.jpg)
+![Explaining Anki](images/explaining-anki.jpg)
 _Pretty much :). Image credit: [Reddit](https://www.reddit.com/r/medicalschoolanki/comments/fx4ted/it_is_what_it_is/)_
 
 #### My plugins
@@ -358,7 +358,7 @@ To stay as productive as possible and study on the go, Anki offers a great advan
 
 The best part about using Anki is that all your usage progress flawlessly syncs between your desktop and mobile app. It does it automatically when you close/open the desktop app; however, make sure to do it manually in the mobile app by clicking the sync button in the top-right corner.
 
-![AnkiDroid (main screen)](images/AnkiDroid_main_window.jpg)
+![AnkiDroid (main screen)](images/AnkiDroid-main-window.jpg)
 _AnkiDroid (my main screen)_
 
 The look of our app offers almost the same functionalities as its desktop variant, with the only exception of missing your lovely plugins. On my side, I'm usually studying with a desktop app, but when travelling, the mobile version suits me perfectly, and it's absolutely comfortable to use it with a single finger over the bottom part of the screen.
@@ -495,7 +495,7 @@ Okay, I think it's much more than enough for you to start. My intend wasn't to m
 
 Now, my dear digital traveller, practice what you just learned and spread the knowledge!
 
-![Me explaining Anki to people](images/Me_explaining_Anki-1024x671.jpg)
+![Me explaining Anki to people](images/Me-explaining-Anki-1024x671.jpg)
 _Me explaining Anki to people. Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/dh7vsh/me_explaining_anki_to_people/)_
 
 ## References

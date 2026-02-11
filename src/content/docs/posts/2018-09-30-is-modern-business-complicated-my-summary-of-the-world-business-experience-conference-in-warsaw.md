@@ -9,7 +9,7 @@ tags:
   - "marketing"
   - "wbe"
   - "worldbusinessexperience"
-coverImage: "Aim-for-your-Goals-the-Right-Way__thumbnail.png"
+coverImage: "Aim-for-your-Goals-the-Right-Way--thumbnail.png"
 ---
 
 ![Is Modern Business Complicated (background)](images/Is-Modern-Business-Complicated-background.png)
@@ -333,7 +333,7 @@ _Isn't that heart sticker cute?_
 
 The primary and most important tool is probably in your hands at the moment or if you are reading this on a desktop computer, perhaps in your pocket. Yes, it is your mobile phone which begun to be the standard of the IT world. It can be proved even with my little website, where 56% of the readers use their smartphone to read the posts. I am actually surprised that tablet is still being used (1%), but hey, if you are reading it on your tablet, let me know yourself. I would like to discuss with you how comfortable it is browsing the web on tablets nowadays. 😉
 
-![Sessions by device (pawelcislo.com)](images/Sessions-by-device-pawelcislo.com_.png)
+![Sessions by device (pawelcislo.com)](images/Sessions-by-device-pawelcislo.com-.png)
 _Sessions by device at pawelcislo.com (Last 30 days from Google Analytics)_
 
 Remember, that if you make your website, it should be responsive, like this one, so it scales appropriately for smaller (mobile) screens. Yes, for the tablets too. 🙂

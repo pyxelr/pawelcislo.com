@@ -9,10 +9,10 @@ tags:
   - "data-science"
   - "ethics"
   - "law"
-coverImage: "ethicAI_blogpost_cover.png"
+coverImage: "ethicAI-blogpost-cover.png"
 ---
 
-![Ethical AI background](images/ethicAI_background.png)
+![Ethical AI background](images/ethicAI-background.png)
 
 **What does it mean to behave in an ethical manner? What if we add all the law restriction on top of that? Moving on, how to write the appropriate if/else statements for the AI workflow to satisfy the strict, yet non-static regulations?**
 
@@ -57,7 +57,7 @@ For now, the EU tries to act according to the 3 pillars published in April 2018,
   -  think of "will AI take my job?" case
 - ensure an adequate ethical & legal framework
 
-![AI regulation diagram](images/AI_Regulation.png)
+![AI regulation diagram](images/AI-Regulation.png)
 _How to regulate AI, yet boost its uptake?_
 
 ### Classical question
@@ -98,7 +98,7 @@ Again, let's not dwell into a definition of each of these terms, but keep in min
 
 So, what's the process of delivering guidelines at the European Commission? Below, we can see that the first draft has been published just before the New Year's Eve, and by now the final document has been already published and welcomed about two months ago:
 
-![EU AI regulation process diagram](images/eu_process.png)
+![EU AI regulation process diagram](images/eu-process.png)
 _Ethics Guidelines for AI - Process_[^4]
 
 What is covered in all the guidelines? Firstly, it's worth mentioning that the term we can find here is "Trustworthy AI", so don't stress looking for the "ethical AI" keywords. Why trustworthy? Because even with the best ethical intentions, people are biased, such as they prefer pretty girls, and AI systems can help us to make more trustworthy (unbiased) decisions. For instance, Trustworthy AI can find its main applications in the hiring process, in order to avoid discrimination.
@@ -131,7 +131,7 @@ What is the best strategy for Europe then? Both of the global AI leaders still l
 
 Moreover, don't think that AI wasn't yet regulated. GDPR is just one of the example regulations, and the anti-discrimination is another (I explained example situation, where AI became profoundly racist in the further part of this post).
 
-![China vs US AI](images/china_vs_us.jpg)
+![China vs US AI](images/china-vs-us.jpg)
 _China and the US are battling to become the world's first AI superpower_[^6]
 
 If I could throw in some of my ideas for improving the policymaking process, it's worth to think that AI's general concept is to use one general algorithm to learn things on its own, instead of using a bunch of programmers to write thousands of if/else statements, which will eventually fail. As such, what about trying to use AI to regulate itself? Well, not a long time ago, we were already informed that humans might not be the only ones to write scientific papers, and this is a big step[^7] ‘The First AI-Generated Textbook Shows What Robot Writers Are Actually Good At’.
@@ -199,7 +199,7 @@ According to the post on the MIT Technology Review, it depends on the country's 
 
 On the opposite side, countries from the Asian regions, such as China or Japan, were more keen towards saving the elderly population, which tends to be honoured with much more respect in their society.
 
-![Cultural differences in self-driving car ethics](images/Cultural_differences_car_problem.png)
+![Cultural differences in self-driving car ethics](images/Cultural-differences-car-problem.png)
 _A comparison of countries piloting self-driving cars (closer to 1 = spare the young, closer to -1 = spare the old)_[^11]
 
 Although China and Japan came to the same agreement in the case of sparing elderly population over the young, they had completely different rights when choosing between saving the pedestrians over the driver. From two neighbouring countries, Japan was more keen towards protecting the pedestrians, whereas China took the alternative option.
@@ -214,7 +214,7 @@ When deriving a concrete if/else solution for the programmed AI sitting inside t
 - act according to the cultural difference of the country you're in
 - sum up the "social credit" of the objects (basing on the system already tested in China[^13], as well as presented in one of the Black Mirror episodes ([Nosedive](https://en.wikipedia.org/wiki/Nosedive_\(Black_Mirror\))))
 
-![Chinese social credit system](images/china_credit_system.png)
+![Chinese social credit system](images/china-credit-system.png)
 _Chinese social credit system is a fact_
 
 To end up, the presented discussions should instead involve problems more with a risk analysis aspect, than just giving the choice of saving one life over another. The presented situations will always vary from lots of factors, such as the weather or other elements present on the road so that we can end up only harming the person. Moreover, there are many more scenarios, which will need to be analysed, not only the ones involving the situations on the road.
@@ -268,7 +268,7 @@ _Human life expectancy at birth, measured by region, between 1950 and 2050_[^12]
 
 Being hired is also easier looking at the fact of continuously dropping unemployment rate. Hence, the main problem of people nowadays becomes depression, as by having everything, we're becoming to lack the human interaction and we tend to struggle with balancing our needs (just like in The Sims):
 
-![The Sims game bar interface](images/sims_bar.jpg)
+![The Sims game bar interface](images/sims-bar.jpg)
 _Life was never easy, and unlike in Sims, there are no cheat codes :(_
 
 If you're depressed and reading this text right now, the advice of internet surfers about going out and running does have some right in fighting your illness. But running is not enough, as life is much more complicated. I think the above example, which bases on a simple computer game, can give you a better view of what caused the Sim to have a red diamond over his head.
@@ -281,7 +281,7 @@ And again I stepped into another topic and almost forgot to explain the key mess
 
 First of all, I am happy to announce that through my consulting role at AKKA Technologies, **I am assigned to a long time project at Alstom for the position of Data Scientist. Yay 📊!** The scope of the task is varied and surely challenging, involving the development of a new tool and a lot of data analysis. As one of my tutors used to say "_if you don't struggle, you don't learn_", so let's take as much experience as possible from this role and leave with lots of new skills for the future.
 
-![Career growth chart](images/Career_growth.png)
+![Career growth chart](images/Career-growth.png)
 _Let's-a go towards a better future!📈_
 
 From the other side, I know that my writing is still not as perfect, as I would like to, so I reached for the "[Essay writing guide](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)" by Jordan Peterson, which brought me a lot of ideas on how to ease and improve my future blog posts. I recommend everyone to read it, as you should understand that writing is one of the most powerful skills we can possess, and it's worth to develop it whenever possible. If you're a programmer, take into your mind, that writing concise and precise messages will also apply in scripting a cleaner and more readable code for others, who would likely take it over or collaborate with you in the development process.
@@ -292,7 +292,7 @@ In addition, I hope you noticed and appreciate, that above every post from now o
 
 As for the last news of this post, taking advantage of having more free time this week, I decided to update my e-book with even more relevant links to help you on your journey in data science. Remember, that initially it has been published with the release of this blog (September 2018). As the industry is in rapid development these days, I couldn't leave the comprehensive resources to myself and had to use well the 3-4h of fighting with hyperlinks inside the .pdf document. ;)
 
-![Free e-book cover](images/e-book_cover.png)
+![Free e-book cover](images/e-book-cover.png)
 _Don't wait and grab your free copy right now!_
 
 In relation to this, I highly encourage you to sign up for the newsletter using the panel on the right-hand side (if you're viewing it on desktop) or the form below (no matter which device you're using). Besides receiving the free e-book, you will be notified from time to time about new posts on my blog, so there is nothing to waste than just a few seconds of filling the form and confirming the registration on your e-mail account.

@@ -8,12 +8,12 @@ tags:
   - "ide"
   - "programming"
   - "vscode"
-coverImage: "vs-code_cover.png"
+coverImage: "vs-code-cover.png"
 ---
 
 > You can find my VS Code profile under **[gist.github.com](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b)**.
 
-![VS Code - Blog post background](images/vs-code_background.png)
+![VS Code - Blog post background](images/vs-code-background.png)
 
 **Compendium of impressions from an odyssey with my most preferred day-to-day code editor, not only for Python/MLOps.**
 
@@ -31,7 +31,7 @@ Before the (hopefully) final environment transition, I spent likewise some time 
 - `Python` (yhat/rodeo, IDLE, Atom, Sublime Text, Jupyter Notebooks, Spyder, PyCharm)
 - `General text editors` (Notepad++, Sublime Text)
 
-![Bumpy road of IDEs](images/bumpy_road_of_ides.png)
+![Bumpy road of IDEs](images/bumpy-road-of-ides.png)
 _Bumpy road from FPC to VS Code_
 
 Driving through this rough path, most of the editors parked by the road, some continue its ride (Sublime Text, VS Code) and one is peeking through the bushes to be explored with curiosity (Vim).

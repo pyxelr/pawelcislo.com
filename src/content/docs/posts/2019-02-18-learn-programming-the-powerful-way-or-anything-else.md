@@ -40,7 +40,7 @@ Okay, so is there something wrong with it? I don't think so, unless Bob wants to
 
 So, how would I start as a teacher? As long as I would be free from the restrictions of the education programme, I would introduce Bob with a very wide-set of **interactive tools** that stimulate his brain to practice coding challenges daily by providing small prizes and counting day streaks. The exercises should start with the most simple "Hello World" problems and later eventually introduce the algorithmic problems, only if Bob would feel that it is what he wishes to do. Now, why I would not recommend any type of programming book to Bob from the beginning? Let's take a look at the following graph of average learning retention rates:
 
-![Average learning retention rates](images/Learning_Retention_Rates.png)
+![Average learning retention rates](images/Learning-Retention-Rates.png)
 _Average learning retention rates[^1]_
 
 The pyramid presents that we learn the most effectively by teaching others and practising by doing. On the contrast, we retain the least by attending lectures and reading.
@@ -64,12 +64,12 @@ If Bob is already attending high school, he should have just keep doing/trying w
 
 In the meantime, Bob is advised to develop a daily habit of solving online coding challenges, on such websites like [HackerRank](https://www.hackerrank.com/). Below, you can find an example of your playground, with the 1st Java challenge requiring to output "Hello, World" message. As you see, every task includes a comprehensive description on the left side, which will be your book, whereas on the right side is where the magic happens. When Bob feels like his code is ready, shining bright like a diamond, he can try clicking the flashy green button "Submit Code", which runs his scribbles through series of tests to check if it works like it should for the predefined input.
 
-![HackerRank "Hello World" challenge in Java](images/HackerRank_Example_Challenge.png)
+![HackerRank "Hello World" challenge in Java](images/HackerRank-Example-Challenge.png)
 _HackerRank "Hello World" challenge in Java_
 
 What if Bob is feeling lost and lonely, scratching his head and wondering why the world is so cruel? In this scenario, he might want to look into the "Discussions" tab where he will find more Bobs like him. It's a place where it is good to come in, even when we know the answer, so we can benefit from comparing other solutions, inspiring from them and trying to be kind by supporting others.
 
-![Discussions tab](images/HackerRank_Discussions-1024x197.png)
+![Discussions tab](images/HackerRank-Discussions-1024x197.png)
 
 Didn't I say that we learn the most by teaching others? Yes, I did, and it doesn't mean that you need to be as smart as your high school professor to be able to be able to teach others. Keep in mind that there is always someone, who doesn't know something that you know about designing Java applications, even if he is a developer with ten years of experience. Moreover, you can rest assured about understanding any topic, **if the following doesn't apply to you**:
 
@@ -165,11 +165,11 @@ Not enough? Too much to read? Review everything in a visual form:
 
 ### I'm lazy
 
-Talk about your goals, such as I did yesterday before publishing this post. Sharing [this little picture](images/Upcoming_blog_post_Instagram.jpg) on my Instagram/Facebook story pushed me more than anything else to sit down and write all that I wanted to share. Few times, I even felt into the magical flow, which is something that you should aim for while learning/doing anything, as it also means that you're doing what you love.
+Talk about your goals, such as I did yesterday before publishing this post. Sharing [this little picture](images/Upcoming-blog-post-Instagram.jpg) on my Instagram/Facebook story pushed me more than anything else to sit down and write all that I wanted to share. Few times, I even felt into the magical flow, which is something that you should aim for while learning/doing anything, as it also means that you're doing what you love.
 
 How does it exactly feel, you may ask? Do you remember when you played with Lego or did coloring books as a kid? This is the state when you don't care anything else, but you're entirely focused on your craft, and you're excited about the upcoming result. It's a beauty of humankind. We all want to leave something on this earth in our short lifespan that will make us remembered. Taking a look at another pyramid: Maslow's hierarchy of needs, we can even find the demand for self-realisation.
 
-![Maslow's Hierarchy of Needs](images/Maslows_hierarchy_of_needs.jpg)
+![Maslow's Hierarchy of Needs](images/Maslows-hierarchy-of-needs.jpg)
 _Maslow's Hierarchy of Needs[^3]_
 
 ## Health > Work
@@ -294,5 +294,5 @@ Last, but not least, **remember about these ultimate living rules**:
 
 **Thanks for reading and happy coding!**
 
-![Happy Bob](images/Happy_Bob-273x300.jpg)
+![Happy Bob](images/Happy-Bob-273x300.jpg)
 _Hey Bob, just don't lose your excitement after the first weeks :)_
