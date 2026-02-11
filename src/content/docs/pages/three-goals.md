@@ -138,6 +138,6 @@ You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-deck
 
 1. [Meditated 30 days in a row](images/Meditator-30.jpg) — 07/10/2018
 2. Meditated 130 days in a row — 15/01/2019
-3. [Meditated 365 days in a row](images/365-days-of-meditation.jpg) — 07/09/2019
+3. [Meditated 365 days in a row](images/Meditator-365.jpg) — 07/09/2019
 
 **_Inspiration_**: Buddhist monks.
