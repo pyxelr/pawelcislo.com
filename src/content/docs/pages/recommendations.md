@@ -1082,7 +1082,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 - [Raindrop.io](https://raindrop.io/) ← bookmark manager (Pocket like app)
 - [RemNote](https://www.remnote.io/homepage) ← note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
 - [Roam](https://roamresearch.com/) ← note-taking tool as powerful as a graph database, applying the Zettelkasten method (alternative to Obsidian)
-- [Todoist](https://todoist.com/r/pyxelr_kjtwbq) ← my daily to-do app (using this link you will get 2 months of premium for free!). If you don't know how to start, [check out my Todoist setup](/posts/aim-for-your-goals-the-right-way/#todoist) and inspire yourself!
+- [Todoist](https://todoist.com/r/pyxelr_kjtwbq) ← my daily to-do app (using this link you will get 2 months of premium for free!). If you don't know how to start, [check out my Todoist setup](/posts/aim-for-your-goals-the-right-way/) and inspire yourself!
 - [Toggl](https://toggl.com/) ← the most integrated time tracker
 
 ## 👨‍💻 Programming
