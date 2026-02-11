@@ -84,7 +84,7 @@ The SM-2 algorithm from the late 1980s is responsible in Anki for its core funct
 
 Briefly speaking, Anki determines card scheduling by the option we choose after revealing the answer ("_Again_", "_Hard_", "_Good_" or "_Easy_").  Depending on the selected option (our familiarity with the card), the following formula applies different `ease%` and `interval modifier`:
 
-\[latex display="true"\]New Interval = currentInterval \\times ease\\% \\times intervalModifier\[/latex\]
+$$New\ Interval = currentInterval \times ease\% \times intervalModifier$$
 
 Watching this great explanation will further and more intuitively illustrate how your use of SRS spaces the next reviews. I also recommend applying settings recommended by its author (presented in the form of screenshots at 07:31 and 12:34).
 
@@ -150,7 +150,7 @@ After you understood the topic, here comes the time of designing your first flas
 
 | **Example of a bad card ❌** |  **Examples of good cards ✅** |
 | --- | --- |
-| Q: What are the main characteristics of Belgium? A: Belgium, officially the Kingdom of Belgium, is a country in Western Europe. It is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest. It covers an area of 30,689 km2 (11,849 sq mi) and has a population of more than 11.5 million | Q: What is the official name of Belgium? A: The Kingdom of Belgium  Q: In which part of Europe can we find Belgium A: Western Europe  Q: Who is bordering with Belgium and from which side? A: The Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest  Q: What is the area covered by Belgium (in km2 and sq mi)? A: 30,689 km2 (11,849 sq mi)  Q: What is the population of Belgium (in millions)? A: More than 11.5 million |
+| Q: What are the main characteristics of Belgium? <br> A: Belgium, officially the Kingdom of Belgium, is a country in Western Europe. It is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest. It covers an area of 30,689 km2 (11,849 sq mi) and has a population of more than 11.5 million | Q: What is the official name of Belgium? <br> A: The Kingdom of Belgium <br><br> Q: In which part of Europe can we find Belgium <br> A: Western Europe <br><br> Q: Who is bordering with Belgium and from which side? <br> A: The Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest <br><br> Q: What is the area covered by Belgium (in km2 and sq mi)? <br> A: 30,689 km2 (11,849 sq mi) <br><br> Q: What is the population of Belgium (in millions)? <br> A: More than 11.5 million |
 
 In addition to simplifying the information, try to use images where possible as they will further stimulate your senses. As an example, they work great for learning a new language and finding the word for the presented image. On the other hand, if the graphic contains all the information, you can still learn from it by hiding/unhiding the right areas.
 

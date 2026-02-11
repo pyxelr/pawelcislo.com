@@ -1,10 +1,16 @@
 // @ts-check
 import starlight from '@astrojs/starlight';
 import { defineConfig } from 'astro/config';
+import rehypeKatex from 'rehype-katex';
+import remarkMath from 'remark-math';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://pawelcislo.com',
+	markdown: {
+		remarkPlugins: [remarkMath],
+		rehypePlugins: [rehypeKatex],
+	},
 	integrations: [
 		starlight({
 			title: 'Paweł Cisło',
@@ -17,7 +23,7 @@ export default defineConfig({
 			editLink: {
 				baseUrl: 'https://github.com/pyxelr/pawelcislo.com/edit/main/',
 			},
-			customCss: ['./src/styles/custom.css'],
+			customCss: ['./src/styles/custom.css', 'katex/dist/katex.min.css'],
 			components: {
 				ThemeSelect: './src/components/ThemeSelect.astro',
 				EditLink: './src/components/EditLink.astro',

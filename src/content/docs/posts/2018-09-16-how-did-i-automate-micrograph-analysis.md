@@ -192,7 +192,7 @@ The utilised segmentation algorithm in this project utilises the following workf
 
 1. Run machine learning segmentation instead of automatic thresholding (optionally)
 2. Transform input into the 8-bit image
-3. Apply automatic threshold (IsoData algorithm) by taking the pixel values \[latex display="true"\]threshold = \\frac{average\\quad background + average\\quad objects}{2}\[/latex\]
+3. Apply automatic threshold (IsoData algorithm) by taking the pixel values $$threshold = \frac{average\ background + average\ objects}{2}$$
 4. Convert input into binary values
 5. Remove small particles from the image (outliers) (optionally)
 6. Fill holes in particles on the image (optionally)
