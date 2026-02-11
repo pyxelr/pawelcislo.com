@@ -10,7 +10,7 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 
 ```text
 .
-├── public/                     # Static assets served as-is (favicon, etc.)
+├── public/                     # Static assets served as-is (favicon, linked images, etc.)
 ├── scripts/                    # Utility scripts
 ├── src/
 │   ├── assets/                 # Optimised assets (processed by Astro)
