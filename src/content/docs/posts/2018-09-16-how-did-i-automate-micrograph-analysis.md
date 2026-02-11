@@ -16,7 +16,7 @@ tags:
   - "processing"
   - "segmentation"
   - "tutorial"
-coverImage: "Micrograph-Analyser-Effect.png"
+coverImage: "micrograph-analyser-effect.png"
 ---
 
 :::note[Last updated on: 19/09/2018]
@@ -26,7 +26,7 @@ coverImage: "Micrograph-Analyser-Effect.png"
 
 :::
 
-![Micrograph Analyser Effect](images/Micrograph-Analyser-Effect.png)
+![Micrograph Analyser Effect](images/micrograph-analyser-effect.png)
 
 **Clear explanation of how I automatically turned meaningless 2D micrographs into plenty of significant data (numerical, graphical, plot).**
 
@@ -42,7 +42,7 @@ After the response, we have continued with several meetings with the client and 
 
 ## Initial investigation
 
-My OneNote notebook was continuously fed with new information, and I was thinking where will I get the time go through all the resources. In the end, my "tools" section looked somehow like **[this](images/Notes-Micrograph.png)**. The arsenal of tools is vast and definitely not fulfilled; however, it contained the most promising options. Feeling under pressure, I sought for tips from the experts of Data Science on the Facebook group by [raising a discussion](https://www.facebook.com/groups/datasciencepl/permalink/1814512748606752/). The answers I received, got their use in my work as I understood that I was looking towards a right direction with the previously scribbled set of tools.
+My OneNote notebook was continuously fed with new information, and I was thinking where will I get the time go through all the resources. In the end, my "tools" section looked somehow like **[this](images/notes-micrograph.png)**. The arsenal of tools is vast and definitely not fulfilled; however, it contained the most promising options. Feeling under pressure, I sought for tips from the experts of Data Science on the Facebook group by [raising a discussion](https://www.facebook.com/groups/datasciencepl/permalink/1814512748606752/). The answers I received, got their use in my work as I understood that I was looking towards a right direction with the previously scribbled set of tools.
 
 I have also tried to reach out to Kaggle community, but unfortunately, I got no response till now. When I am writing these words, I know that some of the subreddits could have been helpful (such as [r/datascience](https://www.reddit.com/r/datascience/) or [r/computervision](https://www.reddit.com/r/computervision/)).
 
@@ -50,7 +50,7 @@ Python and more specifically scikit-image library were the most recommended for 
 
 During the meetings with PhD students, we have agreed on a specific workflow, which just had to present the initial blueprint of the scenario. After all, I did not expect meeting the requirements shown in the "3rd" step with the addition of dozens of extra ones.
 
-![Micrograph Analyser Workflow](images/Micrograph-Analyser-Workflow.png)
+![Micrograph Analyser Workflow](images/micrograph-analyser-workflow.png)
 _Initial sketch of the workflow_
 
 ## Background research
@@ -117,14 +117,14 @@ System requirements mostly defined the way how the user requirements should work
 
 The current project indicates six principal tasks, which were handled in chronological order, taking no more hours as predicted in the following table. The time was distributed from the total number of 600 hours to meet the goals of each project part. That equals to approximately 6 hours (5.66 hours) a day as the project time consists of the range of 106 days (15 weeks). However, taking risk assessment into the analysis, the working time may not be consistent and some days will require more work than others.
 
-You can [open the following Gantt chart in a new tab](images/Gantt-Micrograph.png) to enlarge it.
+You can [open the following Gantt chart in a new tab](images/gantt-micrograph.png) to enlarge it.
 
-![Gantt Chart of the project](images/Gantt-Micrograph.png)
+![Gantt Chart of the project](images/gantt-micrograph.png)
 _Gantt Chart of the project_
 
 The presented workflow was evaluated using the Plan, Do, Study, Act (PDSA) cycle. The PDSA framework consists of four parts which are continuously reviewed during the working process to be iteratively replaced by the most effective solution. The single sections ensure to examine the four components of quality management: planning, assurance, control and improvement. It is a suitable structure as the development is continuously tested, which does not lead to the confusions raised while reviewing the entire progress at once in the end. The actions taken in each of the elements have been listed in the particular sections of the diagram.
 
-![PDSA chart](images/PDSA-chart.png)
+![PDSA chart](images/pdsa-chart.png)
 _Credit: [Tribal Evaluation Institute](http://www.tribaleval.org/cqi/plan-do-study-act-pdsa/)_
 
 In order to mitigate the issue, the iterative concept of PDSA cycle was blended with each of the tasks mentioned in the figure above. Working under the two structures can make sure to push the project while iteratively improving the single dependencies.
@@ -165,7 +165,7 @@ Taking all the system criteria and characteristics into account, the project has
 
 ## Design
 
-The simplified working of the system (presented in [this graph](images/Micrograph-Analyser-Workflow-Graph.png)) reassembles the waterfall model with several loops in between, which check the input support, allow the user to verify the segmented particles and provide the option to run multiple analysis without opening the script separately for a single run. Because of many operations required to represent the entire system, the following workflow has been simplified for the reason to facilitate the system understanding. Additionally, the Micrograph Analyser workflow has been described in depth with user manual, video tutorials and in-code description using programming comments.
+The simplified working of the system (presented in [this graph](images/micrograph-analyser-workflow-graph.png)) reassembles the waterfall model with several loops in between, which check the input support, allow the user to verify the segmented particles and provide the option to run multiple analysis without opening the script separately for a single run. Because of many operations required to represent the entire system, the following workflow has been simplified for the reason to facilitate the system understanding. Additionally, the Micrograph Analyser workflow has been described in depth with user manual, video tutorials and in-code description using programming comments.
 
 The following table summarises the system specifications required to perform the analysis. One of the ImageJ advantages over different application is its low storage space requirement, which in comparison to the minimum requirements of MATLAB, needs less than half of its space. On the other side, it exceeds the demand for a potential Python solution.
 
@@ -185,7 +185,7 @@ Image segmentation in the ImageJ software can be applied in two separate ways. T
 
 The machine learning available in ImageJ is not entirely self-learning. In the current project, the given dataset of images only contains training data, missing testing examples, what does not stop from using the algorithm. Utilising the "Trainable Weka Segmentation" designed by Arganda-Carreras et al in 2017 is possible only through input labelling[^10]. That means, ImageJ requires from the user to draw lines across different classes on the image, so the machine learning algorithm can differentiate between them and apply the segmentation. The good thing about this option is the ability to pretrain the model and save its classifier for further analysis.
 
-![Trainable Weka Segmentation pipeline overview](images/Trainable-Weka-Segmentation-pipeline-overview.png)
+![Trainable Weka Segmentation pipeline overview](images/trainable-weka-segmentation-pipeline-overview.png)
 _Trainable Weka Segmentation pipeline overview[^10]_
 
 The utilised segmentation algorithm in this project utilises the following workflow:
@@ -290,44 +290,44 @@ Every user of the Micrograph Analyser is required to open Fiji, which on auspici
 - Save modifications
 - Write new plugins.
 
-![Fiji (main window)](images/Fiji.png)
+![Fiji (main window)](images/fiji.png)
 _Fiji (main window)_
 
 After installing my script and running it, the user is welcomed with the following window presenting two options. The first radio button allows selecting only one file in the consecutive menu, whereas the other the entire directory of files. The purpose of the additional message is to make it clear to the user what is offered through each of the options.
 
-![Starting window of Micrograph Analyser](images/Starting-window-of-Micrograph-Analyser.png)
+![Starting window of Micrograph Analyser](images/starting-window-of-micrograph-analyser.png)
 _Starting window of Micrograph Analyser_
 
 The micrograph’s script supports only the image file types. In a case when the user, for example, submits a .pdf file, he will be presented with the following message.
 
-![Error prevention](images/Error-prevention.png)
+![Error prevention](images/error-prevention.png)
 _Error prevention_
 
 After selecting one of the available options and later the micrographs taken into the workflow, the user has to define the analysis specifications.
 
-![Settings specifications](images/Settings-specifications.png)
+![Settings specifications](images/settings-specifications.png)
 _Settings specifications_
 
 By default, the most desired parameters are selected/prefilled in all of the menus, and one of them is defined to mark the micrograph’s scale manually. To manually set the scale, the user is required to use the pointing device (mouse/touchpad) and drag a line across the marked scale. The displayed hints in the background inform the user about the available shortcuts to zoom in for better precision. Afterwards, the operation of removing the label looks similar, but the requirement is to draw a rectangle over the ROI, leaving the label outside.
 
-![Manual scale setting](images/Manual-scale-setting.jpg)
+![Manual scale setting](images/manual-scale-setting.jpg)
 _Manual scale setting_
 
 Clicking “OK” continues the workflow with a “Known distance” menu, where the default values of 2 um have been prefilled to save the time while analysing the most common micrographs.
 
-![Specification of known distance](images/Specification-of-known-distance.png)
+![Specification of known distance](images/specification-of-known-distance.png)
 _Specification of known distance_
 
-On condition of leaving a check mark next to “Preview selected particles before the analysis” option under particle’s size specification of “Output Settings” menu, the analyst can see the original and processed image to decide if the selection is satisfying, as presented below ([click here for better resolution](images/Particle-verification.png)).
+On condition of leaving a check mark next to “Preview selected particles before the analysis” option under particle’s size specification of “Output Settings” menu, the analyst can see the original and processed image to decide if the selection is satisfying, as presented below ([click here for better resolution](images/particle-verification.png)).
 
 This option has a crucial meaning while making the right selection as some of the micrographs might present more than one type of particles, and the user might want to experiment with the particle size and circularity until the rights units are segmented.
 
-![Particle verification](images/Particle-verification.png)
-_Particle verification (left side: outlined image, right side: original input) ([click here for better resolution](images/Particle-verification.png))_
+![Particle verification](images/particle-verification.png)
+_Particle verification (left side: outlined image, right side: original input) ([click here for better resolution](images/particle-verification.png))_
 
 On the successful analysis, the user will be informed about it and left with an option to run the analysis again.
 
-![Success message](images/Success-message.png)
+![Success message](images/success-message.png)
 _Success message_
 
 ## Example results
@@ -336,37 +336,37 @@ _You can also directly view all the files in the [GitHub Repository](https://git
 
 The entire workflow starts with submitting one of the sufficient input files.
 
-![Example input](images/Example-Input.png)
+![Example input](images/example-input-micrograph.png)
 _Example input_
 
-Later, on a successful analysis, the output data about each of the particle has been summarised in [this table](images/Result-data-from-the-micrograph-stored-the-main-RESULTS-filename.csv-file.png). Most of the data is saved in calibrated units, like μm. The bottom part of the .csv file summarises entire data with minimum, maximum, mean value and standard deviation.
+Later, on a successful analysis, the output data about each of the particle has been summarised in [this table](images/result-data-from-the-micrograph-stored-the-main-results-filename.csv-file.png). Most of the data is saved in calibrated units, like μm. The bottom part of the .csv file summarises entire data with minimum, maximum, mean value and standard deviation.
 
 Furthermore, the separate summary of the overall results contains most importantly of precise information about the most desired information to the client: particle count, the total area of the micrograph, area fraction and calculated particle density.
 
 The visual results present as follows:
 
-![Segmented micrograph with white particles and black background (example)](images/Segmented-micrograph-with-white-particles-and-black-background-example.png)
+![Segmented micrograph with white particles and black background (example)](images/segmented-micrograph-with-white-particles-and-black-background-example.png)
 _Segmented micrograph with white particles and black background (example)_
 
-![Cleaned micrograph (example)](images/Cleaned-micrograph-example.png)
+![Cleaned micrograph (example)](images/cleaned-micrograph-example.png)
 _Cleaned micrograph (example)_
 
-![Micrograph with outlined and numbered particles (example)](images/Micrograph-with-outlined-and-numbered-particles-example.png)
+![Micrograph with outlined and numbered particles (example)](images/micrograph-with-outlined-and-numbered-particles-example.png)
 _Micrograph with outlined and numbered particles (example)_
 
-![Cluster identification with red circles (example)](images/Cluster-identification-with-red-circles-example.png)
+![Cluster identification with red circles (example)](images/cluster-identification-with-red-circles-example.png)
 _Cluster identification with red circles (example)_
 
-![Montage of different particle's area for area distribution plots (example)](images/Montage-of-different-particles-area-for-area-distribution-plots-example.png)
+![Montage of different particle's area for area distribution plots (example)](images/montage-of-different-particles-area-for-area-distribution-plots-example.png)
 _Montage of different particle's area for area distribution plots (example)_
 
-![Area distribution plot (example)](images/Area-distribution-plot-example.png)
+![Area distribution plot (example)](images/area-distribution-plot-example.png)
 _Area distribution plot (example)_
 
-![Part of an image with interparticle adjacencies (example)](images/Part-of-an-image-with-interparticle-adjacencies-example.png)
+![Part of an image with interparticle adjacencies (example)](images/part-of-an-image-with-interparticle-adjacencies-example.png)
 _Part of an image with interparticle adjacencies (example)_
 
-![Overall analysis preferences (example)](images/Overall-analysis-preferences-example.png)
+![Overall analysis preferences (example)](images/overall-analysis-preferences-example.png)
 _Overall analysis preferences (example)_
 
 Summarising, the system can generate data that can satisfy the different needs of the researchers. In case of another feature inclusion or system modification, the code has been prepared to be extendable.
@@ -384,12 +384,12 @@ The results indicate that Automatic Thresholding takes much less time, usually a
 
 The example micrograph presented below (left) has been segmented using both algorithms, which indicates that although the Trainable Weka Segmentation (middle) uses much more resources, its result is only slightly more accurate in this case. The right part of the image presenting the Auto Thresholding result did not perform the cleaning step and particle selection process yet, that afterwards removes the secondary-α particles segmented from the background and looks like “Cleaned micrograph (example)” presented in “Examples of Results” subchapter.
 
-![The original area (left) segmented with Trainable Weka Segmentation (center) and Automatic Thresholding (right)](images/The-original-area-left-segmented-with-Trainable-Weka-Segmentation-center-and-Automatic-Thresholding-right.png)
+![The original area (left) segmented with Trainable Weka Segmentation (center) and Automatic Thresholding (right)](images/the-original-area-left-segmented-with-trainable-weka-segmentation-center-and-automatic-thresholding-right.png)
 _The original area (left) segmented with Trainable Weka Segmentation (centre) and Automatic Thresholding (right)_
 
 Not to leave the testing using only one example, the algorithms took into consideration more advanced images. The more complex structure presented below is tested at the initiative of one of the Coventry University researchers, who used it in one of his research papers[^11]. Because of its low quality, it was a good testing example, where different algorithms were applied to verify the segmentation.
 
-![Example of Trainable Weka Segmentation (left side – input with marked classes, right side – output)](images/Example-of-Trainable-Weka-Segmentation-left-side-–-input-with-marked-classes-right-side-–-output.png)
+![Example of Trainable Weka Segmentation (left side – input with marked classes, right side – output)](images/example-of-trainable-weka-segmentation-left-side-–-input-with-marked-classes-right-side-–-output.png)
 _Example of Trainable Weka Segmentation (left side – input with marked classes, right side – output)_
 
 Unfortunately, the implemented thresholding algorithm in the developed system could not perform well, due to a complex structure of the image. However, applying Trainable Weka Segmentation available in ImageJ generated the image on the rights side in only one minute. Afterwards, the image would need to be inserted into the Micrograph Analyser in order to generate the analysis results.

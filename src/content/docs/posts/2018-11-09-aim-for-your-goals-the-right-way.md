@@ -9,10 +9,10 @@ tags:
   - "productivity"
   - "todoist"
   - "todolists"
-coverImage: "Aim-for-your-goals-the-right-way-thumbnail.png"
+coverImage: "aim-for-your-goals-the-right-way-thumbnail.png"
 ---
 
-![](images/Aim-for-your-Goals-the-Right-Way-in-post.png)
+![](images/aim-for-your-goals-the-right-way-in-post.png)
 
 **How implementing the book knowledge from 2001 can increase the trust in collaboration with your team and let you finally fix your messy room.**
 
@@ -28,7 +28,7 @@ Similarly, the author of Dilbert comic strips tends to discuss the idea of produ
 >
 > — Scott Adams
 
-![Productivity Dilbert](images/Productivity-Dilbert.gif)
+![Productivity Dilbert](images/productivity-dilbert.gif)
 _Remember to organise/prioritise your tasks. Credit: Dilbert comic strip by Scott Adams[^1]_
 
 Lots of people that I see around are not experts in a single specialisation, and they are doing more than fine having a skill stack of things mastered in beginner to "let me try, but later it might never work again" level. What's more, they are even creating online courses to teach others what they have learned. It's not wrong, as even if you know something in 10%, there will be dozens of people who understand the topic in 1% and would love to hear from you. Summarising, we can assume that our usability/value in the job market is what determines the career success.
@@ -41,14 +41,14 @@ Productivity is the mother of all the skills we acquire during our lifespan. The
 
 The time management method presented by David Allen in his most famous creation "**Getting Things Done**"[^2] is being applied in my case for over a year and most importantly it gives practical results! I definitely observed doing more things that are out of my comfort zone, and I changed my life dramatically (successfully finished university, found first job etc.). No, you don't have to be a wizard and all you need to do is to familiarise yourself with the following workflow:
 
-![GTD Diagram](images/GTD-Diagram.jpg)
+![GTD Diagram](images/gtd-diagram.jpg)
 _Didn't you read the book? No worries, here is a brief workflow summary_
 
 Once a friend told me that there is no sense to note every single thing you want to do, such as making sure to feed your cats after coming back home. Right, it is something we aren't likely to forget, but think of a brain as of the Random-Access-Memory (RAM). If you will need to remember about every little thing, you will only reduce your focus required in the current moment and at some time achieve lower results. Moreover, human brain works as a hybrid of RAM and hard disk, as such it tends to leak the data (forgets about stuff).
 
 By writing everything down into your to-do list, you free your memory, just like you do with a task manager called by a combination of Ctrl+Alt+Delete on Windows. That way you can live the moment and achieve the highest performance! Arr!
 
-![Brain = RAM](images/Brain-RAM.jpeg)
+![Brain = RAM](images/brain-ram.jpeg)
 _Hopefully, one day we will be able to install some additional RAM implants into our brains_
 
 ### Todoist
@@ -63,10 +63,10 @@ I praise Todoist mainly for:
 
 Below you can see the example of how I add a task to remember about publishing this post. You can notice, that Todoist automatically highlights the word "tomorrow", which will pop up a notification on my phone the next day about a project assigned to the project "Website" with the highest priority "1".
 
-![Todoist automatically recognises predefined keywords](images/Todoist-Sample-Task.png)
+![Todoist automatically recognises predefined keywords](images/todoist-sample-task.png)
 _Todoist automatically recognises predefined keywords_
 
-![Todoist - Sample Entry](images/Todoist-Sample-Entry.png)
+![Todoist - Sample Entry](images/todoist-sample-entry.png)
 _And nicely aligns them. Oh... I'm so busy this day_
 
 As such, to start with Todoist, I highly recommend spending some time on organising it, defining some projects and labels which will play a significant role. Don't worry if you cannot figure it out in the beginning. After more than a year of using the app, I am still finding myself changing some of the settings.
@@ -152,7 +152,7 @@ _Todoist - my list of labels_
 
 Type "**p**" followed with a number "1,2,3 or 4" to prioritise your goals.
 
-![Todoist - list of priorities](images/Todoist-list-of-filters.png)
+![Todoist - list of priorities](images/todoist-list-of-filters.png)
 _My list of priorities in Todoist_
 
 - _p1 (must)_ – very important, I can't go to bed without marking it as done
@@ -168,7 +168,7 @@ If there is something that you go through continuously in the exact same structu
 
 If you have Todoist Premium, you can head into "Settings → Integrations" to get your personalised token (iCal). With this URL you can tightly integrate Todoist with Google Calendar, so whenever you open it up, you will also see your Todoist tasks planned for that day (as on the image below).
 
-![Google Calendar + Todoist](images/Google-Calendar-Todoist.png)
+![Google Calendar + Todoist](images/google-calendar-todoist.png)
 _Todoist can also automatically sync all the tasks to Google Calendar_
 
 Before discovering to-do lists, I used to note everything in the form of events in my Google Calendar. Nowadays, I keep Google Calendar only for special events/meetings, which cannot be marked as done, but simply have to be attended, such as my upcoming flight for the graduation ceremony.
@@ -250,10 +250,10 @@ In the end, I wish you to fall into the "flow" as often as you want. It's the st
 
 See ya and thanks for staying with me! ❤
 
-![Done!](images/Done.png)
+![Done!](images/done.png)
 _Done!_
 
-![All Clear!](images/All-Clear.png)
+![All Clear!](images/all-clear.png)
 _Isn't it great to see this view, finally after cleaning your daily to-do list?_
 
 ## References

@@ -9,10 +9,10 @@ tags:
   - "data-science"
   - "ethics"
   - "law"
-coverImage: "ethicAI-blogpost-cover.png"
+coverImage: "ethicai-blogpost-cover.png"
 ---
 
-![Ethical AI background](images/ethicAI-background.png)
+![Ethical AI background](images/ethicai-background.png)
 
 **What does it mean to behave in an ethical manner? What if we add all the law restriction on top of that? Moving on, how to write the appropriate if/else statements for the AI workflow to satisfy the strict, yet non-static regulations?**
 
@@ -26,7 +26,7 @@ During this week, I left my attendance on [one of the local Data Science meetups
 
 Last Tuesday, [Nathalie Smuha](https://www.law.kuleuven.be/citip/en/ai-law-ethics-conference/nathalie-smuha) (Lawyer & Coordinator High-Level Expert Group on AI) was ready to share a presentation of the "Ethics Guidelines for Trustworthy AI" at the premises of DigitYser, here in Brussels[^1]. While tackling the problem more from a policymaker perspective, Nathalie did share a lot of insight information and cleared a lot of my doubts, such as if AI is already regulated in some way and what is the current process followed by the European Commission in order to apply the right policies.
 
-![Ethics Guidelines for AI presentation slide](images/Ethics-Guidelines-of-AI.jpg)
+![Ethics Guidelines for AI presentation slide](images/ethics-guidelines-of-ai.jpg)
 _Title slide of the past evening_
 
 ### Defining ethics
@@ -57,7 +57,7 @@ For now, the EU tries to act according to the 3 pillars published in April 2018,
   -  think of "will AI take my job?" case
 - ensure an adequate ethical & legal framework
 
-![AI regulation diagram](images/AI-Regulation.png)
+![AI regulation diagram](images/ai-regulation.png)
 _How to regulate AI, yet boost its uptake?_
 
 ### Classical question
@@ -178,7 +178,7 @@ Moving on, to the more typical example of the current state of the world, let's 
 
 Let's say that we decided to go on a summer trip together with four of our best friends. All of us chose to use an autonomous car for the journey, which leads us to the destination through a fast highway and drives according to the road regulations with an acceptable speed. Suddenly, out of the blue, five kids manage to get on the road in front of our driveway, and if the car doesn't steer to the side, it will end up killing all of the youngsters, even while braking itself as much as possible. Nonetheless, using the alternative way will end up killing you and your friends immediately, due to the fact of hitting a solid barrier.
 
-![Moral machine experiment interface](images/Moral-machine-e1559396325201.png)
+![Moral machine experiment interface](images/moral-machine.png)
 _What should the self-driving car do?🤔_[^10]
 
 As you see, in such a situation, it's hard to program the car to choose the "right" decision. This kind of problem is a never-ending source of sleepless nights for all the philosophers. Before speaking a little bit about the most common decisions taken by the citizens of the world, I would like you to test yourself in a free online test published by a group of academics under the hat of MIT. It's likely that the majority of decisions will impact the workflow of self-driving cars, so your votes might matter in this scenario. Just drop on the website below and "start judging".
@@ -199,7 +199,7 @@ According to the post on the MIT Technology Review, it depends on the country's 
 
 On the opposite side, countries from the Asian regions, such as China or Japan, were more keen towards saving the elderly population, which tends to be honoured with much more respect in their society.
 
-![Cultural differences in self-driving car ethics](images/Cultural-differences-car-problem.png)
+![Cultural differences in self-driving car ethics](images/cultural-differences-car-problem.png)
 _A comparison of countries piloting self-driving cars (closer to 1 = spare the young, closer to -1 = spare the old)_[^11]
 
 Although China and Japan came to the same agreement in the case of sparing elderly population over the young, they had completely different rights when choosing between saving the pedestrians over the driver. From two neighbouring countries, Japan was more keen towards protecting the pedestrians, whereas China took the alternative option.
@@ -263,7 +263,7 @@ In the end, please don't understand me wrong. **The goal of this post wasn't to 
 
 Okay, let's come back to the matter of the growing quality of life. Googling the term "quality of life over time" might give us some level of understanding, that the life expectancy increases, we have easier access to medical health, we are more secure, most of us live with a hood above our head, and we can afford a lot more by getting a job and earning a few bucks.
 
-![Human life expectancy at birth](images/LifeExpectancy.png)
+![Human life expectancy at birth](images/life-expectancy.png)
 _Human life expectancy at birth, measured by region, between 1950 and 2050_[^12]
 
 Being hired is also easier looking at the fact of continuously dropping unemployment rate. Hence, the main problem of people nowadays becomes depression, as by having everything, we're becoming to lack the human interaction and we tend to struggle with balancing our needs (just like in The Sims):
@@ -281,7 +281,7 @@ And again I stepped into another topic and almost forgot to explain the key mess
 
 First of all, I am happy to announce that through my consulting role at AKKA Technologies, **I am assigned to a long time project at Alstom for the position of Data Scientist. Yay 📊!** The scope of the task is varied and surely challenging, involving the development of a new tool and a lot of data analysis. As one of my tutors used to say "_if you don't struggle, you don't learn_", so let's take as much experience as possible from this role and leave with lots of new skills for the future.
 
-![Career growth chart](images/Career-growth.png)
+![Career growth chart](images/career-growth.png)
 _Let's-a go towards a better future!📈_
 
 From the other side, I know that my writing is still not as perfect, as I would like to, so I reached for the "[Essay writing guide](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)" by Jordan Peterson, which brought me a lot of ideas on how to ease and improve my future blog posts. I recommend everyone to read it, as you should understand that writing is one of the most powerful skills we can possess, and it's worth to develop it whenever possible. If you're a programmer, take into your mind, that writing concise and precise messages will also apply in scripting a cleaner and more readable code for others, who would likely take it over or collaborate with you in the development process.

@@ -64,7 +64,7 @@ Okay, there is actually a single thing I want to include, as Gary did not mentio
 
 Stop here for a minute, think about it, and when you are ready, read the answer below this image. If you find my answer different from yours, please let me know in the comments what was your assumption.
 
-![Mike Shinoda on a stage](images/Mike-Shinoda-on-a-stage.jpg)
+![Mike Shinoda on a stage](images/mike-shinoda-on-a-stage.jpg)
 _Credit: Somewhere in a pile of Pinterest images[^2]_
 
 So, tell me, what do you think?
@@ -77,7 +77,7 @@ But that's all not the point of this post! I'm actually trying to say that you d
 
 They say that "_A Picture is worth a thousand words"_, so I have prepared one, that more or less defined what will be the subject of my discussions.
 
-![Word Art of blog topics](images/Word-Art.png)
+![Word Art of blog topics](images/word-art.png)
 _Uhm, but I don't get it, this picture has only 33 words, so how can it be worth more than a thousand words?!_
 
 The range of topics is no less than impressive thanks to the open access to knowledge that we have nowadays. Data science has been enlarged as it's a fascinating area providing endless possibilities. As such, I shouldn't worry about running out of topics to discuss on this blog. I cannot say that I'm already an expert in this field, but I believe that now with more time spent on practical exercises, I will be able to present you with a fascinating analysis.
@@ -96,7 +96,7 @@ There is a lot of topics that I might discuss, and the only thing that I wander 
 
 So far, my OneNote consists of a special section just for the website with multiple notes reminding me of the steps. Here is a sneak peak, of how I manage the work on my posts using the Kanban method.
 
-![Post Ideas](images/Post-ideas.png)
+![Post Ideas](images/post-ideas.png)
 _Let's be a little mysterious with my work and blur it for now ;)_
 
 ## [HEYYEYAAEY!](https://youtu.be/ZZ5LpwO-An4?t=30s) I don't want to miss another post

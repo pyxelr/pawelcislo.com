@@ -10,10 +10,10 @@ tags:
   - "powerful"
   - "programming"
   - "study"
-coverImage: "Learn-Programming-The-Powerful-Way.png"
+coverImage: "learn-programming-the-powerful-way.png"
 ---
 
-![Learn Programming The Powerful Way (background)](images/Learn-Programming-The-Powerful-Way-background.png)
+![Learn Programming The Powerful Way (background)](images/learn-programming-the-powerful-way-background.png)
 
 **Initially, most of us grasped our hands over programming in universities while developing our first Fibonacci sequence. But, can we all agree that it is the best way to start the learning curve?**
 
@@ -31,7 +31,7 @@ Most importantly, **I believe that everyone can learn something from this post**
 
 Why Bob? It just seems like the most typical name for any example. I'm sorry if I offended any Bobs reading this article.
 
-![Bob](images/Bob-300x291.jpg)
+![Bob](images/bob.jpg)
 _Let's assume that Bob is a little clumsy, just like my drawings_
 
 It is the beginning of the high school year, and Bob is looking forward to his new subjects. One of the mysteriously sounding classes is information technology, where our hero is going to put his hands-on programming for the 1st time. The classes start typically with drawing flowcharts and memorising multiple sorting and searching algorithms, such as bubble sort or linear search. Afterwards, Bob is instructed how to set up his first Integrated development environment (IDE) and implement what he just learned in C++, Java or Python (I hope it's not Pascal, like it was in my case).
@@ -40,7 +40,7 @@ Okay, so is there something wrong with it? I don't think so, unless Bob wants to
 
 So, how would I start as a teacher? As long as I would be free from the restrictions of the education programme, I would introduce Bob with a very wide-set of **interactive tools** that stimulate his brain to practice coding challenges daily by providing small prizes and counting day streaks. The exercises should start with the most simple "Hello World" problems and later eventually introduce the algorithmic problems, only if Bob would feel that it is what he wishes to do. Now, why I would not recommend any type of programming book to Bob from the beginning? Let's take a look at the following graph of average learning retention rates:
 
-![Average learning retention rates](images/Learning-Retention-Rates.png)
+![Average learning retention rates](images/learning-retention-rates.png)
 _Average learning retention rates[^1]_
 
 The pyramid presents that we learn the most effectively by teaching others and practising by doing. On the contrast, we retain the least by attending lectures and reading.
@@ -55,7 +55,7 @@ Wrong! This way you are falling into the Impostor Syndrome (or "syndrome of sitt
 
 Just to make sure, I am not saying that reading books is the worst possible choice for the beginning, but most of the students might fall in the presented trap.
 
-![Impostor Syndrome](images/Impostor-Syndrome.png)
+![Impostor Syndrome](images/impostor-syndrome.png)
 _Impostor Syndrome[^2]_
 
 ### Then, what do we suggest to Bob?
@@ -64,12 +64,12 @@ If Bob is already attending high school, he should have just keep doing/trying w
 
 In the meantime, Bob is advised to develop a daily habit of solving online coding challenges, on such websites like [HackerRank](https://www.hackerrank.com/). Below, you can find an example of your playground, with the 1st Java challenge requiring to output "Hello, World" message. As you see, every task includes a comprehensive description on the left side, which will be your book, whereas on the right side is where the magic happens. When Bob feels like his code is ready, shining bright like a diamond, he can try clicking the flashy green button "Submit Code", which runs his scribbles through series of tests to check if it works like it should for the predefined input.
 
-![HackerRank "Hello World" challenge in Java](images/HackerRank-Example-Challenge.png)
+![HackerRank "Hello World" challenge in Java](images/hackerrank-example-challenge.png)
 _HackerRank "Hello World" challenge in Java_
 
 What if Bob is feeling lost and lonely, scratching his head and wondering why the world is so cruel? In this scenario, he might want to look into the "Discussions" tab where he will find more Bobs like him. It's a place where it is good to come in, even when we know the answer, so we can benefit from comparing other solutions, inspiring from them and trying to be kind by supporting others.
 
-![Discussions tab](images/HackerRank-Discussions-1024x197.png)
+![Discussions tab](images/hackerrank-discussions.png)
 
 Didn't I say that we learn the most by teaching others? Yes, I did, and it doesn't mean that you need to be as smart as your high school professor to be able to be able to teach others. Keep in mind that there is always someone, who doesn't know something that you know about designing Java applications, even if he is a developer with ten years of experience. Moreover, you can rest assured about understanding any topic, **if the following doesn't apply to you**:
 
@@ -119,7 +119,7 @@ Never ever blame yourself over forgetting the simplest syntax issues, like inser
 
 Don't rush in your learning. Nobody learned calculus in a day, but started with its the most straightforward variables, trying to understand each element of the sigma notation before developing a neural network of the entirely new architecture.
 
-![Sigma notation](images/Sigma-notation.jpg)
+![Sigma notation](images/sigma-notation.jpg)
 _Sigma notation (example of step by step learning)_
 
 ### Present your results
@@ -160,16 +160,16 @@ If you know some 🇵🇱 or you give some trust to Google Translator, I can re
 
 Not enough? Too much to read? Review everything in a visual form:
 
-- [Top 10 programming languages compared in a table](images/Top-10-Programming-Languages.png)
-- [Which programming language should I learn first?](images/Which-Programming-Language.png)
+- [Top 10 programming languages compared in a table](images/top-10-programming-languages.png)
+- [Which programming language should I learn first?](images/which-programming-language.png)
 
 ### I'm lazy
 
-Talk about your goals, such as I did yesterday before publishing this post. Sharing [this little picture](images/Upcoming-blog-post-Instagram.jpg) on my Instagram/Facebook story pushed me more than anything else to sit down and write all that I wanted to share. Few times, I even felt into the magical flow, which is something that you should aim for while learning/doing anything, as it also means that you're doing what you love.
+Talk about your goals, such as I did yesterday before publishing this post. Sharing [this little picture](images/upcoming-blog-post-instagram.jpg) on my Instagram/Facebook story pushed me more than anything else to sit down and write all that I wanted to share. Few times, I even felt into the magical flow, which is something that you should aim for while learning/doing anything, as it also means that you're doing what you love.
 
 How does it exactly feel, you may ask? Do you remember when you played with Lego or did coloring books as a kid? This is the state when you don't care anything else, but you're entirely focused on your craft, and you're excited about the upcoming result. It's a beauty of humankind. We all want to leave something on this earth in our short lifespan that will make us remembered. Taking a look at another pyramid: Maslow's hierarchy of needs, we can even find the demand for self-realisation.
 
-![Maslow's Hierarchy of Needs](images/Maslows-hierarchy-of-needs.jpg)
+![Maslow's Hierarchy of Needs](images/maslows-hierarchy-of-needs.jpg)
 _Maslow's Hierarchy of Needs[^3]_
 
 ## Health > Work
@@ -294,5 +294,5 @@ Last, but not least, **remember about these ultimate living rules**:
 
 **Thanks for reading and happy coding!**
 
-![Happy Bob](images/Happy-Bob-273x300.jpg)
+![Happy Bob](images/happy-bob.jpg)
 _Hey Bob, just don't lose your excitement after the first weeks :)_

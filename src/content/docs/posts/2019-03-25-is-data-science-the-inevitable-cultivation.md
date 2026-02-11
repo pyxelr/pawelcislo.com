@@ -16,10 +16,10 @@ tags:
   - "iot"
   - "machine-learning"
   - "technology"
-coverImage: "Is-Data-Science-the-inevitable-cultivation-cover.png"
+coverImage: "is-data-science-the-inevitable-cultivation-cover.png"
 ---
 
-![Data 4.0](images/Data-4.0-in-post.png)
+![Data 4.0](images/data-4.0-in-post.png)
 
 **It is more common to approach the statement "Data is the new oil", and it is already a fact, which will only expand its popularity. However, in order to get the pure nectar from our data, we need to apply specific "oil refinery", usually referred to as data mining.**
 
@@ -48,10 +48,10 @@ The scope of the mentioned technologies included:
 
 In general, the conference took a very rapid pace, leaving us with tons of valuable information about topics ranging from technology, business and medicine, up to the state of the current education. Each of the presentations was full of the current market trends, such as "Data Science", "AI", "Cybersecurity" and "Industry 4.0".
 
-![BioTech meets Digital conference](images/BioTech-conference-1024x797.png)
+![BioTech meets Digital conference](images/biotech-conference.png)
 _BioTech meets Digital conference_
 
-### The effect of applying data mining techniques to [my notes](images/BioTech-notes-e1553423237867.jpg)
+### The effect of applying data mining techniques to [my notes](images/biotech-notes.jpg)
 
 There were parts, which could have been understood only by participants with specific domain knowledge, specifically around biology and robotics; nevertheless, most of the content was directed to the general audience. As this blog isn't focused on the organic industry, I will share most of the key points around DS, with a slight addition of specific domain sectors.
 
@@ -63,7 +63,7 @@ In order to address everything concisely without the struggle of paying attentio
   - AI will be a priority on the Belgian market
   - Only 1 out of 4 Belgians know what AI is
 - **#2 Digital trends for Biotech – data for the best?** \[Benjamin Docquir (Osborne Clarke, partner), Hadrien Chef (Osborne Clarke, partner)\]
-  - pharma and medical technology [scores only 27/100 points](images/BioTech-trends-in-digital-transformation.jpg) in trends of digital transformation for healthcare providers
+  - pharma and medical technology [scores only 27/100 points](images/biotech-trends-in-digital-transformation.jpg) in trends of digital transformation for healthcare providers
     - that is more than the public sector (22)
     - but less than telecom (37), retail (42), travel and hospitality (46)
   - pre-clinical and clinical activities are still paper-based and it has to change
@@ -80,9 +80,9 @@ In order to address everything concisely without the struggle of paying attentio
     - data is an asset... not an isolation
 - **#3 How to find the right patterns in order to turn data into actionable insights** \[Lien Van Den Berghe (Möbius Healthcare, Business Consultant Healthcare & Lifesciences)\]
   - data is the new oil
-  - only [8% of companies know how to utilise data](images/BioTech-8percent.jpg)
+  - only [8% of companies know how to utilise data](images/biotech-8percent.jpg)
   - we lack skills in data analytics
-  - presentation of clear data analytics process ([explanation graph](images/BioTech-analytics-process.jpg))
+  - presentation of clear data analytics process ([explanation graph](images/biotech-analytics-process.jpg))
   - understanding that business is vital - ask the right questions
   - Data Scientist is the 21st century's sexiest job (according to Harvard Business)
   - 5 key learnings
@@ -103,13 +103,13 @@ In order to address everything concisely without the struggle of paying attentio
       - 2-4 times yield improvement
   - in Texere, 50% of workers are robots, whereas in other companies it's usually 8%
     - clearly, robots are easier to be managed
-  - analysis of the most wanted jobs of the industry 4.0 ([infographic](images/BioTech-industry40-jobs.jpg))
+  - analysis of the most wanted jobs of the industry 4.0 ([infographic](images/biotech-industry40-jobs.jpg))
 - **#5 Early prediction on quality attributes & parametric release by a global smart GMP monitoring** \[Nicolas Tijs (NOVADIP Biosciences), Anne Cassart (Sapristic Biion, Sales Director - International Business Development)\]
   - introduction of next-generation monitoring including process monitoring
   - presentation of mirrhia (global monitoring system: clean rooms, lab environment & equipment)
 - **#6 Biomanufacturing excellence through data sciences at GSK vaccines** \[Thibault Helleputte (DNAlytics, CEO)\]
   - data needs to be processed in real time
-  - DS in biomanufacturing - a retrospective/prospective analysis ([infographic](images/BioTech-DS-in-biomanufacturing.jpg))
+  - DS in biomanufacturing - a retrospective/prospective analysis ([infographic](images/biotech-ds-in-biomanufacturing.jpg))
   - a typical vaccine production process (types of data)
     - we have mostly 2nd-hand data
     - heterogenous
@@ -174,7 +174,7 @@ In order to address everything concisely without the struggle of paying attentio
 
 Woah, that is a lot of information!
 
-Luckily everything ended up with a productive networking session, full of [tasty sandwiches](images/BioTech-sandwiches.jpg) and [various drinks](images/BioTech-drinks-e1553434016959.jpg). :)
+Luckily everything ended up with a productive networking session, full of [tasty sandwiches](images/biotech-sandwiches.jpg) and [various drinks](images/biotech-drinks.jpg). :)
 
 As there is still a lot to cover in this post, I will not elaborate on the conference. The need for data scientists will grow, and this is what I am going to facilitate in the rest of this article.
 
@@ -184,7 +184,7 @@ As there is still a lot to cover in this post, I will not elaborate on the confe
 
 The current products are full of data, such as machines and robotics, which are authorising the swiftly growing universal truth that **all roads lead to data** in the emerging digitopia. Data is highly comparable to oil, because of its potential to generate real value; however, it won't do much without the right processing.
 
-![The Big Four](images/Big-Four.png)
+![The Big Four](images/big-four.png)
 _Big Four keep most of the oil_
 
 If we look into the historical roots, the UK mathematician - Clive Humby was the first one to coin the term "Data Science is the new oil" in 2006:
@@ -195,7 +195,7 @@ If we look into the historical roots, the UK mathematician - Clive Humby was the
 
 Okay, let's not just make idle threats, but support the growing popularity of DS with the usage of the Google Trends tool. Since the last 6 years, the interest over time for the "data science" term in Google Search, grew about 9 times! The interesting fact is that the graph looks almost identical for "[cybersecurity](https://trends.google.com/trends/explore?date=2012-01-07%202019-03-23&geo=US&q=cybersecurity)". I see that the market trends are being highly generous to both of my interest and it has a purpose, as unsecured data reveals a significant flaw to its owner.
 
-![Data Science trends](images/Data-Science-trends.png)
+![Data Science trends](images/data-science-trends.png)
 _Google trends for "data science" from 01/02/2012[^2]_
 
 Data, data, data everywhere, but how to get our head around that? To find the answer, let's move into another chapter.
@@ -222,12 +222,12 @@ Let's try to clear your mind and define each of the most popular terms in a huma
 
 Three of the defined technical terms can be aligned nicely on the Venn diagram:
 
-![AI, Deep Learning, Machine Learning](images/AI-Deep-Learning-Machine-Learning.png)
+![AI, Deep Learning, Machine Learning](images/ai-deep-learning-machine-learning.png)
 _Connection between the fields_[^4]
 
 If we would like to place Data Science on this diagram, it would fall as a superset of all the subsets (AI>ML>DL), as on the attachment below. It is such a generic term including all the different data operations, that it is introduced in almost all the jargon of the current revolutionary technology. Moving more in-depth, if we look purely at the Data Science term, there might be lots of different variations of its Venn diagram, the more serious and the more satirical ones. Most commonly you will find DS to be a mix of statistics/coding/marketing, where everything can be disassembled into even more specific areas, collectively with DS. Initially came Drew Conway's data science Venn diagram and the rest were trying to modify and improve it. The one that is most satisfying to me was prepared by Gartner (research team), about which you can read more straighTt from Christi Eubanks' blog post.[^5]
 
-![Place of Data Science](images/Data-Science-diagram.png)
+![Place of Data Science](images/data-science-diagram.png)
 _Place of Data Science_
 
 Huh?! Did I forget assigning Big Data to these charts? Let's leave it as a small task for you, as I believe it should be evident for now that Big Data is a part of \_\_\_(_each/none_)\_\_\_ of these terms.
@@ -240,7 +240,7 @@ Don't stress too much when you lack the skills, as many companies are eager to h
 
 On the diagram below, you can check, which skills you might want to focus on to achieve your dream position.
 
-![Skill proficiency varies by data science role](images/Skill-proficiency-varies-by-data-science-role.png)
+![Skill proficiency varies by data science role](images/skill-proficiency-varies-by-data-science-role.png)
 _Skill proficiency varies by data science role_[^6]
 
 ### But do I need to know math? You may ask
@@ -468,13 +468,13 @@ Let's end this post with a funny situation shared by Piotr Migdał on his social
 
 Don't overwhelm yourself with data, as it's impossible to process all of it. If you are continually being overloaded with the information, I have some good news for you.
 
-Last time I organised my first 2.5-hour training on "[Personal Organisation](images/Personal-organisation-training.jpg)", which covered various topics around its broad title (remembering, optimising, focusing, learning, respecting health, planning & celebrating). For now, it had internal premiere inside the offices, and the first attendants provided me with excellent feedback, giving me the opportunity to continue my training for other co-workers. I believe that the values provided in the scope of the presentation can profoundly influence every human being and. Keep your fingers crossed and once I might provide the training to larger groups around the world!
+Last time I organised my first 2.5-hour training on "[Personal Organisation](images/personal-organisation-training.jpg)", which covered various topics around its broad title (remembering, optimising, focusing, learning, respecting health, planning & celebrating). For now, it had internal premiere inside the offices, and the first attendants provided me with excellent feedback, giving me the opportunity to continue my training for other co-workers. I believe that the values provided in the scope of the presentation can profoundly influence every human being and. Keep your fingers crossed and once I might provide the training to larger groups around the world!
 
 As it will never take place to be able to deliver it to most of my readers, I can consider recording an online course, where I will go through the contents of my presentation in depth. In the end, I wish to let everyone change his state from 🙁 → 🙂.
 
 Lastly, as you see, even my watch is starting to run out of space for data:
 
-![Gear S3](images/Gear-s3-data-739x1024.jpg)
+![Gear S3](images/gear-s3-data.jpg)
 _My Gear S3 raises so many ideas for data science projects_
 
 ## References

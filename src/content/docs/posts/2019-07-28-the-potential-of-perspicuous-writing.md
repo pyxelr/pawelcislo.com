@@ -15,10 +15,10 @@ tags:
   - "tutorial"
   - "writing"
   - "zotero"
-coverImage: "WritingCover.png"
+coverImage: "writing-cover.png"
 ---
 
-![](images/WritingBackground.png)
+![](images/writing-background.png)
 
 **Writing is one of the most extreme skills anyone can possess, and if you learn how to use it competently, there will be no lexical battle on your way to lose. Therefore, why isn't that so apparent to most of us?**
 
@@ -32,7 +32,7 @@ First and foremost, the psychologist tries to shape the real purpose of writing,
 
 Nonetheless, let's not stop on generalised logical/material benefits and extend the value of writing based on the example of writing an essay. To express it in a single sentence: the primary reason to write an essay is so that the writer can formulate and organise an informed, coherent and sophisticated set of ideas about something important.[^1]
 
-![Writing as a weapon](images/Writing-as-a-weapon.png)
+![Writing as a weapon](images/writing-as-a-weapon.png)
 
 > _If you can think and speak and write, you are absolutely deadly (…) It’s the most powerful weapon you can possibly provide someone with (…) those people, you don’t want to have an argument with them, they will just slash you into pieces._
 >
@@ -106,7 +106,7 @@ But even more importantly, it's not just about what you say, but how you say it.
 
 Coming back to the merits of this post (writing), it's worth to have an ultimate template which would improve the quality of our work. The following steps are mainly a summary of Peterson's essay writing guide ([available on his website](https://docs.google.com/viewer?url=http%3A%2F%2Fjordanbpeterson.com%2Fwp-content%2Fuploads%2F2018%2F02%2FEssay_Writing_Guide.docx)), with slight modification, including my suggestions. In general, the entire manual is based on the iteration process through our report, until the moment of achieving the supreme state.
 
-![](images/10-Writing-Steps.png)
+![](images/10-writing-steps.png)
 
 1. **P1: Method of work (apply before writing)**
     - have a quiet place to work
@@ -190,7 +190,7 @@ Coming back to the merits of this post (writing), it's worth to have an ultimate
 
 Let's make it clear that I do not always follow the 10 steps presented above, but I do keep them in mind. Don't take anyone's approach for granted, yet keep to yourself the ideas you value the most.
 
-While creating this blog last year, I end up writing [several ideas for my upcoming posts](images/Post-ideas.png). At that time, some of them were dropped, some are still waiting, and some of them were combined into single great topics.
+While creating this blog last year, I end up writing [several ideas for my upcoming posts](images/post-ideas.png). At that time, some of them were dropped, some are still waiting, and some of them were combined into single great topics.
 
 The topic you're reading now came to me as inspiration from a Facebook post of my friend, the other in the middle of a call, and the rest mostly from random walking/reflection sessions. My recommendation would be not to push yourself too much as the best inspirations tend to come in the most unpredictable moments.
 
@@ -215,7 +215,7 @@ Another part that is profoundly important and takes a lot of my time is the prep
 
 Reading is like sharping a sword before fighting. It doesn't only teach us different forms of communications and new words, but above all, it's a universal source to be more aware of our surroundings. You cannot expect to write trustworthy researches without reading several scientific papers and referencing them in your work.
 
-![](images/Audiobooks-1024x557.png)
+![](images/audiobooks.png)
 
 After leaving your university you might be more flexible in terms of choosing your literature, therefore give it a try. Don't stay behind, as according to the latest research, people aren't reading less, since "_typical (median) American has read four books in the past 12 months_".[^3] Surprising? I don't think so.
 
@@ -225,7 +225,7 @@ In the end, make sure not to end up on continuous yet vacant book consumption. D
 
 Apart from reading, I can give you an honest recommendation to try [Elevate app](https://www.elevateapp.com/), which is full of games that will improve your English vocabulary to a highly professional level. At first, try the free version, and if you like it, you can decide funding yourself a premium account.
 
-![Elevate screenshot](images/Elevate-screenshot-498x1024.jpg)
+![Elevate screenshot](images/elevate-screenshot.jpg)
 _Elevate's "memory" game_
 
 ## Researching Scientific Papers
@@ -247,7 +247,7 @@ Once we are fully aware of questioning the authority, we don't need to get out t
 
 As at this time, many research papers are artificially restricted by copyright laws, you might quickly run out of money (especially if you're a student) during your thesis. I am not suggesting anything, but there is a friendly service: [Sci-Hub](https://sci-hub.now.sh/), that can help you with that, if you provide him with a specific document ID, such as digital object identifier (DOI). ;)
 
-![SciHub](images/SciHub-1024x576.png)
+![SciHub](images/scihub.png)
 _Sci-Hub – saviour of the poor students' life_
 
 Moving on to the next chapter, we will discuss what do with all the accumulated material, reviewed with the help of dozens of coffee mugs and loads of chocolate.
@@ -264,7 +264,7 @@ Now, what about utilising the goods of technology to store all the papers in a s
 
 At the end of my master's thesis, I discovered [Zotero](https://www.zotero.org/) (open-source, cross-platform application). Huge thanks to the community of HackerNews, where I heard about it, unfortunately, a little bit late. The program functions admirably and provides even more features than some of the premium tools on this market. You can save up a lot of metadata, have it automatically filled for you (with a [Chrome extension](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc)), and most importantly, you don't need to worry that one day the host will decide taking out all of your storage.
 
-![Zotero](images/Zotero.png)
+![Zotero](images/zotero.png)
 _Example of massive research organised in [Zotero](https://www.zotero.org/)_
 
 If you can't install anything on your machine, you can also try the lighter/more primitive web version: [ZoteroBib](https://zbib.org/). The web application seems not to have an option to register your account and store your sessions, but there is a workaround. Cache files of your browser should save the data themselves, but I would suggest you not to trust your web browser, but create a "_Link to this version_". You can find this function on the main web page if you scroll down a little bit. Afterwards, keep a good note of the URL.
@@ -277,7 +277,7 @@ These days, you don't need to worry as much about typos, nor about handling your
 
 My favourite one – [Grammarly](https://www.grammarly.com/). All my university assignments have been validated with this tool and nowadays, likewise, my blog posts. Still, there might be some typos and grammar issues, but it's clearly more readable. Since last time, Grammarly is worth even more attention, as the developers included readability score and the way to verify your text based on correctness, clarity, engagement and delivery. Moreover, before commencing to compose the document, you can specify its intent effortlessly.
 
-![Grammarly Goals](images/Grammarly-Goals.png)
+![Grammarly Goals](images/grammarly-goals.png)
 _Maybe now there's hope if you're bad at entertaining the audience?_
 
 I tend to use Grammarly mostly in the form of Microsoft Word add-on, but including it as a browser extension also saves you from lots of errors. Sometimes, I also tend to use it merely through the official online app, as it guarantees the best support and performance. Moreover, if you have the budget, I recommend giving the premium version a chance, but before, try to seek out some discount coupons, especially on Cyber Monday.
@@ -347,7 +347,7 @@ If you feel like convinced to give it a try, but you're not sure where to start,
   - [Mathpix Snip](https://mathpix.com/) ← convert images to LaTeX by capturing your screen
   - **[Overleaf](https://www.overleaf.com/)** ← online LaTeX editor, recommended not only for the beginners.
 
-![Overleaf editor](images/Overleaf-editor-1024x683.png)
+![Overleaf editor](images/overleaf-editor.png)
 _Overleaf makes it fairly easy to start with LaTeX. You can auto compile your work to get an instant preview of the document and even collaborate with others on the same file![^4]_
 
 ## Additional learning material

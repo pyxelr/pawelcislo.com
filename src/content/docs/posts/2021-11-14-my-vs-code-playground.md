@@ -8,12 +8,12 @@ tags:
   - "ide"
   - "programming"
   - "vscode"
-coverImage: "vs-code-cover.png"
+coverImage: "vscode-cover.png"
 ---
 
 > You can find my VS Code profile under **[gist.github.com](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b)**.
 
-![VS Code - Blog post background](images/vs-code-background.png)
+![VS Code - Blog post background](images/vscode-background.png)
 
 **Compendium of impressions from an odyssey with my most preferred day-to-day code editor, not only for Python/MLOps.**
 
@@ -86,7 +86,7 @@ Focusing back on my current most favourite VS Code UI, it is composed of:
   - Consolas (primary editor font)
   - [Jetbrains Mono](https://www.nerdfonts.com/font-downloads) of weight 350 (terminal's powerline font with a support for special characters like Git branches)
 
-![My VS Code UI](images/vs-code-ui.png)
+![My VS Code UI](images/vscode-ui.png)
 _Look of my VS Code instance with Dracula PRO theme and [my-terminal](https://github.com/pyxelr/my-terminal)
 
 Certainly, each of us will have his preferred set of colours and panels (conveniently previewed through [vscodethemes.com](https://vscodethemes.com/)), so I'm curious to see what is your style (don't hesitate to leave a comment down there)!

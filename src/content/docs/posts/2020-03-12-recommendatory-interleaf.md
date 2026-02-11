@@ -12,10 +12,10 @@ tags:
   - "review"
   - "summary"
   - "year"
-coverImage: "Recommendations-cover.png"
+coverImage: "recommendations-cover.png"
 ---
 
-![Recommendations - Blog post background](images/Recommendations-background.png)**This registry was created to catalogue the recently published set of recommendations and share a couple of updates from my side.**
+![Recommendations - Blog post background](images/recommendations-background.png)**This registry was created to catalogue the recently published set of recommendations and share a couple of updates from my side.**
 
 ## Recommendations for Engineers
 
@@ -37,7 +37,7 @@ Principally, the reason for my absence was a new project to tackle at a railway 
 
 In all this hassle, I did find some free time, which I used, for example, to scribble down my latest publication, but also to experiment with different learning methods that I am planning to describe in the upcoming posts. Nonetheless, I also had to give my mind a break and rethink my current actions and plans for the future.
 
-![Studying Machine Learning](images/studying-machine-learning-794x1024.jpg)
+![Studying Machine Learning](images/studying-machine-learning.jpg)
 _Lately, reading is one of the main activities I devoted myself into_
 
 Not to waffle on all the news, and to maintain a structured article, let's have a look at the succeeding sections.
@@ -113,18 +113,18 @@ This part would definitely challenge my memory if I wouldn't keep track of my da
     - Next day, I found my summary to be [retweeted by the interviewee](https://twitter.com/pawel_cislo/status/1170468355444285441) (Yann), as well as [reshared by the interviewer](https://www.facebook.com/lexfridman/posts/10103401245618416) (Lex)
   - ✍ Committed to highlighting and annotating all the online articles with Hypothesis to retain more information. Feel free to [check out what articles inspire me online](https://hypothes.is/users/pyxelr)
   - 👕 Commenced [selling my own merch](images/own-merch.jpg)... nah, just kidding... or maybe I should consider it?
-  - ⚽ My football games started showing out [some visible effects](images/FitFive-my-goal.mp4) ;)
+  - ⚽ My football games started showing out [some visible effects](images/my-goal-FitFive.mp4) ;)
   - 👨‍🏫 Supported another student undertaking the same MSc Data Science course at Coventry University as I did
   - 👟 Advanced my running with a [new pair of shoes](images/new-running-shoes.jpg) <bragging>
   - 🧠 Implemented active learning and spaced repetition with Anki. You can find all my publicly shared flashcards in this [GitHub repository](https://github.com/pyxelr/my-anki-decks-of-flashcards)
   - 🏅 Accomplished 10 km distance: "_Game of Trails_" in Flemmale. Like everyone, I ended up fully covered in mud, but I've got no photo here. You probably wouldn't recognise me anyway ;)
     - Here are [all my medals](images/running-awards-2019.jpg) for the 3 runs I took this year in Belgium (+ a batch from a Data Hackathon at Infrabel)
-  - 📅 Attended another session of a great networking meetup - [_DataBeers Brussels #12_](images/data-beers-12-scaled.jpg)
+  - 📅 Attended another session of a great networking meetup - [_DataBeers Brussels #12_](images/data-beers-12.jpg)
 - **October**
   - 📚 Consumed _Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future_ and left [my summary online](https://www.facebook.com/pawelcislocom/photos/a.2657957824278703/3506896566051487/)
   - 📚 Read _The Hundred-Page Machine Learning Book by Andriy Burkov_ and shared [my summary online](https://www.facebook.com/pawelcislocom/photos/a.2657957824278703/3509388259135651/)
   - 📼 As most of you, I didn't miss to see [Joker](https://www.imdb.com/title/tt7286456/)
-  - 🎹 Picked up [Roland-A49](images/my-Roland-A49.jpg) and began seeking for more time to practice my music production skills
+  - 🎹 Picked up [Roland-A49](images/my-roland-a49.jpg) and began seeking for more time to practice my music production skills
   - 🎓 [Finished](https://drive.google.com/drive/folders/1FcnaGSH_1wgdXblFlIjV5ZG_DMv7Pnu1) all the 5 weeks of the DataWorkshop challenge. The best part was to work with the simulation of a self-driving car
   - 🎶 Had my [1st dubstep party in Ghent](https://www.facebook.com/pyxelr/posts/2587067248019991) (_Monstercat Uncaged_)
     - my shoes were crying for help, but I also managed to [dance 25.58 km](https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/72478689_2587066074686775_1973216187483422720_o.jpg?_nc_cat=100&_nc_sid=8024bb&_nc_oc=AQmuDwN_FE3dk9aY1aN5XvfqfkazScO_xJTxk654clfNiYnl6619hO6pBnxqjGwgFC2VWF7fjJU2NKYwdgXoSRZ1&_nc_ht=scontent-bru2-1.xx&oh=622b911efc52b2f7b4cce60e746ef639&oe=5E9830B4) during that night
@@ -136,14 +136,14 @@ This part would definitely challenge my memory if I wouldn't keep track of my da
   - 📅 Hat party at my friend's apartment. [Hou Hou Hou!](images/santa-hat-party.jpg)
   - 📚 Read _Unlocking French with Paul Noble_ ([my review](https://www.goodreads.com/review/show/3002106778))
   - 📚 Listened to _Learn French with Paul Noble – Complete Course_ ([my review](https://www.goodreads.com/review/show/3002051547))
-  - 📅 Last session of [_DataBeers Brussels #13_](images/data-beers-13-scaled.jpg) this year. After the presentation, we [voted for the favourite beer](images/data-beer-voting-scaled.jpg) of our members
+  - 📅 Last session of [_DataBeers Brussels #13_](images/data-beers-13.jpg) this year. After the presentation, we [voted for the favourite beer](images/data-beer-voting.jpg) of our members
   - 📚 Finished listening to _Next Steps in French with Paul Noble_ ([my review](https://www.goodreads.com/review/show/3024520857))
   - 📼 Watched [Pi (1998)](https://www.imdb.com/title/tt0138704/). How to stop thinking about algorithms now?
   - ✍ Explained the reason behind each of the person that inspires me in the [FAQ section](/pages/faq/)
   - ✍ Published my [Recommendation for Engineers](/pages/recommendations/)
     - it managed to appear in [#unknownews](images/recommendations-in-unknownews.jpg), which brought [a lot of visits](images/recommendations-stats-graph.jpg) in the first 5 days from [all around the world](images/recommendations-map.jpg)
   - ✍ Wrote a quick article for my employer on the use of Anki/SuperMemo. I'll try to rewrite it with much more details on this blog at some point
-  - ⛸ [Ice skating](images/ice-skating-scaled.jpg) again after such a long time
+  - ⛸ [Ice skating](images/ice-skating.jpg) again after such a long time
   - 📊 "_In November, you had 942 users visit your website (Google Analytics)_" <bragging>. Well, cannot hide it's quite an achievement
 - **December**
   - 🏫 Advised my Coventry University tutor with a design of a new _MSc AI and Data Science_ course at another UK university
@@ -153,11 +153,11 @@ This part would definitely challenge my memory if I wouldn't keep track of my da
   - 👨‍💻 Redesigned [my CV](/Resume-PawelCislo.pdf) with LaTeX
   - 📚 Finished reading _Math, Better Explained: Learn to Unlock Your Math Intuition_ ([my review](https://www.goodreads.com/review/show/2994941167))
   - 📸 Shared my [Nostalgia Time](https://www.instagram.com/stories/highlights/17863851583605666/) on Instagram. Check it out if you're curious what drove my interest in the young age
-  - 🏀 [Drove go-karts](images/go-kart-scaled.jpg) again in Poland
+  - 🏀 [Drove go-karts](images/go-kart.jpg) again in Poland
   - 📼 Watched the last (13th) episode of [Mr. Robot](https://www.imdb.com/title/tt4158110/) and finished this astonishing series
-  - 👨‍💻 Achieved 2nd goal of [solving 120 coding problems](images/Programmer-Goal-2.png)
+  - 👨‍💻 Achieved 2nd goal of [solving 120 coding problems](images/programmer-goal-2.png)
   - 🎓 Completed [Machine Learning course on Coursera](https://www.linkedin.com/posts/pawelcislo_machine-learning-by-stanford-university-activity-6617024212051861504-kJ08)
-  - 🎄 Admired [centre of my home city - Rzeszów](images/rzeszow-centre-2019-scaled.jpg), for the last time this year
+  - 🎄 Admired [centre of my home city - Rzeszów](images/rzeszow-centre-2019.jpg), for the last time this year
   - 📸 Went through the end of 2019 with a [flight full of reflections](https://twitter.com/pawel_cislo/status/1213511465795280897)
   - 🎊 New Year Party in Brussels
 - **January**
@@ -169,21 +169,21 @@ This part would definitely challenge my memory if I wouldn't keep track of my da
   - 📚 Read _Machine Learning Yearning_ ([my review](https://www.goodreads.com/review/show/2979153699))
 - **February**
   - 📅 Another hat party at my friend's house (and here I am, [shining with my wizard hat](images/hat-party-wizard.jpg))
-  - 💼 **Finished my mission at Alstom.** Since it's quite a tradition here in Belgium, I [brought some croissants](images/last-day-Alstom-scaled.jpg) for my last day
+  - 💼 **Finished my mission at Alstom.** Since it's quite a tradition here in Belgium, I [brought some croissants](images/last-day-alstom.jpg) for my last day
   - 📚 Self-taught myself some automation with _Practical AutoHotkey_ ([my review](https://www.goodreads.com/review/show/3132333426))
     - later, I implemented a few scripts that save me a lot of time till this day
   - 📅 Attended [2-day Grakn Cosmos 2020 in London](https://www.linkedin.com/posts/pawelcislo_grakncosmos-grakn-activity-6631977852919250944-oFdm)
     - The conference focused on presenting the application of a knowledge graph, NLP, and ML pipelines in various industries, with a focus on life science, IoT and cybersecurity
     - I met a lot of inspiring people to whom I connected and keep in touch until this day
   - 👨‍💻 Pushed my _Log to CSV_ project on [GitHub](https://github.com/pyxelr/log-to-csv-parser)
-  - 🎓 **3-day [graduation of The AKKAdemy program](images/AKKAdemy-Graduation-day.jpg) in Geneva**
+  - 🎓 **3-day [graduation of The AKKAdemy program](images/akkademy-graduation-day.jpg) in Geneva**
   - 🏔 Trip around Switzerland with some of The AKKAdemy brave warriors. You can find some [photos in my "_Switzerland_" Instagram highlight](https://www.instagram.com/stories/highlights/17998062739091785/) from:
     - Interlaken (the city itself + Schilthorn mountain)
     - Thun Castle
     - Zürich (Fifa Museum)
   - 💼 Back in AKKA Belgium office to work on an internal data visualisation project
-  - ⚽ Regular football games brought [even better results](images/My_goals_18_02_2020.mp4)
-  - 📅 Attended [Data Access & Sharing forum](images/data-sharing-conference-scaled.jpg) at Microsoft Innovation Centre in Brussels
+  - ⚽ Regular football games brought [even better results](images/my-goals-18-02-2020.mp4)
+  - 📅 Attended [Data Access & Sharing forum](images/data-sharing-conference.jpg) at Microsoft Innovation Centre in Brussels
 - **March**
   - ✍ Started working on this post
   - 🎓 Finished [Mastering data visualisation in D3.js](https://udemy-certificate.s3.amazonaws.com/image/UC-fc91f31b-a6f6-4cc9-8622-2d17c592afe6.jpg) course for one of my current projects.
@@ -194,9 +194,9 @@ Phew... That will be it.
 
 Now, let's not dwell on the past and talk about what's in front of us.
 
-Below you can see a piece of note I reuse to store all the ideas to write about. This year it's counting 11 written posts (including this report) and 18 waiting in the queue ([1.5 year ago it wasn't like that](images/Post-ideas.png)). For the moment, the subjects balanced between productivity, community events and a few technical matters. The line of ideas waiting to be described still considers a bit of learning-based concepts, accompanied by data science technicalities and other hard skills domains. There might also appear more data engineering topics, such as setting up big data pipelines into production, rather than common analytical procedures.
+Below you can see a piece of note I reuse to store all the ideas to write about. This year it's counting 11 written posts (including this report) and 18 waiting in the queue ([1.5 year ago it wasn't like that](images/post-ideas.png)). For the moment, the subjects balanced between productivity, community events and a few technical matters. The line of ideas waiting to be described still considers a bit of learning-based concepts, accompanied by data science technicalities and other hard skills domains. There might also appear more data engineering topics, such as setting up big data pipelines into production, rather than common analytical procedures.
 
-![Post ideas](images/post-ideas-2020-1024x593.png)
+![Post ideas](images/post-ideas-2020.png)
 _As of today, my current list of post ideas in the "To Do" section counts 18 (but knowing myself it is a highly approximate number with my tendency to restructuring and adding new ideas)_
 
 On top of that, I am considering to convert the entire website to [Gatsby.js framework](https://www.gatsbyjs.org/), although I usually receive positive feedback about the structure/performance of this place.
@@ -211,7 +211,7 @@ Transfer from WordPress to Gatsby.js is surely [time-taking and pretty stressful
 
 Back in January, I have shared my initial set of intentions on what to prioritise for the next 12 months. Let's have a look and reflect on them after the last 2.5 months.
 
-![My plans for 2020](images/2020-plans-498x1024.jpg)
+![My plans for 2020](images/2020-plans.jpg)
 _My sketch of 2020 from January_
 
 January was filled with Python, Tkinter and RegEx. Later, 1st half of February was taken by tech conferences, The AKKAdemy graduation and exploration of the Swiss mountains. Now, my mind is mostly focused on data visualisation in D3.js, putting more effort into my French fluency and preparing for the practical experience in data engineering (Hadoop ecosystem, Docker and Kubernetes). Apart from that, I will try to present more projects with the use of AI, such as a simulation of self-driving car.

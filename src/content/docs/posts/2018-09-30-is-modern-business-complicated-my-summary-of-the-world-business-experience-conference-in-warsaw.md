@@ -9,10 +9,10 @@ tags:
   - "marketing"
   - "wbe"
   - "worldbusinessexperience"
-coverImage: "Aim-for-your-Goals-the-Right-Way--thumbnail.png"
+coverImage: "is-modern-business-complicated-background.png"
 ---
 
-![Is Modern Business Complicated (background)](images/Is-Modern-Business-Complicated-background.png)
+![Is Modern Business Complicated (background)](images/is-modern-business-complicated-background.png)
 
 **Staying up-to-date with all the business aspects and at the same time trying to be innovative is quite a big challenge. Nowadays, the same applies to all the students, where the majority of graduates carries a higher academic degree, but struggles standing out in the eyes of recruiters. If so, how to win this game?**
 
@@ -20,11 +20,11 @@ coverImage: "Aim-for-your-Goals-the-Right-Way--thumbnail.png"
 
 Business & Technology. Last time, these two terms stick to each other more than ever before, such that it became a standard for every university to offer "Business Intelligence" modules. We all know that the world moves faster than ever before, creating a more rapid variation of Moore's law[^1]. So, how to stick to the current trends in order to prevent the failure or rise from it like Phoenix from the ashes? Well... first of all, we should hack our mind and start thinking how not to stick to the trends, but be ahead of the competition.
 
-In the thumbnail/background image of this post, you may have noticed the term "[World Business Experience](http://www.wbexp.pl) (WBE)". Sounds intriguing, but what is it? Three days ago (27/09/2018) I have attended the all-day conference in Warsaw (🇵🇱), that did cost a little bit (~208 €), but just as every attendant, I will never regret spending any money for that time. The main star of the WBE was no one else but [Gary Vaynerchuk](https://www.garyvaynerchuk.com/) who was preceded with dozens of different stories from other business winners. All of the presenters were so great that I had come home with a quite considerable pile of notes ([pic](images/WBE-Notes.jpg)), that I am trying to digitalise here, leaving the most fundamental framework.
+In the thumbnail/background image of this post, you may have noticed the term "[World Business Experience](http://www.wbexp.pl) (WBE)". Sounds intriguing, but what is it? Three days ago (27/09/2018) I have attended the all-day conference in Warsaw (🇵🇱), that did cost a little bit (~208 €), but just as every attendant, I will never regret spending any money for that time. The main star of the WBE was no one else but [Gary Vaynerchuk](https://www.garyvaynerchuk.com/) who was preceded with dozens of different stories from other business winners. All of the presenters were so great that I had come home with a quite considerable pile of notes ([pic](images/wbe-notes.jpg)), that I am trying to digitalise here, leaving the most fundamental framework.
 
 Why did I decide to show up at the conference? What did I learn? What tools might help you with your business? My answer to all of these and more questions will be down below. Have a great time reading! 😉
 
-![Gary Vee on stage!](images/Gary-Vee-on-stage.jpg)
+![Gary Vee on stage!](images/gary-vee-on-stage.jpg)
 _Gary Vee on stage!_
 
 ## Agenda
@@ -65,7 +65,7 @@ Thinking about what I just scribbled down, you might see, that the previous prob
 
 **Patience** is another factor commonly mentioned by Gary Vee, together with **gratitude**, **passion** and **happiness**. You see, if you combine all of these, meaning that you work on something that makes you happy and keeps you focused, you need to stick to it. Master that skill and don't stop on your failures as everyone has to face them one day. Remember, without them, you will never learn. Moreover, **don't look for encouragement** from others and do what you like. **Don't be scared** of what others will think. **People hate change**, as we are taught in schools to follow the given rules in order to be safe and harmless to the world. Without a drastic transformation, you might at most be given a chance to live better by winning a lottery (but even that requires some effort to be in the prize pool). If you got someone who will support you in what you do (and it is not your mom), you have to understand, that it is better not to lose relation with this person, as it is rare to find someone like this.
 
-![Gary Vaynerchuk - Happiness](images/Gary-Vaynerchuk-Happiness.jpg)
+![Gary Vaynerchuk - Happiness](images/gary-vaynerchuk-happiness.jpg)
 _Wise words. Credit: wealthygorilla.com[^2]_
 
 The other mistake people make in general is complaining. Complaining about everything – business problems, politics, education system, lack of time, headache. Listen, understand that everyone got some problems, even people who you consider to be successful. Now think, that if you come up to them with your complaints, they need to listen and store more issues in their head patiently. Maybe that can sound cruelly, but this is like spreading an invisible virus that makes other people unsatisfied in a slow process.
@@ -131,7 +131,7 @@ People are scared of things that are unknown… so try to do them! Big brands wo
 
 Did you know that to be recognised Łukasz Jakóbiak hanged a huge CV next to the headquarters of EMI Music Poland?
 
-![Massive CV of Łukasz Jakóbiak](images/Łukasz-CV.jpg)
+![Massive CV of Łukasz Jakóbiak](images/lukasz-cv.jpg)
 _Woah! Credit: WP[^6]_
 
 ### Don't waste time looking for the right tools
@@ -313,7 +313,7 @@ What about Gary? He wasn't worse too:
 
 Be patient, be humble. Business is like: hole, hole, hole, victory, hole, hole, hole, victory (…). Look at Michael Jordan who is considered to be successful although he missed many shots. No one is perfect.
 
-![Michael Jordan Quote](images/Michael-Jordan-Quote.jpg)
+![Michael Jordan Quote](images/michael-jordan-quote.jpg)
 _Failures are inevitable. Credit: Debbie Turner[^7]_
 
 ## Why you should attend this kind of events?
@@ -326,14 +326,14 @@ Most importantly **you will get inspired**. I hope that with this post you did f
 
 Oh, you might also receive some free goodies, like stickers and a great magazine.
 
-![Sprawny Marketing](images/Sprawny-Marketing.jpg)
+![Sprawny Marketing](images/sprawny-marketing.jpg)
 _Isn't that heart sticker cute?_
 
 ## Tools 🛠
 
 The primary and most important tool is probably in your hands at the moment or if you are reading this on a desktop computer, perhaps in your pocket. Yes, it is your mobile phone which begun to be the standard of the IT world. It can be proved even with my little website, where 56% of the readers use their smartphone to read the posts. I am actually surprised that tablet is still being used (1%), but hey, if you are reading it on your tablet, let me know yourself. I would like to discuss with you how comfortable it is browsing the web on tablets nowadays. 😉
 
-![Sessions by device (pawelcislo.com)](images/Sessions-by-device-pawelcislo.com-.png)
+![Sessions by device (pawelcislo.com)](images/sessions-by-device-pawelcislo.com.png)
 _Sessions by device at pawelcislo.com (Last 30 days from Google Analytics)_
 
 Remember, that if you make your website, it should be responsive, like this one, so it scales appropriately for smaller (mobile) screens. Yes, for the tablets too. 🙂

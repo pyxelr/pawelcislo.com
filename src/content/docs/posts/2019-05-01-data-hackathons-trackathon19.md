@@ -11,10 +11,10 @@ tags:
   - "hackathon"
   - "infrabel"
   - "trackathon19"
-coverImage: "TRACKathon-cover.png"
+coverImage: "trackathon-cover.png"
 ---
 
-![Data Hackathons - background](images/Data-Hackathons-background-1.png)
+![Data Hackathons - background](images/data-hackathons-background.png)
 
 **#TRACKathon19 challenge let me have an insightful overview of what can I expect from data hackathons. On the last Sunday, at the Belgian headquarters of Infrabel, I was fortunate to be one of the first to access the datasets and come up with several ideas for improvement to the owner of the Belgian railway network.**
 
@@ -30,12 +30,12 @@ It was quite challenging coming up with a good idea in such a short time, having
 
 In my group, I was able to share my insights with five other participants, and three of Infrabel's employees responsible for the company's data, who were eager to present their onsite experience, which narrowed down some of our investigations. I enjoyed the diversity of our interests ranging from technical aspects, up to law through business and data services, that let us look at the problem from different perspectives.
 
-![I'm in!](images/DATAthon-Im-in-1024x953.jpg)
+![I'm in!](images/datathon-im-in.jpg)
 _I'm in (keeping cute stickers to myself)!_
 
 Probably the most challenging part, was about coming to the same agreement with people from different backgrounds, that we just met. Everyone had to hide their ego and sometimes go for a compromise with a person from the other end of the table.
 
-![Let the collaboration begin!](images/DATAthon-Collaboration.jpg)
+![Let the collaboration begin!](images/datathon-collaboration.jpg)
 _Let the collaboration begin!_
 
 To me, it is pleasing to see that another organisation makes a step towards the popularisation of the Open Data movement. I am always looking forward to more initiatives like that, as in the end, it can generate various project ideas and ease approaches to improving a specific sector for the good of humanity.
@@ -65,7 +65,7 @@ Punctuality is still the primary concern of the transport companies, but apart f
 
 Our discussion has been enhanced with different clips of accidents being transmitted on the screen beside us. After having some severe discussion about Infrabel's daily concerns with a little bit of chit chat in between, we took a look into the data to support our decisions. Ultimately, it was the moment to doodle our ideas to have the same picture of all the different decisions.
 
-![My idea](images/DATAthon-my-idea.png)
+![My idea](images/datathon-my-idea.png)
 _It's always better to visualise your thinking process_
 
 After some time I ended with a set of notes of different approaches, where we had to direct ourselves into a particular plan, in order to elaborate it and prepare the presentation. Our roads focused on using cameras with object recognition technology and speed detection so that we can save lots of lives by optimising the process of the railway trespassing. For now, I will keep the rest of the details to myself, as no one knows if I might get into a collaboration with Infrabel to put this into action. :)
@@ -76,7 +76,7 @@ Shortly after the closing speech, together with a colleague from my group, we ha
 
 I advise you to start by having a 5-10 minute overview of the portal, as it hides many exciting features to ease your research. After getting familiar with the different options, you can start with searching through the data using the french/dutch keywords (remember, Google Translator is your friend), or try to dive deep into a specific category.
 
-![DATAthon - different categories](images/DATAthon-different-categories.png)
+![DATAthon - different categories](images/datathon-different-categories.png)
 _At the moment, we can find 6 different categories_
 
 By hovering your mouse over the icons, you can discover the following sections:
@@ -92,7 +92,7 @@ Using the "[Useful links](https://opendata.infrabel.be/pages/links/)" tab, you c
 
 In all of this, Infrabel was kind enough to ease our job and next to each of the dataset, everyone was able to use the available features to display the dataset tables and even generate brief data visualisations.
 
-![DATAthon - opendata portal](images/DATAthon-opendata-portal.png)
+![DATAthon - opendata portal](images/datathon-opendata-portal.png)
 _Infrabel's generosity offers you 5 different functions_
 
 All the different options of each dataset are:
@@ -109,10 +109,10 @@ Moreover, keep in mind that if you have any remarks about the portal or the data
 
 ## What is so magical about hackathons?
 
-![Still not convinced?](images/DATAthon-coffee.png)
+![Still not convinced?](images/datathon-coffee.png)
 _Still not convinced?_
 
-Is free coffee not enough? What about [all the delicious food](images/DATAthon-Food-1.jpg)? I have to admit that it was hard to continue the work after tasting [all the different snacks](images/DATAthon-Food-2-e1556701929372.jpg).
+Is free coffee not enough? What about [all the delicious food](images/datathon-food-1.jpg)? I have to admit that it was hard to continue the work after tasting [all the different snacks](images/datathon-food-2.jpg).
 
 Okay, you want to be serious? There are tons of benefits in attending hackathons and in my opinion, it is one of the best decisions you can do for the sake of your career.
 
@@ -122,9 +122,9 @@ Secondly, **you are getting an easy opportunity to showcase your technical and i
 
 There are many other reasons, but as the last one I would point out the **ability to enter a simulation of potential working space**. This is where students can highly benefit from having a chance to experience what it can be like after they finally graduate and get one of their own computer desks.
 
-Lastly, you might meet your manager on the corridor, who will stop you with these words: "_Oh, hi Pawel, I saw you yesterday on the 1st channel of the Belgian TV!_". Speaking in front of [the camera](images/DATAthon-Camera-e1556702043762.jpg) during the hackathons is not a daily thing, but be prepared for it. :)
+Lastly, you might meet your manager on the corridor, who will stop you with these words: "_Oh, hi Pawel, I saw you yesterday on the 1st channel of the Belgian TV!_". Speaking in front of [the camera](images/datathon-camera.jpg) during the hackathons is not a daily thing, but be prepared for it. :)
 
-![Datathons - Belgian TV](images/Datathons-Belgian-TV.jpg)
+![Datathons - Belgian TV](images/datathons-belgian-tv.jpg)
 _And all the website traffic is ruined by a typo in my last name :(_
 
 ## Wonderful communities of Data Science
@@ -180,7 +180,7 @@ If you don't like trains ([I hope you do](https://youtu.be/vyItidbjxLM)), then y
 
 Ah, and before you begin:
 
-![May the data be with you!](images/DATAthon-May-the-data-be-with-you.jpg)
+![May the data be with you!](images/datathon-may-the-data-be-with-you.jpg)
 _May the data be with you!_
 
 ## Where can I find even more datasets? 🛠
