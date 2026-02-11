@@ -19,13 +19,6 @@ tags:
 coverImage: "micrograph-analyser-effect.png"
 ---
 
-:::note[Last updated on: 19/09/2018]
-
-- [19/09/2018] Version 1.1 - include an option to perform machine learning segmentation in addition to automatic thresholding
-- [16/09/2018] Initial release
-
-:::
-
 ![Micrograph Analyser Effect](images/micrograph-analyser-effect.png)
 
 **Clear explanation of how I automatically turned meaningless 2D micrographs into plenty of significant data (numerical, graphical, plot).**
