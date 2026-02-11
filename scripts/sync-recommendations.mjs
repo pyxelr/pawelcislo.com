@@ -9,8 +9,8 @@
  *   - Strips the Contents/TOC section
  *   - Strips "Inspired by..." line
  *   - Strips "Back to Contents" links
- *   - Removes backticks from intro keywords
  *   - Adjusts intro paragraph for website context
+ *   - Converts old WordPress post URLs to relative paths
  *   - Converts GitHub-flavored admonitions (> [!TIP], > [!NOTE]) to :::tip / :::note
  *
  * Run: node scripts/sync-recommendations.mjs
@@ -75,35 +75,42 @@ async function main() {
 		'',
 	);
 
-	// 5. Remove backtick formatting around intro keywords
-	md = md.replace(
-		/`(data science|programming|python|math|cybersecurity|business|productivity)`/g,
-		'$1',
-	);
-
-	// 6. Adjust intro paragraph for website context
+	// 5. Adjust intro paragraph for website context
 	md = md.replace(
 		/suggestions from \[my blog posts\]\(https:\/\/pawelcislo\.com\/\), where/,
 		'suggestions from my blog posts, where',
 	);
 	md = md.replace(
 		"don't hesitate to create a pull request if I missed something interesting or if there is a dead link.",
-		"don't hesitate to [tell me](https://pawelcislo.com/contact/) if I missed something interesting or if there is a dead link. You are also welcome to create a pull request and see the history of edits in the [GitHub repo](https://github.com/pyxelr/recommendations-for-engineers).",
+		"don't hesitate to [tell me](/pages/contact/) if I missed something interesting or if there is a dead link. You are also welcome to create a pull request and see the history of edits in the [GitHub repo](https://github.com/pyxelr/recommendations-for-engineers).",
 	);
 
-	// 7. Add the browsing tip before the first horizontal rule
+	// 6. Convert old WordPress-style pawelcislo.com post URLs to relative paths
+	// e.g. https://pawelcislo.com/2020/07/10/some-post/ → /posts/some-post/
+	md = md.replace(
+		/https:\/\/pawelcislo\.com\/\d{4}\/\d{2}\/\d{2}\/([\w-]+)\//g,
+		'/posts/$1/',
+	);
+
+	// 7. Convert remaining pawelcislo.com homepage links to relative /
+	md = md.replace(/https:\/\/pawelcislo\.com\//g, '/');
+
+	// 8. Strip old WordPress #ftoc-heading-N anchors
+	md = md.replace(/#ftoc-heading-\d+/g, '');
+
+	// 9. Add the browsing tip before the first horizontal rule
 	md = md.replace(
 		/(\n)\* \* \* \* \*\n/,
 		'\n_Tip_: The catalogue is sorted chronologically, but I believe it is easier and more practical to browse this site by categories (using the TOC).\n\n* * *\n',
 	);
 
-	// 8. Normalise horizontal rules from GitHub style to Starlight style
+	// 10. Normalise horizontal rules from GitHub style to Starlight style
 	md = md.replace(/\* \* \* \* \*/g, '* * *');
 
-	// 9. Convert GitHub-flavored admonitions to Starlight syntax
+	// 11. Convert GitHub-flavored admonitions to Starlight syntax
 	md = convertGfmAdmonitions(md);
 
-	// 10. Clean up excessive blank lines (max 2 consecutive)
+	// 12. Clean up excessive blank lines (max 2 consecutive)
 	md = md.replace(/\n{4,}/g, '\n\n\n');
 
 	// Combine frontmatter + content
