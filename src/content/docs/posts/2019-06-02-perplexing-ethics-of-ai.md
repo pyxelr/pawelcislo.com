@@ -9,7 +9,6 @@ tags:
   - "data-science"
   - "ethics"
   - "law"
-coverImage: "ethicai-blogpost-cover.png"
 ---
 
 ![Ethical AI background](images/ethicai-background.png)

@@ -11,7 +11,6 @@ tags:
   - "review"
   - "summary"
   - "year"
-coverImage: "2018-featured.png"
 ---
 
 ![2018 - background](images/2018-background.png)

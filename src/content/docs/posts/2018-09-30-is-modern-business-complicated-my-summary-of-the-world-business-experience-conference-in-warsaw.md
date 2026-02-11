@@ -9,7 +9,6 @@ tags:
   - "marketing"
   - "wbe"
   - "worldbusinessexperience"
-coverImage: "is-modern-business-complicated-background.png"
 ---
 
 ![Is Modern Business Complicated (background)](images/is-modern-business-complicated-background.png)

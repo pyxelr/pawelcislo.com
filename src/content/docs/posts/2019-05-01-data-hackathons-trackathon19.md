@@ -11,7 +11,6 @@ tags:
   - "hackathon"
   - "infrabel"
   - "trackathon19"
-coverImage: "trackathon-cover.png"
 ---
 
 ![Data Hackathons - background](images/data-hackathons-background.png)

@@ -16,7 +16,6 @@ tags:
   - "iot"
   - "machine-learning"
   - "technology"
-coverImage: "is-data-science-the-inevitable-cultivation-cover.png"
 ---
 
 ![Data 4.0](images/data-4.0-in-post.png)

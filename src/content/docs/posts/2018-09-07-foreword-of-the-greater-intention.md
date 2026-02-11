@@ -8,7 +8,6 @@ tags:
   - "blog"
   - "motivation"
   - "productivity"
-coverImage: "hello-world-thumbnail.png"
 ---
 
 ![Hello World - in post](images/hello-world-in-post.png)

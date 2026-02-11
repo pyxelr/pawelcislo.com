@@ -15,7 +15,6 @@ tags:
   - "tutorial"
   - "writing"
   - "zotero"
-coverImage: "writing-cover.png"
 ---
 
 ![](images/writing-background.png)

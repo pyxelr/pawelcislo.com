@@ -16,7 +16,6 @@ tags:
   - "processing"
   - "segmentation"
   - "tutorial"
-coverImage: "micrograph-analyser-effect.png"
 ---
 
 ![Micrograph Analyser Effect](images/micrograph-analyser-effect.png)

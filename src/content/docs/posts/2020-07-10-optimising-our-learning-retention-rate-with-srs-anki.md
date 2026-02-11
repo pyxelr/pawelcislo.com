@@ -8,7 +8,6 @@ tags:
   - "anki"
   - "flashcards"
   - "learning"
-coverImage: "flashcard-cover.png"
 ---
 
 ![Flashcards - Blog post background](images/flashcards-background.png)
@@ -382,7 +381,7 @@ If by any reason you don't feel like using Anki, there do are other options whic
 - [ShortcutFoo](https://www.shortcutfoo.com/) ← fun way to memorise shortcuts and commands
 - [Tinycards](https://tinycards.duolingo.com/) ← flashcard app from the creators of Duolingo.
 
-Maybe the nature of flashcards still doesn't suit you? Well, then I hope that finding something inside [my list of recommendations](/pages/recommendations/#ftoc-heading-44) will satisfy you. Alternatively, you might apply spaced repetition in an old-school way while using pen and paper in The Leitner Box methodology[^7]:
+Maybe the nature of flashcards still doesn't suit you? Well, then I hope that finding something inside [my list of recommendations](/pages/recommendations/#flashcards) will satisfy you. Alternatively, you might apply spaced repetition in an old-school way while using pen and paper in The Leitner Box methodology[^7]:
 
 <iframe
   width="560"

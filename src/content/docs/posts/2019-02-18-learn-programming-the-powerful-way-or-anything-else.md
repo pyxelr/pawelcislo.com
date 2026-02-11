@@ -10,7 +10,6 @@ tags:
   - "powerful"
   - "programming"
   - "study"
-coverImage: "learn-programming-the-powerful-way.png"
 ---
 
 ![Learn Programming The Powerful Way (background)](images/learn-programming-the-powerful-way-background.png)

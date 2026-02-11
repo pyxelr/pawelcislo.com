@@ -9,7 +9,6 @@ tags:
   - "productivity"
   - "todoist"
   - "todolists"
-coverImage: "aim-for-your-goals-the-right-way-thumbnail.png"
 ---
 
 ![](images/aim-for-your-goals-the-right-way-in-post.png)
