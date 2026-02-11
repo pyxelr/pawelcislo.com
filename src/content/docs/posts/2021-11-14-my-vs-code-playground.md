@@ -87,7 +87,7 @@ Focusing back on my current most favourite VS Code UI, it is composed of:
   - [Jetbrains Mono](https://www.nerdfonts.com/font-downloads) of weight 350 (terminal's powerline font with a support for special characters like Git branches)
 
 ![My VS Code UI](images/vscode-ui.png)
-_Look of my VS Code instance with Dracula PRO theme and [my-terminal](https://github.com/pyxelr/my-terminal)
+_Look of my VS Code instance with Dracula PRO theme and [my-terminal](https://github.com/pyxelr/my-terminal)_
 
 Certainly, each of us will have his preferred set of colours and panels (conveniently previewed through [vscodethemes.com](https://vscodethemes.com/)), so I'm curious to see what is your style (don't hesitate to leave a comment down there)!
 
