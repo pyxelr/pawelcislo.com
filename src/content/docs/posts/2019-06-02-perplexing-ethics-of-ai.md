@@ -232,7 +232,7 @@ Microsoft decided to perform a small experiment on releasing a chatbot, which wo
 
 Theoretically, it was doing what it was supposed to do. Learning and maintaining conversation based on the data submitted by Twitter users. Nonetheless, it took <24 hours to turn the bot from "Hi, how are you?" into a full "nazi mode"[^14].
 
-What was wrong in this case? Why the mighty AI failed in such a situation? If you carefully read the beginning of this post, you might have guessed right that it lacked the ethics, which let us human to walk every day on the street, having some sense of understanding, that most of the people are living with the same set of values that prevent them from pulling out a knife and stabbing us in the middle of the day.
+What was wrong in this case? Why the mighty AI failed in such a situation? If you carefully read the beginning of this post, you might have guessed right that it lacked the ethics, which lets us humans walk every day on the street, having some sense of understanding, that most of the people are living with the same set of values that prevent them from pulling out a knife and stabbing us in the middle of the day.
 
 AI learns on historical data and any type of data in general. It consumes it like water and learns to understand the difference between pics of cats and dogs; as such, it can learn pretty much everything with a little bit of effort. Most importantly, it can learn things very quickly, and it can do it better than human so that if it isn't regulated, it can cause a lot of harm, without having a conscious intention.
 
@@ -260,12 +260,12 @@ In the end, please don't understand me wrong. **The goal of this post wasn't to 
 >
 > — [Sam Altman](https://www.youtube.com/watch?v=TzcJlKg2Rc0)
 
-Okay, let's come back to the matter of the growing quality of life. Googling the term "quality of life over time" might give us some level of understanding, that the life expectancy increases, we have easier access to medical health, we are more secure, most of us live with a hood above our head, and we can afford a lot more by getting a job and earning a few bucks.
+Okay, let's come back to the matter of the growing quality of life. Googling the term "quality of life over time" might give us some level of understanding, that the life expectancy increases, we have easier access to medical health, we are more secure, most of us live with a roof above our head, and we can afford a lot more by getting a job and earning a few bucks.
 
 ![Human life expectancy at birth](images/life-expectancy.png)
 _Human life expectancy at birth, measured by region, between 1950 and 2050_[^12]
 
-Being hired is also easier looking at the fact of continuously dropping unemployment rate. Hence, the main problem of people nowadays becomes depression, as by having everything, we're becoming to lack the human interaction and we tend to struggle with balancing our needs (just like in The Sims):
+Being hired is also easier looking at the fact of continuously dropping unemployment rate. Hence, the main problem of people nowadays becomes depression, as by having everything, we're beginning to lack the human interaction and we tend to struggle with balancing our needs (just like in The Sims):
 
 ![The Sims game bar interface](images/sims-bar.jpg)
 _Life was never easy, and unlike in Sims, there are no cheat codes :(_

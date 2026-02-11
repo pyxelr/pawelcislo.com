@@ -33,7 +33,7 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
 
 05/06/2017
 > "_If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present._"
-> — Lao Tz
+> — Lao Tzu
 
 > "_The most important principle of productivity is planning tasks (preferably the previous day/week)._"
 > — Maciej Aniserowicz (🇵🇱)
@@ -132,7 +132,7 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
 
 03/02/2018
 > "_An expert is a person who has found out by his own painful experience all the mistakes that one can make in a very narrow field._"
-> — Niel Bohr
+> — Niels Bohr
 
 11/02/2018
 > "_If you make music, don't give up if you're not making money, getting any recognition or not getting good feedback. You were doing it wrong in the first place if you thought that. Do it for yourself..bleed the thoughts out on that canvas in musical form._"

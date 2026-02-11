@@ -212,7 +212,7 @@ Another part that is profoundly important and takes a lot of my time is the prep
 
 ## The merit of reading
 
-Reading is like sharping a sword before fighting. It doesn't only teach us different forms of communications and new words, but above all, it's a universal source to be more aware of our surroundings. You cannot expect to write trustworthy researches without reading several scientific papers and referencing them in your work.
+Reading is like sharpening a sword before fighting. It doesn't only teach us different forms of communications and new words, but above all, it's a universal source to be more aware of our surroundings. You cannot expect to write trustworthy researches without reading several scientific papers and referencing them in your work.
 
 ![](images/audiobooks.png)
 
@@ -222,7 +222,7 @@ Just as you might have guessed from the image above, it's listening that can let
 
 In the end, make sure not to end up on continuous yet vacant book consumption. Don't rely on taking notes and leaving them for later with the idea that you might end up using it one day. Apart from summarising the book in your own words, try to take the stuff you learned into action immediately. Experiment if it works out in your life and give a greater sense to reading!
 
-Apart from reading, I can give you an honest recommendation to try [Elevate app](https://www.elevateapp.com/), which is full of games that will improve your English vocabulary to a highly professional level. At first, try the free version, and if you like it, you can decide funding yourself a premium account.
+Apart from reading, I can give you an honest recommendation to try [Elevate app](https://www.elevateapp.com/), which is full of games that will improve your English vocabulary to a highly professional level. At first, try the free version, and if you like it, you can decide on funding yourself a premium account.
 
 ![Elevate screenshot](images/elevate-screenshot.jpg)
 _Elevate's "memory" game_

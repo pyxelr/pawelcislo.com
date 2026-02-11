@@ -67,7 +67,7 @@ Thinking about what I just scribbled down, you might see, that the previous prob
 ![Gary Vaynerchuk - Happiness](images/gary-vaynerchuk-happiness.jpg)
 _Wise words. Credit: wealthygorilla.com[^2]_
 
-The other mistake people make in general is complaining. Complaining about everything – business problems, politics, education system, lack of time, headache. Listen, understand that everyone got some problems, even people who you consider to be successful. Now think, that if you come up to them with your complaints, they need to listen and store more issues in their head patiently. Maybe that can sound cruelly, but this is like spreading an invisible virus that makes other people unsatisfied in a slow process.
+The other mistake people make in general is complaining. Complaining about everything – business problems, politics, education system, lack of time, headache. Listen, understand that everyone got some problems, even people who you consider to be successful. Now think, that if you come up to them with your complaints, they need to listen and store more issues in their head patiently. Maybe that can sound cruel, but this is like spreading an invisible virus that makes other people unsatisfied in a slow process.
 
 How to live then? Stop complaining? The solution is to start making the change from yourself. If you **begin these micro wins**, people around you will hopefully get inspired and do the same! I am the living example of someone who followed my inspirations long enough that today I am inspired to write this post for you on my own blog. You got the point; now I hope that you will be able to change at least a little bit in yourself. Most probably you already know that **you are the sum of 5 people you spend the most time with**, so now turn it the other way round and think about such a recursion "I want to motivate the 5 people that spend the most time with me, who will motivate another 5 people, who will motivate another 5 people (...)". Indeed, that has vast potential, but we need to start executing from ourselves!
 
@@ -118,7 +118,7 @@ Don't stop on making some good content as it is the drug that works.
 
 ### Be innovative, be a rebel
 
-This advice was given not only by Marcin Osman but Jakub B Bączek, who was one of the first one to get standing applause. Indeed, he was one of the best speakers together with Łukasz Jakóbiak from the [20m2](https://www.youtube.com/channel/UC8iQVu0b7PZxL_LTl8-c0Kg) YouTube show. Lack of innovation is also one of the reasons why businesses fail, simply look on Facebook who took didn't leave any chance to Google+ service.
+This advice was given not only by Marcin Osman but Jakub B Bączek, who was one of the first one to get standing applause. Indeed, he was one of the best speakers together with Łukasz Jakóbiak from the [20m2](https://www.youtube.com/channel/UC8iQVu0b7PZxL_LTl8-c0Kg) YouTube show. Lack of innovation is also one of the reasons why businesses fail, simply look at Facebook, which didn't leave any chance for Google+.
 
 Rahim Blak is a great example of the rebel. Do you know that Rahim was one of the firsts to "sell himself" by having his personal token? He received a lot of critic about it; however he didn't care and in the end, he is proud of himself.
 
@@ -317,7 +317,7 @@ _Failures are inevitable. Credit: Debbie Turner[^7]_
 
 ## Why you should attend this kind of events?
 
-I would love to present how this day looked like from inside; however, I didn't record anything that day, apart from taking few pictures.
+I would love to present how this day looked like from inside; however, I didn't record anything that day, apart from taking a few pictures.
 
 If you would like to have some more visual relation from the event, you might want to watch [MiroBurn](https://www.youtube.com/watch?v=P9cZ208DxAI) vlog from this day. If you are reading my blog, you might notice that he is one of my inspirations and I was lucky to finally talk to him after following his online activity for about 2 years. Same like Andrzej Krzywda and Maciej Anisrowicz. And this is one of the reasons why you should attend business conferences - **you might find your inspirations and practice your networking skills**. ;)
 
@@ -330,7 +330,7 @@ _Isn't that heart sticker cute?_
 
 ## Tools 🛠
 
-The primary and most important tool is probably in your hands at the moment or if you are reading this on a desktop computer, perhaps in your pocket. Yes, it is your mobile phone which begun to be the standard of the IT world. It can be proved even with my little website, where 56% of the readers use their smartphone to read the posts. I am actually surprised that tablet is still being used (1%), but hey, if you are reading it on your tablet, let me know yourself. I would like to discuss with you how comfortable it is browsing the web on tablets nowadays. 😉
+The primary and most important tool is probably in your hands at the moment or if you are reading this on a desktop computer, perhaps in your pocket. Yes, it is your mobile phone which began to be the standard of the IT world. It can be proved even with my little website, where 56% of the readers use their smartphone to read the posts. I am actually surprised that tablet is still being used (1%), but hey, if you are reading it on your tablet, let me know yourself. I would like to discuss with you how comfortable it is browsing the web on tablets nowadays. 😉
 
 ![Sessions by device (pawelcislo.com)](images/sessions-by-device-pawelcislo.com.png)
 _Sessions by device at pawelcislo.com (Last 30 days from Google Analytics)_

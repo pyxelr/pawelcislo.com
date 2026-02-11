@@ -29,7 +29,7 @@ Being on a constant pressure and deadlines set in advance for ~17 years of my li
 
 ## But... why?
 
-First of all, I like writing (more explicitly presenting my point of views in the most clarified way possible). Yeah, I know that if the current version of myself told me that thing even just two years ago, I would laugh and lost hope in the world; however, something changed. Maybe spending more time with myself due to my studies abroad in the UK,  sparked some source of power in the central organ of the nervous system. Maybe I was just overthinking all the time, what has been told to me by too many people. Maybe, I just wanted a change.
+First of all, I like writing (more explicitly presenting my points of view in the most clarified way possible). Yeah, I know that if the current version of myself told me that thing even just two years ago, I would laugh and lose hope in the world; however, something changed. Maybe spending more time with myself due to my studies abroad in the UK,  sparked some source of power in the central organ of the nervous system. Maybe I was just overthinking all the time, what has been told to me by too many people. Maybe, I just wanted a change.
 
 It started with the phrase "_**Let yourself be known**_" stuck in my head for waaaay too many hours than enough. I think I have to thank for it Maciej Aniserowicz – a former programmer who nowadays encourages IT practitioners, to share their knowledge to quench the thirst of online surfers. Obviously, the change wasn't just initiated by Maciej, but many other influencers (especially those included in one answer of [my FAQ page](/pages/faq/)) that I cannot thank enough. To pinpoint three more personalities, it would be:
 
@@ -93,7 +93,7 @@ Most importantly, that the only limits are in our head and with the resources of
 
 There is a lot of topics that I might discuss, and the only thing that I wander around is to manage my time in a way to present new posts regularly without writing a clickbait. Before writing this post, I've already predefined some scenario, and as I go along, I will find more influence and skills to perform the machine learning way of analysing things (finding information, cleaning it, applying own algorithms and presenting the results).
 
-So far, my OneNote consists of a special section just for the website with multiple notes reminding me of the steps. Here is a sneak peak, of how I manage the work on my posts using the Kanban method.
+So far, my OneNote consists of a special section just for the website with multiple notes reminding me of the steps. Here is a sneak peek, of how I manage the work on my posts using the Kanban method.
 
 ![Post Ideas](images/post-ideas.png)
 _Let's be a little mysterious with my work and blur it for now ;)_

@@ -132,7 +132,7 @@ Just like before, it's best to present some things visually. Here is one of the 
   allowfullscreen>
 </iframe>
 
-As previously mentioned, we can get some premade cards, but it's like learning from someone's else notes. Making cards isn't as bad once we make at least one of them. I bet you'll also enjoy card formatting with the CSS code, so the card looks more eye-pleasing (but don't spend too much time on that!).
+As previously mentioned, we can get some premade cards, but it's like learning from someone else's notes. Making cards isn't as bad once we make at least one of them. I bet you'll also enjoy card formatting with the CSS code, so the card looks more eye-pleasing (but don't spend too much time on that!).
 
 Nonetheless, there are ways to facilitate the card-creation process. For example, if you tend to annotate some text online (such as I do with [Hypothesis](https://hypothes.is/users/pyxelr)), you can use your annotation on the front side of the card and the highlighted part as the answer (back side). Apart from Hypothesis, you may also try using a different annotation tool – Polar that officially supports such conversion [straight from its software](https://getpolarized.io/docs/anki-sync-for-spaced-repetition.html). You can even get automatically generated cards from the displayed word definitions or highlights you create on your Kindle device (the required tools are mentioned in [the further part of this post](/posts/optimising-our-learning-retention-rate-with-srs-anki/#my-plugins)).
 
@@ -369,7 +369,7 @@ _AnkiDroid (French card with a revealed answer)_
 
 ## I don't like Anki. What else can I use?
 
-If by any reason you don't feel like using Anki, there do are other options which require less (or even zero) effort to set them up. I tried them all and used in companion to my Anki sessions, and can assure you that they mostly deliver a similar experience:
+If by any reason you don't feel like using Anki, there are other options which require less (or even zero) effort to set them up. I tried them all and used in companion to my Anki sessions, and can assure you that they mostly deliver a similar experience:
 
 - [flashcards wizardzines](https://flashcards.wizardzines.com/) ← small set of flashcards from a great blogger: Julia Evans
 - [Flashcards for Developers](https://www.flashcardsfordevelopers.com/) ← great place to practice CS, where you can also create an account to track your progress

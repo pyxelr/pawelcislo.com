@@ -18,7 +18,7 @@ tags:
 
 ## Little update from my side
 
-After starting my 1st position in IT consulting, it began to be a little bit more challenging to find the motivation to write something here; however, I did not set up this website to close it after the first few posts. On the contrary, I've decided to make small changes on this website to make it even more appealing to the visitors. From now on, you may have noticed that I have redesigned the newsletter sign up form and provided you with an option to support the time I spend for these articles. If you like what you read, you can scroll down towards the comment section ⬇, and buy me some Yerba Meta or dark chocolate, which always boost my creativity. Most importantly, you can encourage me to be more active by leaving some comments. :)
+After starting my 1st position in IT consulting, it began to be a little bit more challenging to find the motivation to write something here; however, I did not set up this website to close it after the first few posts. On the contrary, I've decided to make small changes on this website to make it even more appealing to the visitors. From now on, you may have noticed that I have redesigned the newsletter sign up form and provided you with an option to support the time I spend for these articles. If you like what you read, you can scroll down towards the comment section ⬇, and buy me some Yerba Mate or dark chocolate, which always boost my creativity. Most importantly, you can encourage me to be more active by leaving some comments. :)
 
 ## This topic, again?
 
@@ -123,7 +123,7 @@ _Sigma notation (example of step by step learning)_
 
 ### Present your results
 
-Everyone is shy in the beginning to show his first project. "_Ahh, what others will think about me? This code looks like its written by my mom._".
+Everyone is shy in the beginning to show his first project. "_Ahh, what others will think about me? This code looks like it was written with my eyes closed._".
 
 No, this is the way every Bob will think. Lots of programmers never show their code, and it's their decision, but by uploading anything on [GitHub](https://github.com/), you make your recruiters aware of familiarity with git environment, and you present your level of confidence. Most importantly, you can get support from other developers in improving your code. As previously mentioned, we learn by mistakes.
 

@@ -333,7 +333,7 @@ _Example input_
 
 Later, on a successful analysis, the output data about each of the particle has been summarised in [this table](/images/result-data-from-the-micrograph-stored-the-main-results-filename.csv-file.png). Most of the data is saved in calibrated units, like μm. The bottom part of the .csv file summarises entire data with minimum, maximum, mean value and standard deviation.
 
-Furthermore, the separate summary of the overall results contains most importantly of precise information about the most desired information to the client: particle count, the total area of the micrograph, area fraction and calculated particle density.
+Furthermore, the separate summary of the overall results contains most importantly precise information about the most desired information to the client: particle count, the total area of the micrograph, area fraction and calculated particle density.
 
 The visual results present as follows:
 
@@ -384,7 +384,7 @@ Not to leave the testing using only one example, the algorithms took into consid
 ![Example of Trainable Weka Segmentation (left side – input with marked classes, right side – output)](images/example-of-trainable-weka-segmentation-left-side-–-input-with-marked-classes-right-side-–-output.png)
 _Example of Trainable Weka Segmentation (left side – input with marked classes, right side – output)_
 
-Unfortunately, the implemented thresholding algorithm in the developed system could not perform well, due to a complex structure of the image. However, applying Trainable Weka Segmentation available in ImageJ generated the image on the rights side in only one minute. Afterwards, the image would need to be inserted into the Micrograph Analyser in order to generate the analysis results.
+Unfortunately, the implemented thresholding algorithm in the developed system could not perform well, due to a complex structure of the image. However, applying Trainable Weka Segmentation available in ImageJ generated the image on the right side in only one minute. Afterwards, the image would need to be inserted into the Micrograph Analyser in order to generate the analysis results.
 
 To summarise, the advantages and disadvantages of the mentioned techniques have been compared in the table below.
 

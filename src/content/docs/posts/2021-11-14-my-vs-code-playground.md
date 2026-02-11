@@ -317,7 +317,7 @@ The categorized extension list beneath is provided with an intention to be const
   - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) ← performant, feature-rich language server for Python in VS Code
   - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) ← IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more
   - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) ← Python Debugger using debugpy
-  - [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) ← correct python indentantion
+  - [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) ← correct python indentation
   - [Python Path](https://marketplace.visualstudio.com/items?itemName=mgesbert.python-path) ← Python import utils
   - [Python Snippets 3](https://marketplace.visualstudio.com/items?itemName=EricSia.pythonsnippets3) ← new auto suggestion for Python updated in 2022
 - **Readability 👓**

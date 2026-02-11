@@ -23,7 +23,7 @@ On the 28th of April (last Sunday), Infrabel decided to [publish 60 of their own
 
 To make the event even more memorable, it was connected with a "TRACKathon" challenge (hackathon focused on data analysis aspect) at Infrabel's headquarters in Brussels. It was a smart move, as otherwise all the data could have been quickly forgotten or not even discovered by the potential analysts looking for some fun on the web.
 
-Everyone was able to join and try his analytical skills by registering on the [eventribe event](https://www.eventbrite.be/e/trackathon-an-open-data-hackathon-registration-56970650750#). The registration was limited, and through my curiosity in the extremely popular data events, I was keeping my ticket for more than a month before the final game.
+Everyone was able to join and try his analytical skills by registering on the [Eventbrite event](https://www.eventbrite.be/e/trackathon-an-open-data-hackathon-registration-56970650750#). The registration was limited, and through my curiosity in the extremely popular data events, I was keeping my ticket for more than a month before the final game.
 
 It was quite challenging coming up with a good idea in such a short time, having in front of you loads of data of different categories, but in the end, we all had a lot of fun and learned a lot from each other. That is the point of hackathons, in general, to experience the sprint-like methodology.
 
@@ -104,7 +104,7 @@ All the different options of each dataset are:
 
 Remember that through the registration you can save for later all the generated maps/graphs on your account.
 
-Moreover, keep in mind that if you have any remarks about the portal or the data it contains, you are more then encouraged to drop a message through the "[Contact](https://opendata.infrabel.be/pages/contact/)" tab.
+Moreover, keep in mind that if you have any remarks about the portal or the data it contains, you are more than encouraged to drop a message through the "[Contact](https://opendata.infrabel.be/pages/contact/)" tab.
 
 ## What is so magical about hackathons?
 
@@ -150,7 +150,7 @@ You can take advantage of my set of websites, that you can use to explore whenev
 - [dataMinds.be](http://dataminds.be/events/)
 - [DigitYser](https://digityser.org/events/)
 - [Eventil](https://eventil.com/events?utf8=%E2%9C%93&q%5Bcfp_open%5D=&q%5Bonline_scope%5D=&q%5Bpast%5D=&q%5Bsearch_for%5D=data&q%5Bwhere_scope%5D=belgium&q%5Btime%5D=&button=)
-- [Eventribe](https://www.eventbrite.com/d/belgium/events--this-month/data/?page=1) ← (this month)
+- [Eventbrite](https://www.eventbrite.com/d/belgium/events--this-month/data/?page=1) ← (this month)
 - [Hackathon.com](https://www.hackathon.com/city/belgium/brussels)
 - [Hackathon.be](https://hackathon.be/calendar/)
 - [Hack Belgium](https://www.eventbrite.com/o/hack-belgium-15695379932)
