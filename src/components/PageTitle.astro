@@ -9,6 +9,9 @@ const resourcePages = ['pages/recommendations', 'pages/favourite-thoughts', 'pag
 const isResourcePage = resourcePages.includes(slug);
 const showMeta = isPost || isResourcePage;
 
+// Get the original creation date for blog posts
+const postDate = isPost && entry.data.date ? new Date(entry.data.date) : null;
+
 // Get the raw content body to calculate words
 let wordCount = 0;
 let readingTime = 0;
@@ -43,6 +46,9 @@ if (showMeta && entry.body) {
 
 {showMeta && (
 	<p class="page-meta">
+		{postDate && (
+			<><time datetime={postDate.toISOString()}>{postDate.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' })}</time> · </>
+		)}
 		{readingTime} min read · {wordCount} words
 	</p>
 )}
