@@ -246,7 +246,7 @@ And my last advice is to respect your sleep! Don't treat it like a must, but as 
   - [Head First Design Patterns](https://www.goodreads.com/book/show/17374834-head-first-design-patterns)
   - [Implementing Domain-Driven Design](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
   - [Introduction to Algorithms (The MIT Press)](https://www.goodreads.com/book/show/44086616-introduction-to-algorithms)
-  - [Junior Developer. Wszystko co trzeba wiedzieć, by zacząć pracę jako programista](https://www.goodreads.com/book/show/32998879-junior-developer-wszystko-co-trzeba-wiedzie-by-zacz-prac-jako-prog) (![🇵🇱](images/1f1f5-1f1f1.svg))
+  - [Junior Developer. Wszystko co trzeba wiedzieć, by zacząć pracę jako programista](https://www.goodreads.com/book/show/32998879-junior-developer-wszystko-co-trzeba-wiedzie-by-zacz-prac-jako-prog) (🇵🇱)
   - [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/18895165-peopleware)
   - [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44719608-refactoring)
   - [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
@@ -258,8 +258,8 @@ And my last advice is to respect your sleep! Don't treat it like a must, but as 
   - [The Pragmatic Programmer](https://www.goodreads.com/book/show/22404360-the-pragmatic-programmer)
   - [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.goodreads.com/book/show/33580202-the-self-taught-programmer)
   - [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
-  - [Zawód: Programista](https://www.goodreads.com/book/show/36223075-zaw-d) (![🇵🇱](images/1f1f5-1f1f1.svg))
-  - [Zrozumieć programowanie](https://www.goodreads.com/book/show/28457659-zrozumie-programowanie) (![🇵🇱](images/1f1f5-1f1f1.svg))
+  - [Zawód: Programista](https://www.goodreads.com/book/show/36223075-zaw-d) (🇵🇱)
+  - [Zrozumieć programowanie](https://www.goodreads.com/book/show/28457659-zrozumie-programowanie) (🇵🇱)
 
 Last, but not least you can benefit from online courses. You will find most of the courses on [Udemy](https://www.udemy.com/), and if you want, you can also use a search engine for online courses: [Courseroot](https://courseroot.com/). Personally, I recommend going through the longest courses with most reviews, as they might be constantly updated with the most relevant content (remember that technology rapidly change).
 
