@@ -109,8 +109,8 @@ I heard it is recommended to start the post with the most mattering message righ
   - Learned how to use MATLAB more specifically 💻
   - Learned how to use LaTeX to write beautiful documents 💻
   - Started using an excellent app for the at-home workout: "[Home Workout - No Equipment](https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment&fbclid=IwAR2W3FPCjMhz9hNp-FCfRhWYCxnbXZTrnL6nHGYFwj9C1rh4gbRlgqjKHAI)" 💪
-  - Dressed as [Santa Claus](images/santa.jpg) for my neighborhood 🎅
-  - (16/12/2018) [100 days of meditation](images/100-days-of-meditation.jpg) in a row 🧘
+  - Dressed as [Santa Claus](/images/santa.jpg) for my neighborhood 🎅
+  - (16/12/2018) [100 days of meditation](/images/100-days-of-meditation.jpg) in a row 🧘
   - Completed 22.5-hour video course: "[Python for Data Science and Machine Learning Bootcamp](https://www.linkedin.com/feed/update/urn:li:activity:6482599706026475520/)" 🏆
   - Published the 2018 Year Review on this blog 📰
 

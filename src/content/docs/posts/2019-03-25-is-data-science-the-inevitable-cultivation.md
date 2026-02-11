@@ -51,7 +51,7 @@ In general, the conference took a very rapid pace, leaving us with tons of valua
 ![BioTech meets Digital conference](images/biotech-conference.png)
 _BioTech meets Digital conference_
 
-### The effect of applying data mining techniques to [my notes](images/biotech-notes.jpg)
+### The effect of applying data mining techniques to [my notes](/images/biotech-notes.jpg)
 
 There were parts, which could have been understood only by participants with specific domain knowledge, specifically around biology and robotics; nevertheless, most of the content was directed to the general audience. As this blog isn't focused on the organic industry, I will share most of the key points around DS, with a slight addition of specific domain sectors.
 
@@ -63,7 +63,7 @@ In order to address everything concisely without the struggle of paying attentio
   - AI will be a priority on the Belgian market
   - Only 1 out of 4 Belgians know what AI is
 - **#2 Digital trends for Biotech – data for the best?** \[Benjamin Docquir (Osborne Clarke, partner), Hadrien Chef (Osborne Clarke, partner)\]
-  - pharma and medical technology [scores only 27/100 points](images/biotech-trends-in-digital-transformation.jpg) in trends of digital transformation for healthcare providers
+  - pharma and medical technology [scores only 27/100 points](/images/biotech-trends-in-digital-transformation.jpg) in trends of digital transformation for healthcare providers
     - that is more than the public sector (22)
     - but less than telecom (37), retail (42), travel and hospitality (46)
   - pre-clinical and clinical activities are still paper-based and it has to change
@@ -80,9 +80,9 @@ In order to address everything concisely without the struggle of paying attentio
     - data is an asset... not an isolation
 - **#3 How to find the right patterns in order to turn data into actionable insights** \[Lien Van Den Berghe (Möbius Healthcare, Business Consultant Healthcare & Lifesciences)\]
   - data is the new oil
-  - only [8% of companies know how to utilise data](images/biotech-8percent.jpg)
+  - only [8% of companies know how to utilise data](/images/biotech-8percent.jpg)
   - we lack skills in data analytics
-  - presentation of clear data analytics process ([explanation graph](images/biotech-analytics-process.jpg))
+  - presentation of clear data analytics process ([explanation graph](/images/biotech-analytics-process.jpg))
   - understanding that business is vital - ask the right questions
   - Data Scientist is the 21st century's sexiest job (according to Harvard Business)
   - 5 key learnings
@@ -103,13 +103,13 @@ In order to address everything concisely without the struggle of paying attentio
       - 2-4 times yield improvement
   - in Texere, 50% of workers are robots, whereas in other companies it's usually 8%
     - clearly, robots are easier to be managed
-  - analysis of the most wanted jobs of the industry 4.0 ([infographic](images/biotech-industry40-jobs.jpg))
+  - analysis of the most wanted jobs of the industry 4.0 ([infographic](/images/biotech-industry40-jobs.jpg))
 - **#5 Early prediction on quality attributes & parametric release by a global smart GMP monitoring** \[Nicolas Tijs (NOVADIP Biosciences), Anne Cassart (Sapristic Biion, Sales Director - International Business Development)\]
   - introduction of next-generation monitoring including process monitoring
   - presentation of mirrhia (global monitoring system: clean rooms, lab environment & equipment)
 - **#6 Biomanufacturing excellence through data sciences at GSK vaccines** \[Thibault Helleputte (DNAlytics, CEO)\]
   - data needs to be processed in real time
-  - DS in biomanufacturing - a retrospective/prospective analysis ([infographic](images/biotech-ds-in-biomanufacturing.jpg))
+  - DS in biomanufacturing - a retrospective/prospective analysis ([infographic](/images/biotech-ds-in-biomanufacturing.jpg))
   - a typical vaccine production process (types of data)
     - we have mostly 2nd-hand data
     - heterogenous
@@ -174,7 +174,7 @@ In order to address everything concisely without the struggle of paying attentio
 
 Woah, that is a lot of information!
 
-Luckily everything ended up with a productive networking session, full of [tasty sandwiches](images/biotech-sandwiches.jpg) and [various drinks](images/biotech-drinks.jpg). :)
+Luckily everything ended up with a productive networking session, full of [tasty sandwiches](/images/biotech-sandwiches.jpg) and [various drinks](/images/biotech-drinks.jpg). :)
 
 As there is still a lot to cover in this post, I will not elaborate on the conference. The need for data scientists will grow, and this is what I am going to facilitate in the rest of this article.
 
@@ -230,7 +230,7 @@ If we would like to place Data Science on this diagram, it would fall as a super
 ![Place of Data Science](images/data-science-diagram.png)
 _Place of Data Science_
 
-Huh?! Did I forget assigning Big Data to these charts? Let's leave it as a small task for you, as I believe it should be evident for now that Big Data is a part of \_\_\_(_each/none_)\_\_\_ of these terms.
+Huh?! Did I forget assigning Big Data to these charts? Let's leave it as a small task for you, as I believe it should be evident for now that Big Data is a part of (_each/none_) of these terms.
 
 ### Domain knowledge, business, math, tech... What else?
 
@@ -372,7 +372,7 @@ The usual steps of every ML model look like that:
 
 Applying the steps above into a simple Python script, will end up with the following:
 
-```
+```python
 #Import libraries
 import pandas as pd
 
@@ -468,7 +468,7 @@ Let's end this post with a funny situation shared by Piotr Migdał on his social
 
 Don't overwhelm yourself with data, as it's impossible to process all of it. If you are continually being overloaded with the information, I have some good news for you.
 
-Last time I organised my first 2.5-hour training on "[Personal Organisation](images/personal-organisation-training.jpg)", which covered various topics around its broad title (remembering, optimising, focusing, learning, respecting health, planning & celebrating). For now, it had internal premiere inside the offices, and the first attendants provided me with excellent feedback, giving me the opportunity to continue my training for other co-workers. I believe that the values provided in the scope of the presentation can profoundly influence every human being and. Keep your fingers crossed and once I might provide the training to larger groups around the world!
+Last time I organised my first 2.5-hour training on "[Personal Organisation](/images/personal-organisation-training.jpg)", which covered various topics around its broad title (remembering, optimising, focusing, learning, respecting health, planning & celebrating). For now, it had internal premiere inside the offices, and the first attendants provided me with excellent feedback, giving me the opportunity to continue my training for other co-workers. I believe that the values provided in the scope of the presentation can profoundly influence every human being and. Keep your fingers crossed and once I might provide the training to larger groups around the world!
 
 As it will never take place to be able to deliver it to most of my readers, I can consider recording an online course, where I will go through the contents of my presentation in depth. In the end, I wish to let everyone change his state from 🙁 → 🙂.
 

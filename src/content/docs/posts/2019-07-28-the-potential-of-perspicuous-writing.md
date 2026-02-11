@@ -190,7 +190,7 @@ Coming back to the merits of this post (writing), it's worth to have an ultimate
 
 Let's make it clear that I do not always follow the 10 steps presented above, but I do keep them in mind. Don't take anyone's approach for granted, yet keep to yourself the ideas you value the most.
 
-While creating this blog last year, I end up writing [several ideas for my upcoming posts](images/post-ideas.png). At that time, some of them were dropped, some are still waiting, and some of them were combined into single great topics.
+While creating this blog last year, I end up writing [several ideas for my upcoming posts](/images/post-ideas.png). At that time, some of them were dropped, some are still waiting, and some of them were combined into single great topics.
 
 The topic you're reading now came to me as inspiration from a Facebook post of my friend, the other in the middle of a call, and the rest mostly from random walking/reflection sessions. My recommendation would be not to push yourself too much as the best inspirations tend to come in the most unpredictable moments.
 

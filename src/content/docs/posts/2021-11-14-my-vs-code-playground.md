@@ -63,7 +63,7 @@ Before eventually settling down with my current theme, I transitioned through a 
 
 For a long time, I applied the default Dark+ theme, where I was only distracted by the bottom blue status bar, so I modified it to a grey one using the script below in JSON settings:
 
-```
+```json
 "workbench.colorCustomizations": {
     "[Default Dark+]": {
         "statusBar.background": "#303030",

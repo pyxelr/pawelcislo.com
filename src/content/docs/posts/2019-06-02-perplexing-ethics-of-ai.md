@@ -68,7 +68,7 @@ Most likely. It's just a matter of time. If you're doing something repetitive an
 
 If you are tired of reading newspaper headlines, drop on the website below, enter the name of your profession and see if you should start worrying. In my case, I feel completely safe for now, but even though I try to be ready for my eventual burnout.
 
-➡**[willrobotstakemyjob.com](https://willrobotstakemyjob.com/)**⬅
+➡ **[willrobotstakemyjob.com](https://willrobotstakemyjob.com/)** ⬅
 
 Remember that with the inclusion of new technology in the market, everyone always becomes worried about the future of his career. Take the example of the agricultural market and how much it changed for the better, although how many people were stressed about its upcoming state.
 
@@ -144,7 +144,7 @@ Using the website below, you can register to the platform, which brings together
 
 Each stakeholder can direct the piloting process that will be kicked-off in summer 2019:
 
-➡**[ec.europa.eu/digital-single-market/en/european-ai-alliance](https://ec.europa.eu/digital-single-market/en/european-ai-alliance)**⬅
+➡ **[ec.europa.eu/digital-single-market/en/european-ai-alliance](https://ec.europa.eu/digital-single-market/en/european-ai-alliance)** ⬅
 
 In my humble opinion, ensuring the competitiveness of the European Region in the burgeoning field of Artificial Intelligence is of vast importance, as explained in the previous subchapter, Europe is not playing the highest role in this game. If we don't develop the right regulations in time, others will do it for us, taking already an advantage of the technology they possess.
 
@@ -170,7 +170,7 @@ Moreover, if you would like to know more about the Data Science events in Brusse
 
 Nowadays, self-driving cars is a hot topic, when deliberating on the moral behaviour of the machines. On the road, due to not only the human error, there can be situations when the car will have to choose between killing one person over another. Unfortunately, the handling mechanism and physics won't let the vehicle to stop immediately, so when you put in front of the car two objects, it will need to hit one of them.
 
-Probably the most classic example of this perplexity is the so-called [Trolley Dilemma Problem](images/trolley-dilemma.jpg), which is not strictly related to self-driving cars, as it was in studies since 1905, as a part of a moral questionnaire given to undergraduates at the University of Wisconsin in 1905[^9]. In this experiment, you are usually in a situation, where you can pull a lever to change the track of the upcoming train so that it will kill either someone closely related to you (such as your parent) or five strangers. What would you do?
+Probably the most classic example of this perplexity is the so-called [Trolley Dilemma Problem](/images/trolley-dilemma.jpg), which is not strictly related to self-driving cars, as it was in studies since 1905, as a part of a moral questionnaire given to undergraduates at the University of Wisconsin in 1905[^9]. In this experiment, you are usually in a situation, where you can pull a lever to change the track of the upcoming train so that it will kill either someone closely related to you (such as your parent) or five strangers. What would you do?
 
 ### Test yourself
 
@@ -183,7 +183,7 @@ _What should the self-driving car do?🤔_[^10]
 
 As you see, in such a situation, it's hard to program the car to choose the "right" decision. This kind of problem is a never-ending source of sleepless nights for all the philosophers. Before speaking a little bit about the most common decisions taken by the citizens of the world, I would like you to test yourself in a free online test published by a group of academics under the hat of MIT. It's likely that the majority of decisions will impact the workflow of self-driving cars, so your votes might matter in this scenario. Just drop on the website below and "start judging".
 
-➡**[moralmachine.mit.edu](http://moralmachine.mit.edu/)**⬅
+➡ **[moralmachine.mit.edu](http://moralmachine.mit.edu/)** ⬅
 
 Other examples, which I would like to bring up quickly, involve the choice between hitting:
 

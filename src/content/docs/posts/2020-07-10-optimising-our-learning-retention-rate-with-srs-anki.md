@@ -157,7 +157,7 @@ In addition to simplifying the information, try to use images where possible as 
 I've just provided the basic, must known principles, but there is more to it if you would like to create the most practical cards. Dr Piotr Woźniak, the author of SuperMemo software, explained this topic thoroughly in 20 rules[^6] with a great set of examples.
 
 ![How Anki users deal with learning new information](images/anki-new-information.png)
-_It's just like when you [stir your data unless the ML algorithm works](images/stir-data-meme.png), right? Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/g9otl1/shitpost_just_shove_dem_flashcards/)_
+_It's just like when you [stir your data unless the ML algorithm works](/images/stir-data-meme.png), right? Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/g9otl1/shitpost_just_shove_dem_flashcards/)_
 
 ## My Anki Setup 🛠
 
@@ -424,7 +424,7 @@ In my case, I went a bit further and decided to add my Xbox One Wireless control
 
 If you would like to follow my settings in the video clip, I've mapped the buttons of the gamepad to the open-source solution, [AntiMicroX](https://github.com/AntiMicroX/antimicrox/):
 
-```
+```text
 * Left Stick = `Mouse` (_fast_)
   * LS Click = `Mouse MB`
 * Right Stick = `Mouse` (_slow_)

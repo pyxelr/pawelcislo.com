@@ -42,7 +42,7 @@ After the response, we have continued with several meetings with the client and 
 
 ## Initial investigation
 
-My OneNote notebook was continuously fed with new information, and I was thinking where will I get the time go through all the resources. In the end, my "tools" section looked somehow like **[this](images/notes-micrograph.png)**. The arsenal of tools is vast and definitely not fulfilled; however, it contained the most promising options. Feeling under pressure, I sought for tips from the experts of Data Science on the Facebook group by [raising a discussion](https://www.facebook.com/groups/datasciencepl/permalink/1814512748606752/). The answers I received, got their use in my work as I understood that I was looking towards a right direction with the previously scribbled set of tools.
+My OneNote notebook was continuously fed with new information, and I was thinking where will I get the time go through all the resources. In the end, my "tools" section looked somehow like **[this](/images/notes-micrograph.png)**. The arsenal of tools is vast and definitely not fulfilled; however, it contained the most promising options. Feeling under pressure, I sought for tips from the experts of Data Science on the Facebook group by [raising a discussion](https://www.facebook.com/groups/datasciencepl/permalink/1814512748606752/). The answers I received, got their use in my work as I understood that I was looking towards a right direction with the previously scribbled set of tools.
 
 I have also tried to reach out to Kaggle community, but unfortunately, I got no response till now. When I am writing these words, I know that some of the subreddits could have been helpful (such as [r/datascience](https://www.reddit.com/r/datascience/) or [r/computervision](https://www.reddit.com/r/computervision/)).
 
@@ -117,7 +117,7 @@ System requirements mostly defined the way how the user requirements should work
 
 The current project indicates six principal tasks, which were handled in chronological order, taking no more hours as predicted in the following table. The time was distributed from the total number of 600 hours to meet the goals of each project part. That equals to approximately 6 hours (5.66 hours) a day as the project time consists of the range of 106 days (15 weeks). However, taking risk assessment into the analysis, the working time may not be consistent and some days will require more work than others.
 
-You can [open the following Gantt chart in a new tab](images/gantt-micrograph.png) to enlarge it.
+You can [open the following Gantt chart in a new tab](/images/gantt-micrograph.png) to enlarge it.
 
 ![Gantt Chart of the project](images/gantt-micrograph.png)
 _Gantt Chart of the project_
@@ -165,7 +165,7 @@ Taking all the system criteria and characteristics into account, the project has
 
 ## Design
 
-The simplified working of the system (presented in [this graph](images/micrograph-analyser-workflow-graph.png)) reassembles the waterfall model with several loops in between, which check the input support, allow the user to verify the segmented particles and provide the option to run multiple analysis without opening the script separately for a single run. Because of many operations required to represent the entire system, the following workflow has been simplified for the reason to facilitate the system understanding. Additionally, the Micrograph Analyser workflow has been described in depth with user manual, video tutorials and in-code description using programming comments.
+The simplified working of the system (presented in [this graph](/images/micrograph-analyser-workflow-graph.png)) reassembles the waterfall model with several loops in between, which check the input support, allow the user to verify the segmented particles and provide the option to run multiple analysis without opening the script separately for a single run. Because of many operations required to represent the entire system, the following workflow has been simplified for the reason to facilitate the system understanding. Additionally, the Micrograph Analyser workflow has been described in depth with user manual, video tutorials and in-code description using programming comments.
 
 The following table summarises the system specifications required to perform the analysis. One of the ImageJ advantages over different application is its low storage space requirement, which in comparison to the minimum requirements of MATLAB, needs less than half of its space. On the other side, it exceeds the demand for a potential Python solution.
 
@@ -206,7 +206,7 @@ The reason for using and predefining manual thresholding in this project is beca
 
 The following snippet is just a part of the entire script to calculate and generate the area distribution plots. The code snippet shows one of the advanced possibilities of using ImageJ Macro code, what is done in less than a second and doing it manually would highly increase the time and make the process error-prone.
 
-```
+```java
 // ==========RUN AREA DISTRIBUTION (OPTIONALLY)==========
 
 if(chosenOption[3]==1) {
@@ -318,12 +318,12 @@ Clicking “OK” continues the workflow with a “Known distance” menu, where
 ![Specification of known distance](images/specification-of-known-distance.png)
 _Specification of known distance_
 
-On condition of leaving a check mark next to “Preview selected particles before the analysis” option under particle’s size specification of “Output Settings” menu, the analyst can see the original and processed image to decide if the selection is satisfying, as presented below ([click here for better resolution](images/particle-verification.png)).
+On condition of leaving a check mark next to “Preview selected particles before the analysis” option under particle’s size specification of “Output Settings” menu, the analyst can see the original and processed image to decide if the selection is satisfying, as presented below ([click here for better resolution](/images/particle-verification.png)).
 
 This option has a crucial meaning while making the right selection as some of the micrographs might present more than one type of particles, and the user might want to experiment with the particle size and circularity until the rights units are segmented.
 
 ![Particle verification](images/particle-verification.png)
-_Particle verification (left side: outlined image, right side: original input) ([click here for better resolution](images/particle-verification.png))_
+_Particle verification (left side: outlined image, right side: original input) ([click here for better resolution](/images/particle-verification.png))_
 
 On the successful analysis, the user will be informed about it and left with an option to run the analysis again.
 
@@ -339,7 +339,7 @@ The entire workflow starts with submitting one of the sufficient input files.
 ![Example input](images/example-input-micrograph.png)
 _Example input_
 
-Later, on a successful analysis, the output data about each of the particle has been summarised in [this table](images/result-data-from-the-micrograph-stored-the-main-results-filename.csv-file.png). Most of the data is saved in calibrated units, like μm. The bottom part of the .csv file summarises entire data with minimum, maximum, mean value and standard deviation.
+Later, on a successful analysis, the output data about each of the particle has been summarised in [this table](/images/result-data-from-the-micrograph-stored-the-main-results-filename.csv-file.png). Most of the data is saved in calibrated units, like μm. The bottom part of the .csv file summarises entire data with minimum, maximum, mean value and standard deviation.
 
 Furthermore, the separate summary of the overall results contains most importantly of precise information about the most desired information to the client: particle count, the total area of the micrograph, area fraction and calculated particle density.
 

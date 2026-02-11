@@ -160,12 +160,12 @@ If you know some 🇵🇱 or you give some trust to Google Translator, I can re
 
 Not enough? Too much to read? Review everything in a visual form:
 
-- [Top 10 programming languages compared in a table](images/top-10-programming-languages.png)
-- [Which programming language should I learn first?](images/which-programming-language.png)
+- [Top 10 programming languages compared in a table](/images/top-10-programming-languages.png)
+- [Which programming language should I learn first?](/images/which-programming-language.png)
 
 ### I'm lazy
 
-Talk about your goals, such as I did yesterday before publishing this post. Sharing [this little picture](images/upcoming-blog-post-instagram.jpg) on my Instagram/Facebook story pushed me more than anything else to sit down and write all that I wanted to share. Few times, I even felt into the magical flow, which is something that you should aim for while learning/doing anything, as it also means that you're doing what you love.
+Talk about your goals, such as I did yesterday before publishing this post. Sharing [this little picture](/images/upcoming-blog-post-instagram.jpg) on my Instagram/Facebook story pushed me more than anything else to sit down and write all that I wanted to share. Few times, I even felt into the magical flow, which is something that you should aim for while learning/doing anything, as it also means that you're doing what you love.
 
 How does it exactly feel, you may ask? Do you remember when you played with Lego or did coloring books as a kid? This is the state when you don't care anything else, but you're entirely focused on your craft, and you're excited about the upcoming result. It's a beauty of humankind. We all want to leave something on this earth in our short lifespan that will make us remembered. Taking a look at another pyramid: Maslow's hierarchy of needs, we can even find the demand for self-realisation.
 
