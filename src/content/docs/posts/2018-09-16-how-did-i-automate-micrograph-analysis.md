@@ -145,10 +145,10 @@ Moving towards the essential functions required in the implementation, the follo
 
 |   **Technology**   | **Image analysis components** | **Advantages** |   **Disadvantages**   |
 | --- | --- | --- | --- |
-|   Python   | ·   Image processing (Scikit-image, OpenCV)  ·   Scientific operations (SciPy) | ·   Easy application of machine learning methods  ·   Extensive number of algorithms to apply  ·   Freedom of GUI implementation (web or desktop application)  ·   Great support from the users  ·   Well suitable set of libraries for image analysis | ·   Development requires good programming expertise  ·   Lack of direct functions that would satisfy most of the user requirements  ·   Time-taking development    |
-|   MATLAB   | ·   Image segmentation (image processing toolbox) | ·   Availability of machine learning tools  ·   Better usability as of popularity among students/universities  ·   Great support from the users | ·   Lack of direct functions for image analysis  ·   In-software limitation |
-|   MIPAR   | ·   Image processing functions  ·   Image analysis methods | ·   Directed towards research environment  ·   Lots of built-in image operations  ·   Option to record the steps  ·   Simple user interface  ·   Vast amount of built-in functions | ·   Closed application  ·   In-software limitation |
-|   ImageJ   | ·   Image processing functions  ·   Image analysis methods | ·   Availability of machine learning segmentation  ·   Availability to write automation scripts in different languages  ·   Directed towards research environment  ·   Great community/support  ·   Lots of built-in image operations  ·   Multiple distributions focusing on different industries  ·   Open-source application  ·   Specific documentation | ·   Closed application  ·   In-software limitation |
+| Python | • Image processing (Scikit-image, OpenCV)<br/>• Scientific operations (SciPy) | • Easy application of machine learning methods<br/>• Extensive number of algorithms to apply<br/>• Freedom of GUI implementation (web or desktop application)<br/>• Great support from the users<br/>• Well suitable set of libraries for image analysis | • Development requires good programming expertise<br/>• Lack of direct functions that would satisfy most of the user requirements<br/>• Time-taking development |
+| MATLAB | Image segmentation (image processing toolbox) | • Availability of machine learning tools<br/>• Better usability as of popularity among students/universities<br/>• Great support from the users | • Lack of direct functions for image analysis<br/>• In-software limitation |
+|   MIPAR | • Image processing functions<br/>• Image analysis methods | • Directed towards research environment<br/>• Lots of built-in image operations<br/>• Option to record the steps<br/>• Simple user interface<br/>• Vast amount of built-in functions | • Closed application<br/>• In-software limitation |
+|   ImageJ | • Image processing functions<br/>• Image analysis methods | • Availability of machine learning segmentation<br/>• Availability to write automation scripts in different languages<br/>• Directed towards research environment<br/>• Great community/support<br/>• Lots of built-in image operations<br/>• Multiple distributions focusing on different industries<br/>• Open-source application<br/>• Specific documentation | • Closed application<br/>• In-software limitation |
 
 All of the compared solutions are considerably expendable; however, MATLAB and Python are more general technologies and are not as functionally gifted for the image analysis operations as MIPAR and ImageJ.
 
@@ -162,10 +162,10 @@ The simplified working of the system (presented in [this graph](/images/microgra
 
 The following table summarises the system specifications required to perform the analysis. One of the ImageJ advantages over different application is its low storage space requirement, which in comparison to the minimum requirements of MATLAB, needs less than half of its space. On the other side, it exceeds the demand for a potential Python solution.
 
-|   Storage space   | ·         Around 414 MB for all the necessary system files  ·         5 MB for the output of all the requested analysis of an average micrograph image (2.3 MB TIFF file with a 1024x768x24 resolution) |
+|   Storage space | • Around 414 MB for all the necessary system files<br/>• 5 MB for the output of all the requested analysis of an average micrograph image (2.3 MB TIFF file with a 1024x768x24 resolution) |
 | --- | --- |
-|   Software   | ·         ImageJ or Fiji software  ·         Graph and NND plugin  ·         BioVoxxel and BAR toolbox |
-|   Operational System (OS)   | Cross-platform system running as a desktop application on:  ·         Windows XP, Vista, 7, 8 and 10  ·         Mac OS X 10.8 "Mountain Lion" or later  ·         Linux on amd64 and x86 architectures |
+|   Software | • ImageJ or Fiji software<br/>• Graph and NND plugin<br/>• BioVoxxel and BAR toolbox |
+| Operational System (OS) | Cross-platform system running as a desktop application on:<br/>• Windows XP, Vista, 7, 8 and 10<br/>• Mac OS X 10.8 "Mountain Lion" or later<br/>• Linux on amd64 and x86 architectures |
 
 ### Algorithm
 
@@ -173,8 +173,8 @@ Image segmentation in the ImageJ software can be applied in two separate ways. T
 
 | **Methodology** | **Advantages** | **Disadvantages** |
 | --- | --- | --- |
-| Classical thresholding | ·   Can be used externally as a library  ·   Quick application time during the script’s execution  ·   Well-adjusted becomes suitable for many kinds of images | ·   Cannot perform well in all the micrograph types  ·   Time-taking development process |
-| Machine learning segmentation | ·   Can be used externally as a library  ·   Learns how to perform thresholding on its own and does not need utilising any other image pre-processing tools  ·   Longer application time during the script’s execution  ·   Sufficient optimisation can perform better than any other thresholding method  ·   Versatility – can be used for segmentation, boundary detection and object detection | ·   High computational cost  ·   Needs separate adjustment for every different kind of micrographs  ·   Requires great development time in order to perform better  ·   The user is required to perform input labelling – drawing multiple lines across different classes on the image |
+| Classical thresholding | • Can be used externally as a library<br/>• Quick application time during the script's execution<br/>• Well-adjusted becomes suitable for many kinds of images | • Cannot perform well in all the micrograph types<br/>• Time-taking development process |
+| Machine learning segmentation | • Can be used externally as a library<br/>• Learns how to perform thresholding on its own and does not need utilising any other image pre-processing tools<br/>• Longer application time during the script's execution<br/>• Sufficient optimisation can perform better than any other thresholding method<br/>• Versatility – can be used for segmentation, boundary detection and object detection | • High computational cost<br/>• Needs separate adjustment for every different kind of micrographs<br/>• Requires great development time in order to perform better<br/>• The user is required to perform input labelling – drawing multiple lines across different classes on the image |
 
 The machine learning available in ImageJ is not entirely self-learning. In the current project, the given dataset of images only contains training data, missing testing examples, what does not stop from using the algorithm. Utilising the "Trainable Weka Segmentation" designed by Arganda-Carreras et al in 2017 is possible only through input labelling[^10]. That means, ImageJ requires from the user to draw lines across different classes on the image, so the machine learning algorithm can differentiate between them and apply the segmentation. The good thing about this option is the ability to pretrain the model and save its classifier for further analysis.
 
@@ -391,9 +391,9 @@ To summarise, the advantages and disadvantages of the mentioned techniques have 
 
 | Algorithm | Advantages | Disadvantages |
 | --- | --- | --- |
-| **Automatic Thresholding** | ·   Does not require user’s effort  ·   The fastest method of all the available | ·   Does not inform about the error-bound  ·   Does not perform well for all types of images |
-| **Trainable Weka Segmentation** | ·   Can adapt to complex images  ·   Provides error-bound information on the selection process | ·   Requires from user to add traces over the ROI  ·   More time-consuming than Automatic Thresholding |
-| **Completely manual (pen and paper)** | ·   Does not require any hardware and software installation | ·   Low-quality results  ·   Time-consuming  ·   Does not inform about the error-bound |
+| **Automatic Thresholding** | • Does not require user's effort<br/>• The fastest method of all the available | • Does not inform about the error-bound<br/>• Does not perform well for all types of images |
+| **Trainable Weka Segmentation** | • Can adapt to complex images<br/>• Provides error-bound information on the selection process | • Requires from user to add traces over the ROI<br/>• More time-consuming than Automatic Thresholding |
+| **Completely manual (pen and paper)** | Does not require any hardware and software installation | • Low-quality results<br/>• Time-consuming<br/>• Does not inform about the error-bound |
 
 ## Project evaluation
 
@@ -401,7 +401,7 @@ The entire project has been a great exercise over the management and development
 
 |   **Strengths**   |   **Weaknesses**   |
 | --- | --- |
-| ·         Background insight given by the project client and PhD students  ·         Communication with the client leading to mutual understanding  ·         Detailed requirements collecting  ·         Project management plan  ·         Fitness for the use of the system  ·         System workflow  ·         Usability of the final product  ·         In-depth project explanation leaving a comfortable open space for further work | ·         Current limitation lacks machine learning segmentation  ·         Lack of time and possibilities for extended testing (EBSD scan data comparison)  ·         Problem with meeting the client regularly (solved by continuous meetings with PhD students)  ·         Testing limitation mainly to ImageJ technology    |
+| • Background insight given by the project client and PhD students<br/>• Communication with the client leading to mutual understanding<br/>• Detailed requirements collecting<br/>• Project management plan<br/>• Fitness for the use of the system<br/>• System workflow<br/>• Usability of the final product<br/>• In-depth project explanation leaving a comfortable open space for further work | • Current limitation lacks machine learning segmentation<br/>• Lack of time and possibilities for extended testing (EBSD scan data comparison)<br/>• Problem with meeting the client regularly (solved by continuous meetings with PhD students)<br/>• Testing limitation mainly to ImageJ technology |
 
 ## GitHub repository
 
