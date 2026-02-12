@@ -25,7 +25,7 @@ Most importantly, it's a big discipline test for me, to check if I can handle so
 | Important | Q1 | Q2 |
 | Not Important | Q3 | Q4 |
 
-Being on a constant pressure and deadlines set in advance for ~17 years of my life, I've been prepared well to deal with Q1 and Q3 sphere; however, now the point of my direction is to go along with something diverse. I'm not saying that now I'm free of the urgent variants but will try to give myself a try with activities falling into the third column.
+Being under constant pressure and deadlines set in advance for ~17 years of my life, I've been prepared well to deal with Q1 and Q3 sphere; however, now the point of my direction is to go along with something diverse. I'm not saying that now I'm free of the urgent variants but will try to give myself a try with activities falling into the third column.
 
 ## But... why?
 

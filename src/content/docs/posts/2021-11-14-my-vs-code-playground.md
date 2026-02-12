@@ -402,4 +402,4 @@ In the end, let me leave you with some awesome redirections:
 
 With that, don't forget to check the hands-on tutorials referenced in the section above. Once you are a bit more advanced into programming, and would like to contribute to the global community, why not fancy of writing your own extension? If so, there is no time to lose but to follow [your first VS Code extension guide](https://code.visualstudio.com/api/get-started/your-first-extension).
 
-**No matter what will you code, have a happy VSCoding time! 🎉👨‍💻🎊**
+**No matter what you code, have a happy VSCoding time! 🎉👨‍💻🎊**

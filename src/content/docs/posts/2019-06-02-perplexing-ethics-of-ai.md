@@ -167,7 +167,7 @@ Moreover, if you would like to know more about the Data Science events in Brusse
 
 ## Moral Machine Problem
 
-Nowadays, self-driving cars is a hot topic, when deliberating on the moral behaviour of the machines. On the road, due to not only the human error, there can be situations when the car will have to choose between killing one person over another. Unfortunately, the handling mechanism and physics won't let the vehicle to stop immediately, so when you put in front of the car two objects, it will need to hit one of them.
+Nowadays, self-driving cars are a hot topic when deliberating on the moral behaviour of the machines. On the road, due to not only the human error, there can be situations when the car will have to choose between killing one person over another. Unfortunately, the handling mechanism and physics won't let the vehicle stop immediately, so when you put in front of the car two objects, it will need to hit one of them.
 
 Probably the most classic example of this perplexity is the so-called [Trolley Dilemma Problem](/images/trolley-dilemma.jpg), which is not strictly related to self-driving cars, as it was in studies since 1905, as a part of a moral questionnaire given to undergraduates at the University of Wisconsin in 1905[^9]. In this experiment, you are usually in a situation, where you can pull a lever to change the track of the upcoming train so that it will kill either someone closely related to you (such as your parent) or five strangers. What would you do?
 
@@ -254,7 +254,7 @@ Let's not introduce all the possible states, as one would need to write a compre
 
 ## A brief note before the farewell
 
-In the end, please don't understand me wrong. **The goal of this post wasn't to make you scared or doubtful in the sense of further work on improving the AI state**. Technology is a great tool, and it can all make our lives better, as it did for all the years. Right, some things did not develop with the time, such as the matter of global warming, but please keep in mind that rapid development of technology isn't the major cause of one of the most concerned environmental problems. Looking on it from the brighter side, AI might be the answer to this and any other problems, as we might need some sort of inhuman intelligence to give us the right answer, as it was explained in the article of Renee Cho[^16]. No more than a month ago, Sam Altman (chairman of Y Combinator and co-chairman of OpenAI) also threw some words on this topic[^17]:
+In the end, please don't understand me wrong. **The goal of this post wasn't to make you scared or doubtful in the sense of further work on improving the AI state**. Technology is a great tool, and it can all make our lives better, as it did for all the years. Right, some things did not develop over time, such as the matter of global warming, but please keep in mind that rapid development of technology isn't the major cause of one of the most concerned environmental problems. Looking at it from the brighter side, AI might be the answer to this and any other problems, as we might need some sort of inhuman intelligence to give us the right answer, as it was explained in the article of Renee Cho[^16]. No more than a month ago, Sam Altman (chairman of Y Combinator and co-chairman of OpenAI) also threw some words on this topic[^17]:
 
 > _The best way to solve climate change is to build really strong AI first. I think it's that hard of a problem_
 >

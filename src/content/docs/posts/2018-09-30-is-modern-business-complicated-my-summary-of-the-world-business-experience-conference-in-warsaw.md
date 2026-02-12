@@ -28,7 +28,7 @@ _Gary Vee on stage!_
 
 ## Agenda
 
-Let us start with summarising the core program of the day. My personal agenda would include much more activities (like waking up at 3 am for the bus 😴, ouch!); however, let's focus on the general timetable).
+Let us start with summarising the core program of the day. My personal agenda would include much more activities (like waking up at 3 am for the bus 😴, ouch!); however, let's focus on the general timetable.
 
 The agenda of the entire conference can be summarised into the 13 different presentations. All of the information can also be found on the [official website of the event](http://www.wbexp.pl); however, I have allowed myself to write it again, presenting only the presentation parts (pure fruit flesh of the day) and translating their titles (at the moment of writing this post, the 🇺🇸 version of the website returns my best friend - 404).
 
@@ -86,7 +86,7 @@ Why do companies like to hire data scientists? To predict the future; however, t
 The other way to get that information is to listen to someone with experience, like Jakub B Bączek, who introduced three upcoming trends. The sooner you act upon them, the more advantage you will have over your competitors.
 
 1. **Migration** of multi-culture caused not only by the global warming.
-   - _Description_: here in Poland we might expect to have more and more immigrants over the year who will come from different ethnicities. That will be partly caused by politics and partly by the global warming near the equator.
+   - _Description_: here in Poland we might expect to have more and more immigrants over the years who will come from different ethnicities. That will be partly caused by politics and partly by the global warming near the equator.
    - _Solution_: start modifying your business to satisfy immigrants from tier 3 (figure below). You can do that for example by offering multilanguage support and diversity of products.
 
 ![The Three Tiers of Noncustomers](images/the-three-tiers.jpg)
@@ -106,7 +106,7 @@ _Aspects of physical exercise. Credit: Biohacker's Handbook[^4]_
 Gary also added something from his observations, that were connected with the 🇵🇱 market.
 
 - use Facebook/Instagram adds till they are cheap. Yes, especially here in Poland. You should do it now as later when big brands start investing in social campaigns, you will lose spending waay too much into sponsored posts. You might want to Google "how to make FB adds for cat food" if you are about to compete with Whiskas.
-- promote yourself with podcasts. About 80% of the attendants raised their hand when Gary asked: "Who is listening to podcasts nowadays?". And you know what? Only 13 people did it when he modified the questions and asked: "Who listened to podcasts 3 years before".
+- promote yourself with podcasts. About 80% of the attendants raised their hands when Gary asked: "Who is listening to podcasts nowadays?". And you know what? Only 13 people did it when he modified the questions and asked: "Who listened to podcasts 3 years before".
 
 ### Give, give, give
 

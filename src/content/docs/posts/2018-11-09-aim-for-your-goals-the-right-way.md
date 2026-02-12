@@ -32,7 +32,7 @@ _Remember to organise/prioritise your tasks. Credit: Dilbert comic strip by Scot
 
 Lots of people that I see around are not experts in a single specialisation, and they are doing more than fine having a skill stack of things mastered in beginner to "let me try, but later it might never work again" level. What's more, they are even creating online courses to teach others what they have learned. It's not wrong, as even if you know something in 10%, there will be dozens of people who understand the topic in 1% and would love to hear from you. Summarising, we can assume that our usability/value in the job market is what determines the career success.
 
-The problem for some of us right now is what we want to do for the living/hobby, but that topic is for another night. Yes, I know a way to solve our doubts in this area, and it's not magic. It's rather something that needs to restructure the way we think.
+The problem for some of us right now is what we want to do for a living/hobby, but that topic is for another night. Yes, I know a way to solve our doubts in this area, and it's not magic. It's rather something that needs to restructure the way we think.
 
 ## To-Do Lists
 
