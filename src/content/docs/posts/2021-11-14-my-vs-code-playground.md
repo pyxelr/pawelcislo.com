@@ -10,7 +10,9 @@ tags:
   - "vscode"
 ---
 
-> You can find my VS Code profile under **[gist.github.com](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b)**.
+:::note
+You can find my VS Code profile under **[gist.github.com](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b)**.
+:::
 
 ![VS Code - Blog post background](images/vscode-background.png)
 
