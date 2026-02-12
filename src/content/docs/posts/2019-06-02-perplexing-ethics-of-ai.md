@@ -44,7 +44,7 @@ The entire topic of ethics is always a great field of study for every philosophe
 
 ### Main concerns of regulations
 
-There are always two sides with a different view on the world. European Commission is bombarded from one side by voices from companies who wish to regulate AI because of the upcoming danger, while the other side wishes to let it go freely, to prevent the blockage of the digital advancement. At last, it's worth to take into consideration both of these rights and find the golden middle.
+There are always two sides with a different view on the world. European Commission is bombarded from one side by voices from companies who wish to regulate AI because of the upcoming danger, while the other side wishes to let it go freely, to prevent the blockage of the digital advancement. At last, it's worth taking into consideration both of these rights and find the golden middle.
 
 Impact of AI is still not fully understood, as it's moving incredibly fast to construct the right decisions in the social, economical, legal and ethical aspect. The entire case is context-specific, and lacking all the required answers makes it pretty challenging to apply the right policies. In order to make the final decision, it needs hours of conversation with different stakeholders, ideally all of them at the same time, where the overall message is understood by professionals of different background (engineers, lawyers, etc.)
 
@@ -108,7 +108,7 @@ As such, Trustworthy AI has to meet 3 components:
 - Ethical AI (comply with ethical principles & values)
 - Robust AI (ensure technical robustness, system security, unbiased state)
 
-Finally, what are the next steps? On the day of June 26th, there will be a presentation of recommendations and the piloting will kick-off. In result, the commission will decide on the next actions, which will tackle the case of self-regulation/self-certification, standardisation, sectoral guidelines and overall regulation.
+Finally, what are the next steps? On the day of June 26th, there will be a presentation of recommendations and the piloting will kick-off. As a result, the commission will decide on the next actions, which will tackle the case of self-regulation/self-certification, standardisation, sectoral guidelines and overall regulation.
 
 ### Need to act expeditiously
 
@@ -133,7 +133,7 @@ Moreover, don't think that AI wasn't yet regulated. GDPR is just one of the exam
 ![China vs US AI](images/china-vs-us.jpg)
 _China and the US are battling to become the world's first AI superpower_[^6]
 
-If I could throw in some of my ideas for improving the policymaking process, it's worth to think that AI's general concept is to use one general algorithm to learn things on its own, instead of using a bunch of programmers to write thousands of if/else statements, which will eventually fail. As such, what about trying to use AI to regulate itself? Well, not a long time ago, we were already informed that humans might not be the only ones to write scientific papers, and this is a big step[^7] ‘The First AI-Generated Textbook Shows What Robot Writers Are Actually Good At’.
+If I could throw in some of my ideas for improving the policymaking process, it's worth thinking that AI's general concept is to use one general algorithm to learn things on its own, instead of using a bunch of programmers to write thousands of if/else statements, which will eventually fail. As such, what about trying to use AI to regulate itself? Well, not a long time ago, we were already informed that humans might not be the only ones to write scientific papers, and this is a big step[^7] ‘The First AI-Generated Textbook Shows What Robot Writers Are Actually Good At’.
 
 ### Your voice matters
 
@@ -205,7 +205,7 @@ Although China and Japan came to the same agreement in the case of sparing elder
 
 ### The solution
 
-When deriving a concrete if/else solution for the programmed AI sitting inside the self-driving car, I believe that it's worth to think about the following options:
+When deriving a concrete if/else solution for the programmed AI sitting inside the self-driving car, I believe that it's worth thinking about the following options:
 
 - calculate the risk and go for the lowest one
 - make a random choice
@@ -283,7 +283,7 @@ First of all, I am happy to announce that through my consulting role at AKKA Tec
 ![Career growth chart](images/career-growth.png)
 _Let's-a go towards a better future!📈_
 
-From the other side, I know that my writing is still not as perfect, as I would like to, so I reached for the "[Essay writing guide](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)" by Jordan Peterson, which brought me a lot of ideas on how to ease and improve my future blog posts. I recommend everyone to read it, as you should understand that writing is one of the most powerful skills we can possess, and it's worth to develop it whenever possible. If you're a programmer, take into your mind, that writing concise and precise messages will also apply in scripting a cleaner and more readable code for others, who would likely take it over or collaborate with you in the development process.
+From the other side, I know that my writing is still not as perfect, as I would like to, so I reached for the "[Essay writing guide](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)" by Jordan Peterson, which brought me a lot of ideas on how to ease and improve my future blog posts. I recommend everyone to read it, as you should understand that writing is one of the most powerful skills we can possess, and it's worth developing it whenever possible. If you're a programmer, take into your mind, that writing concise and precise messages will also apply in scripting a cleaner and more readable code for others, who would likely take it over or collaborate with you in the development process.
 
 In addition, I hope you noticed and appreciate, that above every post from now on you can find the estimated reading time, which on average assumes that you process 300 words per minute. Thanks a lot to Stefano for requesting this feature!
 

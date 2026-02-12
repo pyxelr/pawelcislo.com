@@ -103,7 +103,7 @@ But even more importantly, it's not just about what you say, but how you say it.
 
 ## Editorial tips in 10 steps
 
-Coming back to the merits of this post (writing), it's worth to have an ultimate template which would improve the quality of our work. The following steps are mainly a summary of Peterson's essay writing guide ([available on his website](https://docs.google.com/viewer?url=http%3A%2F%2Fjordanbpeterson.com%2Fwp-content%2Fuploads%2F2018%2F02%2FEssay_Writing_Guide.docx)), with slight modification, including my suggestions. In general, the entire manual is based on the iteration process through our report, until the moment of achieving the supreme state.
+Coming back to the merits of this post (writing), it's worth having an ultimate template which would improve the quality of our work. The following steps are mainly a summary of Peterson's essay writing guide ([available on his website](https://docs.google.com/viewer?url=http%3A%2F%2Fjordanbpeterson.com%2Fwp-content%2Fuploads%2F2018%2F02%2FEssay_Writing_Guide.docx)), with slight modification, including my suggestions. In general, the entire manual is based on the iteration process through our report, until the moment of achieving the supreme state.
 
 ![](images/10-writing-steps.png)
 
@@ -189,7 +189,7 @@ Coming back to the merits of this post (writing), it's worth to have an ultimate
 
 Let's make it clear that I do not always follow the 10 steps presented above, but I do keep them in mind. Don't take anyone's approach for granted, yet keep to yourself the ideas you value the most.
 
-While creating this blog last year, I end up writing [several ideas for my upcoming posts](/images/post-ideas.png). At that time, some of them were dropped, some are still waiting, and some of them were combined into single great topics.
+While creating this blog last year, I ended up writing [several ideas for my upcoming posts](/images/post-ideas.png). At that time, some of them were dropped, some are still waiting, and some of them were combined into single great topics.
 
 The topic you're reading now came to me as inspiration from a Facebook post of my friend, the other in the middle of a call, and the rest mostly from random walking/reflection sessions. My recommendation would be not to push yourself too much as the best inspirations tend to come in the most unpredictable moments.
 
@@ -253,7 +253,7 @@ Moving on to the next chapter, we will discuss what do with all the accumulated 
 
 ### Is there a "database" for all my papers?
 
-It is worth to learn from the mistakes, and here you can learn on mine. Before writing any essay, make sure you have your citation tool open on the side and ready to roll. It will help you in many ways:
+It is worth learning from the mistakes, and here you can learn from mine. Before writing any essay, make sure you have your citation tool open on the side and ready to roll. It will help you in many ways:
 
 - you won't get lost in the pile of papers (even if you think that citing a few of them is enough, still go with the tool, as the situation might quickly evolve)
 - you will always use the right style/syntax required by your educational institution. No more missing commas, hyphens and apostrophes

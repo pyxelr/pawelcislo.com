@@ -91,7 +91,7 @@ Most importantly, that the only limits are in our head and with the resources of
 
 ## What's next?
 
-There is a lot of topics that I might discuss, and the only thing that I wonder about is to manage my time in a way to present new posts regularly without writing a clickbait. Before writing this post, I've already predefined some scenario, and as I go along, I will find more influence and skills to perform the machine learning way of analysing things (finding information, cleaning it, applying own algorithms and presenting the results).
+There is a lot of topics that I might discuss, and the only thing that I wonder about is how to manage my time in a way to present new posts regularly without writing a clickbait. Before writing this post, I've already predefined some scenario, and as I go along, I will find more influence and skills to perform the machine learning way of analysing things (finding information, cleaning it, applying own algorithms and presenting the results).
 
 So far, my OneNote consists of a special section just for the website with multiple notes reminding me of the steps. Here is a sneak peek, of how I manage the work on my posts using the Kanban method.
 

@@ -17,7 +17,7 @@ tags:
 
 ## Productivity is everywhere! ROAR
 
-Productivity. That term seems like it wants to jump out of our fridge every morning. Doesn't it? The society constantly mumbles about it (I know, me too), like it is the greatest skill you might have... and they are right! Think about it; **if** **you are the master of productivity, you can simply do a lot of stuff** (guess there is no master course in this specialisation yet; correct me if I'm wrong)! The more you know how to do, the better companies will look on you, and in the result, you will not fall into the never-ending job hunt. One of the examples is my recent career opportunity, where the organisation hired me for a role that does not exactly fit my highest expectations (pursuing Data Science career solely); however, I'm still contented to be working for them. I'm talking about the engineering consultant position, which again, will provide me with a broader skill-set than focusing entirely on analysing large heaps of data.
+Productivity. That term seems like it wants to jump out of our fridge every morning. Doesn't it? The society constantly mumbles about it (I know, me too), like it is the greatest skill you might have... and they are right! Think about it; **if** **you are the master of productivity, you can simply do a lot of stuff** (guess there is no master course in this specialisation yet; correct me if I'm wrong)! The more you know how to do, the better companies will look on you, and as a result, you will not fall into the never-ending job hunt. One of the examples is my recent career opportunity, where the organisation hired me for a role that does not exactly fit my highest expectations (pursuing Data Science career solely); however, I'm still contented to be working for them. I'm talking about the engineering consultant position, which again, will provide me with a broader skill-set than focusing entirely on analysing large heaps of data.
 
 Coming back to what I said, **quantity beats quality**, at least if we think about our potential in the job market. Nonetheless, on higher levels, quality (expertise) is of a significant priority, where you need to understand lots of concepts from just a single field, like calculus, if you are thinking about discovering new architectures of neural networks. Anyhow, calculus is so extensive that I'm not sure if it's correct to classify it into a single field.
 
@@ -52,7 +52,7 @@ _Hopefully, one day we will be able to install some additional RAM implants into
 
 ### Todoist
 
-Todoist is the ultimate app to manage your tasks, and initially, this post had to describe my way of using it solely, but I end up adding a little bit of background to it. I do not have any affiliation with the developers, I am just a thankful user who discovered this tool long ago through recommendations of people who I consider to be successful, so I merely thought that something must be in it.
+Todoist is the ultimate app to manage your tasks, and initially, this post had to describe my way of using it solely, but I ended up adding a little bit of background to it. I do not have any affiliation with the developers, I am just a thankful user who discovered this tool long ago through recommendations of people who I consider to be successful, so I merely thought that something must be in it.
 
 I praise Todoist mainly for:
 
@@ -161,7 +161,7 @@ _My list of priorities in Todoist_
 
 #### Templates
 
-If there is something that you go through continuously in the exact same structure, it's worth to check out what are [To-Do Templates](https://todotemplates.com/). These are basically projects filled with tasks in a specified order that you can import and start ticking out. Personally, I prefer to store my templates in OneNote, such as the procedure of posting another article on my blog (unfortunately, it's not only about writing few words and clicking "Publish"). The good thing is, that if you copy the list from OneNote and paste it inside Todoist using Ctrl+V, it will be automatically recognised and added in an organised way.
+If there is something that you go through continuously in the exact same structure, it's worth checking out [To-Do Templates](https://todotemplates.com/). These are basically projects filled with tasks in a specified order that you can import and start ticking out. Personally, I prefer to store my templates in OneNote, such as the procedure of posting another article on my blog (unfortunately, it's not only about writing few words and clicking "Publish"). The good thing is, that if you copy the list from OneNote and paste it inside Todoist using Ctrl+V, it will be automatically recognised and added in an organised way.
 
 ### Online Calendar
 

@@ -146,7 +146,7 @@ Last time I have tried to focus on learning a lot of software engineering requir
 
 If it comes to the blog in general, I cannot be more than proud that I've finally decided to be more visible online. It's normal that most of the blogs won't get immediate attention, and it would be one of the main reasons to shut it down already if I paid notice to the "likes and comments". The rule is to be consistent, as the majority of bloggers leave their sites after the first few articles.
 
-I guess that the most serviceable function so far was the "Contact" option which helped some of the web surfers to get in touch with me. Also, some of you contacted me about the "Three Goals" page, where one of my friends ended up creating the same kind of a list, which broke my holdup of feelings the moment he asked "Hey, I've created something similar, can you check if my goals are designed the right way?". Woah, surely it's worth to inspire others similarly.
+I guess that the most serviceable function so far was the "Contact" option which helped some of the web surfers to get in touch with me. Also, some of you contacted me about the "Three Goals" page, where one of my friends ended up creating the same kind of a list, which broke my holdup of feelings the moment he asked "Hey, I've created something similar, can you check if my goals are designed the right way?". Woah, surely it's worth inspiring others similarly.
 
 ### Three Goals
 
@@ -202,7 +202,7 @@ I write all of this because in 2018, just like Albert I used to walk a lot for n
 
 Summarising, in 2019 there is no need to save on resting, right? :)
 
-So to the meritum, I plan to write more technical bits right here. So far, there is only a single post related to one of my last projects, but it will change. As I have deducted, I plan to focus on quality over the quantity (which is also advised by bloggers with long experience). As for now, I am not sure if I will be lucky to work on projects that I will be able to explain on this blog; however, I am also going to start writing some introductory posts into the world of data science. Yes, you are right, there is already plenty of content out there, but I will make sure to write the most up-to-date recommendations based on my experience.
+So to the meritum, I plan to write more technical bits right here. So far, there is only a single post related to one of my last projects, but it will change. As I have deduced, I plan to focus on quality over the quantity (which is also advised by bloggers with long experience). As for now, I am not sure if I will be lucky to work on projects that I will be able to explain on this blog; however, I am also going to start writing some introductory posts into the world of data science. Yes, you are right, there is already plenty of content out there, but I will make sure to write the most up-to-date recommendations based on my experience.
 
 2019 will be started by taking a flight to Switzerland and beginning with an introduction to my new position. So far, I cannot estimate how much will I need to change my daily habits, as such I'm excited for the best to happen.
 
@@ -220,7 +220,7 @@ Furthermore, what are the benefits of writing a year review?
 
 - Not to lie, it is a blessing to look over your achievements from some time ago. You might even say "oh, I was such a baby back then" considering all the tweaks here and there applied in yourself,
 - You will step into the next year with a fresh mind, feeling that you closed the last 12 months in the desired way,
-- Without verifying your goals, you might not even know how much you've done. What books did you read, what have you watched, where did you spent most of your time. Is it what you wanted?
+- Without verifying your goals, you might not even know how much you've done. What books did you read, what have you watched, where did you spend most of your time. Is it what you wanted?
 - The new stage of your life will be planned automatically when you remind yourself of all the stuff you "wished" to complete this year,
 - You will get a motivational kick by appreciating yourself!
 

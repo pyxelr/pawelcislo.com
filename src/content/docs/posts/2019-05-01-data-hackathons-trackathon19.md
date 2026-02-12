@@ -19,7 +19,7 @@ tags:
 
 ## TRACKathon
 
-On the 28th of April (last Sunday), Infrabel decided to [publish 60 of their own datasets of different categories](https://opendata.infrabel.be/pages/home/) regarding the railway industry. Why did they decide for such a move, you may ask? As the publisher writes on their social media: "_Infrabel has a history of sharing data with the public, but we are moving away from static text to active data._" In the result, on the new portal, we can explore the regularly updated data, which has even more than 10 years of archival data for several sets.
+On the 28th of April (last Sunday), Infrabel decided to [publish 60 of their own datasets of different categories](https://opendata.infrabel.be/pages/home/) regarding the railway industry. Why did they decide for such a move, you may ask? As the publisher writes on their social media: "_Infrabel has a history of sharing data with the public, but we are moving away from static text to active data._" As a result, on the new portal, we can explore the regularly updated data, which has even more than 10 years of archival data for several sets.
 
 To make the event even more memorable, it was connected with a "TRACKathon" challenge (hackathon focused on data analysis aspect) at Infrabel's headquarters in Brussels. It was a smart move, as otherwise all the data could have been quickly forgotten or not even discovered by the potential analysts looking for some fun on the web.
 
