@@ -123,7 +123,7 @@ You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-deck
 
 **_My profiles_**: [HackerRank](https://www.hackerrank.com/pyxelr), [JetBrains Academy](https://hyperskill.org/profile/21057352), [CheckiO](https://py.checkio.org/user/pyxelr/), [CodeSignal](https://app.codesignal.com/profile/pyxelr), [LeetCode](https://leetcode.com/pyxelr).  
 **_Note 1_**: It's a little tricky, to count my solutions from multiple sources, but eventually, it's all about doing the work. :)  
-**_Note 2 (after achieving the goal)_**: I reached the 3rd level somewhere in 2020 thanks to my activity on JetBrains. Naturally, I will be still challenging myself with these excellent puzzles :)  
+**_Note 2 (after achieving the goal)_**: I reached the 3rd level somewhere in 2020 thanks to my activity on JetBrains. Naturally, I will still be challenging myself with these excellent puzzles :)  
 **_Inspiration_**: My friend Recep.
 
 #### ✍ Blogger

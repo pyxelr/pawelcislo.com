@@ -3,7 +3,7 @@ title: "Frequently Asked Questions (FAQ)"
 date: 2018-08-18
 ---
 
-Well, maybe I'm not as popular to be frequently asked about all these things; however, you can treat this page more like an aggregator for some of my handy answers.  
+Well, maybe I'm not popular enough to be frequently asked about all these things; however, you can treat this page more like an aggregator for some of my handy answers.  
   
 If you have a question that was not listed on this page, please do not hesitate to [get in touch with me](/pages/contact/). I will also try to let myself be known in different posts and pages of this blog.
 
@@ -68,7 +68,7 @@ If you have a question that was not listed on this page, please do not hesitate 
     - (R) ggplot2 for visualisation  
     - (R) R Markdown for reporting and Shiny for web apps  
 
-    Apart from these technologies, we need to keep our heads up for the rapid intake of Julia and Scala, which seem to be more optimised over Python.  
+    Apart from these technologies, we need to keep our heads up for the rapid uptake of Julia and Scala, which seem to be more optimised than Python.  
 
 8. **IDE for data science?**  
     - [VS Code](https://code.visualstudio.com/) (explained thoroughly in "[My VS Code Playground](/posts/my-vs-code-playground/)" blog post)  

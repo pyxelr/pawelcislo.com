@@ -24,7 +24,7 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
 > — [Maciej Aniserowicz](https://www.youtube.com/watch?v=ljITkPFhKRk) (🇵🇱)
 
 19/05/2017
-> You can not always be locked in "your world" because others will find it harder to understand you.
+> You cannot always be locked in "your world" because others will find it harder to understand you.
 > — own thought
 
 28/05/2017
