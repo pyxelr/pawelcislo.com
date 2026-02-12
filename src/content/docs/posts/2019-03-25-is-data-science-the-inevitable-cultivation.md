@@ -179,7 +179,7 @@ As there is still a lot to cover in this post, I will not elaborate on the confe
 
 ## D.A.T.A.  4.0?
 
-**D**ata-**A**ware **T**echnological **A**ctivities - it's just a fresh acronym I coined for the need of this article, to connect the importance of data with Industry 4.0 that leads to automation in manufacturing technologies. Cyber-physical systems, cloud computing, the Internet of things, and cognitive computing is highly involved in both of these terms, as such it can be assumed that Industry 4.0 might be all about industrial data and analytics.
+**D**ata-**A**ware **T**echnological **A**ctivities - it's just a fresh acronym I coined for the need of this article, to connect the importance of data with Industry 4.0 that leads to automation in manufacturing technologies. Cyber-physical systems, cloud computing, the Internet of things, and cognitive computing are highly involved in both of these terms, as such it can be assumed that Industry 4.0 might be all about industrial data and analytics.
 
 The current products are full of data, such as machines and robotics, which are authorising the swiftly growing universal truth that **all roads lead to data** in the emerging digitopia. Data is highly comparable to oil, because of its potential to generate real value; however, it won't do much without the right processing.
 

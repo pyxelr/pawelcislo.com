@@ -22,7 +22,7 @@ After starting my 1st position in IT consulting, it began to be a little bit mor
 
 ## This topic, again?
 
-Today, I will discuss a common subject that is on my mind for a long time as before joining my current engineering consulting company, I have been advised by the recruiters to focus more on the software engineering section, rather than data science itself. In the result, I've spent a considerable amount of time trying to master the art of coding and tested various ways to acquire the most experience. As you might now, I'm a huge fan of optimising my life in each life discipline to be the most effective in everything I do, as such, it makes a great combination of interests to share some advice on today's topic. Everything here is based on my personal experience, therefore feel free to share your own ways of learning down below, not only in terms of software engineering.
+Today, I will discuss a common subject that is on my mind for a long time as before joining my current engineering consulting company, I have been advised by the recruiters to focus more on the software engineering section, rather than data science itself. As a result, I've spent a considerable amount of time trying to master the art of coding and tested various ways to acquire the most experience. As you might know, I'm a huge fan of optimising my life in each life discipline to be the most effective in everything I do, as such, it makes a great combination of interests to share some advice on today's topic. Everything here is based on my personal experience, therefore feel free to share your own ways of learning down below, not only in terms of software engineering.
 
 Most importantly, **I believe that everyone can learn something from this post**, no matter if you are a coder or a driver of front-loader.
 
@@ -42,7 +42,7 @@ So, how would I start as a teacher? As long as I would be free from the restrict
 ![Average learning retention rates](images/learning-retention-rates.png)
 _Average learning retention rates[^1]_
 
-The pyramid presents that we learn the most effectively by teaching others and practising by doing. On the contrast, we retain the least by attending lectures and reading.
+The pyramid presents that we learn the most effectively by teaching others and practising by doing. In contrast, we retain the least by attending lectures and reading.
 
 Interactive tools, visual prizes to boost our level of serotonin, that is what will give us lots of concentration and enthusiasm to master every professional field. If we start with a book, especially in programming, we might get easily discouraged as we will not see our progress, nor work effects immediately. Some of us who are more patient and eager to read books might get along somehow, but remember that if you ask an Olympic swimming champion how he became so skilled, he will not advise you to focus on books.
 
@@ -59,7 +59,7 @@ _Impostor Syndrome[^2]_
 
 ### Then, what do we suggest to Bob?
 
-If Bob is already attending high school, he should have just keep doing/trying what is demanded by his professor. Even if it seems like learning another useless quadratic equation, it might come in handy one day. No one said, you will never work at Google, right?
+If Bob is already attending high school, he should have just kept doing/trying what is demanded by his professor. Even if it seems like learning another useless quadratic equation, it might come in handy one day. No one said, you will never work at Google, right?
 
 In the meantime, Bob is advised to develop a daily habit of solving online coding challenges, on such websites like [HackerRank](https://www.hackerrank.com/). Below, you can find an example of your playground, with the 1st Java challenge requiring to output "Hello, World" message. As you see, every task includes a comprehensive description on the left side, which will be your book, whereas on the right side is where the magic happens. When Bob feels like his code is ready, shining bright like a diamond, he can try clicking the flashy green button "Submit Code", which runs his scribbles through series of tests to check if it works like it should for the predefined input.
 
@@ -70,7 +70,7 @@ What if Bob is feeling lost and lonely, scratching his head and wondering why th
 
 ![Discussions tab](images/hackerrank-discussions.png)
 
-Didn't I say that we learn the most by teaching others? Yes, I did, and it doesn't mean that you need to be as smart as your high school professor to be able to be able to teach others. Keep in mind that there is always someone, who doesn't know something that you know about designing Java applications, even if he is a developer with ten years of experience. Moreover, you can rest assured about understanding any topic, **if the following doesn't apply to you**:
+Didn't I say that we learn the most by teaching others? Yes, I did, and it doesn't mean that you need to be as smart as your high school professor to be able to teach others. Keep in mind that there is always someone, who doesn't know something that you know about designing Java applications, even if he is a developer with ten years of experience. Moreover, you can rest assured about understanding any topic, **if the following doesn't apply to you**:
 
 > _If you can't explain it to a six year old, you don't understand it yourself._
 >
@@ -80,7 +80,7 @@ Didn't I say that we learn the most by teaching others? Yes, I did, and it doesn
 
 ### Done is better than perfect
 
-First of all, try to become a professionalist, not a perfectionist. The difference between these two is that professionalist takes into assumption the time, delivers the best he can and accepts the last result. As such, don't waste too much time setting up your IDE theme, as soon you might switch into another one.
+First of all, try to become a professionalist, not a perfectionist. The difference between these two is that professionalist takes into account the time, delivers the best he can and accepts the last result. As such, don't waste too much time setting up your IDE theme, as soon you might switch into another one.
 
 ### Have a mentor
 
@@ -164,7 +164,7 @@ Not enough? Too much to read? Review everything in a visual form:
 
 ### I'm lazy
 
-Talk about your goals, such as I did yesterday before publishing this post. Sharing [this little picture](/images/upcoming-blog-post-instagram.jpg) on my Instagram/Facebook story pushed me more than anything else to sit down and write all that I wanted to share. Few times, I even felt into the magical flow, which is something that you should aim for while learning/doing anything, as it also means that you're doing what you love.
+Talk about your goals, such as I did yesterday before publishing this post. Sharing [this little picture](/images/upcoming-blog-post-instagram.jpg) on my Instagram/Facebook story pushed me more than anything else to sit down and write all that I wanted to share. A few times, I even fell into the magical flow, which is something that you should aim for while learning/doing anything, as it also means that you're doing what you love.
 
 How does it exactly feel, you may ask? Do you remember when you played with Lego or did coloring books as a kid? This is the state when you don't care anything else, but you're entirely focused on your craft, and you're excited about the upcoming result. It's a beauty of humankind. We all want to leave something on this earth in our short lifespan that will make us remembered. Taking a look at another pyramid: Maslow's hierarchy of needs, we can even find the demand for self-realisation.
 
