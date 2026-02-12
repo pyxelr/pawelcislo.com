@@ -33,7 +33,7 @@ Before the (hopefully) final environment transition, I spent likewise some time 
 ![Bumpy road of IDEs](images/bumpy-road-of-ides.png)
 _Bumpy road from FPC to VS Code_
 
-Driving through this rough path, most of the editors parked by the road, some continue its ride (Sublime Text, VS Code) and one is peeking through the bushes to be explored with curiosity (Vim).
+Driving through this rough path, most of the editors parked by the road, some continue their ride (Sublime Text, VS Code) and one is peeking through the bushes to be explored with curiosity (Vim).
 
 Since I frequently shared my VS Code setup with friends and co-workers, I believe that you may want to stick with me on this journey. Down there, **you should find a set of my ultimate settings, extensions, keyboard shortcuts, different tips & tricks**, which I altogether intend on keeping up to date!
 

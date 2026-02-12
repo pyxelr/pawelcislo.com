@@ -316,7 +316,7 @@ As such, what is the reason for using LaTeX instead of Microsoft Word? Well, alt
 
 - get more control and functionalities over your document
 - generate much better-looking reports, as the set of characters, is aligned with more respect to the rest of them after the compilation
-- use predefined packages and [templates](https://www.overleaf.com/latex/templates) to achieve your style in few seconds
+- use predefined packages and [templates](https://www.overleaf.com/latex/templates) to achieve your style in a few seconds
 - stand out in front of the employer by generating a [well-aligned CV](https://www.overleaf.com/latex/templates/tagged/cv)
 - avoid pirating/paying for commercial software.
 

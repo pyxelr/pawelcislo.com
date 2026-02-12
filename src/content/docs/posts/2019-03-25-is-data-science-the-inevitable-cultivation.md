@@ -453,7 +453,7 @@ Remember that ML is a field of experimentation, not philosophy.
 
 Be careful if you leave your old laptop for a longer time next to a big pile of paper that can easily catch fire 😅.
 
-In order to prevent it, you can use previously recommended Google Colaboratory and take advantage of Tensor processing unit (TPU), which is an AI accelerator application-specific integrated circuit (ASIC) specifically designed for neural networks ‘Google’s Tensor Processing Unit Explained: This Is What the Future of Computing Looks Like’. from [^7]. According to some of the researchers, with TPU you can train Keras model up to x20 times faster, completely free![^8] ‘How to Train Keras Model X20 Times Faster with TPU for Free’.
+In order to prevent it, you can use previously recommended Google Colaboratory and take advantage of Tensor processing unit (TPU), which is an AI accelerator application-specific integrated circuit (ASIC) specifically designed for neural networks[^7]. According to some of the researchers, with TPU you can train Keras model up to x20 times faster, completely free![^8]
 
 The other, more advanced solution is to set an account on Google Cloud, AWS or Microsoft Azure and create a VM instance specifically for machine learning. This way, we can flexibly rent more computing resources on the go, whenever we need them, and we can do all of these from our 10-year old laptop.
 

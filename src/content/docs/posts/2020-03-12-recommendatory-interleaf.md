@@ -37,7 +37,7 @@ Principally, the reason for my absence was a new project to tackle at a railway 
 In all this hassle, I did find some free time, which I used, for example, to scribble down my latest publication, but also to experiment with different learning methods that I am planning to describe in the upcoming posts. Nonetheless, I also had to give my mind a break and rethink my current actions and plans for the future.
 
 ![Studying Machine Learning](images/studying-machine-learning.jpg)
-_Lately, reading is one of the main activities I devoted myself into_
+_Lately, reading is one of the main activities I devoted myself to_
 
 Not to waffle on all the news, and to maintain a structured article, let's have a look at the succeeding sections.
 
@@ -51,7 +51,7 @@ As this is more of an "announcement" post, I will try to be as concise as possib
 - 🆕 \[November\] Completely new subsection on [Recommendations for Engineers](/pages/recommendations/)
 - ✍ Updated my [article on the use of Todoist](/posts/aim-for-your-goals-the-right-way/) with new projects, labels and priorities
 - ✍ Added questions and answers on the [FAQ](/pages/faq/) page. Some of the responses have been converted into the Recommendations for Engineers
-  - I've mainly explained the reason behind each of the individuals that inspires me
+  - I've mainly explained the reason behind each of the individuals that inspire me
 - ✍ More citations in the [Favourite Thoughts](/pages/favourite-thoughts/) segment
 - ✍ Redefined objectives in [Three Goals](/pages/three-goals/). Being honest, it is very challenging to keep up with all these challenges in the face of unscheduled life novelties
 - ✍ Supplementary sections on the [About Me](/) page
@@ -138,7 +138,7 @@ This part would definitely challenge my memory if I wouldn't keep track of my da
   - 📅 Last session of [_DataBeers Brussels #13_](/images/data-beers-13.jpg) this year. After the presentation, we [voted for the favourite beer](/images/data-beer-voting.jpg) of our members
   - 📚 Finished listening to _Next Steps in French with Paul Noble_ ([my review](https://www.goodreads.com/review/show/3024520857))
   - 📼 Watched [Pi (1998)](https://www.imdb.com/title/tt0138704/). How to stop thinking about algorithms now?
-  - ✍ Explained the reason behind each of the person that inspires me in the [FAQ section](/pages/faq/)
+  - ✍ Explained the reason behind each person who inspires me in the [FAQ section](/pages/faq/)
   - ✍ Published my [Recommendation for Engineers](/pages/recommendations/)
     - it managed to appear in [#unknownews](/images/recommendations-in-unknownews.jpg), which brought [a lot of visits](/images/recommendations-stats-graph.jpg) in the first 5 days from [all around the world](/images/recommendations-map.jpg)
   - ✍ Wrote a quick article for my employer on the use of Anki/SuperMemo. I'll try to rewrite it with much more details on this blog at some point

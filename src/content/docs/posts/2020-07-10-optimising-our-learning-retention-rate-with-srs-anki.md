@@ -56,7 +56,7 @@ _le efficient studying is just around the corner. Image credit: [Reddit](https:/
 
 ## What can you study with flashcards?
 
-Let me start with the fact that the use of a Spaced Repetitive Software (SRS) like Anki can be your greatest weapon while preparing for a TV shows like "_Who Wants to Be a Millionaire?_" or "_Jeopardy!_", where one player won almost $300 000[^4].
+Let me start with the fact that the use of a Spaced Repetitive Software (SRS) like Anki can be your greatest weapon while preparing for TV shows like "_Who Wants to Be a Millionaire?_" or "_Jeopardy!_", where one player won almost $300 000[^4].
 
 When it comes to me, If I am not mistaken, I started using Anki about a year ago, and it definitely wasn't consistent. Since then, I created a few decks (entire flashcard collections), but most of them were imported not only from the AnkiWeb but Quizlet and Memrise.
 
@@ -278,22 +278,22 @@ Naturally, flashcards are the heart of our study sessions, and in case I got you
   - [Statistics with R by Nicole Radziwill DataGallos](https://ankiweb.net/shared/info/1154459026) ← flashcards for the book: Statistics (The Easier Way) with R: an informal text on applied statistics
 - 23\. 🔎 RegEx
   - [RegEx – ultimate deck](https://ankiweb.net/shared/info/284568815) \[**_own deck_**\] ← all the essential RegEx snippets
-- 22\. ⌨️ Shortcuts
+- 24\. ⌨️ Shortcuts
   - [Google Search Operators](https://ankiweb.net/shared/info/1174604876) \[**_own deck_**\] ← become a Google Power User
   - [Visual Studio Code shortcuts](https://ankiweb.net/shared/info/1549461506) \[**_own deck_**\] ← Windows shortcuts from the official cheat sheet
   - [Windows 10 Keyboard Shortcuts](https://ankiweb.net/shared/info/1439005826) ← list of all Keyboard shortcuts you will ever need in Windows 10
-- 24\. 💾 SQL
+- 25\. 💾 SQL
   - [SQL Terms and Concepts](https://ankiweb.net/shared/info/827899871)
   - [SQL](https://quizlet.com/295850599/sql-flash-cards/) \[_imported from Quizlet_\]
-- 25\. 📈 Statistics
+- 26\. 📈 Statistics
 
-  - - [Introduction to Biostatistics](https://ankiweb.net/shared/info/1494347248)
+  - [Introduction to Biostatistics](https://ankiweb.net/shared/info/1494347248)
 
   - [Mathematical Statistics](https://ankiweb.net/shared/info/343559677) ← mathematical statistics from the University of Tartu class
   - [Probability Theory and Statistics (Introduction)](https://www.memrise.com/course/50045/probability-theory-and-statistics-introduction/2/?action=next) \[_imported from Memrise_\]
   - [Statistics by Brian Spiering](https://ankiweb.net/shared/info/1185285155) ← collection of Statistics flashcards, including fundamentals, Bayesian, and challenges
   - [Statistics (UGA @ Toebben)](https://ankiweb.net/shared/info/1570817330) ← cards over the in-class notes in combine with the online notes
-- 26\. 🤔 Useful to know
+- 27\. 🤔 Useful to know
   - [Chess for beginners](https://www.memrise.com/course/625713/chess-for-beginners-2/) \[_imported from Memrise_\] ← memorise figures, their attributes and solve some challenges
   - [Greek alphabet with Modern Greek pronunciation](https://ankiweb.net/shared/info/1298930846) \[**_own deck_**\] ← useful for mathematics.
 
