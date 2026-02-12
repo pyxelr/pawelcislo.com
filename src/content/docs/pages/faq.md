@@ -14,7 +14,7 @@ If you have a question that was not listed on this page, please do not hesitate 
     Briefly speaking, I enjoy writing, and I would feel unfulfilled keeping all the exciting stuff locked in my mind without sharing it with someone who might greatly benefit from it.  
 
 2. **What is your life goal/direction?**  
-    To be happy with what I do for the living and contribute as much as I can to the constantly developing world, leaving the universe in a better state in the end.  
+    To be happy with what I do for a living and contribute as much as I can to the constantly developing world, leaving the universe in a better state in the end.  
 
 3. **Your motto?**  
     _"Try to be the best version of yourself"_  
@@ -87,10 +87,10 @@ If you have a question that was not listed on this page, please do not hesitate 
     In my free time, I want to be more active on the site and start sharing more of my own creations.  
 
 12. **Favourite TV show?**  
-    I don't usually watch any TV series, but [Mr. Robot](https://www.imdb.com/title/tt4158110/) gave me a lot of a great time of reflection.  
+    I don't usually watch any TV series, but [Mr. Robot](https://www.imdb.com/title/tt4158110/) gave me a great deal of time for reflection.  
 
 13. **I want to be like you or XYZ?**  
     Don't waste your time trying to be like anyone else.  Moreover, do not compare yourself to others as you can only harm yourself this way. Let yourself have some influencers, but do not copy them. Everyone is beautiful in their being, and this is why the world can advance, by brainstorming through unique views and forming exceptional solutions.  
 
 14. **I love your content a ton! Can I support you anywhere?**  
-    You already mean a lot to me by sticking around to my online persona! However, if you're such a determined and lovely person, you can [drop me a donation on my PayPal account](https://www.paypal.me/pawelcislo/3.14).
+    You already mean a lot to me by following my online persona! However, if you're such a determined and lovely person, you can [drop me a donation on my PayPal account](https://www.paypal.me/pawelcislo/3.14).

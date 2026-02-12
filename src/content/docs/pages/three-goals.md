@@ -34,7 +34,7 @@ Besides, objectives are supported by:
 
 ## Source of influence
 
-The following list is designed entirely by taking the inspiration from **[MiroBurn](https://miroburn.pl/cele)**, whom I am following for a longer time. MiroBurn (Mirek Burnejko) is a polish entrepreneur and master of life hacking in my eyes, where one of his core principles is having long-term goals.
+The following list is designed entirely by taking the inspiration from **[MiroBurn](https://miroburn.pl/cele)**, whom I have been following for a long time. MiroBurn (Mirek Burnejko) is a Polish entrepreneur and master of life hacking in my eyes, where one of his core principles is having long-term goals.
 
 * * *
 
