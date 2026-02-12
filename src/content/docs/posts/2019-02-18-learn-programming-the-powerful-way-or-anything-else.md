@@ -116,7 +116,7 @@ Remember, don't think about long-term goals from the beginning, but divide them 
 
 Never ever blame yourself over forgetting the simplest syntax issues, like inserting a semicolon at the end of the line or including that common library at the beginning of your code. Everyone learns on failures, and this is normal.
 
-Don't rush in your learning. Nobody learned calculus in a day, but started with its the most straightforward variables, trying to understand each element of the sigma notation before developing a neural network of the entirely new architecture.
+Don't rush in your learning. Nobody learned calculus in a day, but started with the most straightforward variables, trying to understand each element of the sigma notation before developing a neural network of the entirely new architecture.
 
 ![Sigma notation](images/sigma-notation.jpg)
 _Sigma notation (example of step by step learning)_

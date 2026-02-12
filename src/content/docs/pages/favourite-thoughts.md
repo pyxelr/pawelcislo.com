@@ -42,7 +42,7 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
 > "_You are the sum of the 5 closest people you are spending most of the time with._"
 > — MiroBurn (🇵🇱)
 
-> Human change on average every 7 years.
+> Humans change on average every 7 years.
 > — own thought inspired by Maciej Aniserowicz
 
 09/06/2017
