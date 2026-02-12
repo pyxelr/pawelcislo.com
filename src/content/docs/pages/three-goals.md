@@ -7,7 +7,7 @@ date: 2018-08-18
 
 **Three Goals** is one of the most critical productivity methods. In short, the idea consists of breaking our goals/dreams into smaller stages that are easier to achieve. After completing each level, we reward ourselves with a previously specified award.
 
-I am constantly learning and exploring myself; therefore, some entries are still in the experimental phase. It means that part of the goals might be respecified or even dropped, but the most essential is their motivational aspect (strengthen by publishing them on this site).
+I am constantly learning and exploring myself; therefore, some entries are still in the experimental phase. It means that part of the goals might be respecified or even dropped, but the most essential is their motivational aspect (strengthened by publishing them on this site).
 
 * * *
 

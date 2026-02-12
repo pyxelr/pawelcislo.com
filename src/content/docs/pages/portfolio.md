@@ -41,4 +41,4 @@ For contract work, have a look at my [Résumé](/Resume-PawelCislo.pdf).
 
 * * *
 
-If you want to see more of my works, feel free to check out my: • [GitHub](https://github.com/pyxelr) • “Projects” section of my [LinkedIn](https://www.linkedin.com/in/pawelcislo/) • [FB Page](https://www.facebook.com/pawelcislocom/) / [Twitter](https://twitter.com/pawel_cislo) (for the smaller contributions).
+If you want to see more of my works, feel free to check out my: • [GitHub](https://github.com/pyxelr) • “Projects” section of my [LinkedIn](https://www.linkedin.com/in/pawelcislo/) • [FB Page](https://www.facebook.com/pawelcislocom/) / [X](https://x.com/pawel_cislo) (for the smaller contributions).

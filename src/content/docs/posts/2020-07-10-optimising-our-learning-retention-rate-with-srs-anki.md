@@ -20,7 +20,7 @@ tags:
 
 During our lifespan, we regularly study new technical or lexical skills for different projects, and this is what we'll look at - the way to enhance capabilities of the human brain.
 
-Lifelong learning has dozens of benefits, and it's not only increasing our value on the job market. According to the article from Harvard Business Review[^2], it also leaves positive aspect on our health by improving memory, offsetting cognitive decline or delaying symptoms of Alzheimer[^3]. Although it requires us to dedicate some of our time to stay alone with our studying material, in the long term, we benefit from open doors to more social circles.
+Lifelong learning has dozens of benefits, and it's not only increasing our value on the job market. According to the article from Harvard Business Review[^2], it also has a positive impact on our health by improving memory, offsetting cognitive decline or delaying symptoms of Alzheimer[^3]. Although it requires us to dedicate some of our time to stay alone with our studying material, in the long term, we benefit from open doors to more social circles.
 
 When we learn new stuff, mixing different approaches is a great strategy to stimulate our brain with more stimuli:
 
@@ -56,9 +56,9 @@ _le efficient studying is just around the corner. Image credit: [Reddit](https:/
 
 ## What can you study with flashcards?
 
-Let me start with the fact that the use of a Spaced Repetitive Software (SRS) like Anki can be your greatest weapon while preparing for TV shows like "_Who Wants to Be a Millionaire?_" or "_Jeopardy!_", where one player won almost $300 000[^4].
+Let me start with the fact that the use of a Spaced Repetition Software (SRS) like Anki can be your greatest weapon while preparing for TV shows like "_Who Wants to Be a Millionaire?_" or "_Jeopardy!_", where one player won almost $300 000[^4].
 
-When it comes to me, If I am not mistaken, I started using Anki about a year ago, and it definitely wasn't consistent. Since then, I created a few decks (entire flashcard collections), but most of them were imported not only from the AnkiWeb but Quizlet and Memrise.
+When it comes to me, if I am not mistaken, I started using Anki about a year ago, and it definitely wasn't consistent. Since then, I created a few decks (entire flashcard collections), but most of them were imported not only from the AnkiWeb but Quizlet and Memrise.
 
 So far, the cards let me:
 
@@ -149,7 +149,7 @@ After you understood the topic, here comes the time of designing your first flas
 
 | **Example of a bad card ❌** |  **Examples of good cards ✅** |
 | --- | --- |
-| Q: What are the main characteristics of Belgium? <br> A: Belgium, officially the Kingdom of Belgium, is a country in Western Europe. It is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest. It covers an area of 30,689 km2 (11,849 sq mi) and has a population of more than 11.5 million | Q: What is the official name of Belgium? <br> A: The Kingdom of Belgium <br><br> Q: In which part of Europe can we find Belgium <br> A: Western Europe <br><br> Q: Who is bordering with Belgium and from which side? <br> A: The Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest <br><br> Q: What is the area covered by Belgium (in km2 and sq mi)? <br> A: 30,689 km2 (11,849 sq mi) <br><br> Q: What is the population of Belgium (in millions)? <br> A: More than 11.5 million |
+| Q: What are the main characteristics of Belgium? <br> A: Belgium, officially the Kingdom of Belgium, is a country in Western Europe. It is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest. It covers an area of 30,689 km2 (11,849 sq mi) and has a population of more than 11.5 million | Q: What is the official name of Belgium? <br> A: The Kingdom of Belgium <br><br> Q: In which part of Europe can we find Belgium? <br> A: Western Europe <br><br> Q: Who is bordering with Belgium and from which side? <br> A: The Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest <br><br> Q: What is the area covered by Belgium (in km2 and sq mi)? <br> A: 30,689 km2 (11,849 sq mi) <br><br> Q: What is the population of Belgium (in millions)? <br> A: More than 11.5 million |
 
 In addition to simplifying the information, try to use images where possible as they will further stimulate your senses. As an example, they work great for learning a new language and finding the word for the presented image. On the other hand, if the graphic contains all the information, you can still learn from it by hiding/unhiding the right areas.
 
@@ -349,7 +349,7 @@ If you are looking to extend the functionality even further, please consider che
 - [AnkiWeb](https://ankiweb.net/shared/addons/) ← list of add-ons
 - [Awesome Anki](https://github.com/tianshanghong/awesome-anki#add-ons) GitHub repository.
 
-In case when you can't find the right add-on and have the feeling of practising your Python skills, there is a [great guide](https://addon-docs.ankiweb.net/#/) to support you with the next steps.
+In case you can't find the right add-on and have the feeling of practising your Python skills, there is a [great guide](https://addon-docs.ankiweb.net/#/) to support you with the next steps.
 
 ### AnkiDroid
 
@@ -369,7 +369,7 @@ _AnkiDroid (French card with a revealed answer)_
 
 ## I don't like Anki. What else can I use?
 
-If by any reason you don't feel like using Anki, there are other options which require less (or even zero) effort to set them up. I tried them all and used in companion to my Anki sessions, and can assure you that they mostly deliver a similar experience:
+If for any reason you don't feel like using Anki, there are other options which require less (or even zero) effort to set them up. I tried them all and used in companion to my Anki sessions, and can assure you that they mostly deliver a similar experience:
 
 - [flashcards wizardzines](https://flashcards.wizardzines.com/) ← small set of flashcards from a great blogger: Julia Evans
 - [Flashcards for Developers](https://www.flashcardsfordevelopers.com/) ← great place to practice CS, where you can also create an account to track your progress
@@ -490,7 +490,7 @@ At this time, I believe we should know why Anki rules the market. It's more user
 
 Apart from the development of SRS, SuperMemo author dedicates a lot of time into the [science behind the learning topic](http://www.super-memory.com/). To me, this website is like a hidden internet gem that goes in-depth to the nature of learning.
 
-Okay, I think it's much more than enough for you to start. My intend wasn't to make this post as something to read once and move further, but rather keep coming back to check different resources. **Please let me know in the comments section below if this is something new to you and if you will give Anki a try!**
+Okay, I think it's much more than enough for you to start. My intent wasn't to make this post as something to read once and move further, but rather keep coming back to check different resources. **Please let me know in the comments section below if this is something new to you and if you will give Anki a try!**
 
 Now, my dear digital traveller, practice what you just learned and spread the knowledge!
 

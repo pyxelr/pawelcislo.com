@@ -43,7 +43,7 @@ If you have a question that was not listed on this page, please do not hesitate 
     - [Ali Abdaal](https://aliabdaal.com/) ← for the way of staying organised and charming to his viewers. Don't know if I ever found someone more structured  
     - [Jordan B Peterson](https://jordanbpeterson.com/) ← for teaching me how to think of almost every life aspect  
     - [Gary Vaynerchuk](https://www.garyvaynerchuk.com/) ← for giving me the courage to act  
-    - [Tim Ferris](https://tim.blog/) ← for inspiring so many of us through his lifestyle  
+    - [Tim Ferriss](https://tim.blog/) ← for inspiring so many of us through his lifestyle  
     - [Grant Cardone](https://grantcardone.com/) ← for teaching me how to be fearless of business/marketing  
     - [Felix Kjellberg](https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw) ← for showing how not to take everything too seriously  
     - [Jakub Mrugalski](https://mrugalski.pl/) (🇵🇱) ← for sharing all the engaging content and showing the right approach to interact with the online community  

@@ -30,7 +30,7 @@ _Gary Vee on stage!_
 
 Let us start with summarising the core program of the day. My personal agenda would include much more activities (like waking up at 3 am for the bus 😴, ouch!); however, let's focus on the general timetable).
 
-The agenda of the entire conference can be summarised into the 13 different presentations. All of the information can also be found on the [official website of the event](http://www.wbexp.pl); however, I have let myself to write it again, presenting only the presentation parts (pure fruit flesh of the day) and translating their titles (at the moment of writing this post, the 🇺🇸 version of the website returns my best friend - 404).
+The agenda of the entire conference can be summarised into the 13 different presentations. All of the information can also be found on the [official website of the event](http://www.wbexp.pl); however, I have allowed myself to write it again, presenting only the presentation parts (pure fruit flesh of the day) and translating their titles (at the moment of writing this post, the 🇺🇸 version of the website returns my best friend - 404).
 
 1. **Grzegorz Turniak** - Short networking session ← not exactly presentation, but a short introduction
 2. **Paweł Danielewski** - "Small changes which are producing great results immediately. Marketing technologies for the 21st century"
