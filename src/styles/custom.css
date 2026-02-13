@@ -1,0 +1,26 @@
+/* Custom theme colors */
+:root {
+	--sl-color-accent-low: #073a3e;
+	--sl-color-accent: #1accd8;
+	--sl-color-accent-high: #a8f0f5;
+}
+
+:root[data-theme='light'] {
+	--sl-color-accent-low: #b2e8ed;
+	--sl-color-accent: #148991;
+	--sl-color-accent-high: #0a4448;
+}
+
+/* Avatar float right */
+.avatar-right {
+	float: right;
+	margin: 0 0 1rem 1.5rem;
+	max-width: 180px;
+	border-radius: 8px;
+}
+
+/* Portfolio metadata (tags, year, status) */
+.meta {
+	color: var(--sl-color-gray-3);
+	font-size: 0.85em;
+}

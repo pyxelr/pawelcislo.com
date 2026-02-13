@@ -1,0 +1,85 @@
+---
+const { entry, editUrl } = Astro.locals.starlightRoute;
+const title = entry.data.title;
+const slug = entry.slug;
+
+// Check if this is a blog post or resources page
+const isPost = slug.startsWith('posts/');
+const resourcePages = ['pages/recommendations', 'pages/favourite-thoughts', 'pages/three-goals', 'pages/faq'];
+const isResourcePage = resourcePages.includes(slug);
+const showMeta = isPost || isResourcePage;
+
+// Get the original creation date for blog posts
+const postDate = isPost && entry.data.date ? new Date(entry.data.date) : null;
+
+// Get the raw content body to calculate words
+let wordCount = 0;
+let readingTime = 0;
+
+if (showMeta && entry.body) {
+	// Strip markdown/HTML and count words
+	const text = entry.body
+		.replace(/```[\s\S]*?```/g, '') // Remove code blocks
+		.replace(/`[^`]*`/g, '') // Remove inline code
+		.replace(/!?\[.*?\]\(.*?\)/g, '') // Remove links/images
+		.replace(/<[^>]*>/g, '') // Remove HTML tags
+		.replace(/[#*_~>`-]/g, '') // Remove markdown symbols
+		.replace(/\s+/g, ' ') // Normalize whitespace
+		.trim();
+	
+	wordCount = text.split(/\s+/).filter(word => word.length > 0).length;
+	readingTime = Math.ceil(wordCount / 200);
+}
+---
+
+<div class="page-title-wrapper">
+	<h1 id="_top">{title}</h1>
+	{editUrl && (
+		<a href={editUrl} class="edit-link-top" target="_blank" rel="noopener noreferrer" title="Edit page">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M17 3a2.85 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5Z"/>
+				<path d="m15 5 4 4"/>
+			</svg>
+		</a>
+	)}
+</div>
+
+{showMeta && (
+	<p class="page-meta">
+		{postDate && (
+			<><time datetime={postDate.toISOString()}>{postDate.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' })}</time> · </>
+		)}
+		{readingTime} min read · {wordCount} words
+	</p>
+)}
+
+<style>
+	.page-title-wrapper {
+		display: flex;
+		align-items: flex-start;
+		justify-content: space-between;
+		gap: 1rem;
+	}
+	h1 {
+		margin: 0;
+	}
+	.edit-link-top {
+		flex-shrink: 0;
+		padding: 0.25rem;
+		color: var(--sl-color-gray-3);
+		transition: color 0.2s ease;
+		margin-top: 1.25rem;
+	}
+	.edit-link-top:hover {
+		color: var(--sl-color-white);
+	}
+	.edit-link-top svg {
+		display: block;
+	}
+	.page-meta {
+		color: var(--sl-color-gray-3);
+		font-size: 0.9em;
+		margin-top: 0.5rem;
+		margin-bottom: 1rem;
+	}
+</style>

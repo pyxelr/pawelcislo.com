@@ -5,13 +5,18 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
+    "sync:recommendations": "node scripts/sync-recommendations.mjs",
+    "prebuild": "node scripts/sync-recommendations.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.36.1",
-    "astro": "^5.15.1",
+    "@astrojs/rss": "^4.0.15",
+    "@astrojs/starlight": "^0.37.6",
+    "astro": "^5.17.1",
+    "rehype-katex": "^7.0.1",
+    "remark-math": "^6.0.0",
     "sharp": "^0.34.4"
   }
 }

@@ -1,5 +1,6 @@
 ---
-title: "The Potential of Perspicuous Writing"
+title: "#10 – The Potential of Perspicuous Writing"
+slug: posts/the-potential-of-perspicuous-writing
 date: 2019-07-28
 categories: 
   - "lifestyle"
@@ -14,10 +15,9 @@ tags:
   - "tutorial"
   - "writing"
   - "zotero"
-coverImage: "WritingCover.png"
 ---
 
-![](images/WritingBackground.png)
+![](images/writing-background.png)
 
 **Writing is one of the most extreme skills anyone can possess, and if you learn how to use it competently, there will be no lexical battle on your way to lose. Therefore, why isn't that so apparent to most of us?**
 
@@ -29,9 +29,13 @@ The topic of writing popped in my mind mainly through Jordan Peterson – Canadi
 
 First and foremost, the psychologist tries to shape the real purpose of writing, unlike the one generally applied in schools, where we are usually told that it will result in a better grade, thanks to which our parents will be happy. Being more rational, it is writing, through which ultimately we can win arguments, get a pay rise or write better code and documentation so that newcomers could overtake the development.
 
-Nonetheless, let's not stop on generalised logical/material benefits and extend the value of writing based on the example of writing an essay. To express it in a single sentence: the primary reason to write an essay is so that the writer can formulate and organise an informed, coherent and sophisticated set of ideas about something important.\[ref\]Peterson, J. (2017) ‘Essay Writing Guide’. \[online\] available from <[https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay\_Writing\_Guide.docx](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)\>\[/ref\]
+Nonetheless, let's not stop on generalised logical/material benefits and extend the value of writing based on the example of writing an essay. To express it in a single sentence: the primary reason to write an essay is so that the writer can formulate and organise an informed, coherent and sophisticated set of ideas about something important.[^1]
 
-\[caption id="attachment\_2053" align="aligncenter" width="367"\]![](images/Writing_as_a_weapon.png) "_If you can think and speak and write, you are absolutely deadly (…) It’s the most powerful weapon you can possibly provide someone with (…) those people, you don’t want to have an argument with them, they will just slash you into pieces_." ~ [Jordan Peterson](https://youtu.be/bfDOoADCfkg?t=120)\[/caption\]
+![Writing as a weapon](images/writing-as-a-weapon.png)
+
+> _If you can think and speak and write, you are absolutely deadly (…) It’s the most powerful weapon you can possibly provide someone with (…) those people, you don’t want to have an argument with them, they will just slash you into pieces._
+>
+> — [Jordan Peterson](https://youtu.be/bfDOoADCfkg?t=120)
 
 This everything might sound pretty smart, but can we think of a broader rationale? After some time of quiet contemplation, I bet we might come up with a few additional reasons behind writing:
 
@@ -40,21 +44,31 @@ This everything might sound pretty smart, but can we think of a broader rational
 - the person who can formulate and communicate the best argument almost always wins
 - the Romans built buildings, and the Romans and the buildings are both gone. The Jews wrote a book, and they are still here, and so is the book. So it turns out that words may well last longer than stone, and have more impact than whole empires
 - if you learn to write and to edit, you will also be able to tell the difference between good ideas, intelligently presented, and bad ideas put forth by murky and unskilled thinkers
-- you will be healthier physically and mentally, as lack of clarity means unnecessary stress.\[ref\]Peterson, J. (2017) ‘Essay Writing Guide’. \[online\] available from <[https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay\_Writing\_Guide.docx](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)\>\[/ref\]
+- you will be healthier physically and mentally, as lack of clarity means unnecessary stress.[^1]
 
 To strengthen out everything you just read, I encourage you to spend 4 minutes of your time with the following clip:
 
-\[embedyt\] https://www.youtube.com/watch?v=bfDOoADCfkg&width=450&height=253&centervid=1\[/embedyt\]
-
- 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/bfDOoADCfkg"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 Now, before we talk about a highly correlated form of communication, take into consideration that the goal of this post isn't to hail writing to be the one and only skill to handle logical conversations. For instance, without a basic understanding of math (some algebra and statistics), you might be fooled not even once by retailers and online news.
 
-### Speak, speak, speak!
+### Speak, speak, speak
 
-Speaking is something I don't feel particularly good with; hence, I profoundly supported this part with a popular TED talk "_How to speak so that people want to listen_" given by Julian Treasure.\[ref\]Treasure, J. (2013) _How to Speak so That People Want to Listen_ \[online\] available from <[https://www.ted.com/talks/julian\_treasure\_how\_to\_speak\_so\_that\_people\_want\_to\_listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)\>\[/ref\].
+Speaking is something I don't feel particularly good with; hence, I profoundly supported this part with a popular TED talk "_How to speak so that people want to listen_" given by Julian Treasure.[^2]
 
-\[caption id="attachment\_2011" align="aligncenter" width="645"\]![](images/public_speaking.jpg) "_Well-timed silence hath more eloquence than speech._" ~ Martin Tupper\[/caption\]
+![Public speaking](images/public-speaking.jpg)
+
+> "_Well-timed silence hath more eloquence than speech._"
+>
+> — Martin Tupper
 
 This form of communication is merely an oral representation of writing, where the way we use our voice may deliver a message completely different from our intention. In addition to the sound, body expressions pay even more importance if we have a chance to see our conversation partner. Nowadays, in order not to lose these techniques in the written form of communication, some of us try to portray the vocal/body expressions in the form of pictorial representations, such as emoticons or emojis. ;)
 
@@ -77,15 +91,21 @@ I bet you do, not only by looking at yourself but a large part of your daily env
 
 But even more importantly, it's not just about what you say, but how you say it. Improving your vocal techniques can't be easily summarised with words; therefore, I wish you a great 5 minutes of your time with the 2nd part of Julian's performance \[04:23 – 09:58\]:
 
-\[embedyt\] https://www.youtube.com/watch?v=eIho2S0ZahI&start=263&width=450&height=253&centervid=1\[/embedyt\]
-
- 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/eIho2S0ZahI?start=263"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 ## Editorial tips in 10 steps
 
-Coming back to the merits of this post (writing), it's worth to have an ultimate template which would improve the quality of our work. The following steps are mainly a summary of Peterson's essay writing guide ([available on his website](https://docs.google.com/viewer?url=http%3A%2F%2Fjordanbpeterson.com%2Fwp-content%2Fuploads%2F2018%2F02%2FEssay_Writing_Guide.docx)), with slight modification, including my suggestions. In general, the entire manual is based on the iteration process through our report, until the moment of achieving the supreme state.
+Coming back to the merits of this post (writing), it's worth having an ultimate template which would improve the quality of our work. The following steps are mainly a summary of Peterson's essay writing guide ([available on his website](https://docs.google.com/viewer?url=http%3A%2F%2Fjordanbpeterson.com%2Fwp-content%2Fuploads%2F2018%2F02%2FEssay_Writing_Guide.docx)), with slight modification, including my suggestions. In general, the entire manual is based on the iteration process through our report, until the moment of achieving the supreme state.
 
-![](images/10-Writing-Steps.png)
+![](images/10-writing-steps.png)
 
 1. **P1: Method of work (apply before writing)**
     - have a quiet place to work
@@ -161,29 +181,29 @@ Coming back to the merits of this post (writing), it's worth to have an ultimate
 10. **P10: References and bibliography**
     - fact/informed opinion picked from something you read, should be referenced
     - it's recommended to use a specific citation software (discussed in the further part of this post)
-    - otherwise, you might be accused of plagiarism.\[ref\]Peterson, J. (2017) ‘Essay Writing Guide’. \[online\] available from <[https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay\_Writing\_Guide.docx](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)\>\[/ref\]
+    - otherwise, you might be accused of plagiarism.[^1]
 
 ### The way I write blog posts
 
-![](images/adding_new_posts.png)
+![](images/adding-new-posts.png)
 
 Let's make it clear that I do not always follow the 10 steps presented above, but I do keep them in mind. Don't take anyone's approach for granted, yet keep to yourself the ideas you value the most.
 
-While creating this blog last year, I end up writing [several ideas for my upcoming posts](https://pawelcislo.com/wp-content/uploads/2018/09/Post-ideas.png). At that time, some of them were dropped, some are still waiting, and some of them were combined into single great topics.
+While creating this blog last year, I ended up writing [several ideas for my upcoming posts](/images/post-ideas.png). At that time, some of them were dropped, some are still waiting, and some of them were combined into single great topics.
 
 The topic you're reading now came to me as inspiration from a Facebook post of my friend, the other in the middle of a call, and the rest mostly from random walking/reflection sessions. My recommendation would be not to push yourself too much as the best inspirations tend to come in the most unpredictable moments.
 
 After I got a problem I would like to cover; I usually start with defining my table of contents in the form of bullet points:
 
 - _topic 1_
-    - _subtopic 1_
-        - _subsubtopic 1_
-        - _subsubtopic 2_
-        - _subsubtopic 3_
-    - _subtopic 2_
-        - _subsubtopic 1_
+  - _subtopic 1_
+    - _subsubtopic 1_
+    - _subsubtopic 2_
+    - _subsubtopic 3_
+  - _subtopic 2_
+    - _subsubtopic 1_
 - _topic 2_
-    - _subtopic 1_
+  - _subtopic 1_
 - _topic 3_
 
 The points typically go through high modification process as I finally perform my first keystrokes. Sometimes, I also include comments (notes) under the bullet points, preceded by // characters (probably a leftover from my C++ classes).
@@ -192,19 +212,20 @@ Another part that is profoundly important and takes a lot of my time is the prep
 
 ## The merit of reading
 
-Reading is like sharping a sword before fighting. It doesn't only teach us different forms of communications and new words, but above all, it's a universal source to be more aware of our surroundings. You cannot expect to write trustworthy researches without reading several scientific papers and referencing them in your work.
+Reading is like sharpening a sword before fighting. It doesn't only teach us different forms of communications and new words, but above all, it's a universal source to be more aware of our surroundings. You cannot expect to write trustworthy researches without reading several scientific papers and referencing them in your work.
 
-![](images/Audiobooks-1024x557.png)
+![](images/audiobooks.png)
 
-After leaving your university you might be more flexible in terms of choosing your literature, therefore give it a try. Don't stay behind, as according to the latest research, people aren't reading less, since "_typical (median) American has read four books in the past 12 months_".\[ref\]Kerri, J. (2018) ‘How Many Books Did The Average American Read In The Last Year? This New Study May Surprise You’. \[19 April 2018\] available from <[https://www.bustle.com/p/how-many-books-did-the-average-american-read-in-the-last-year-this-new-study-may-surprise-you-8837851](https://www.bustle.com/p/how-many-books-did-the-average-american-read-in-the-last-year-this-new-study-may-surprise-you-8837851)\>\[/ref\] Surprising? I don't think so.
+After leaving your university you might be more flexible in terms of choosing your literature, therefore give it a try. Don't stay behind, as according to the latest research, people aren't reading less, since "_typical (median) American has read four books in the past 12 months_".[^3] Surprising? I don't think so.
 
 Just as you might have guessed from the image above, it's listening that can let us read so many books from our overgrowing waiting list. As an example, last week I finished a 224 pages book in 5 days, only by using a part of the time I need to commute to my work. You can try various types of fiction and non-fiction, and it even turns out from my experience, that you can touch technical topics through audiobooks. However, when the book is heavily technical (such as consolidating programming/mathematical snippets), then I would advise reaching for a hardcover or e-book, where it's much easier to take notes.
 
 In the end, make sure not to end up on continuous yet vacant book consumption. Don't rely on taking notes and leaving them for later with the idea that you might end up using it one day. Apart from summarising the book in your own words, try to take the stuff you learned into action immediately. Experiment if it works out in your life and give a greater sense to reading!
 
-Apart from reading, I can give you an honest recommendation to try [Elevate app](https://www.elevateapp.com/), which is full of games that will improve your English vocabulary to a highly professional level. At first, try the free version, and if you like it, you can decide funding yourself a premium account.
+Apart from reading, I can give you an honest recommendation to try [Elevate app](https://www.elevateapp.com/), which is full of games that will improve your English vocabulary to a highly professional level. At first, try the free version, and if you like it, you can decide on funding yourself a premium account.
 
-\[caption id="attachment\_1974" align="aligncenter" width="262"\]![](images/Elevate_screenshot-498x1024.jpg) Elevate's "memory" game\[/caption\]
+![Elevate screenshot](images/elevate-screenshot.jpg)
+_Elevate's "memory" game_
 
 ## Researching Scientific Papers
 
@@ -213,7 +234,7 @@ We wouldn't achieve all the technological advancement of our society if we weren
 Once we are fully aware of questioning the authority, we don't need to get out to the nearest library, but we can find all the required material online. There are various services; therefore, I can guide you to the most helpful resources I found during my research at the university:
 
 - [arXiv](https://arxiv.org/) ← open access to the scientific papers
-    - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) ← web interface that attempts to tame the overwhelming flood of papers on Arxiv
+  - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) ← web interface that attempts to tame the overwhelming flood of papers on Arxiv
 - [DOAJ](https://doaj.org/) ← directory of open access journals
 - [Google Scholar](https://scholar.google.com/) ← web search engine that indexes the full text or metadata of scholarly literature
 - [JSTOR](https://www.jstor.org/) ← access to more than 12 million academic journal articles, books, and primary sources in 75 disciplines
@@ -225,13 +246,14 @@ Once we are fully aware of questioning the authority, we don't need to get out t
 
 As at this time, many research papers are artificially restricted by copyright laws, you might quickly run out of money (especially if you're a student) during your thesis. I am not suggesting anything, but there is a friendly service: [Sci-Hub](https://sci-hub.now.sh/), that can help you with that, if you provide him with a specific document ID, such as digital object identifier (DOI). ;)
 
-\[caption id="attachment\_2015" align="aligncenter" width="770"\]![](images/SciHub-1024x576.png) Sci-Hub – saviour of the poor students' life\[/caption\]
+![SciHub](images/scihub.png)
+_Sci-Hub – saviour of the poor students' life_
 
 Moving on to the next chapter, we will discuss what do with all the accumulated material, reviewed with the help of dozens of coffee mugs and loads of chocolate.
 
 ### Is there a "database" for all my papers?
 
-It is worth to learn from the mistakes, and here you can learn on mine. Before writing any essay, make sure you have your citation tool open on the side and ready to roll. It will help you in many ways:
+It is worth learning from the mistakes, and here you can learn from mine. Before writing any essay, make sure you have your citation tool open on the side and ready to roll. It will help you in many ways:
 
 - you won't get lost in the pile of papers (even if you think that citing a few of them is enough, still go with the tool, as the situation might quickly evolve)
 - you will always use the right style/syntax required by your educational institution. No more missing commas, hyphens and apostrophes
@@ -241,7 +263,8 @@ Now, what about utilising the goods of technology to store all the papers in a s
 
 At the end of my master's thesis, I discovered [Zotero](https://www.zotero.org/) (open-source, cross-platform application). Huge thanks to the community of HackerNews, where I heard about it, unfortunately, a little bit late. The program functions admirably and provides even more features than some of the premium tools on this market. You can save up a lot of metadata, have it automatically filled for you (with a [Chrome extension](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc)), and most importantly, you don't need to worry that one day the host will decide taking out all of your storage.
 
-\[caption id="attachment\_1940" align="aligncenter" width="1170"\]![](images/Zotero.png) Example of massive research organised in [Zotero](https://www.zotero.org/)\[/caption\]
+![Zotero](images/zotero.png)
+_Example of massive research organised in [Zotero](https://www.zotero.org/)_
 
 If you can't install anything on your machine, you can also try the lighter/more primitive web version: [ZoteroBib](https://zbib.org/). The web application seems not to have an option to register your account and store your sessions, but there is a workaround. Cache files of your browser should save the data themselves, but I would suggest you not to trust your web browser, but create a "_Link to this version_". You can find this function on the main web page if you scroll down a little bit. Afterwards, keep a good note of the URL.
 
@@ -253,7 +276,8 @@ These days, you don't need to worry as much about typos, nor about handling your
 
 My favourite one – [Grammarly](https://www.grammarly.com/). All my university assignments have been validated with this tool and nowadays, likewise, my blog posts. Still, there might be some typos and grammar issues, but it's clearly more readable. Since last time, Grammarly is worth even more attention, as the developers included readability score and the way to verify your text based on correctness, clarity, engagement and delivery. Moreover, before commencing to compose the document, you can specify its intent effortlessly.
 
-\[caption id="attachment\_1945" align="aligncenter" width="455"\]![](images/Grammarly-Goals.png) Maybe now there's hope if you're bad at entertaining the audience?\[/caption\]
+![Grammarly Goals](images/grammarly-goals.png)
+_Maybe now there's hope if you're bad at entertaining the audience?_
 
 I tend to use Grammarly mostly in the form of Microsoft Word add-on, but including it as a browser extension also saves you from lots of errors. Sometimes, I also tend to use it merely through the official online app, as it guarantees the best support and performance. Moreover, if you have the budget, I recommend giving the premium version a chance, but before, try to seek out some discount coupons, especially on Cyber Monday.
 
@@ -267,13 +291,14 @@ Apart from the aforementioned tools, you can also reach out for:
 
 Oh, and remember! Just as machine learning algorithms, the proofreading tools aren't 100% right, so that keep your mind fresh while applying the suggested corrections!
 
-### Okay, but my dictionary is poor...
+### Okay, but my dictionary is poor
 
 According to the guide, there is no need to overcomplex your craft, particularly if you're aiming toward a mass audience. However, if you would like to apply some exoticism into your script (such as I am doing in this paragraph 😎), you can help yourself by looking up for synonyms at all times.
 
 Traditionally in Word, you can find a thesaurus dictionary, solely by right-clicking the term you would like to exchange, so to maintain some variance in your vocabulary range. Besides, you can always reach for [Thesaurus web service](https://www.thesaurus.com/) and get a more comprehensive view.
 
-\[caption id="attachment\_1954" align="aligncenter" width="725"\]![](images/you_re_fired.png) oopsie\[/caption\]
+![You're fired](images/you-re-fired.png)
+_oopsie_
 
 Apart from Thesaurus, I tend to find even more synonyms, by merely typing down the phrase in [Google Translate](https://translate.google.com/), but you can also take advantage of previously discussed Grammarly by simply double-clicking the right set of characters.
 
@@ -291,7 +316,7 @@ As such, what is the reason for using LaTeX instead of Microsoft Word? Well, alt
 
 - get more control and functionalities over your document
 - generate much better-looking reports, as the set of characters, is aligned with more respect to the rest of them after the compilation
-- use predefined packages and [templates](https://www.overleaf.com/latex/templates) to achieve your style in few seconds
+- use predefined packages and [templates](https://www.overleaf.com/latex/templates) to achieve your style in a few seconds
 - stand out in front of the employer by generating a [well-aligned CV](https://www.overleaf.com/latex/templates/tagged/cv)
 - avoid pirating/paying for commercial software.
 
@@ -299,29 +324,30 @@ This list could go on and on, so if you would like to know more pros over MS Wor
 
 In general, the reason to type documents in LaTeX increases with the complexity of your documents.
 
-![](images/word_vs_latex.png)
+![](images/word-vs-latex.png)
 
 ### Set of LaTeX resources 🛠
 
 If you feel like convinced to give it a try, but you're not sure where to start, please check the list of the following tutorials, links and tools to ease your way:
 
 - Tutorials
-    - [Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1) ← 3 part presentations from Dr John Lees-Miller (recommended by Overleaf team)
-    - [LaTeX Tutorial in a single 1h video](http://www.newthinktank.com/2019/01/latex-tutorial/) ← presented by Derek Banas
-    - [LaTeX.md](https://github.com/virgili0/Virgilio/blob/master/Tools/Latex.md) ← short introduction to LaTeX in a popular GitHub repo
-    - [Minimal examples of LaTeX with overleaf (v2)](https://www.youtube.com/playlist?list=PLnC5h3PY-znyDQKn3knfXfekZLgWyL7QW) ← YouTube tutorial by Dr Vincent Knight (recommended by Overleaf team)
-        - [Text version of the tutorial](https://vknight.org/tex/)
-    - [LaTeX Cheat Sheet](https://wch.github.io/latexsheet/latexsheet.pdf)
-    - [LaTeX Notes for Professionals book](http://books.goalkicker.com/LaTeXBook/) ← free e-book
+  - [Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1) ← 3 part presentations from Dr John Lees-Miller (recommended by Overleaf team)
+  - [LaTeX Tutorial in a single 1h video](http://www.newthinktank.com/2019/01/latex-tutorial/) ← presented by Derek Banas
+  - [LaTeX.md](https://github.com/virgili0/Virgilio/blob/master/Tools/Latex.md) ← short introduction to LaTeX in a popular GitHub repo
+  - [Minimal examples of LaTeX with overleaf (v2)](https://www.youtube.com/playlist?list=PLnC5h3PY-znyDQKn3knfXfekZLgWyL7QW) ← YouTube tutorial by Dr Vincent Knight (recommended by Overleaf team)
+    - [Text version of the tutorial](https://vknight.org/tex/)
+  - [LaTeX Cheat Sheet](https://wch.github.io/latexsheet/latexsheet.pdf)
+  - [LaTeX Notes for Professionals book](http://books.goalkicker.com/LaTeXBook/) ← free e-book
 - General links
-    - \[su\_highlight background="#dceced"\][Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)\[/su\_highlight\] ← probably the only link I should include in the set of these bullet points
-    - [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
-    - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks) ← best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab
+  - **[Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)** ← probably the only link I should include in the set of these bullet points
+  - [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+  - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks) ← best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab
 - Tools
-    - [Mathpix Snip](https://mathpix.com/) ← convert images to LaTeX by capturing your screen
-    - \[su\_highlight background="#dceced"\][Overleaf](https://www.overleaf.com/)\[/su\_highlight\] ← online LaTeX editor, recommended not only for the beginners.
+  - [Mathpix Snip](https://mathpix.com/) ← convert images to LaTeX by capturing your screen
+  - **[Overleaf](https://www.overleaf.com/)** ← online LaTeX editor, recommended not only for the beginners.
 
-\[caption id="attachment\_1989" align="aligncenter" width="1024"\]![](images/Overleaf-editor-1024x683.png) Overleaf makes it fairly easy to start with LaTeX. You can auto compile your work to get an instant preview of the document and even collaborate with others on the same file!\[ref\] Overleaf (2018) ‘Try out Overleaf V2’. \[1 May 2018\] available from <[https://www.overleaf.com/blog/641-try-out-overleaf-v2](https://www.overleaf.com/blog/641-try-out-overleaf-v2)\>\[/ref\] ([click here to enlarge the picture in a new tab](https://pawelcislo.com/wp-content/uploads/2019/07/Overleaf-editor.png))\[/caption\]
+![Overleaf editor](images/overleaf-editor.png)
+_Overleaf makes it fairly easy to start with LaTeX. You can auto compile your work to get an instant preview of the document and even collaborate with others on the same file![^4]_
 
 ## Additional learning material
 
@@ -341,3 +367,13 @@ Moreover, in this post, I didn't tackle the highly correlated topic of asking an
 If you would like to know more about the topic, check out the guide of "[How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)" by Eric Raymond.
 
 Right, it's time to end this long deliberation. I firmly believe that if you read everything carefully, you must have taken out something that influenced you to be more interested in the topic of writing. Don't hesitate to share your reflections down in the comments, and suggest your tips on this marvellous talking point. Let everyone learn and spread the passion for writing! ❤✍
+
+## References
+
+[^1]: Peterson, J. (2017) 'Essay Writing Guide'. [online] available from <https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx>
+
+[^2]: Treasure, J. (2013) _How to Speak so That People Want to Listen_ [online] available from <https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen>
+
+[^3]: Kerri, J. (2018) 'How Many Books Did The Average American Read In The Last Year? This New Study May Surprise You'. [19 April 2018] available from <https://www.bustle.com/p/how-many-books-did-the-average-american-read-in-the-last-year-this-new-study-may-surprise-you-8837851>
+
+[^4]: Overleaf (2018) 'Try out Overleaf V2'. [1 May 2018] available from <https://www.overleaf.com/blog/641-try-out-overleaf-v2>

@@ -1,5 +1,6 @@
 ---
-title: "Is modern business complicated? My summary of the World Business Experience conference in Warsaw"
+title: "#3 – Is modern business complicated? My summary of the World Business Experience conference in Warsaw"
+slug: posts/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw
 date: 2018-09-30
 categories: 
   - "overtime"
@@ -8,28 +9,28 @@ tags:
   - "marketing"
   - "wbe"
   - "worldbusinessexperience"
-coverImage: "Aim-for-your-Goals-the-Right-Way__thumbnail.png"
 ---
 
-![Is Modern Business Complicated (background)](images/Is-Modern-Business-Complicated-background.png)
+![Is Modern Business Complicated (background)](images/is-modern-business-complicated-background.png)
 
 **Staying up-to-date with all the business aspects and at the same time trying to be innovative is quite a big challenge. Nowadays, the same applies to all the students, where the majority of graduates carries a higher academic degree, but struggles standing out in the eyes of recruiters. If so, how to win this game?**
 
 ## Introduction
 
-Business & Technology. Last time, these two terms stick to each other more than ever before, such that it became a standard for every university to offer "Business Intelligence" modules. We all know that the world moves faster than ever before, creating a more rapid variation of Moore's law\[ref\]Moore, G.E. (1998) ‘Cramming More Components Onto Integrated Circuits’. Proceedings of the IEEE 86 (1), 82–85\[/ref\]. So, how to stick to the current trends in order to prevent the failure or rise from it like Phoenix from the ashes? Well... first of all, we should hack our mind and start thinking how not to stick to the trends, but be ahead of the competition.
+Business & Technology. Last time, these two terms stick to each other more than ever before, such that it became a standard for every university to offer "Business Intelligence" modules. We all know that the world moves faster than ever before, creating a more rapid variation of Moore's law[^1]. So, how to stick to the current trends in order to prevent the failure or rise from it like Phoenix from the ashes? Well... first of all, we should hack our mind and start thinking how not to stick to the trends, but be ahead of the competition.
 
-In the thumbnail/background image of this post, you may have noticed the term "[World Business Experience](http://www.wbexp.pl) (WBE)". Sounds intriguing, but what is it? Three days ago (27/09/2018) I have attended the all-day conference in Warsaw (🇵🇱), that did cost a little bit (~208 €), but just as every attendant, I will never regret spending any money for that time. The main star of the WBE was no one else but [Gary Vaynerchuk](https://www.garyvaynerchuk.com/) who was preceded with dozens of different stories from other business winners. All of the presenters were so great that I had come home with a quite considerable pile of notes ([pic](https://pawelcislo.com/wp-content/uploads/2018/09/WBE-Notes.jpg)), that I am trying to digitalise here, leaving the most fundamental framework.
+In the thumbnail/background image of this post, you may have noticed the term "[World Business Experience](http://www.wbexp.pl) (WBE)". Sounds intriguing, but what is it? Three days ago (27/09/2018) I have attended the all-day conference in Warsaw (🇵🇱), that did cost a little bit (~208 €), but just as every attendant, I will never regret spending any money for that time. The main star of the WBE was no one else but [Gary Vaynerchuk](https://www.garyvaynerchuk.com/) who was preceded with dozens of different stories from other business winners. All of the presenters were so great that I had come home with a quite considerable pile of notes ([pic](/images/wbe-notes.jpg)), that I am trying to digitalise here, leaving the most fundamental framework.
 
 Why did I decide to show up at the conference? What did I learn? What tools might help you with your business? My answer to all of these and more questions will be down below. Have a great time reading! 😉
 
-\[caption id="attachment\_946" align="aligncenter" width="4032"\]![Gary Vee on stage!](images/Gary-Vee-on-stage.jpg) Gary Vee on stage! ([enlarge the image](https://pawelcislo.com/wp-content/uploads/2018/09/Gary-Vee-on-stage.jpg))\[/caption\]
+![Gary Vee on stage!](images/gary-vee-on-stage.jpg)
+_Gary Vee on stage!_
 
 ## Agenda
 
-Let us start with summarising the core program of the day. My personal agenda would include much more activities (like waking up at 3 am for the bus 😴, ouch!); however, let's focus on the general timetable).
+Let us start with summarising the core program of the day. My personal agenda would include much more activities (like waking up at 3 am for the bus 😴, ouch!); however, let's focus on the general timetable.
 
-The agenda of the entire conference can be summarised into the 13 different presentations. All of the information can also be found on the [official website of the event](http://www.wbexp.pl); however, I have let myself to write it again, presenting only the presentation parts (pure fruit flesh of the day) and translating their titles (at the moment of writing this post, the 🇺🇸 version of the website returns my best friend - 404).
+The agenda of the entire conference can be summarised into the 13 different presentations. All of the information can also be found on the [official website of the event](http://www.wbexp.pl); however, I have allowed myself to write it again, presenting only the presentation parts (pure fruit flesh of the day) and translating their titles (at the moment of writing this post, the 🇺🇸 version of the website returns my best friend - 404).
 
 1. **Grzegorz Turniak** - Short networking session ← not exactly presentation, but a short introduction
 2. **Paweł Danielewski** - "Small changes which are producing great results immediately. Marketing technologies for the 21st century"
@@ -55,14 +56,18 @@ The only part which I didn't like in the entire conference was in the beginning.
 
 The other thing that was the saddest to hear during the entire day was: "Networking is not for fun, but for money". Afterwards, Grzegorz asked if we planned any goals for this day, such as "I will make 10 more contacts", or the better one "I will look for as much inspiration as possible". Yes, it is good to plan your day, but I don't think that you should focus on numbers but quality when it comes to networking. I am mentioning all of that as this is one of the reasons why small businesses fail.
 
-\[su\_quote cite="Own idea"\]Keeping relations with people in your business just for the money may work in short, but not the long-term.\[/su\_quote\]
+> _Keeping relations with people in your business just for the money may work in short, but not the long-term._
+>
+> — Own idea
 
-Thinking about what I just scribbled down, you might see, that the previous problem indicates that people do not plan their goals for years ahead. You might get inspired by visiting my "[Three Goals](https://pawelcislo.com/three-goals/)" section on this website, where I encourage you to implement something similar. You might even copy my goals, and see how strong is your patience. Even if the goal sounds stupid, it might give you a significant advancement over your **regularity**.
+Thinking about what I just scribbled down, you might see, that the previous problem indicates that people do not plan their goals for years ahead. You might get inspired by visiting my "[Three Goals](/pages/three-goals/)" section on this website, where I encourage you to implement something similar. You might even copy my goals, and see how strong is your patience. Even if the goal sounds stupid, it might give you a significant advancement over your **regularity**.
 
 **Patience** is another factor commonly mentioned by Gary Vee, together with **gratitude**, **passion** and **happiness**. You see, if you combine all of these, meaning that you work on something that makes you happy and keeps you focused, you need to stick to it. Master that skill and don't stop on your failures as everyone has to face them one day. Remember, without them, you will never learn. Moreover, **don't look for encouragement** from others and do what you like. **Don't be scared** of what others will think. **People hate change**, as we are taught in schools to follow the given rules in order to be safe and harmless to the world. Without a drastic transformation, you might at most be given a chance to live better by winning a lottery (but even that requires some effort to be in the prize pool). If you got someone who will support you in what you do (and it is not your mom), you have to understand, that it is better not to lose relation with this person, as it is rare to find someone like this.
 
-\[caption id="attachment\_939" align="aligncenter" width="559"\]![Gary Vaynerchuk - Happiness](images/Gary-Vaynerchuk-Happiness.jpg) Wise words. Credit: wealthygorilla.com\[ref\]Western, D. (2018) Gary Vaynerchuk - Happiness \[online\] available from <[https://wealthygorilla.com/31-gary-vaynerchuk-quotes-of-wisdom](https://wealthygorilla.com/31-gary-vaynerchuk-quotes-of-wisdom)/>  
-\[/ref\]\[/caption\]The other mistake people make in general is complaining. Complaining about everything – business problems, politics, education system, lack of time, headache. Listen, understand that everyone got some problems, even people who you consider to be successful. Now think, that if you come up to them with your complaints, they need to listen and store more issues in their head patiently. Maybe that can sound cruelly, but this is like spreading an invisible virus that makes other people unsatisfied in a slow process.
+![Gary Vaynerchuk - Happiness](images/gary-vaynerchuk-happiness.jpg)
+_Wise words. Credit: wealthygorilla.com[^2]_
+
+The other mistake people make in general is complaining. Complaining about everything – business problems, politics, education system, lack of time, headache. Listen, understand that everyone got some problems, even people who you consider to be successful. Now think, that if you come up to them with your complaints, they need to listen and store more issues in their head patiently. Maybe that can sound cruel, but this is like spreading an invisible virus that makes other people unsatisfied in a slow process.
 
 How to live then? Stop complaining? The solution is to start making the change from yourself. If you **begin these micro wins**, people around you will hopefully get inspired and do the same! I am the living example of someone who followed my inspirations long enough that today I am inspired to write this post for you on my own blog. You got the point; now I hope that you will be able to change at least a little bit in yourself. Most probably you already know that **you are the sum of 5 people you spend the most time with**, so now turn it the other way round and think about such a recursion "I want to motivate the 5 people that spend the most time with me, who will motivate another 5 people, who will motivate another 5 people (...)". Indeed, that has vast potential, but we need to start executing from ourselves!
 
@@ -80,18 +85,32 @@ Why do companies like to hire data scientists? To predict the future; however, t
 
 The other way to get that information is to listen to someone with experience, like Jakub B Bączek, who introduced three upcoming trends. The sooner you act upon them, the more advantage you will have over your competitors.
 
-1. **Migration** of multi-culture caused not only by the global warming. • _Description_: here in Poland we might expect to have more and more immigrants over the year who will come from different ethnicities. That will be partly caused by politics and partly by the global warming near the equator. • _Solution_: start modifying your business to satisfy immigrants from tier 3 (figure below). You can do that for example by offering multilanguage support and diversity of products. \[caption id="attachment\_972" align="aligncenter" width="689"\]![The Three Tiers of Noncustomers](images/the-three-tiers.jpg) The Three Tiers of Noncustomers. Credit: Blue Ocean\[ref\]Blue Ocean Team (2018) The Three Tiers of Noncustomers \[online\] available from <[https://www.blueoceanstrategy.com/blog/customers-first-how-about-noncustomers-first/](https://www.blueoceanstrategy.com/blog/customers-first-how-about-noncustomers-first/)\>\[/ref\]\[/caption\]
-2. **Technologization** ---> AI ---> dying professions. • _Description_: 47% of jobs in the US are in the risk of extinction (99% call centre, 98% judges, 97% cashiers, 96% chefs, 94% waiters, 89% drivers (...) but less than 1% of archaeologists 🤔 • _Solution_: prepare to learn something that won't be automated in the near future. These are mostly professions that include emotions (motivator).
-3. **Welfare** ---> civilization diseases (overweight) ---> loss (depression). • _Description_: rapid growth in IT causes civilisation diseases, making people feeling lost. • _Solution_: diversify your business for diversity, be innovative and solve global problems. Maybe you can get inspiration from the following graph: \[caption id="attachment\_969" align="aligncenter" width="422"\]![ikigai](images/ikigai.jpg) Aspects of physical exercise. Credit: Biohacker's Handbook\[ref\]Arina, T., Sovijärvi, O., and Halmetoja, J. (2018) Aspects of Physical Exercise \[online\] available from <[https://biohackingbook.com/chapters/work/](https://biohackingbook.com/chapters/work/)\>\[/ref\]\[/caption\]
+1. **Migration** of multi-culture caused not only by the global warming.
+   - _Description_: here in Poland we might expect to have more and more immigrants over the years who will come from different ethnicities. That will be partly caused by politics and partly by the global warming near the equator.
+   - _Solution_: start modifying your business to satisfy immigrants from tier 3 (figure below). You can do that for example by offering multilanguage support and diversity of products.
+
+![The Three Tiers of Noncustomers](images/the-three-tiers.jpg)
+_The Three Tiers of Noncustomers. Credit: Blue Ocean[^3]_
+2. **Technologization** → AI → dying professions.
+
+- _Description_: 47% of jobs in the US are in the risk of extinction (99% call centre, 98% judges, 97% cashiers, 96% chefs, 94% waiters, 89% drivers (...) but less than 1% of archaeologists 🤔
+- _Solution_: prepare to learn something that won't be automated in the near future. These are mostly professions that include emotions (motivator).
+
+1. **Welfare** → civilization diseases (overweight) → loss (depression).
+   - _Description_: rapid growth in IT causes civilisation diseases, making people feeling lost.
+   - _Solution_: diversify your business for diversity, be innovative and solve global problems. Maybe you can get inspiration from the following graph:
+
+![ikigai](images/ikigai.jpg)
+_Aspects of physical exercise. Credit: Biohacker's Handbook[^4]_
 
 Gary also added something from his observations, that were connected with the 🇵🇱 market.
 
 - use Facebook/Instagram adds till they are cheap. Yes, especially here in Poland. You should do it now as later when big brands start investing in social campaigns, you will lose spending waay too much into sponsored posts. You might want to Google "how to make FB adds for cat food" if you are about to compete with Whiskas.
-- promote yourself with podcasts. About 80% of the attendants raised their hand when Gary asked: "Who is listening to podcasts nowadays?". And you know what? Only 13 people did it when he modified the questions and asked: "Who listened to podcasts 3 years before".
+- promote yourself with podcasts. About 80% of the attendants raised their hands when Gary asked: "Who is listening to podcasts nowadays?". And you know what? Only 13 people did it when he modified the questions and asked: "Who listened to podcasts 3 years before".
 
 ### Give, give, give
 
-Implement the principle of gratitude: **give, give, give, ask**. This rule is more specifically explained in "Jab, Jab, Jab, Right Hook" book by Gary\[ref\]Vaynerchuk, G. (2013) _Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy, Social World_. First edition. New York, NY: Harper Business, an imprint of HarperCollins Publishers\[/ref\].
+Implement the principle of gratitude: **give, give, give, ask**. This rule is more specifically explained in "Jab, Jab, Jab, Right Hook" book by Gary[^5].
 
 Remember, you should be grateful that people spend their time on consuming YOUR stuff as they could have been doing something else, like watching cat videos. Time is more important than money and you should know that.
 
@@ -99,25 +118,34 @@ Don't stop on making some good content as it is the drug that works.
 
 ### Be innovative, be a rebel
 
-This advice was given not only by Marcin Osman but Jakub B Bączek, who was one of the first one to get standing applause. Indeed, he was one of the best speakers together with Łukasz Jakóbiak from the [20m2](https://www.youtube.com/channel/UC8iQVu0b7PZxL_LTl8-c0Kg) YouTube show. Lack of innovation is also one of the reasons why businesses fail, simply look on Facebook who took didn't leave any chance to Google+ service.
+This advice was given not only by Marcin Osman but Jakub B Bączek, who was one of the first one to get standing applause. Indeed, he was one of the best speakers together with Łukasz Jakóbiak from the [20m2](https://www.youtube.com/channel/UC8iQVu0b7PZxL_LTl8-c0Kg) YouTube show. Lack of innovation is also one of the reasons why businesses fail, simply look at Facebook, which didn't leave any chance for Google+.
 
 Rahim Blak is a great example of the rebel. Do you know that Rahim was one of the firsts to "sell himself" by having his personal token? He received a lot of critic about it; however he didn't care and in the end, he is proud of himself.
 
-People are scared of things that are unknown… so try to do them! Big brands work comfortably with uncomfortable stuff and this is why they succeed. Moreover, remember that creative leaders are rebels.
+People are scared of things that are unknown… so try to do them! Big brands work comfortably with uncomfortable stuff and this is why they succeed. Moreover, remember that creative leaders are rebels.
 
-\[su\_quote cite="Steve Maraboli"\]New levels bring new devils. Stay unapologetically committed to your goals and let go of anyone who poisons your spirit.\[/su\_quote\]
+> _New levels bring new devils. Stay unapologetically committed to your goals and let go of anyone who poisons your spirit._
+>
+> — Steve Maraboli
 
-Did you know that to be recognised Łukasz Jakóbiak hanged a huge CV next to the headquarters of EMI Music Poland?
+Did you know that to be recognised Łukasz Jakóbiak hanged a huge CV next to the headquarters of EMI Music Poland?
 
-\[caption id="attachment\_975" align="aligncenter" width="440"\]![Massive CV of Łukasz Jakóbiak](images/Łukasz-CV.jpg) Woah! Credit: WP\[ref\]WP Finanse (2010) Olbrzymie CV Zawisło w Warszawie \[online\] available from <[https://finanse.wp.pl/olbrzymie-cv-zawislo-w-warszawie-6114818144556673a](https://finanse.wp.pl/olbrzymie-cv-zawislo-w-warszawie-6114818144556673a)\>\[/ref\]\[/caption\]
+![Massive CV of Łukasz Jakóbiak](images/lukasz-cv.jpg)
+_Woah! Credit: WP[^6]_
 
 ### Don't waste time looking for the right tools
 
 Another important advice from Marcin Osman. This was repeated in his slides many times, as so many of us stop doing what we want because we don't have the right skills or tools yet. His example was that we stop ourselves from recording vlogs looking for the expensive camera, which we cannot even use properly. So how to record? Use your mobile phone, eventually with an external microphone. Yes, you read it right. Do you know that most of Marcin's content was recorded with his iPhone, such as his most popular video (below)?
 
-\[embedyt\] https://www.youtube.com/watch?v=a8shV4JR4UI&width=450&height=253&centervid=1\[/embedyt\]
-
- 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/a8shV4JR4UI"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 As you see, the quality is great. He did mention an external microphone as people prefer to understand your voice than to see you well. You don't need anything better as you won't even know how to use it and you will lose your time researching the right camera + lots of money. By the way, as you might see "Don't drink latte for 15 PLN" on the thumbnail is done on purpose. It is controversial, and that is what gains views.
 
@@ -133,9 +161,15 @@ Listening to all the presentations, I have noticed the word video regularly. The
 
 One of the examples given by Cezary Lech was this little ad of [SquattyPotty](https://www.squattypotty.com/).
 
-\[embedyt\] https://www.youtube.com/watch?v=YbYWhdLO43Q&width=450&height=253&centervid=1\[/embedyt\]
-
- 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/YbYWhdLO43Q"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 Yes, it is an ad, yet so enjoyable to watch. Okay, let's analyse the magic of why it got 34,870,317 views so far and is entertaining.
 
@@ -158,12 +192,12 @@ However, when you pursue your goals remember that health is your #1 asset! Perso
 
 Paweł Danielewski introduced one of the most efficient marketing frameworks.
 
-1. Build awareness of your brand, answer "what am I doing?" • promote the motivational video to gain customers.
+1. Build awareness of your brand, answer "what am I doing?" - promote the motivational video to gain customers.
 2. Get micro-actions (check "Tools" chapter below)
-3. Get your contact • for example for access to a free webinar
+3. Get your contact - for example for access to a free webinar
 4. Convert your contact into a client
-5. Double the excitement • everyone likes two gifts more than one. Give something for free after some time of giving something for free before, like another e-book
-6. Ladder of growth • build additional services
+5. Double the excitement - everyone likes two gifts more than one. Give something for free after some time of giving something for free before, like another e-book
+6. Ladder of growth - build additional services
 
 One more tip given by Paweł was to use the QUIZ method. Instead of a classic registration form to the newsletter (like on my website), you might start with asking an encouraging question. For example, what is your favourite car brand and what colour would you choose. After that, present the user with the registration form. Statistically more users might end up with registration.
 
@@ -193,8 +227,6 @@ CUBE = Client, Understand, Beginning, Effect
 
 Łukasz also let us take a picture of his secret practical table (filled with examples) that might help you deal with your customers:
 
-\[su\_table responsive="yes"\]
-
 |  | **Place, where is he now?** | **Place, where he wants to be?** | **Who will he become if he buys that?** | **What will he lose if he won’t buy it?** |
 | --- | --- | --- | --- | --- |
 | **Professional challenges** | sitting job, stress at the job, challenges, integration problems, learning cooperation in the team | energy for action, integration with a team, better score, promotion | becoming creative, fulfilled | chance for promotion, chance for a better job |
@@ -203,11 +235,11 @@ CUBE = Client, Understand, Beginning, Effect
 | **What does he buy?** | **Why does he buy? (Reason)** | **Why does he buy?** | **Who buys?** | **What can cause that he will not buy?** |
 | confidence, passion, trust to others | localisation, instructors | to feel better, to meet someone new, to take care of health | students, active people, multisport, sitting job | localization, price, commitment |
 
-\[/su\_table\]
+Obviously, there is a golden rule given by Gary to every aspect. 😅
 
-Obviously, there is a golden rule given by Gary to every aspect. 😅
-
-\[su\_quote cite="Gary Vaynerchuk"\]Parents raise children for themselves, to look good in the eyes of others, not for the kid. This is the problem that also applies in business.\[/su\_quote\]
+> _Parents raise children for themselves, to look good in the eyes of others, not for the kid. This is the problem that also applies in business._
+>
+> — Gary Vaynerchuk
 
 #### Measure your performance
 
@@ -223,7 +255,7 @@ If CLV < CAC you need to reconsider your actions.
 
 Be a rebel, be original, be innovative. Yes, that is important.
 
-Rahim also mentioned what the technology of building a personal brand is. content ---> facts ---> value ---> goal ---> call to action (ask question)
+Rahim also mentioned what the technology of building a personal brand is. content → facts → value → goal → call to action (ask question)
 
 Act this way, and you will be one of the best marketers.
 
@@ -243,13 +275,13 @@ Do you know Elon Musk? He has dozens of great companies, but if you would be abl
 
 ### Decide quickly
 
-Piotr Bijańśki explained that the traditional business model looks somehow like this: idea ---> realisation ---> sale ---> profit
+Piotr Bijańśki explained that the traditional business model looks somehow like this: idea → realisation → sale → profit
 
-It is not bad; however, we might fall into the perfectionism problem and never start the business. So what to do now? Let's reconstruct the model: idea ---> sale ---> profit ---> realisation
+It is not bad; however, we might fall into the perfectionism problem and never start the business. So what to do now? Let's reconstruct the model: idea → sale → profit → realisation
 
 This way, you might have more mistakes, but what to learn on, than not on mistakes?
 
-### Be real!
+### Be real
 
 Remember to be aware of your business! Are you actually increasing your level of happiness? If the answer is no, what is the point of doing it, as you will be wretched in the long run.
 
@@ -259,9 +291,9 @@ Moreover, think about focusing on the core duties of your business. **Try to eli
 
 What to do, to start executing? Here is a solution presented on the example of Łukasz Jakóbiak:
 
-1. Have goals ([like me](https://pawelcislo.com/three-goals/) 😉)
-2. Be aware • meditate • think about death and how little time you have
-3. Work on your mind • answer what makes you feel good and bad
+1. Have goals ([like me](/pages/three-goals/) 😉)
+2. Be aware - meditate - think about death and how little time you have
+3. Work on your mind - answer what makes you feel good and bad
 4. Be consequent
 5. Work
 6. Control your life
@@ -280,11 +312,12 @@ What about Gary? He wasn't worse too:
 
 Be patient, be humble. Business is like: hole, hole, hole, victory, hole, hole, hole, victory (…). Look at Michael Jordan who is considered to be successful although he missed many shots. No one is perfect.
 
-\[caption id="attachment\_973" align="aligncenter" width="620"\]![Michael Jordan Quote](images/Michael-Jordan-Quote.jpg) Failures are inevitable. Credit: Debbie Turner\[ref\]Turner, D. (2013) There Is No Failure. Only Feedback \[online\] available from <[http://debbieturner.com/there-is-no-failure-only-feedback/](http://debbieturner.com/there-is-no-failure-only-feedback/)\>\[/ref\]\[/caption\]
+![Michael Jordan Quote](images/michael-jordan-quote.jpg)
+_Failures are inevitable. Credit: Debbie Turner[^7]_
 
 ## Why you should attend this kind of events?
 
-I would love to present how this day looked like from inside; however, I didn't record anything that day, apart from taking few pictures.
+I would love to present how this day looked like from inside; however, I didn't record anything that day, apart from taking a few pictures.
 
 If you would like to have some more visual relation from the event, you might want to watch [MiroBurn](https://www.youtube.com/watch?v=P9cZ208DxAI) vlog from this day. If you are reading my blog, you might notice that he is one of my inspirations and I was lucky to finally talk to him after following his online activity for about 2 years. Same like Andrzej Krzywda and Maciej Anisrowicz. And this is one of the reasons why you should attend business conferences - **you might find your inspirations and practice your networking skills**. ;)
 
@@ -292,37 +325,39 @@ Most importantly **you will get inspired**. I hope that with this post you did f
 
 Oh, you might also receive some free goodies, like stickers and a great magazine.
 
-\[caption id="attachment\_963" align="aligncenter" width="422"\]![Sprawny Marketing](images/Sprawny-Marketing.jpg) Isn't that heart sticker cute?\[/caption\]
+![Sprawny Marketing](images/sprawny-marketing.jpg)
+_Isn't that heart sticker cute?_
 
 ## Tools 🛠
 
-The primary and most important tool is probably in your hands at the moment or if you are reading this on a desktop computer, perhaps in your pocket. Yes, it is your mobile phone which begun to be the standard of the IT world. It can be proved even with my little website, where 56% of the readers use their smartphone to read the posts. I am actually surprised that tablet is still being used (1%), but hey, if you are reading it on your tablet, let me know yourself. I would like to discuss with you how comfortable it is browsing the web on tablets nowadays. 😉
+The primary and most important tool is probably in your hands at the moment or if you are reading this on a desktop computer, perhaps in your pocket. Yes, it is your mobile phone which began to be the standard of the IT world. It can be proved even with my little website, where 56% of the readers use their smartphone to read the posts. I am actually surprised that tablet is still being used (1%), but hey, if you are reading it on your tablet, let me know yourself. I would like to discuss with you how comfortable it is browsing the web on tablets nowadays. 😉
 
-\[caption id="" align="aligncenter" width="280"\]![Sessions by device (pawelcislo.com)](images/Sessions-by-device-pawelcislo.com_.png) Sessions by device at pawelcislo.com (Last 30 days from Google Analytics)\[/caption\]
+![Sessions by device (pawelcislo.com)](images/sessions-by-device-pawelcislo.com.png)
+_Sessions by device at pawelcislo.com (Last 30 days from Google Analytics)_
 
 Remember, that if you make your website, it should be responsive, like this one, so it scales appropriately for smaller (mobile) screens. Yes, for the tablets too. 🙂
 
 Now to the essence of this subchapter. Here is the list of all the tools mentioned during the day:
 
 - Get micro-actions
-    - [BuzzSumo](https://buzzsumo.com/) ← analyse what content performs best for any topic or competitor
-    - [ahrefs](https://ahrefs.com/) ← check your competitors and monitor your niche
-    - visit any Facebook fan page and check "Info and Ads" to see their ads. Here is a [Humble Bundle](https://www.facebook.com/pg/humblebundle/ads/?ref=page_internal) advertising campaign for example. ← now you got open cards of the advertising game!
-    - [Adespresso](https://adespresso.com/) ← create and analyse your digital advertising across social media
+  - [BuzzSumo](https://buzzsumo.com/) ← analyse what content performs best for any topic or competitor
+  - [ahrefs](https://ahrefs.com/) ← check your competitors and monitor your niche
+  - visit any Facebook fan page and check "Info and Ads" to see their ads. Here is a [Humble Bundle](https://www.facebook.com/pg/humblebundle/ads/?ref=page_internal) advertising campaign for example. ← now you got open cards of the advertising game!
+  - [Adespresso](https://adespresso.com/) ← create and analyse your digital advertising across social media
 - Lead generation
-    - [Zapier](https://zapier.com/) ← move info between your web apps automatically (between FB and phone)
+  - [Zapier](https://zapier.com/) ← move info between your web apps automatically (between FB and phone)
 - 10 tools to create video
-    - [fiverr](https://www.fiverr.com/) ← purchase great videos from freelancers (for quite cheap)
-    - [RPM](https://rpm.pl/) ← find polish lectors
-    - [Voicebooking](https://www.voicebooking.com/) ← find any lector
-    - [VideoScribe](https://www.videoscribe.co/en/) ← whiteboard animation software
-    - [Promovideo](https://promovideolab.com/) ← animated video maker
-    - [Animoto](https://animoto.com/) ← make great videos. Easily
-    - [Videohive](https://videohive.net/) ← video effects and stock footage
-    - [Lumen5](https://lumen5.com/) ← transform articles into videos in minutes
-    - Format your video
-        - [wave.video](https://www.kapwing.com/) ← remember that 1:1 (format of Instagram posts) is the golden middle
-        - [Kapwing](https://www.kapwing.com/)
+  - [fiverr](https://www.fiverr.com/) ← purchase great videos from freelancers (for quite cheap)
+  - [RPM](https://rpm.pl/) ← find polish lectors
+  - [Voicebooking](https://www.voicebooking.com/) ← find any lector
+  - [VideoScribe](https://www.videoscribe.co/en/) ← whiteboard animation software
+  - [Promovideo](https://promovideolab.com/) ← animated video maker
+  - [Animoto](https://animoto.com/) ← make great videos. Easily
+  - [Videohive](https://videohive.net/) ← video effects and stock footage
+  - [Lumen5](https://lumen5.com/) ← transform articles into videos in minutes
+  - Format your video
+    - [wave.video](https://www.kapwing.com/) ← remember that 1:1 (format of Instagram posts) is the golden middle
+    - [Kapwing](https://www.kapwing.com/)
 
 Unfortunately, that is all from the specific links. The entire conference focused on proposing precise workflows, not the tools; however, I might publish a different post about online business management as I feel like you might benefit from some of my practices. For now, I have stored many resources, but I would only like to recommend the stuff which I have verified and compared to all the alternatives.
 
@@ -340,6 +375,24 @@ When that comes to me, I think the most challenging part comes not in finding ou
 
 So what to wait for? Have a little time for yourself, take a walk and start changing the world for better!
 
-\[su\_quote cite="Reid Hoffman"\]An entrepreneur is someone who jumps off a cliff and builds a plane on the way down.\[/su\_quote\]
+> _An entrepreneur is someone who jumps off a cliff and builds a plane on the way down._
+>
+> — Reid Hoffman
 
-Good luck my entrepreneur! 😁
+Good luck my entrepreneur! 😁
+
+## References
+
+[^1]: Moore, G.E. (1998) 'Cramming More Components Onto Integrated Circuits'. Proceedings of the IEEE 86 (1), 82–85
+
+[^2]: Western, D. (2018) Gary Vaynerchuk - Happiness [online] available from <https://wealthygorilla.com/31-gary-vaynerchuk-quotes-of-wisdom/>
+
+[^3]: Blue Ocean Team (2018) The Three Tiers of Noncustomers [online] available from <https://www.blueoceanstrategy.com/blog/customers-first-how-about-noncustomers-first/>
+
+[^4]: Arina, T., Sovijärvi, O., and Halmetoja, J. (2018) Aspects of Physical Exercise [online] available from <https://biohackingbook.com/chapters/work/>
+
+[^5]: Vaynerchuk, G. (2013) _Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy, Social World_. First edition. New York, NY: Harper Business, an imprint of HarperCollins Publishers
+
+[^6]: WP Finanse (2010) Olbrzymie CV Zawisło w Warszawie [online] available from <https://finanse.wp.pl/olbrzymie-cv-zawislo-w-warszawie-6114818144556673a>
+
+[^7]: Turner, D. (2013) There Is No Failure. Only Feedback [online] available from <http://debbieturner.com/there-is-no-failure-only-feedback/>
