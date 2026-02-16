@@ -11,7 +11,7 @@ tags:
   - "todolists"
 ---
 
-![](images/aim-for-your-goals-the-right-way-in-post.png)
+![Aim for Your Goals the Right Way - background](images/aim-for-your-goals-the-right-way-background.png)
 
 **How implementing the book knowledge from 2001 can increase the trust in collaboration with your team and let you finally fix your messy room.**
 

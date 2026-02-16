@@ -10,7 +10,7 @@ tags:
   - "productivity"
 ---
 
-![Hello World - in post](images/hello-world-in-post.png)
+![Foreword of the Greater Intention - background](images/foreword-of-the-greater-intention-background.png)
 
 **To start with, bear in mind, that this post is not merely a "hello world" message to all the readers, but something to bring life-changing deliberations.**
 

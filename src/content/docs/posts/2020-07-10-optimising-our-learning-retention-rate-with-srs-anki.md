@@ -10,7 +10,7 @@ tags:
   - "learning"
 ---
 
-![Flashcards - Blog post background](images/flashcards-background.png)
+![Optimising Our Learning Retention Rate with SRS Anki - background](images/optimising-our-learning-retention-rate-with-srs-anki-background.png)
 
 **No, this article is not about some novel machine learning techniques, but it does cover the part of preparing a down to earth "_learning_ _model_".**
 

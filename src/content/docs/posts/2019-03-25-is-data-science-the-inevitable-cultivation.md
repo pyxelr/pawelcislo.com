@@ -18,7 +18,7 @@ tags:
   - "technology"
 ---
 
-![Data 4.0](images/data-4.0-in-post.png)
+![Is Data Science the Inevitable Cultivation - background](images/is-data-science-the-inevitable-cultivation-background.png)
 
 **It is more common to approach the statement "Data is the new oil", and it is already a fact, which will only expand its popularity. However, in order to get the pure nectar from our data, we need to apply specific "oil refinery", usually referred to as data mining.**
 

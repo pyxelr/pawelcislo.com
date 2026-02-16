@@ -14,7 +14,7 @@ tags:
   - "year"
 ---
 
-![Recommendations - Blog post background](images/recommendations-background.png)**This registry was created to catalogue the recently published set of recommendations and share a couple of updates from my side.**
+![Recommendatory Interleaf - background](images/recommendatory-interleaf-background.png)**This registry was created to catalogue the recently published set of recommendations and share a couple of updates from my side.**
 
 ## Recommendations for Engineers
 

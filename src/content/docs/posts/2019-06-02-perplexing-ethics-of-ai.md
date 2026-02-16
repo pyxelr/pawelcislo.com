@@ -11,7 +11,7 @@ tags:
   - "law"
 ---
 
-![Ethical AI background](images/ethicai-background.png)
+![Perplexing Ethics of AI - background](images/perplexing-ethics-of-ai-background.png)
 
 **What does it mean to behave in an ethical manner? What if we add all the law restriction on top of that? Moving on, how to write the appropriate if/else statements for the AI workflow to satisfy the strict, yet non-static regulations?**
 

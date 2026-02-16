@@ -13,7 +13,7 @@ tags:
   - "trackathon19"
 ---
 
-![Data Hackathons - background](images/data-hackathons-background.png)
+![Data Hackathons Trackathon19 - background](images/data-hackathons-trackathon19-background.png)
 
 **#TRACKathon19 challenge let me have an insightful overview of what can I expect from data hackathons. On the last Sunday, at the Belgian headquarters of Infrabel, I was fortunate to be one of the first to access the datasets and come up with several ideas for improvement to the owner of the Belgian railway network.**
 

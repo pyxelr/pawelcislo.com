@@ -13,7 +13,7 @@ tags:
   - "year"
 ---
 
-![2018 - background](images/2018-background.png)
+![My 2018 The Year of Revolution - background](images/my-2018-the-year-of-revolution-background.png)
 
 **It's time to end the year with an annual public reflection, started in the previous year on [my Facebook wall](https://www.facebook.com/photo.php?fbid=1636977843028941&set=a.638380382888697&type=3&__xts__%5B0%5D=68.ARDkWZ_DIR7NzdQvBwWHubzGRArBtLojBXsyAupx6_WnGJFj-mDaxMCo-3Z4b6CCU-QihzKlKeQM_9ZepSQIzC4ZRRAQ1Ey-2aIhcYg55iXiVSZzTGv-lRrXnPdRbYmKHI99i8_NeIMaAG0AAtdBPoVdrenWIvlxblN8L6msnsx9B0wlaUsNuipi5YlySAr_Q2AE1HpPxcpAmscH&__tn__=-R). Now, for the first time on this blog, you can read what took place over my last twelve months.**
 

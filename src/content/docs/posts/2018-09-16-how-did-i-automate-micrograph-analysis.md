@@ -18,7 +18,7 @@ tags:
   - "tutorial"
 ---
 
-![Micrograph Analyser Effect](images/micrograph-analyser-effect.png)
+![How Did I Automate Micrograph Analysis - background](images/how-did-i-automate-micrograph-analysis-background.png)
 
 **Clear explanation of how I automatically turned meaningless 2D micrographs into plenty of significant data (numerical, graphical, plot).**
 

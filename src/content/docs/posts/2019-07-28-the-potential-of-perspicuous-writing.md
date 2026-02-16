@@ -17,7 +17,7 @@ tags:
   - "zotero"
 ---
 
-![](images/writing-background.png)
+![The Potential of Perspicuous Writing - background](images/the-potential-of-perspicuous-writing-background.png)
 
 **Writing is one of the most extreme skills anyone can possess, and if you learn how to use it competently, there will be no lexical battle on your way to lose. Therefore, why isn't that so apparent to most of us?**
 

@@ -11,7 +11,7 @@ tags:
   - "worldbusinessexperience"
 ---
 
-![Is Modern Business Complicated (background)](images/is-modern-business-complicated-background.png)
+![Is Modern Business Complicated - background](images/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw-background.png)
 
 **Staying up-to-date with all the business aspects and at the same time trying to be innovative is quite a big challenge. Nowadays, the same applies to all the students, where the majority of graduates carries a higher academic degree, but struggles standing out in the eyes of recruiters. If so, how to win this game?**
 

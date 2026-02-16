@@ -14,7 +14,7 @@ tags:
 You can find my VS Code profile under **[gist.github.com](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b)**.
 :::
 
-![VS Code - Blog post background](images/vscode-background.png)
+![My VS Code Playground - background](images/my-vs-code-playground-background.png)
 
 **Compendium of impressions from an odyssey with my most preferred day-to-day code editor, not only for Python/MLOps.**
 

@@ -12,7 +12,7 @@ tags:
   - "study"
 ---
 
-![Learn Programming The Powerful Way (background)](images/learn-programming-the-powerful-way-background.png)
+![Learn Programming the Powerful Way or Anything Else - background](images/learn-programming-the-powerful-way-or-anything-else-background.png)
 
 **Initially, most of us grasped our hands over programming in universities while developing our first Fibonacci sequence. But, can we all agree that it is the best way to start the learning curve?**
 
