@@ -19,6 +19,20 @@ export default defineConfig({
             src: './src/assets/favicon.svg',
         },
         description: 'Personal website and blog of Paweł Cisło - MLOps Engineer, Data Scientist, and tech enthusiast',
+        head: [
+            {
+                tag: 'meta',
+                attrs: { property: 'og:image', content: 'https://pawelcislo.com/og-image.png' },
+            },
+            {
+                tag: 'meta',
+                attrs: { property: 'og:image:width', content: '1200' },
+            },
+            {
+                tag: 'meta',
+                attrs: { property: 'og:image:height', content: '630' },
+            },
+        ],
         pagination: false,
         lastUpdated: true,
         editLink: {
