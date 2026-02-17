@@ -348,7 +348,7 @@ Now to the essence of this subchapter. Here is the list of all the tools mention
 - Get micro-actions
   - [BuzzSumo](https://buzzsumo.com/) ← analyse what content performs best for any topic or competitor
   - [ahrefs](https://ahrefs.com/) ← check your competitors and monitor your niche
-  - visit any Facebook fan page and check "Info and Ads" to see their ads. Here is a [Humble Bundle](https://www.facebook.com/pg/humblebundle/ads/?ref=page_internal) advertising campaign for example. ← now you got open cards of the advertising game!
+  - visit any Facebook fan page and check "Info and Ads" to see their ads. Here is a [Humble Bundle](https://www.facebook.com/humblebundle/ads/?ref=page_internal) advertising campaign for example. ← now you got open cards of the advertising game!
   - [Adespresso](https://adespresso.com/) ← create and analyse your digital advertising across social media
 - Lead generation
   - [Zapier](https://zapier.com/) ← move info between your web apps automatically (between FB and phone)

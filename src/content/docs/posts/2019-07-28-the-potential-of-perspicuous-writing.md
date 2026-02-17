@@ -339,7 +339,7 @@ If you feel like convinced to give it a try, but you're not sure where to start,
 - Tutorials
   - [Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1) ← 3 part presentations from Dr John Lees-Miller (recommended by Overleaf team)
   - [LaTeX Tutorial in a single 1h video](http://www.newthinktank.com/2019/01/latex-tutorial/) ← presented by Derek Banas
-  - [LaTeX.md](https://github.com/virgili0/Virgilio/blob/master/Tools/Latex.md) ← short introduction to LaTeX in a popular GitHub repo
+  - [LaTeX.md](https://github.com/virgili0/Virgilio/blob/dev/Tools/Latex.md) ← short introduction to LaTeX in a popular GitHub repo
   - [Minimal examples of LaTeX with overleaf (v2)](https://www.youtube.com/playlist?list=PLnC5h3PY-znyDQKn3knfXfekZLgWyL7QW) ← YouTube tutorial by Dr Vincent Knight (recommended by Overleaf team)
     - [Text version of the tutorial](https://vknight.org/tex/)
   - [LaTeX Cheat Sheet](https://wch.github.io/latexsheet/latexsheet.pdf)

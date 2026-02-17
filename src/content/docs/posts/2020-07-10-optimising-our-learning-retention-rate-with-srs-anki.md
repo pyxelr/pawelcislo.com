@@ -383,7 +383,7 @@ If for any reason you don't feel like using Anki, there are other options which 
 - [Memrise](https://www.memrise.com/) ← learn a language and not only (there is an [add-on](https://github.com/wilddom/memrise2anki-extension) to convert Memrise content to Anki)
 - [NeuraCache](https://neuracache.com/) ← automatically generate flashcards from Twitter posts, Markdown editors, Kindle or your favourite note-taking tools, such as OneNote, Evernote or Roam and study them all using a mobile app
 - [Quizlet](https://quizlet.com/) ← more user-friendly alternative to Anki (there is an [add-on](https://ankiweb.net/shared/info/538351043) to convert Quizlet content to Anki)
-- [RemNote](https://www.remnote.io/homepage) ← note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
+- [RemNote](https://www.remnote.com/) ← note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
 - [ShortcutFoo](https://www.shortcutfoo.com/) ← fun way to memorise shortcuts and commands
 - [Tinycards](https://tinycards.duolingo.com/) ← flashcard app from the creators of Duolingo.
 

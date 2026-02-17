@@ -460,7 +460,7 @@ The last proposed extension possibility is to try and include the addition of a 
 
 [^3]: Carpenter, D.T., Rickman, J.M., and Barmak, K. (1998) 'A Methodology for Automated Quantitative Microstructural Analysis of Transmission Electron Micrographs'. _Journal of Applied Physics_ 84 (11), 5843–5854
 
-[^4]: Rasband, W. (2008) _About NIH Image_ [online] available from <https://imagej.nih.gov/nih-image/about.html>
+[^4]: Rasband, W. (2008) _About NIH Image_ [online] available from <https://imagej.net/nih-image/about.html>
 
 [^5]: Barry, E. (2008) _Three-Dimensional Reconstruction of Microstructures in A + B Titanium Alloys_. PhD Thesis. The Ohio State University
 

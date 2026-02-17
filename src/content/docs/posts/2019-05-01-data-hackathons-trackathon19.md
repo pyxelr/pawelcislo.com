@@ -146,12 +146,12 @@ Yes, I know that @DataScienceBe is not the only community and not the only sourc
 
 You can take advantage of my set of websites, that you can use to explore whenever you would like to know what is going on around:
 
-- [Facebook](https://www.facebook.com/search/events/?q=data&epa=FILTERS&filters=eyJycF9ldmVudHNfbG9jYXRpb24iOiJ7XCJuYW1lXCI6XCJmaWx0ZXJfZXZlbnRzX2xvY2F0aW9uXCIsXCJhcmdzXCI6XCIxMDg0Mjk3OTU4NTU0MjNcIn0ifQ%3D%3D) ← check “This week”, “This weekend” and “Next week” from the sidebar menu
-  - [AI Black Belt](https://www.facebook.com/pg/AIBlackBelt/events/)
-  - [DataBeers Brussels](https://www.facebook.com/pg/brudatabeers/events/)
-  - [DataScienceBe](https://www.facebook.com/pg/Datasciencebe/events/)
-  - [DigitYser](https://www.facebook.com/pg/digityser/events/)
-  - [Hackages](https://www.facebook.com/pg/hackages/events/)
+- [Facebook](https://www.facebook.com/events/) ← search for data events near you
+  - [AI Black Belt](https://www.facebook.com/AIBlackBelt/events/)
+  - [DataBeers Brussels](https://www.facebook.com/brudatabeers/events/)
+  - [DataScienceBe](https://www.facebook.com/Datasciencebe/events/)
+  - [DigitYser](https://www.facebook.com/digityser/events/)
+  - [Hackages](https://www.facebook.com/hackages/events/)
 - [AI4Belgium](http://www.ai4belgium.be/upcoming-events/)
 - [dataMinds.be](http://dataminds.be/events/)
 - [DigitYser](https://digityser.org/events/)
@@ -181,7 +181,7 @@ I thought of sharing a few examples of what results can be driven through the in
 
 You can always try yourself with the [data shared by Infrabel](https://opendata.infrabel.be/pages/home/).
 
-If you don't like trains ([I hope you do](https://youtu.be/vyItidbjxLM)), then you can check [the aeroplane's data](https://www.kaggle.com/usdot/flight-delays) and collaborate to the awesome community of Kaggle.
+If you don't like trains ([I hope you do](https://youtu.be/vyItidbjxLM)), then you can check [the aeroplane's data](https://www.kaggle.com/datasets/usdot/flight-delays) and collaborate to the awesome community of Kaggle.
 
 Ah, and before you begin:
 
@@ -197,7 +197,7 @@ No worries, I won't judge you if you don't like trains, as there is plenty of ot
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [AWS Public Datasets](https://aws.amazon.com/public-datasets/)
 - [Caffe2](https://caffe2.ai/docs/datasets.html)
-- [Common Voice](https://voice.mozilla.org/data) ← dataset of voices that everyone can use to train speech-enabled applications
+- [Common Voice](https://commonvoice.mozilla.org/) ← dataset of voices that everyone can use to train speech-enabled applications
 - [CORGIS](https://think.cs.vt.edu/corgis/) ← datasets for beginners
 - [DataHub](https://datahub.io/search) ← easiest way to find, share and publish datasets online
 - [Datasets for machine learning](https://www.datasetlist.com/) ← huge list (CV/NLP/Audio)
