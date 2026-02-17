@@ -14,7 +14,7 @@ export async function GET(context: APIContext) {
 
 	return rss({
 		title: 'Paweł Cisło',
-		description: 'Digital garden of an MLOps Engineer',
+		description: 'Digital garden of an MLOps Engineer — a place for curiosity-driven writing on diverse topics',
 		site: context.site!.toString(),
 		items: posts.map((post) => ({
 			title: post.data.title,

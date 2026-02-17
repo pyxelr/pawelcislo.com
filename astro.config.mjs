@@ -18,7 +18,7 @@ export default defineConfig({
         logo: {
             src: './src/assets/favicon.svg',
         },
-        description: 'Digital garden of an MLOps Engineer',
+        description: 'Digital garden of an MLOps Engineer — a place for curiosity-driven writing on diverse topics',
         head: [
             {
                 tag: 'meta',
