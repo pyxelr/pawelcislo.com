@@ -18,7 +18,7 @@ export default defineConfig({
         logo: {
             src: './src/assets/favicon.svg',
         },
-        description: 'Personal website and blog of Paweł Cisło - MLOps Engineer, Data Scientist, and tech enthusiast',
+        description: 'Digital garden of an MLOps Engineer',
         head: [
             {
                 tag: 'meta',
