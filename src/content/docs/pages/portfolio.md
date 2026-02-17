@@ -36,9 +36,13 @@ For contract work, have a look at my [Résumé](/Resume-PawelCislo.pdf).
   Talked about "_The use of cloud computing in business and artificial intelligence_" during a local conference in Rzeszów ("_Carpathian Startup Fest 2022: Deep Tech_").
 - [CyberDefence24 interview](https://cyberdefence24.pl/social-media/cybermagazyn-etyczna-sztuczna-inteligencja-to-fikcja-dylematy-jej-tworcow-moga-uchronic-nas-przed-zagrozeniem) <span class="meta">[interview] [ai] [ethics] • 2021.11.20 • done</span><br/>
   Interview (in Polish) for CyberDefence24.pl about the ethical aspects of designing AI systems.
-- [#TRACKathon19 interview](../posts/images/datathons-belgian-tv.jpg) <span class="meta">[interview] [ai] • 2019.04.28 • done</span><br/>
-  Interview (in English) for RTBF, one of the biggest Belgian TV stations (see the blog post about the event; unfortunately, the recording is lost).
+- [#TRACKathon19 interview](/images/datathons-belgian-tv.jpg) <span class="meta">[interview] [ai] • 2019.04.28 • done</span><br/>
+  Interview (in English) for RTBF, one of the biggest Belgian TV stations (see the [blog post](/posts/data-hackathons-trackathon19/) about the event; unfortunately, the recording is lost).
 
 * * *
 
-If you want to see more of my works, feel free to check out my: • [GitHub](https://github.com/pyxelr) • “Projects” section of my [LinkedIn](https://www.linkedin.com/in/pawelcislo/) • [FB Page](https://www.facebook.com/pawelcislocom/) / [X](https://x.com/pawel_cislo) (for the smaller contributions).
+If you want to see more of my works, feel free to check out my:
+
+- [GitHub](https://github.com/pyxelr)
+- "Projects" section of my [LinkedIn](https://www.linkedin.com/in/pawelcislo/)
+- [FB Page](https://www.facebook.com/pawelcislocom/) / [X](https://x.com/pawel_cislo) (for the smaller contributions)
