@@ -1,6 +1,7 @@
 ---
 title: "#11 – Recommendatory Interleaf"
 slug: posts/recommendatory-interleaf
+description: A registry cataloguing the recently published set of recommendations and sharing a couple of updates from my side
 date: 2020-03-12
 categories: 
   - "announcement"

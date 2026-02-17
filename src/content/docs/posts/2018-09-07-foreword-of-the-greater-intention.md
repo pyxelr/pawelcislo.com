@@ -1,6 +1,7 @@
 ---
 title: "#1 – Foreword of the Greater Intention"
 slug: posts/foreword-of-the-greater-intention
+description: Message opening doors to my new blog and explaining why I did it
 date: 2018-09-07
 categories: 
   - "announcement"

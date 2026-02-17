@@ -1,6 +1,7 @@
 ---
 title: "#2 – How did I automate Micrograph Analysis?"
 slug: posts/how-did-i-automate-micrograph-analysis
+description: Clear explanation of how I automatically turned meaningless 2D micrographs into plenty of significant data (numerical, graphical, plot)
 date: 2018-09-16
 categories: 
   - "data-science"

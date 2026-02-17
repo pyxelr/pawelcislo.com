@@ -1,6 +1,7 @@
 ---
 title: "#8 – Data Hackathons – #TRACKathon19"
 slug: posts/data-hackathons-trackathon19
+description: My experience from a datathon organised by Infrabel in Brussels
 date: 2019-05-01
 categories: 
   - "data-science"

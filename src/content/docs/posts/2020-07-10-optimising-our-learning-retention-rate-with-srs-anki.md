@@ -1,6 +1,7 @@
 ---
 title: "#12 – Optimising our learning retention rate with SRS (Anki)"
 slug: posts/optimising-our-learning-retention-rate-with-srs-anki
+description: Description of spaced repetition and active recall methodologies, which help me memorise everything with a high retention rate, thoroughly explaining my way of using the Spaced Repetition System (Anki)
 date: 2020-07-10
 categories: 
   - "lifestyle"

@@ -1,6 +1,7 @@
 ---
 title: "#4 – Aim for your goals the right way"
 slug: posts/aim-for-your-goals-the-right-way
+description: Application of Getting Things Done (GTD) personal productivity methodology with the use of Todoist
 date: 2018-11-09
 categories: 
   - "lifestyle"

@@ -1,6 +1,7 @@
 ---
 title: "#10 – The Potential of Perspicuous Writing"
 slug: posts/the-potential-of-perspicuous-writing
+description: "Demystification of the art of writing, speaking, using LaTeX, doing scientific research, quick reading and extending vocabulary"
 date: 2019-07-28
 categories: 
   - "lifestyle"

@@ -1,6 +1,7 @@
 ---
 title: "#5 – My 2018 – The Year of Revolution"
 slug: posts/my-2018-the-year-of-revolution
+description: "It's time to end the year with an annual public reflection, started in the previous year on my Facebook wall"
 date: 2018-12-28
 categories: 
   - "overtime"

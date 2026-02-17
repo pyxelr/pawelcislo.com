@@ -1,6 +1,7 @@
 ---
 title: "#13 – My VS Code Playground"
 slug: posts/my-vs-code-playground
+description: "Compendium of impressions from an odyssey with my most preferred day-to-day IDE, not only for Python/MLOps"
 date: 2021-11-14
 categories: 
   - "programming"
