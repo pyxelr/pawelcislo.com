@@ -8,6 +8,11 @@ tags:
   - "blog"
   - "motivation"
   - "productivity"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/foreword-of-the-greater-intention-thumbnail.png
 ---
 
 ![Foreword of the Greater Intention - background](images/foreword-of-the-greater-intention-background.png)

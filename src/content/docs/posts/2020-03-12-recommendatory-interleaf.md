@@ -12,6 +12,11 @@ tags:
   - "review"
   - "summary"
   - "year"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/recommendatory-interleaf-thumbnail.png
 ---
 
 ![Recommendatory Interleaf - background](images/recommendatory-interleaf-background.png)**This registry was created to catalogue the recently published set of recommendations and share a couple of updates from my side.**

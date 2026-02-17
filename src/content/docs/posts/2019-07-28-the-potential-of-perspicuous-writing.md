@@ -15,6 +15,11 @@ tags:
   - "tutorial"
   - "writing"
   - "zotero"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/the-potential-of-perspicuous-writing-thumbnail.png
 ---
 
 ![The Potential of Perspicuous Writing - background](images/the-potential-of-perspicuous-writing-background.png)

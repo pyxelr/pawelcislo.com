@@ -11,6 +11,11 @@ tags:
   - "review"
   - "summary"
   - "year"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/my-2018-the-year-of-revolution-thumbnail.png
 ---
 
 ![My 2018 The Year of Revolution - background](images/my-2018-the-year-of-revolution-background.png)

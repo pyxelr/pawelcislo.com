@@ -16,6 +16,11 @@ tags:
   - "processing"
   - "segmentation"
   - "tutorial"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/how-did-i-automate-micrograph-analysis-thumbnail.png
 ---
 
 ![How Did I Automate Micrograph Analysis - background](images/how-did-i-automate-micrograph-analysis-background.png)

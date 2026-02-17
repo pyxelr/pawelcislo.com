@@ -8,6 +8,11 @@ tags:
   - "ide"
   - "programming"
   - "vscode"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/my-vs-code-playground-thumbnail.png
 ---
 
 :::note

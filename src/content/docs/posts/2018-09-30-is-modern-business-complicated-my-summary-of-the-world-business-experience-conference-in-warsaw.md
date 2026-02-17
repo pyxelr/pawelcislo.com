@@ -9,6 +9,11 @@ tags:
   - "marketing"
   - "wbe"
   - "worldbusinessexperience"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw-thumbnail.png
 ---
 
 ![Is Modern Business Complicated - background](images/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw-background.png)

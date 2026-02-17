@@ -9,6 +9,11 @@ tags:
   - "data-science"
   - "ethics"
   - "law"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/perplexing-ethics-of-ai-thumbnail.png
 ---
 
 ![Perplexing Ethics of AI - background](images/perplexing-ethics-of-ai-background.png)

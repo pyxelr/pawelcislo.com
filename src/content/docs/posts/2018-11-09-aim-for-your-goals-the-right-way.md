@@ -9,6 +9,11 @@ tags:
   - "productivity"
   - "todoist"
   - "todolists"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/aim-for-your-goals-the-right-way-thumbnail.png
 ---
 
 ![Aim for Your Goals the Right Way - background](images/aim-for-your-goals-the-right-way-background.png)

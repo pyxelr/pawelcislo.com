@@ -10,6 +10,11 @@ tags:
   - "powerful"
   - "programming"
   - "study"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/learn-programming-the-powerful-way-or-anything-else-thumbnail.png
 ---
 
 ![Learn Programming the Powerful Way or Anything Else - background](images/learn-programming-the-powerful-way-or-anything-else-background.png)

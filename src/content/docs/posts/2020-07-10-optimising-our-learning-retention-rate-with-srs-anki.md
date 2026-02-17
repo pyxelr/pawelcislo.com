@@ -8,6 +8,11 @@ tags:
   - "anki"
   - "flashcards"
   - "learning"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/optimising-our-learning-retention-rate-with-srs-anki-thumbnail.png
 ---
 
 ![Optimising Our Learning Retention Rate with SRS Anki - background](images/optimising-our-learning-retention-rate-with-srs-anki-background.png)

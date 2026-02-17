@@ -16,6 +16,11 @@ tags:
   - "iot"
   - "machine-learning"
   - "technology"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/is-data-science-the-inevitable-cultivation-thumbnail.png
 ---
 
 ![Is Data Science the Inevitable Cultivation - background](images/is-data-science-the-inevitable-cultivation-background.png)

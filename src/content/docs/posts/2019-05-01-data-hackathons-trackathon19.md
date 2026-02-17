@@ -11,6 +11,11 @@ tags:
   - "hackathon"
   - "infrabel"
   - "trackathon19"
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/data-hackathons-trackathon19-thumbnail.png
 ---
 
 ![Data Hackathons Trackathon19 - background](images/data-hackathons-trackathon19-background.png)
