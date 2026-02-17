@@ -38,6 +38,11 @@
 	border-radius: 8px;
 }
 
+/* Hide auto-generated "Footnotes" heading from Table of Contents */
+starlight-toc li:has(> a[href="#footnote-label"]) {
+	display: none;
+}
+
 /* Portfolio metadata (tags, year, status) */
 .meta {
 	color: var(--sl-color-gray-3);
