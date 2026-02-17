@@ -3,6 +3,7 @@ import starlight from '@astrojs/starlight';
 import { defineConfig } from 'astro/config';
 import rehypeKatex from 'rehype-katex';
 import remarkMath from 'remark-math';
+import remarkResponsiveIframes from './plugins/remark-responsive-iframes.mjs';
 
 import sitemap from '@astrojs/sitemap';
 
@@ -10,7 +11,7 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
     site: 'https://pawelcislo.com',
     markdown: {
-        remarkPlugins: [remarkMath],
+        remarkPlugins: [remarkMath, remarkResponsiveIframes],
         rehypePlugins: [rehypeKatex],
     },
     integrations: [starlight({
