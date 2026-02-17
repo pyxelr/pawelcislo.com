@@ -136,6 +136,20 @@ async function main() {
     }
     console.log('');
   }
+
+  // Summary by error type
+  const summary = new Map();
+  for (const result of broken) {
+    const key = result.error ? `ERR: ${result.error}` : `HTTP ${result.status}`;
+    summary.set(key, (summary.get(key) || 0) + 1);
+  }
+
+  console.log(`=== SUMMARY ===\n`);
+  console.log(`Checked: ${urls.length} | Broken: ${broken.length} | OK: ${urls.length - broken.length}\n`);
+  for (const [type, count] of [...summary.entries()].sort((a, b) => b[1] - a[1])) {
+    console.log(`  ${count.toString().padStart(4)}× ${type}`);
+  }
+  console.log('');
 }
 
 main();
