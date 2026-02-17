@@ -93,7 +93,7 @@ By hovering your mouse over the icons, you can discover the following sections:
 - Clients and products (4 datasets)
 - Finance (1 dataset)
 
-Using the "[Useful links](https://opendata.infrabel.be/pages/links/)" tab, you can find directions to other open data portals, mainly of other transport companies, such as STIB - MIVB. Your imagination is the only end, and mixing datasets from different sources can enhance your data mining process and result in even more impressive output.
+Using the "[Useful links](https://opendata.infrabel.be/explore)" tab, you can find directions to other open data portals, mainly of other transport companies, such as STIB - MIVB. Your imagination is the only end, and mixing datasets from different sources can enhance your data mining process and result in even more impressive output.
 
 In all of this, Infrabel was kind enough to ease our job and next to each of the dataset, everyone was able to use the available features to display the dataset tables and even generate brief data visualisations.
 
@@ -211,7 +211,6 @@ No worries, I won't judge you if you don't like trains, as there is plenty of ot
 - [List of lists with datasets](https://www.dataandsons.com/data-market/categories)
 - [Mathematics Dataset](https://github.com/deepmind/mathematics_dataset) ← generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty
 - [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/)
-- [Quantopian Datasets](https://www.quantopian.com/data?type=free)
 - [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images) ← largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
 - [World Bank Open Data](https://data.worldbank.org/) ← economic data
 - [YouTube 8M](https://research.google.com/youtube8m/) – dataset of YouTube videos

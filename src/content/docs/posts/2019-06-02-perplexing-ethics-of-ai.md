@@ -217,7 +217,7 @@ When deriving a concrete if/else solution for the programmed AI sitting inside t
 - make a random choice
 - let the user set up the ethical preferences before using the car for the 1st time
 - act according to the cultural difference of the country you're in
-- sum up the "social credit" of the objects (basing on the system already tested in China[^13], as well as presented in one of the Black Mirror episodes ([Nosedive](https://en.wikipedia.org/wiki/Nosedive_(Black_Mirror)))))
+- sum up the "social credit" of the objects (basing on the system already tested in China[^13], as well as presented in one of the Black Mirror episodes ([Nosedive](https://en.wikipedia.org/wiki/Nosedive_%28Black_Mirror%29)))
 
 ![Chinese social credit system](images/china-credit-system.png)
 _Chinese social credit system is a fact_
@@ -254,7 +254,7 @@ Maybe the following video will put your imagination into work, of what can happe
   allowfullscreen>
 </iframe>
 
-If you feel like having a little sneak peek over the next 10 years of the AI robots, have a look at Black Mirror's episode titled as "[Metalhead](https://en.wikipedia.org/wiki/Metalhead_(Black_Mirror))".
+If you feel like having a little sneak peek over the next 10 years of the AI robots, have a look at Black Mirror's episode titled as "[Metalhead](https://en.wikipedia.org/wiki/Metalhead_%28Black_Mirror%29)".
 
 Let's not introduce all the possible states, as one would need to write a comprehensive book with all the examples. Instead, I will leave you with this single GitHub repository, where you can spend a great part of your evening, getting familiar with all the introduced scary usages of AI in the [Awful AI repository](http://github.com/daviddao/awful-ai). As the author states, hopefully, it will depict the dark side of AI and "_raise awareness to its misuses in society_"[^15].
 

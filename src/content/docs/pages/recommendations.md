@@ -24,7 +24,7 @@ You can also discover more tech blogs with [Blogging for Devs](https://bloggingf
 - [Gary Vaynerchuk](https://www.garyvaynerchuk.com/blog/) ← business/motivation oriented blog
 - [Grant Cardone](https://grantcardone.com/blog/) ← business/motivation oriented blog
 - [I Will Teach You To Be Rich](https://www.iwillteachyoutoberich.com/blog/)
-- [Kopywriting Kourse](https://kopywritingkourse.com/blog/) ← improve your writing
+- [Kopywriting Kourse](https://copywritingcourse.com/blog/) ← improve your writing
 - [Marcin Iwuć](https://marciniwuc.com/) (🇵🇱) ← personal finances
 - [Neil Patel](https://writingexcuses.com/) ← digital marketing blog
 - [Social Media Examiner](https://www.socialmediaexaminer.com/) ← guide to social media
@@ -61,7 +61,7 @@ You can also discover more tech blogs with [Blogging for Devs](https://bloggingf
 - [Distill](https://distill.pub/) ← interactive, visual journal for machine learning research
 - [Econometrics and Free Software](https://www.brodrigues.co/) ← blog focused on R from the economist holding a PhD
 - [FlowingData](https://flowingdata.com/) ← blog on data visualisation
-- [Go Practice](https://gopractice.io/blog/) ← essays on how data helps build and grow products
+- [Go Practice](https://gopractice.io/) ← essays on how data helps build and grow products
 - [Information is Beautiful](https://informationisbeautiful.net/) ← see it with your own eyes
 - [Jak badać dane](https://www.jakbadacdane.pl/) (🇵🇱) ← data, ML, AI
 - [Jay Alammar](https://jalammar.github.io/) ← blog with lots of simple ML visualisations
@@ -407,7 +407,7 @@ Mostly universal (language-independent books).
 
 ### tools
 
-- [AmIUnique](https://amiunique.org/fp) ← check your browser fingerprint
+- [AmIUnique](https://amiunique.org/fingerprint) ← check your browser fingerprint
 - [Browserling](https://www.browserling.com/browser-sandbox) ← online browser sandbox
 - [CheckShortURL](https://checkshorturl.com/) ← shortened URL expander
 - [CyberChef](https://gchq.github.io/CyberChef/) ← web app for encryption, encoding, compression and data analysis
@@ -458,9 +458,9 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 - [AWS Public Datasets](https://aws.amazon.com/public-datasets/)
 - [Berkeley DeepDrive BDD100k](https://bdd-data.berkeley.edu/) ← 100,000 HD video sequences of over 1,100-hour driving experience across many different times in the day, weather conditions, and driving scenarios. Video sequences also include GPS locations, IMU data, and timestamps
 - [Caffe2](https://caffe2.ai/docs/datasets.html)
-- [Common Voice](https://voice.mozilla.org/en/datasets) ← dataset of voices that everyone can use to train speech-enabled applications
+- [Common Voice](https://commonvoice.mozilla.org/en) ← dataset of voices that everyone can use to train speech-enabled applications
 - [CORGIS](https://think.cs.vt.edu/corgis/) ← datasets for beginners
-- [DataHub](https://datahub.io/search) ← easiest way to find, share and publish datasets online
+- [DataHub](https://datahub.io/collections) ← easiest way to find, share and publish datasets online
 - [Datasets for machine learning](https://www.datasetlist.com/) ← huge list (CV/NLP/Audio)
 - [Datasets for mind reading](https://mindcodec.ai/2018/10/03/datasets-for-mind-reading/) (dataset is still available [here](https://crcns.org/data-sets/vc/vim-1/about-vim-1) with a CRCNS account) ← fancy, huh?
 - [FiveThirtyEight](https://data.fivethirtyeight.com/) ← economics, sports, politics
@@ -479,7 +479,6 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 - [nuScenes](https://www.nuscenes.org/) ← large-scale autonomous driving dataset
 - [Papers With Code Datasets](https://paperswithcode.com/datasets) ← ML datasets with lots of filtering options
 - [Quandl](https://www.quandl.com/tools/python) ← financial data directly into Python
-- [Quantopian Datasets](https://www.quantopian.com/docs/data-reference/overview)
 - [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images) ← largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
 - [VQA](https://visualqa.org/) ← 200k+ images and over a million questions (with answers) about those images
   - [easy-VQA](https://github.com/vzhou842/easy-VQA) ← simpler version of the original VQA dataset
@@ -491,11 +490,10 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 - [CalmJobs](https://calm-jobs.com/) ← job board of companies who value work-life balance
 - [DataJobs](https://datajobs.com/) ← jobs on the US market
 - [Indeed](https://www.indeed.com/) ← worldwide job search
-- [Kaggle jobs](https://www.kaggle.com/jobs) ← job board on Kaggle
 - [LinkedIn](https://www.linkedin.com/) ← social platform for employees
 - [Remote Jobs](https://remotehub.io/) ← browse 1,900+ remote companies and learn about their team, benefits, work culture and more
 - [StatsJobs](https://www.statsjobs.com/) ← jobs for statisticians
-- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) ← carefully curated content to help you ace your next technical interview with a focus on algorithms
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/) ← carefully curated content to help you ace your next technical interview with a focus on algorithms
 
 #### tools
 
@@ -665,7 +663,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 - [Memrise](https://www.memrise.com/) ← learn a language and not only
 - [NeuraCache](https://neuracache.com/) ← automatically generate flashcards from Twitter posts, Markdown editors, Kindle or your favourite note-taking tools, such as OneNote, Evernote or Roam and study them all using a mobile app
 - [Quizlet](https://quizlet.com/) ← more user-friendly alternative to Anki
-- [RemNote](https://www.remnote.com/) ← note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
+- [RemNote](https://www.remnote.com/) ← note-taking app that will convert your notes to flashcards with the use of specific syntax
 - [ShortcutFoo](https://www.shortcutfoo.com/) ← fun way to memorise shortcuts and commands
 - [SuperMemo](https://super-memo.com/supermemo18.html) ← more advanced tool over Anki, including the incremental reading feature. The author also dedicated a lot of time into the [science behind the learning topic](http://www.super-memory.com/)
 - [Tinycards](https://tinycards.duolingo.com/) ← flashcard app from the creators of Duolingo
@@ -1080,7 +1078,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 - [Productivity Stack](https://hive.com/the-productivity-stack/) ← list of productivity tools
 - [Quirk](https://quirk.fyi/) ← app to apply Cognitive Behavioral Therapy (CBT). The website also explains what CBT is
 - [Raindrop.io](https://raindrop.io/) ← bookmark manager (Pocket-like app)
-- [RemNote](https://www.remnote.com/) ← note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
+- [RemNote](https://www.remnote.com/) ← note-taking app that will convert your notes to flashcards with the use of specific syntax
 - [Roam](https://roamresearch.com/) ← note-taking tool as powerful as a graph database, applying the Zettelkasten method (alternative to Obsidian)
 - [Todoist](https://todoist.com/r/pyxelr_kjtwbq) ← my daily to-do app (using this link you will get 2 months of premium for free!). If you don't know how to start, [check out my Todoist setup](/posts/aim-for-your-goals-the-right-way/) and inspire yourself!
 - [Toggl](https://toggl.com/) ← the most integrated time tracker
@@ -1112,7 +1110,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 ### IDE
 
-- [Anaconda](https://www.anaconda.com/distribution/) ← most popular Python/R Data Science platform, which lets you install and manage all of the following tools:
+- [Anaconda](https://www.anaconda.com/download) ← most popular Python/R Data Science platform, which lets you install and manage all of the following tools:
   - [Jupyter Notebook](https://jupyter.org/) ← good choice for the beginning and the reason for maintaining well-documented code
   - [Spyder](https://www.spyder-ide.org/) ← Python IDE
   - [RStudio](https://rstudio.com/) ← R IDE
@@ -1167,7 +1165,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 #### extra
 
 - [Airtable](https://airtable.com/) ← partly spreadsheet, partly database. Can replace WordPress for non-technical users, who can also manage multiple domains using this tool
-- [Bubble](https://bubble.is/) ← visual programming (no coding required)
+- [Bubble](https://bubble.io/) ← visual programming (no coding required)
 - [Coda](https://coda.io/) ← build docs as powerful as an app (no coding required)
 - [DevDocs](https://devdocs.io/) ← API documentation browser
 - [free-for.dev](https://free-for.dev/) ← list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
@@ -1326,7 +1324,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 ### data science
 
-- [AI Explained](https://www.youtube.com/@ai-explained-) ← covering the biggest news of the century - the arrival of smarter-than-human AI
+- [AI Explained](https://www.youtube.com/@AiExplained-official) ← covering the biggest news of the century - the arrival of smarter-than-human AI
 - [CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA) ← data science topics explained through simple visualisations
 - [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ) ← machine learning engineer who plays at the intersection of technology and health
 - [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) ← hours of data analysis in R

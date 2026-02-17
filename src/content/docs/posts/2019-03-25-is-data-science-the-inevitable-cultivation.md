@@ -282,7 +282,7 @@ Personally, I enjoyed using classical [Sublime Text](https://www.sublimetext.co
 
 If you are not happy with those, you can also try [Spyder](https://github.com/spyder-ide/spyder) as a free solution and [PyCharm](https://www.jetbrains.com/pycharm/) for professional development.
 
-If you want to try Jupyter, Spyder and VS Code, just install a famous [Anaconda Distribution](https://www.anaconda.com/distribution/) to have a clear overview and ease of management over your tools.
+If you want to try Jupyter, Spyder and VS Code, just install a famous [Anaconda Distribution](https://www.anaconda.com/download/) to have a clear overview and ease of management over your tools.
 
 ### My recommendations / tools 🛠
 
