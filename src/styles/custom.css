@@ -43,6 +43,17 @@ starlight-toc li:has(> a[href="#footnote-label"]) {
 	display: none;
 }
 
+/* Mobile menu button */
+button[aria-controls="starlight__sidebar"] {
+	background-color: #a8f0f5;
+	color: #148991;
+}
+
+:root[data-theme='light'] button[aria-controls="starlight__sidebar"] {
+	background-color: #148991;
+	color: #a8f0f5;
+}
+
 /* Portfolio metadata (tags, year, status) */
 .meta {
 	color: var(--sl-color-gray-3);
