@@ -10,6 +10,9 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
     site: 'https://pawelcislo.com',
+    redirects: {
+        '/about': '/',
+    },
     markdown: {
         remarkPlugins: [remarkMath, remarkResponsiveIframes],
         rehypePlugins: [rehypeKatex],
