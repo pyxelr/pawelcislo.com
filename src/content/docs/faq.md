@@ -9,7 +9,7 @@ If you have a question that was not listed on this page, please do not hesitate 
 
 * * *
 
-1. **Why did you start this** **blog?**  
+1. **Why did you start this blog?**  
     I tried to answer this question in depth in [my first post](/posts/foreword-of-the-greater-intention/).
     Briefly speaking, I enjoy writing, and I would feel unfulfilled keeping all the exciting stuff locked in my mind without sharing it with someone who might greatly benefit from it.
 
@@ -25,8 +25,8 @@ If you have a question that was not listed on this page, please do not hesitate 
 4. **Answer in one word: _What is the must-have for success_?**  
     Discipline.
 
-5. **Places you are actively visible online?**  
-    See "My Internet Persona" section in the [About Me](/) page.
+5. **Where are you actively visible online?**  
+    See [My Internet Persona](/#my-internet-persona).
 
 6. **Who are your life influencers and why?**  
     - [Mike Shinoda](http://www.mikeshinoda.com/) ← for the overall lifestyle, kindness, and performance in one of my favourite bands - Linkin Park
@@ -61,19 +61,19 @@ If you have a question that was not listed on this page, please do not hesitate 
 8. **Can you also recommend me XYZ (blogs, tools, data science resources, programming learning materials, etc.)?**  
     Sure, have a look at [my great list of recommendations](/recommendations/).
 
-9. **What books are you currently reading? Do you publish some reviews?**  
+9. **What books are you currently reading? Do you post reviews?**  
     Of course, you can check my reading progress and the [reviews on my Goodreads profile](https://www.goodreads.com/review/list/57442889-pawel-cislo?order=d&shelf=read&sort=review&view=reviews). I am also spending a lot of time with online materials and annotating them with [my Hypothes.is account](https://hypothes.is/users/pyxelr).
 
 10. **Favourite entertainment website?**  
-    [SoundCloud](https://soundcloud.com/) for music and [X](https://x.com/)/[Hackernews](https://news.ycombinator.com/) for online discussions. Talking about SoundCloud, I realised it is not only my main entertainment website since 2012 but a permanent source of joy through everyday fresh tunes [that I like](https://soundcloud.com/pyxelr/likes) and turn into [playlists](https://soundcloud.com/pyxelr/sets). Thanks to this orange cloud, I could find many artists, friends and sources of influence, such as [Aika](https://soundcloud.com/i-am-aika), [CruciA](https://soundcloud.com/crucia), [synx](https://soundcloud.com/synxelectronic), [Skyvoice](https://soundcloud.com/skyvoice36) and [Souhex](https://soundcloud.com/witchwithglitch), who play a huge part in my life.
+    [SoundCloud](https://soundcloud.com/) for music and [X](https://x.com/)/[Hackernews](https://news.ycombinator.com/) for online discussions. Talking about SoundCloud, I realised it is not only my main entertainment website since 2012 but also a permanent source of joy through everyday fresh tunes [that I like](https://soundcloud.com/pyxelr/likes) and turn into [playlists](https://soundcloud.com/pyxelr/sets). Thanks to this orange cloud, I've found many artists, friends and sources of influence, such as [Aika](https://soundcloud.com/i-am-aika), [CruciA](https://soundcloud.com/crucia), [synx](https://soundcloud.com/synxelectronic), [Skyvoice](https://soundcloud.com/skyvoice36) and [Souhex](https://soundcloud.com/witchwithglitch), who play a huge part in my life.
 
     In my free time, I want to be more active on the site and start sharing more of my own creations.
 
 11. **Favourite TV show?**  
     I don't usually watch any TV series, but [Mr. Robot](https://www.imdb.com/title/tt4158110/) gave me a great deal of time for reflection.
 
-12. **I want to be like you or XYZ?**  
-    Don't waste your time trying to be like anyone else. Moreover, do not compare yourself to others as you can only harm yourself this way. Let yourself have some influencers, but do not copy them. Everyone is beautiful in their being, and this is why the world can advance, by brainstorming through unique views and forming exceptional solutions.
+12. **I want to be like you or XYZ!**  
+    Don't waste your time trying to be like anyone else. Moreover, do not compare yourself to others, since it can only hold you back. Let yourself have some influencers, but do not copy them. Everyone is beautiful in their being, and this is why the world can advance, by brainstorming through unique views and forming exceptional solutions.
 
 13. **I love your content a ton! Can I support you anywhere?**  
     You already mean a lot to me by following my online persona! However, if you're such a determined and lovely person, you can [drop me a donation on my PayPal account](https://www.paypal.me/pawelcislo/3.14).
