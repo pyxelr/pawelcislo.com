@@ -59,3 +59,8 @@ button[aria-controls="starlight__sidebar"] {
 	color: var(--sl-color-gray-3);
 	font-size: 0.85em;
 }
+
+/* Dim the #Archived sidebar section */
+ul.top-level > li:last-child {
+	opacity: 0.5;
+}
