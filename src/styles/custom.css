@@ -7,7 +7,7 @@
 
 :root[data-theme='light'] {
 	--sl-color-accent-low: #b2e8ed;
-	--sl-color-accent: #148991;
+	--sl-color-accent: #117880;
 	--sl-color-accent-high: #0a4448;
 }
 
@@ -46,11 +46,11 @@ starlight-toc li:has(> a[href="#footnote-label"]) {
 /* Mobile menu button */
 button[aria-controls="starlight__sidebar"] {
 	background-color: #a8f0f5;
-	color: #148991;
+	color: #117880;
 }
 
 :root[data-theme='light'] button[aria-controls="starlight__sidebar"] {
-	background-color: #148991;
+	background-color: #117880;
 	color: #a8f0f5;
 }
 
