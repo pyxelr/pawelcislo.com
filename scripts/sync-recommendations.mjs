@@ -2,7 +2,7 @@
  * Syncs the README from pyxelr/recommendations-for-engineers into the Starlight page.
  *
  * Source of truth: https://github.com/pyxelr/recommendations-for-engineers
- * Target: src/content/docs/pages/recommendations.md
+ * Target: src/content/docs/recommendations.md
  *
  * Transformations applied:
  *   - Strips H1 title (Starlight uses frontmatter title)
@@ -27,7 +27,7 @@ const REPO_RAW_URL =
 const OUTPUT_PATH = resolve(
 	__dirname,
 	'..',
-	'src/content/docs/pages/recommendations.md',
+	'src/content/docs/recommendations.md',
 );
 
 const FRONTMATTER = `---
@@ -82,7 +82,7 @@ async function main() {
 	);
 	md = md.replace(
 		"don't hesitate to create a pull request if I missed something interesting or if there is a dead link.",
-		"don't hesitate to [tell me](/pages/contact/) if I missed something interesting or if there is a dead link. You are also welcome to create a pull request and see the history of edits in the [GitHub repo](https://github.com/pyxelr/recommendations-for-engineers).",
+		"don't hesitate to [tell me](/contact/) if I missed something interesting or if there is a dead link. You are also welcome to create a pull request and see the history of edits in the [GitHub repo](https://github.com/pyxelr/recommendations-for-engineers).",
 	);
 
 	// 6. Convert old WordPress-style pawelcislo.com post URLs to relative paths

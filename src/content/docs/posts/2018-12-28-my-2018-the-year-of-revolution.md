@@ -35,10 +35,10 @@ I heard it is recommended to start the post with the most mattering message righ
 - Was more active in sharing own content on social media 💬
 - Continued to note a daily journal (never missed a day since April 2017). It clearly helped in the preparation of this post 🗒
 - Worked with Todoist and OneNote for another full year ✅
-- Implemented new productivity method: "[Three Goals](/pages/three-goals/)" which I am consistently using ✅
+- Implemented new productivity method: "[Three Goals](/three-goals/)" which I am consistently using ✅
 - Continually updated my technical knowledge through: [#unknownews](https://news.uw-team.org/), [Hacker News](https://news.ycombinator.com/), [Inside](https://inside.com/),  weekly trending repositories on GitHub, [Ars Technica](https://arstechnica.com/), [dobreprogramy](https://www.dobreprogramy.pl/),  subreddits, and many personal blogs 📖
 - Regularly watched [MiroBurn](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw) and [devstyle](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) vlogs that were the main source of my motivation 📼
-  - I did watch other YouTube channels almost regularly, which I have listed [here](/pages/recommendations/) 📼
+  - I did watch other YouTube channels almost regularly, which I have listed [here](/recommendations/) 📼
 - Listened to even more podcasts 📻
 - Discovered some great ways to increase my focus by using [Brain.fm](https://www.brain.fm/) and [toggl](https://toggl.com/). I might describe them once on this blog ⚡
 - Was actively using several mobile apps to develop myself, such as [Brilliant](https://brilliant.org/) and [Elevate](https://www.elevateapp.com/) 🧠
@@ -179,7 +179,7 @@ I'm going to start 2019 with a new position: International Engineering Consultan
 
 In the meantime, I'm about to continue developing my skills not only around technical areas.
 
-Moreover, I always consider to work on projects remotely, so if you think like we can benefit from each other, please [let me know](/pages/contact/).
+Moreover, I always consider to work on projects remotely, so if you think like we can benefit from each other, please [let me know](/contact/).
 
 ## Woah, good job! What about the year 2017?
 
@@ -218,7 +218,7 @@ Oh, also, I am going to read more books as there are 154 of them in my list.
 
 ## Message to you
 
-At the end of this babbling, I encourage you to plan your 2019 the way you will be feeling proud at its end. You might look into [the way I design some of my goals](/pages/three-goals/) and do the same. Just like the mentioned friend, you can ask me for support in it.
+At the end of this babbling, I encourage you to plan your 2019 the way you will be feeling proud at its end. You might look into [the way I design some of my goals](/three-goals/) and do the same. Just like the mentioned friend, you can ask me for support in it.
 
 Invest in yourself and treat your time well, as it's a non-renewable resource, which you wouldn't like to waste.
 

@@ -62,18 +62,18 @@ export default defineConfig({
             {
                 label: 'Profile',
                 items: [
-                    { label: 'Portfolio', slug: 'pages/portfolio' },
-                    { label: 'Uses', slug: 'pages/uses' },
-                    { label: 'Contact', slug: 'pages/contact' },
+                    { label: 'Portfolio', slug: 'portfolio' },
+                    { label: 'Uses', slug: 'uses' },
+                    { label: 'Contact', slug: 'contact' },
                 ],
             },
             {
                 label: 'Resources',
                 items: [
-                    { label: 'Recommendations', slug: 'pages/recommendations' },
-                    { label: 'Favourite Thoughts', slug: 'pages/favourite-thoughts' },
-                    { label: 'Three Goals', slug: 'pages/three-goals' },
-                    { label: 'FAQ', slug: 'pages/faq' },
+                    { label: 'Recommendations', slug: 'recommendations' },
+                    { label: 'Favourite Thoughts', slug: 'favourite-thoughts' },
+                    { label: 'Three Goals', slug: 'three-goals' },
+                    { label: 'FAQ', slug: 'faq' },
                 ],
             },
             {

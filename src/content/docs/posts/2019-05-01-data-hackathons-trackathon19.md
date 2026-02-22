@@ -110,7 +110,7 @@ All the different options of each dataset are:
 
 Remember that through the registration you can save for later all the generated maps/graphs on your account.
 
-Moreover, keep in mind that if you have any remarks about the portal or the data it contains, you are more than encouraged to drop a message through the "[Contact](https://opendata.infrabel.be/pages/contact/)" tab.
+Moreover, keep in mind that if you have any remarks about the portal or the data it contains, you are more than encouraged to drop a message through the "[Contact](https://opendata.infrabel.be/contact/)" tab.
 
 ## What is so magical about hackathons?
 

@@ -142,10 +142,10 @@ As previously mentioned, we can get some premade cards, but it's like learning f
 
 Nonetheless, there are ways to facilitate the card-creation process. For example, if you tend to annotate some text online (such as I do with [Hypothesis](https://hypothes.is/users/pyxelr)), you can use your annotation on the front side of the card and the highlighted part as the answer (back side). Apart from Hypothesis, you may also try using a different annotation tool – Polar that officially supports such conversion [straight from its software](https://getpolarized.io/docs/anki-sync-for-spaced-repetition.html). You can even get automatically generated cards from the displayed word definitions or highlights you create on your Kindle device (the required tools are mentioned in [the further part of this post](/posts/optimising-our-learning-retention-rate-with-srs-anki/#my-plugins)).
 
-Once you have your cards, it's crucial to be consistent with your studies. To help yourself with it, you can use a review heatmap to have a quick glance over your frequency, as well as define a [goal similar to mine](/pages/three-goals/): "_Daily Anki Flashcards_". Try to do your studies at the same time of the day, so it will become a habit just like brushing your teeth. To contribute to the community, don't forget to [share some of your creations](https://ankiweb.net/shared/decks/).
+Once you have your cards, it's crucial to be consistent with your studies. To help yourself with it, you can use a review heatmap to have a quick glance over your frequency, as well as define a [goal similar to mine](/three-goals/): "_Daily Anki Flashcards_". Try to do your studies at the same time of the day, so it will become a habit just like brushing your teeth. To contribute to the community, don't forget to [share some of your creations](https://ankiweb.net/shared/decks/).
 
 ![Sample of my 3 Anki goals of a Three Goals programme](images/example-of-my-3-anki-levels.png)
-_Sample of my 3 Anki goals of a [Three Goals](/pages/three-goals/) programme_
+_Sample of my 3 Anki goals of a [Three Goals](/three-goals/) programme_
 
 ### Make effective flashcards
 
@@ -387,7 +387,7 @@ If for any reason you don't feel like using Anki, there are other options which 
 - [ShortcutFoo](https://www.shortcutfoo.com/) ← fun way to memorise shortcuts and commands
 - [Tinycards](https://tinycards.duolingo.com/) ← flashcard app from the creators of Duolingo.
 
-Maybe the nature of flashcards still doesn't suit you? Well, then I hope that finding something inside [my list of recommendations](/pages/recommendations/#flashcards) will satisfy you. Alternatively, you might apply spaced repetition in an old-school way while using pen and paper in The Leitner Box methodology[^7]:
+Maybe the nature of flashcards still doesn't suit you? Well, then I hope that finding something inside [my list of recommendations](/recommendations/#flashcards) will satisfy you. Alternatively, you might apply spaced repetition in an old-school way while using pen and paper in The Leitner Box methodology[^7]:
 
 <iframe
   width="560"

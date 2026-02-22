@@ -5,7 +5,7 @@ date: 2018-08-18
 
 Well, maybe I'm not popular enough to be frequently asked about all these things; however, you can treat this page more like an aggregator for some of my handy answers.  
   
-If you have a question that was not listed on this page, please do not hesitate to [get in touch with me](/pages/contact/). I will also try to let myself be known in different posts and pages of this blog.
+If you have a question that was not listed on this page, please do not hesitate to [get in touch with me](/contact/). I will also try to let myself be known in different posts and pages of this blog.
 
 * * *
 
@@ -20,7 +20,7 @@ If you have a question that was not listed on this page, please do not hesitate 
     _"Try to be the best version of yourself"_  
 
     I also keep _"Done is better than perfect"_ close to my heart, to ease my fight with procrastination and perfectionism.  
-    You can find the list of all my [favourite thoughts](/pages/favourite-thoughts/) (updated regularly).  
+    You can find the list of all my [favourite thoughts](/favourite-thoughts/) (updated regularly).  
 
 4. **Answer in one word: _What is the must-have for success_?**  
     Discipline.  
@@ -76,7 +76,7 @@ If you have a question that was not listed on this page, please do not hesitate 
     - [Google Colab](https://colab.research.google.com/) for the web IDE  
 
 9. **Can you also recommend me XYZ (blogs, tools, data science resources, programming learning materials, etc.)?**  
-    Sure, have a look at [my great list of recommendations](/pages/recommendations/).  
+    Sure, have a look at [my great list of recommendations](/recommendations/).  
 
 10. **What books are you currently reading? Do you publish some reviews?**  
     Of course, you can check my reading progress and the [reviews on my Goodreads profile](https://www.goodreads.com/review/list/57442889-pawel-cislo?order=d&shelf=read&sort=review&view=reviews). I am also spending a lot of time with online materials and annotating them with [my Hypothes.is account](https://hypothes.is/users/pyxelr).  
