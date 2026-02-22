@@ -46,6 +46,7 @@ const { tag, posts } = Astro.props;
 		pagination: false,
 	}}
 >
+	<div data-pagefind-ignore>
 	<p><a href="/tags/">← All tags</a></p>
 
 	<p>{posts.length} post{posts.length !== 1 ? 's' : ''} tagged <strong>{tag}</strong>:</p>
@@ -65,6 +66,7 @@ const { tag, posts } = Astro.props;
 			);
 		})}
 	</ul>
+	</div>
 </StarlightPage>
 
 <style>

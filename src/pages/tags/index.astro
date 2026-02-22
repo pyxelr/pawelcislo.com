@@ -32,6 +32,7 @@ const byAlpha = [...tagCounts.entries()].sort((a, b) => a[0].localeCompare(b[0])
 		pagination: false,
 	}}
 >
+	<div data-pagefind-ignore>
 	<div class="sort-toggle">
 		<button id="sort-alpha" class="sort-btn active">A–Z</button>
 		<button id="sort-freq" class="sort-btn">By count</button>
@@ -67,6 +68,7 @@ const byAlpha = [...tagCounts.entries()].sort((a, b) => a[0].localeCompare(b[0])
 			document.getElementById('sort-alpha')!.classList.remove('active');
 		});
 	</script>
+	</div>
 </StarlightPage>
 
 <style>
