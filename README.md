@@ -26,7 +26,9 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 │   │   └── tags/               # Tag index and individual tag pages
 │   └── styles/                 # Custom CSS overrides
 ├── astro.config.mjs            # Site configuration
+├── COPYRIGHT                   # Content copyright notice
 ├── package.json                # Dependencies and scripts
+├── README.md                   # This file
 └── tsconfig.json               # TypeScript configuration
 ```
 
