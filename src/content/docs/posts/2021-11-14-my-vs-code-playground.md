@@ -8,6 +8,7 @@ categories:
 tags: 
   - "ide"
   - "programming"
+  - "python"
   - "vscode"
 discuss:
   - platform: Reddit

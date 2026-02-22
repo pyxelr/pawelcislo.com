@@ -61,27 +61,21 @@ export default defineConfig({
             { icon: 'document', label: 'Hypothes.is', href: 'https://hypothes.is/users/pyxelr' },
         ],
         sidebar: [
-            { label: 'About', link: '/' },
+            { label: '#About', link: '/' },
             {
-                label: 'Profile',
+                label: '#Profile',
                 items: [
                     { label: 'Portfolio', slug: 'portfolio' },
                     { label: 'Uses', slug: 'uses' },
+                    { label: 'FAQ', slug: 'faq' },
+                    { label: 'Favourite Thoughts', slug: 'favourite-thoughts' },
                     { label: 'Contact', slug: 'contact' },
                 ],
             },
-            {
-                label: 'Extras',
-                items: [
-                    { label: 'FAQ', slug: 'faq' },
-                    { label: 'Favourite Thoughts', slug: 'favourite-thoughts' },
-                    { label: 'Three Goals', slug: 'three-goals' },
-                    { label: 'Recommendations', slug: 'recommendations' },
-                ],
-            },
             { label: '#tags', link: '/tags/' },
+            { label: '#Recommendations', link: '/recommendations/' },
             {
-                label: 'Blog Posts',
+                label: '#Blog Posts',
                 collapsed: true,
                 items: [
                     { slug: 'posts/2023-update' },
@@ -98,6 +92,13 @@ export default defineConfig({
                     { slug: 'posts/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw' },
                     { slug: 'posts/how-did-i-automate-micrograph-analysis' },
                     { slug: 'posts/foreword-of-the-greater-intention' },
+                ],
+            },
+            {
+                label: '#Archived',
+                collapsed: true,
+                items: [
+                    { label: 'Three Goals', slug: 'three-goals' },
                 ],
             },
         ],
