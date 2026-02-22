@@ -16,7 +16,7 @@
 	float: right;
 	margin: 0 0 1rem 1.5rem;
 	max-width: 180px;
-	border-radius: 8px;
+	border-radius: 50%;
 }
 
 /* Responsive iframe wrapper (YouTube embeds) */
