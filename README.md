@@ -10,16 +10,21 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 
 ```text
 .
-├── plugins/                    # Custom plugins
+├── plugins/                    # Custom remark/rehype plugins
 ├── public/                     # Static assets served as-is (favicon, linked images, etc.)
-├── scripts/                    # Utility scripts
+├── scripts/                    # Utility scripts (sync recommendations, link checker, etc.)
 ├── src/
 │   ├── assets/                 # Optimised assets (processed by Astro)
+│   ├── components/             # Custom Astro components (Footer, PageTitle, ThemeSelect, etc.)
 │   ├── content/
-│   │   ├── docs/
-│   │   │   ├── pages/          # Pages (About, Portfolio, Contact, etc.)
-│   │   │   └── posts/          # Blog posts with images
-│   │   └── content.config.ts   # Content collection schema
+│   │   └── docs/
+│   │       ├── knowledge/      # Knowledge base pages (Obsidian, Espanso, etc.)
+│   │       ├── pages/          # Legacy subfolder (images only)
+│   │       └── posts/          # Blog posts with images
+│   ├── content.config.ts       # Content collection schema
+│   ├── pages/                  # Custom Astro pages (404, RSS, tags)
+│   │   └── tags/               # Tag index and individual tag pages
+│   └── styles/                 # Custom CSS overrides
 ├── astro.config.mjs            # Site configuration
 ├── package.json                # Dependencies and scripts
 └── tsconfig.json               # TypeScript configuration
@@ -30,7 +35,7 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 - Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory
 - Each file is exposed as a route based on its file name
 - Blog posts are in `src/content/docs/posts/` (auto-generated in sidebar)
-- Static pages are in `src/content/docs/pages/` (manually configured in sidebar)
+- Top-level pages (Portfolio, FAQ, Uses, etc.) live directly in `src/content/docs/`
 - Images are in `src/content/docs/posts/images/` and `src/content/docs/pages/images/`
 
 ## 👨🏻‍💻 Getting Started
