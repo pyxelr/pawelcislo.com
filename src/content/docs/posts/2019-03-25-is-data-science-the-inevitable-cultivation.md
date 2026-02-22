@@ -13,6 +13,15 @@ tags:
   - "conference"
   - "iot"
   - "technology"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/3026711947403287
+  - platform: X
+    url: https://x.com/pyXelr/status/1110154732994207745
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6515919882775855104
+  - platform: Hacker News
+    url: https://news.ycombinator.com/item?id=19482067
 head:
   - tag: meta
     attrs:

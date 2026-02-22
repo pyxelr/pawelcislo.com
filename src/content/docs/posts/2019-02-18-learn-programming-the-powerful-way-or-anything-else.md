@@ -9,6 +9,13 @@ tags:
   - "learning"
   - "programming"
   - "tutorial"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/2955535697854246
+  - platform: X
+    url: https://x.com/pyXelr/status/1097548777374781441
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6503313986107379712
 head:
   - tag: meta
     attrs:

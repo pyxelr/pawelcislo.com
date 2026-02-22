@@ -13,6 +13,15 @@ tags:
   - "micrograph"
   - "nanoparticle"
   - "segmentation"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/2647934061947746
+  - platform: X
+    url: https://x.com/pyXelr/status/1041315523370381312
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6447080889175285760
+  - platform: ImageJ Forum
+    url: https://forum.image.sc/t/automatic-micrograph-analyser-my-macro/19738
 head:
   - tag: meta
     attrs:

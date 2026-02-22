@@ -9,6 +9,11 @@ tags:
   - "productivity"
   - "review"
   - "year"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/2846386225435861
+  - platform: X
+    url: https://x.com/pyXelr/status/1078683309490749440
 head:
   - tag: meta
     attrs:

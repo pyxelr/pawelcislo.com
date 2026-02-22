@@ -8,6 +8,13 @@ categories:
 tags: 
   - "blog"
   - "productivity"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/2632220326852453
+  - platform: X
+    url: https://x.com/pawel_cislo/status/1038057960361144320
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6443824074773790720
 head:
   - tag: meta
     attrs:

@@ -9,6 +9,13 @@ categories:
 tags: 
   - "review"
   - "year"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/4004757409598731
+  - platform: X
+    url: https://x.com/pawel_cislo/status/1238175539816468482
+  - platform: LinkedIn
+    url: https://www.linkedin.com/posts/pawelcislo_the-potential-of-perspicuous-writing-activity-6561194100127858688-CLip/
 head:
   - tag: meta
     attrs:

@@ -10,6 +10,13 @@ tags:
   - "productivity"
   - "todoist"
   - "todolists"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/2752235284850956
+  - platform: X
+    url: https://x.com/pyXelr/status/1060957888347283456
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6466722902996852736
 head:
   - tag: meta
     attrs:

@@ -16,6 +16,14 @@ const historyUrl = filePath
 ---
 
 <footer class="sl-flex">
+	{entry.data.discuss && entry.data.discuss.length > 0 && (
+		<div class="discuss-on">
+			<span>Discuss on</span>
+			{entry.data.discuss.map((d, i) => (
+				<><a href={d.url} target="_blank" rel="noopener noreferrer">{d.platform}</a>{i < entry.data.discuss.length - 1 && <span class="sep"> · </span>}</>
+			))}
+		</div>
+	)}
 	<div class="meta sl-flex">
 		<EditLink />
 		{lastUpdated && (
@@ -57,6 +65,29 @@ const historyUrl = filePath
 		flex-direction: column;
 		gap: 1.5rem;
 	}
+	.discuss-on {
+		margin-top: 3rem;
+		padding: 0.75rem 1rem;
+		border: 1px solid var(--sl-color-gray-5);
+		border-radius: 0.5rem;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+		text-align: center;
+	}
+	.discuss-on span:first-child {
+		margin-right: 0.5rem;
+	}
+	.discuss-on a {
+		color: var(--sl-color-accent-high);
+		text-decoration: underline;
+	}
+	.discuss-on a:hover {
+		color: var(--sl-color-white);
+	}
+	.discuss-on .sep {
+		color: var(--sl-color-gray-4);
+	}
+
 	.meta {
 		gap: 0.75rem 3rem;
 		justify-content: space-between;

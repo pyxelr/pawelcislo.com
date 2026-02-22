@@ -10,6 +10,13 @@ tags:
   - "brussels"
   - "ai"
   - "hackathon"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/3109293629145118
+  - platform: X
+    url: https://x.com/pyXelr/status/1123613977840377856
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6529375881675317248
 head:
   - tag: meta
     attrs:

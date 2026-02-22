@@ -10,6 +10,13 @@ tags:
   - "marketing"
   - "wbe"
   - "worldbusinessexperience"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/2672126122861873
+  - platform: X
+    url: https://x.com/pyXelr/status/1046499777813401602
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6452265014689697792
 head:
   - tag: meta
     attrs:

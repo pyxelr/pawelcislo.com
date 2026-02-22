@@ -9,6 +9,13 @@ tags:
   - "ai"
   - "ethics"
   - "law"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/3186062611468219
+  - platform: X
+    url: https://x.com/pyXelr/status/1135173101740789765
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6540938307155701760
 head:
   - tag: meta
     attrs:

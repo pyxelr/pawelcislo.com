@@ -9,6 +9,15 @@ tags:
   - "anki"
   - "flashcards"
   - "learning"
+discuss:
+  - platform: Reddit
+    url: https://www.reddit.com/r/Anki/comments/hoocvu/my_detailed_blog_post_on_anki_with_the_links_to/
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/pfbid02tnztYiWYpS6hsT9QtKTYt3h5KxLQkeudg1fk2vG9aQtMwxjZ6D5MrAz7wC3a9UJCl
+  - platform: X
+    url: https://x.com/pawel_cislo/status/1281561989228175360
+  - platform: Hacker News
+    url: https://news.ycombinator.com/item?id=23790955
 head:
   - tag: meta
     attrs:

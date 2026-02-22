@@ -10,6 +10,14 @@ export const collections = {
 				date: z.coerce.date().optional(),
 				categories: z.array(z.string()).optional(),
 				tags: z.array(z.string()).optional(),
+				discuss: z
+					.array(
+						z.object({
+							platform: z.string(),
+							url: z.string().url(),
+						}),
+					)
+					.optional(),
 			}),
 		}),
 	}),

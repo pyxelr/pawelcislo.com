@@ -13,6 +13,17 @@ tags:
   - "research"
   - "speaking"
   - "writing"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/3332291026845376
+  - platform: X
+    url: https://x.com/pyXelr/status/1155430839586631681
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6561194100127858688
+  - platform: Hacker News
+    url: https://news.ycombinator.com/item?id=20546938
+  - platform: Reddit
+    url: https://www.reddit.com/r/writing/comments/ciup55/the_potential_of_perspicuous_writing/
 head:
   - tag: meta
     attrs:

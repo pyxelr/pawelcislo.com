@@ -9,6 +9,13 @@ tags:
   - "ide"
   - "programming"
   - "vscode"
+discuss:
+  - platform: Reddit
+    url: https://www.reddit.com/r/vscode/comments/qtq8el/my_detailed_blog_post_on_vs_code_with_recommended/
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/289115919885015
+  - platform: X
+    url: https://x.com/pawel_cislo/status/1459871820111351810
 head:
   - tag: meta
     attrs:
