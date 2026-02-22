@@ -9,10 +9,54 @@ const startYear = 2018;
 const yearRange = currentYear > startYear ? `${startYear} – ${currentYear}` : startYear;
 
 const { lang, lastUpdated, entry } = Astro.locals.starlightRoute;
+const slug = entry.slug;
 const filePath = entry.filePath;
 const historyUrl = filePath
 	? `https://github.com/pyxelr/pawelcislo.com/commits/main/${filePath}`
 	: undefined;
+
+// Schema.org structured data
+const isPost = slug.startsWith('posts/');
+const isHome = slug === '' || slug === 'index';
+const siteUrl = 'https://pawelcislo.com';
+
+const personSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'Person',
+	name: 'Paweł Cisło',
+	url: siteUrl,
+	jobTitle: 'MLOps Engineer',
+	sameAs: [
+		'https://github.com/pyxelr',
+		'https://x.com/pawel_cislo',
+		'https://www.linkedin.com/in/pawelcislo/',
+		'https://www.facebook.com/pawelcislocom/',
+		'https://www.instagram.com/pawel_cislo/',
+		'https://goodreads.com/pyxelr/',
+		'https://hypothes.is/users/pyxelr',
+		'https://soundcloud.com/pyxelr',
+	],
+};
+
+const postDate = isPost && entry.data.date ? new Date(entry.data.date) : null;
+const articleSchema = isPost ? {
+	'@context': 'https://schema.org',
+	'@type': 'Article',
+	headline: entry.data.title,
+	url: `${siteUrl}/${slug}/`,
+	...(postDate && { datePublished: postDate.toISOString().split('T')[0] }),
+	...(lastUpdated && { dateModified: lastUpdated.toISOString().split('T')[0] }),
+	author: {
+		'@type': 'Person',
+		name: 'Paweł Cisło',
+		url: siteUrl,
+	},
+	publisher: {
+		'@type': 'Person',
+		name: 'Paweł Cisło',
+		url: siteUrl,
+	},
+} : null;
 ---
 
 <footer class="sl-flex">
@@ -59,6 +103,13 @@ const historyUrl = filePath
 		</p>
 	</div>
 </footer>
+
+{isHome && (
+	<script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+)}
+{articleSchema && (
+	<script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+)}
 
 <style>
 	footer {
