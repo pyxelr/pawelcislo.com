@@ -4,10 +4,9 @@ slug: posts/perplexing-ethics-of-ai
 description: My reflections on the aspects of moral philosophy and law regulations of AI
 date: 2019-06-02
 categories: 
-  - "data-science"
+  - "ai"
 tags: 
   - "ai"
-  - "data-science"
   - "ethics"
   - "law"
 head:

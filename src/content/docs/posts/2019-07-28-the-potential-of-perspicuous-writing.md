@@ -7,15 +7,12 @@ categories:
   - "lifestyle"
 tags: 
   - "business"
-  - "grammarly"
   - "latex"
   - "logic"
   - "peterson"
   - "research"
   - "speaking"
-  - "tutorial"
   - "writing"
-  - "zotero"
 head:
   - tag: meta
     attrs:

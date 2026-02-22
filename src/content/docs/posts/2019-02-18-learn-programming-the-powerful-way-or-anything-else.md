@@ -6,11 +6,9 @@ date: 2019-02-18
 categories: 
   - "programming"
 tags: 
-  - "effective"
-  - "learn"
-  - "powerful"
+  - "learning"
   - "programming"
-  - "study"
+  - "tutorial"
 head:
   - tag: meta
     attrs:

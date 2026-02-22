@@ -6,11 +6,8 @@ date: 2018-12-28
 categories: 
   - "overtime"
 tags: 
-  - "2018"
-  - "2019"
   - "productivity"
   - "review"
-  - "summary"
   - "year"
 head:
   - tag: meta

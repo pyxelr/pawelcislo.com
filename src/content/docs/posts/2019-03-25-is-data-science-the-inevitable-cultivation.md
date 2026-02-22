@@ -4,18 +4,14 @@ slug: posts/is-data-science-the-inevitable-cultivation
 description: "Summary of the \"BioTech meets Digital\" conference in Brussels and my recommendations to start with Data Science and Machine Learning"
 date: 2019-03-25
 categories: 
-  - "data-science"
+  - "ai"
 tags: 
   - "ai"
   - "belgium"
   - "biotech"
-  - "biotechmeetsdigital"
   - "brussels"
   - "conference"
-  - "data-science"
-  - "industry-4-0"
   - "iot"
-  - "machine-learning"
   - "technology"
 head:
   - tag: meta

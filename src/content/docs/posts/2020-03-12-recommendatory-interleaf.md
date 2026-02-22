@@ -7,11 +7,7 @@ categories:
   - "announcement"
   - "overtime"
 tags: 
-  - "2019"
-  - "2020"
-  - "recommendations"
   - "review"
-  - "summary"
   - "year"
 head:
   - tag: meta

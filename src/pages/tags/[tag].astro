@@ -1,0 +1,88 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+	const docs = await getCollection('docs');
+	const posts = docs.filter((doc) => doc.id.startsWith('posts/'));
+
+	// Collect all unique tags
+	const tagSet = new Set<string>();
+	for (const post of posts) {
+		for (const t of post.data.categories ?? []) tagSet.add(t.toLowerCase());
+		for (const t of post.data.tags ?? []) tagSet.add(t.toLowerCase());
+	}
+
+	return [...tagSet].map((tag) => ({
+		params: { tag },
+		props: {
+			tag,
+			posts: posts
+				.filter((post) => {
+					const allTags = [
+						...(post.data.categories ?? []),
+						...(post.data.tags ?? []),
+					].map((t) => t.toLowerCase());
+					return allTags.includes(tag);
+				})
+				.sort((a, b) => {
+					const da = a.data.date ? new Date(a.data.date).getTime() : 0;
+					const db = b.data.date ? new Date(b.data.date).getTime() : 0;
+					return db - da;
+				}),
+		},
+	}));
+}
+
+const { tag, posts } = Astro.props;
+---
+
+<StarlightPage
+	frontmatter={{
+		title: `Tag: ${tag}`,
+		description: `Blog posts tagged "${tag}"`,
+		editUrl: false,
+		lastUpdated: false,
+		pagination: false,
+	}}
+>
+	<p><a href="/tags/">← All tags</a></p>
+
+	<p>{posts.length} post{posts.length !== 1 ? 's' : ''} tagged <strong>{tag}</strong>:</p>
+
+	<ul class="tag-post-list">
+		{posts.map((post) => {
+			const date = post.data.date ? new Date(post.data.date) : null;
+			return (
+				<li>
+					<a href={`/${post.data.slug ?? post.id}/`}>{post.data.title}</a>
+					{date && (
+						<time datetime={date.toISOString()}>
+							{date.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' })}
+						</time>
+					)}
+				</li>
+			);
+		})}
+	</ul>
+</StarlightPage>
+
+<style>
+	.tag-post-list {
+		list-style: none;
+		padding: 0;
+	}
+	.tag-post-list li {
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+		gap: 1rem;
+		padding: 0.5rem 0;
+		border-bottom: 1px solid var(--sl-color-gray-6);
+	}
+	.tag-post-list time {
+		color: var(--sl-color-gray-3);
+		font-size: 0.85em;
+		white-space: nowrap;
+	}
+</style>

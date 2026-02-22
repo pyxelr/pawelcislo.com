@@ -4,14 +4,12 @@ slug: posts/data-hackathons-trackathon19
 description: My experience from a datathon organised by Infrabel in Brussels
 date: 2019-05-01
 categories: 
-  - "data-science"
+  - "ai"
 tags: 
   - "belgium"
   - "brussels"
-  - "data-science"
+  - "ai"
   - "hackathon"
-  - "infrabel"
-  - "trackathon19"
 head:
   - tag: meta
     attrs:

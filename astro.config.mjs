@@ -79,6 +79,7 @@ export default defineConfig({
                     { label: 'Recommendations', slug: 'recommendations' },
                 ],
             },
+            { label: '#tags', link: '/tags/' },
             {
                 label: 'Blog Posts',
                 collapsed: true,

@@ -7,7 +7,6 @@ categories:
   - "announcement"
 tags: 
   - "blog"
-  - "motivation"
   - "productivity"
 head:
   - tag: meta
