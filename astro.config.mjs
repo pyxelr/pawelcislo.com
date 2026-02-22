@@ -75,6 +75,14 @@ export default defineConfig({
             { label: '#tags', link: '/tags/' },
             { label: '#Recommendations', link: '/recommendations/' },
             {
+                label: '#Knowledge',
+                collapsed: true,
+                items: [
+                    { label: 'Obsidian', slug: 'knowledge/obsidian' },
+                    { label: 'Espanso', slug: 'knowledge/espanso' },
+                ],
+            },
+            {
                 label: '#Blog Posts',
                 collapsed: true,
                 items: [
