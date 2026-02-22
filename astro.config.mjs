@@ -81,6 +81,7 @@ export default defineConfig({
             },
             {
                 label: 'Blog Posts',
+                collapsed: true,
                 items: [
                     { slug: 'posts/2023-update' },
                     { slug: 'posts/my-vs-code-playground' },
