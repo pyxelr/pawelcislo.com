@@ -5,7 +5,7 @@ const slug = entry.slug;
 
 // Check if this is a blog post or resources page
 const isPost = slug.startsWith('posts/');
-const resourcePages = ['pages/recommendations', 'pages/favourite-thoughts', 'pages/three-goals', 'pages/faq'];
+const resourcePages = ['recommendations', 'favourite-thoughts', 'three-goals', 'faq'];
 const isResourcePage = resourcePages.includes(slug);
 const showMeta = isPost || isResourcePage;
 
