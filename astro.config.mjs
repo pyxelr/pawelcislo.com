@@ -36,7 +36,7 @@ export default defineConfig({
         '/ig': 'https://www.instagram.com/pawel_cislo/',
         '/instagram': 'https://www.instagram.com/pawel_cislo/',
         '/linkedin': 'https://www.linkedin.com/in/pawelcislo/',
-        '/newsletter': 'http://eepurl.com/dDqG-z',
+        '/newsletter': 'https://pawelcislo.substack.com',
         '/resume': '/Resume-PawelCislo.pdf',
         '/soundcloud': 'https://soundcloud.com/pyxelr',
         '/twitter': 'https://x.com/pawel_cislo',

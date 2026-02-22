@@ -66,7 +66,7 @@ As this is more of an "announcement" post, I will try to be as concise as possib
 - ✍ Supplementary sections on the [About Me](/) page
   - Modified _Extra-professional Activities_
   - Summary of online presence within _My Internet Persona_
-- ✨ Redesigned [newsletter signup form](http://eepurl.com/dDqG-z)
+- ✨ Redesigned [newsletter signup form](https://pawelcislo.substack.com)
 - ✨ Redesigned mobile navigation bar (visible on your smartphone)
 - ✨ Improved layout of the [Favourite Thoughts](/favourite-thoughts/) page (it's a bit more explicit and has a TOC)
 - 👨‍💻 Applied gzip-compressing to improve the site performance
