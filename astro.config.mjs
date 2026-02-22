@@ -71,12 +71,12 @@ export default defineConfig({
                 ],
             },
             {
-                label: 'Resources',
+                label: 'Extras',
                 items: [
-                    { label: 'Recommendations', slug: 'recommendations' },
+                    { label: 'FAQ', slug: 'faq' },
                     { label: 'Favourite Thoughts', slug: 'favourite-thoughts' },
                     { label: 'Three Goals', slug: 'three-goals' },
-                    { label: 'FAQ', slug: 'faq' },
+                    { label: 'Recommendations', slug: 'recommendations' },
                 ],
             },
             {
