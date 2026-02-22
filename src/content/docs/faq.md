@@ -55,8 +55,8 @@ If you have a question that was not listed on this page, please do not hesitate 
     - [Maciej Aniserowicz](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) (🇵🇱) ← for doing the same as Mirosław Burnejko, but more inside the programming sphere
     - [Andrzej Krzywda](https://www.youtube.com/channel/UCmrGGj6Y_XQuockwwI3yemA) (🇵🇱) ← for the encouragement to start this blog
 
-7. **IDE of choice?**  
-    [VS Code](https://code.visualstudio.com/) (explained thoroughly in "[My VS Code Playground](/posts/my-vs-code-playground/)" blog post).
+7. **Tools of choice?**  
+    See my [Uses](/uses/) page.
 
 8. **Can you also recommend me XYZ (blogs, tools, data science resources, programming learning materials, etc.)?**  
     Sure, have a look at [my great list of recommendations](/recommendations/).
