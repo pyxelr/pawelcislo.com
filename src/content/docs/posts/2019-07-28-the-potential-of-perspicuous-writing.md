@@ -1,23 +1,37 @@
 ---
 title: "#10 – The Potential of Perspicuous Writing"
 slug: posts/the-potential-of-perspicuous-writing
+description: "Demystification of the art of writing, speaking, using LaTeX, doing scientific research, quick reading and extending vocabulary"
 date: 2019-07-28
 categories: 
   - "lifestyle"
 tags: 
   - "business"
-  - "grammarly"
   - "latex"
   - "logic"
   - "peterson"
   - "research"
   - "speaking"
-  - "tutorial"
   - "writing"
-  - "zotero"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/3332291026845376
+  - platform: X
+    url: https://x.com/pyXelr/status/1155430839586631681
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6561194100127858688
+  - platform: Hacker News
+    url: https://news.ycombinator.com/item?id=20546938
+  - platform: Reddit
+    url: https://www.reddit.com/r/writing/comments/ciup55/the_potential_of_perspicuous_writing/
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/the-potential-of-perspicuous-writing-thumbnail.png
 ---
 
-![](images/writing-background.png)
+![The Potential of Perspicuous Writing - background](images/the-potential-of-perspicuous-writing-background.png)
 
 **Writing is one of the most extreme skills anyone can possess, and if you learn how to use it competently, there will be no lexical battle on your way to lose. Therefore, why isn't that so apparent to most of us?**
 
@@ -333,7 +347,7 @@ If you feel like convinced to give it a try, but you're not sure where to start,
 - Tutorials
   - [Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1) ← 3 part presentations from Dr John Lees-Miller (recommended by Overleaf team)
   - [LaTeX Tutorial in a single 1h video](http://www.newthinktank.com/2019/01/latex-tutorial/) ← presented by Derek Banas
-  - [LaTeX.md](https://github.com/virgili0/Virgilio/blob/master/Tools/Latex.md) ← short introduction to LaTeX in a popular GitHub repo
+  - [LaTeX.md](https://github.com/virgili0/Virgilio/blob/dev/Tools/Latex.md) ← short introduction to LaTeX in a popular GitHub repo
   - [Minimal examples of LaTeX with overleaf (v2)](https://www.youtube.com/playlist?list=PLnC5h3PY-znyDQKn3knfXfekZLgWyL7QW) ← YouTube tutorial by Dr Vincent Knight (recommended by Overleaf team)
     - [Text version of the tutorial](https://vknight.org/tex/)
   - [LaTeX Cheat Sheet](https://wch.github.io/latexsheet/latexsheet.pdf)
@@ -360,7 +374,7 @@ Being honest, I didn't get much into the comprehensive material that would solel
 - [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/book/show/53343.On_Writing_Well) – William Zinsser ← as the title suggests, it's focused on writing non-fiction books, full of practical ideas
 - [Magia słów. Jak pisać teksty które porwą tłumy](https://www.goodreads.com/book/show/22468051-magia-s-w-jak-pisa-teksty-kt-re-porw-t-umy) (in Polish) – Joanna Wrycza-Bekier ← straight to the point, with the actual tips of how to write: choosing the right words, building sentences and emotions.
 
-Nevertheless, this article wouldn't be complete without mentioning Neville Medhora, the author of KopywritingKourse – blog to reduce wasted communication time, talk with clients better, and make more sales. I strongly encourage you to get familiar with its content, and if you would like to extend the already mentioned writing tips, please check: [Editing Writing Process (w/ Examples and Cheat Sheet)](https://kopywritingkourse.com/editing-writing-process/).
+Nevertheless, this article wouldn't be complete without mentioning Neville Medhora, the author of KopywritingKourse – blog to reduce wasted communication time, talk with clients better, and make more sales. I strongly encourage you to get familiar with its content, and if you would like to extend the already mentioned writing tips, please check: [Editing Writing Process (w/ Examples and Cheat Sheet)](https://copywritingcourse.com/editing-writing-process/).
 
 Moreover, in this post, I didn't tackle the highly correlated topic of asking and answering questions. I might cover it individually in a further post, as it would greatly improve all social media communication. Many people end up being misunderstood from their assumptions that everyone else has the exact picture on the mind; therefore, we can find lots of undetailed messages, such as: BAD: Help! The script doesn't work properly on my laptop! BETTER: Launching the script on my 64-bit Windows machine ends up with the error code: 0x34053.
 

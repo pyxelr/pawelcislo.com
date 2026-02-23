@@ -10,17 +10,26 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 
 ```text
 .
+├── .github/workflows/          # GitHub Actions (yearly rebuild)
+├── plugins/                    # Custom remark/rehype plugins
 ├── public/                     # Static assets served as-is (favicon, linked images, etc.)
-├── scripts/                    # Utility scripts
+├── scripts/                    # Utility scripts (sync recommendations, link checker, etc.)
 ├── src/
 │   ├── assets/                 # Optimised assets (processed by Astro)
+│   ├── components/             # Custom Astro components (Footer, PageTitle, ThemeSelect, etc.)
 │   ├── content/
-│   │   ├── docs/
-│   │   │   ├── pages/          # Pages (About, Portfolio, Contact, etc.)
-│   │   │   └── posts/          # Blog posts with images
-│   │   └── content.config.ts   # Content collection schema
+│   │   └── docs/
+│   │       ├── knowledge/      # Knowledge base pages (Obsidian, Espanso, etc.)
+│   │       ├── pages/          # Legacy subfolder (images only)
+│   │       └── posts/          # Blog posts with images
+│   ├── content.config.ts       # Content collection schema
+│   ├── pages/                  # Custom Astro pages (404, RSS, tags)
+│   │   └── tags/               # Tag index and individual tag pages
+│   └── styles/                 # Custom CSS overrides
 ├── astro.config.mjs            # Site configuration
+├── COPYRIGHT                   # Content copyright notice
 ├── package.json                # Dependencies and scripts
+├── README.md                   # This file
 └── tsconfig.json               # TypeScript configuration
 ```
 
@@ -29,7 +38,7 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 - Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory
 - Each file is exposed as a route based on its file name
 - Blog posts are in `src/content/docs/posts/` (auto-generated in sidebar)
-- Static pages are in `src/content/docs/pages/` (manually configured in sidebar)
+- Top-level pages (Portfolio, FAQ, Uses, etc.) live directly in `src/content/docs/`
 - Images are in `src/content/docs/posts/images/` and `src/content/docs/pages/images/`
 
 ## 👨🏻‍💻 Getting Started
@@ -46,9 +55,10 @@ All commands are run from the root of the project, from a terminal:
 | :------------------------------- | :----------------------------------------------------------------------------------------------- |
 | `npm install`                    | Installs dependencies                                                                            |
 | `npm run dev`                    | Starts local dev server at `localhost:4321`                                                      |
-| `npm run sync:recommendations`   | Sync recommendations page from [GitHub](https://github.com/pyxelr/recommendations-for-engineers) |
 | `npm run build`                  | Build your production site to `./dist/` (auto-syncs recommendations page)                        |
 | `npm run preview`                | Preview your build locally, before deploying                                                     |
+| `npm run sync:recommendations`   | Sync recommendations page from [GitHub](https://github.com/pyxelr/recommendations-for-engineers) |
+| `npm run check:links`            | Audit all content pages for broken/outdated external links                                       |
 | `npm update`                     | Updates packages within semver ranges                                                            |
 | `npm outdated`                   | Shows which packages have newer versions                                                         |
 | `npm run astro ...`              | Run CLI commands like `astro add`, `check`                                                       |
@@ -62,7 +72,10 @@ This site is deployed on **Cloudflare Pages** with automatic deployments from Gi
 
 1. Push changes to the `main` branch
 2. Cloudflare Pages automatically builds and deploys
-3. Changes are live at [pawelcislo.com](https://pawelcislo.com)
+3. Preview the `main` branch build at [pawelcislo.pages.dev](https://pawelcislo.pages.dev/)
+4. Changes are live at [pawelcislo.com](https://pawelcislo.com)
+
+Additionally, a **GitHub Actions** scheduled workflow triggers a Cloudflare rebuild on January 1st each year to update the copyright year in the footer.
 
 ## 📚 Resources
 

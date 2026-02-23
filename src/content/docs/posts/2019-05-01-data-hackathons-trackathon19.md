@@ -1,19 +1,30 @@
 ---
 title: "#8 – Data Hackathons – #TRACKathon19"
 slug: posts/data-hackathons-trackathon19
+description: My experience from a datathon organised by Infrabel in Brussels
 date: 2019-05-01
 categories: 
-  - "data-science"
+  - "ai"
 tags: 
   - "belgium"
   - "brussels"
-  - "data-science"
+  - "ai"
   - "hackathon"
-  - "infrabel"
-  - "trackathon19"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/3109293629145118
+  - platform: X
+    url: https://x.com/pyXelr/status/1123613977840377856
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6529375881675317248
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/data-hackathons-trackathon19-thumbnail.png
 ---
 
-![Data Hackathons - background](images/data-hackathons-background.png)
+![Data Hackathons Trackathon19 - background](images/data-hackathons-trackathon19-background.png)
 
 **#TRACKathon19 challenge let me have an insightful overview of what can I expect from data hackathons. On the last Sunday, at the Belgian headquarters of Infrabel, I was fortunate to be one of the first to access the datasets and come up with several ideas for improvement to the owner of the Belgian railway network.**
 
@@ -87,7 +98,7 @@ By hovering your mouse over the icons, you can discover the following sections:
 - Clients and products (4 datasets)
 - Finance (1 dataset)
 
-Using the "[Useful links](https://opendata.infrabel.be/pages/links/)" tab, you can find directions to other open data portals, mainly of other transport companies, such as STIB - MIVB. Your imagination is the only end, and mixing datasets from different sources can enhance your data mining process and result in even more impressive output.
+Using the "[Useful links](https://opendata.infrabel.be/explore)" tab, you can find directions to other open data portals, mainly of other transport companies, such as STIB - MIVB. Your imagination is the only end, and mixing datasets from different sources can enhance your data mining process and result in even more impressive output.
 
 In all of this, Infrabel was kind enough to ease our job and next to each of the dataset, everyone was able to use the available features to display the dataset tables and even generate brief data visualisations.
 
@@ -104,7 +115,7 @@ All the different options of each dataset are:
 
 Remember that through the registration you can save for later all the generated maps/graphs on your account.
 
-Moreover, keep in mind that if you have any remarks about the portal or the data it contains, you are more than encouraged to drop a message through the "[Contact](https://opendata.infrabel.be/pages/contact/)" tab.
+Moreover, keep in mind that if you have any remarks about the portal or the data it contains, you are more than encouraged to drop a message through the "[Contact](https://opendata.infrabel.be/contact/)" tab.
 
 ## What is so magical about hackathons?
 
@@ -140,12 +151,12 @@ Yes, I know that @DataScienceBe is not the only community and not the only sourc
 
 You can take advantage of my set of websites, that you can use to explore whenever you would like to know what is going on around:
 
-- [Facebook](https://www.facebook.com/search/events/?q=data&epa=FILTERS&filters=eyJycF9ldmVudHNfbG9jYXRpb24iOiJ7XCJuYW1lXCI6XCJmaWx0ZXJfZXZlbnRzX2xvY2F0aW9uXCIsXCJhcmdzXCI6XCIxMDg0Mjk3OTU4NTU0MjNcIn0ifQ%3D%3D) ← check “This week”, “This weekend” and “Next week” from the sidebar menu
-  - [AI Black Belt](https://www.facebook.com/pg/AIBlackBelt/events/)
-  - [DataBeers Brussels](https://www.facebook.com/pg/brudatabeers/events/)
-  - [DataScienceBe](https://www.facebook.com/pg/Datasciencebe/events/)
-  - [DigitYser](https://www.facebook.com/pg/digityser/events/)
-  - [Hackages](https://www.facebook.com/pg/hackages/events/)
+- [Facebook](https://www.facebook.com/events/) ← search for data events near you
+  - [AI Black Belt](https://www.facebook.com/AIBlackBelt/events/)
+  - [DataBeers Brussels](https://www.facebook.com/brudatabeers/events/)
+  - [DataScienceBe](https://www.facebook.com/Datasciencebe/events/)
+  - [DigitYser](https://www.facebook.com/digityser/events/)
+  - [Hackages](https://www.facebook.com/hackages/events/)
 - [AI4Belgium](http://www.ai4belgium.be/upcoming-events/)
 - [dataMinds.be](http://dataminds.be/events/)
 - [DigitYser](https://digityser.org/events/)
@@ -175,7 +186,7 @@ I thought of sharing a few examples of what results can be driven through the in
 
 You can always try yourself with the [data shared by Infrabel](https://opendata.infrabel.be/pages/home/).
 
-If you don't like trains ([I hope you do](https://youtu.be/vyItidbjxLM)), then you can check [the aeroplane's data](https://www.kaggle.com/usdot/flight-delays) and collaborate to the awesome community of Kaggle.
+If you don't like trains ([I hope you do](https://youtu.be/vyItidbjxLM)), then you can check [the aeroplane's data](https://www.kaggle.com/datasets/usdot/flight-delays) and collaborate to the awesome community of Kaggle.
 
 Ah, and before you begin:
 
@@ -191,7 +202,7 @@ No worries, I won't judge you if you don't like trains, as there is plenty of ot
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [AWS Public Datasets](https://aws.amazon.com/public-datasets/)
 - [Caffe2](https://caffe2.ai/docs/datasets.html)
-- [Common Voice](https://voice.mozilla.org/data) ← dataset of voices that everyone can use to train speech-enabled applications
+- [Common Voice](https://commonvoice.mozilla.org/) ← dataset of voices that everyone can use to train speech-enabled applications
 - [CORGIS](https://think.cs.vt.edu/corgis/) ← datasets for beginners
 - [DataHub](https://datahub.io/search) ← easiest way to find, share and publish datasets online
 - [Datasets for machine learning](https://www.datasetlist.com/) ← huge list (CV/NLP/Audio)
@@ -205,7 +216,6 @@ No worries, I won't judge you if you don't like trains, as there is plenty of ot
 - [List of lists with datasets](https://www.dataandsons.com/data-market/categories)
 - [Mathematics Dataset](https://github.com/deepmind/mathematics_dataset) ← generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty
 - [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/)
-- [Quantopian Datasets](https://www.quantopian.com/data?type=free)
 - [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images) ← largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
 - [World Bank Open Data](https://data.worldbank.org/) ← economic data
 - [YouTube 8M](https://research.google.com/youtube8m/) – dataset of YouTube videos

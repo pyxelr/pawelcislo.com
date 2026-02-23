@@ -1,18 +1,29 @@
 ---
 title: "#6 – Learn Programming The Powerful Way (or anything else)"
 slug: posts/learn-programming-the-powerful-way-or-anything-else
+description: Explanation of an effective way to practice programming fluency
 date: 2019-02-18
 categories: 
   - "programming"
 tags: 
-  - "effective"
-  - "learn"
-  - "powerful"
+  - "learning"
   - "programming"
-  - "study"
+  - "tutorial"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/2955535697854246
+  - platform: X
+    url: https://x.com/pyXelr/status/1097548777374781441
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6503313986107379712
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/learn-programming-the-powerful-way-or-anything-else-thumbnail.png
 ---
 
-![Learn Programming The Powerful Way (background)](images/learn-programming-the-powerful-way-background.png)
+![Learn Programming the Powerful Way or Anything Else - background](images/learn-programming-the-powerful-way-or-anything-else-background.png)
 
 **Initially, most of us grasped our hands over programming in universities while developing our first Fibonacci sequence. But, can we all agree that it is the best way to start the learning curve?**
 
@@ -110,7 +121,7 @@ Finally, when you join the corporation, try to keep the following in mind (I wil
 
 As already mentioned, having a daily habit is critical. It doesn't mean developing a new website every day, but trying to do at least one thing about the skill you wish to master. As such, the easiest would be to solve a single challenge on HackerRank a day.
 
-Remember, don't think about long-term goals from the beginning, but divide them into smaller steps. I hope you will get the idea [basing on my example](/pages/three-goals/).
+Remember, don't think about long-term goals from the beginning, but divide them into smaller steps. I hope you will get the idea [basing on my example](/three-goals/).
 
 ### Take your time
 

@@ -1,24 +1,33 @@
 ---
 title: "#11 – Recommendatory Interleaf"
 slug: posts/recommendatory-interleaf
+description: A registry cataloguing the recently published set of recommendations and sharing a couple of updates from my side
 date: 2020-03-12
 categories: 
   - "announcement"
   - "overtime"
 tags: 
-  - "2019"
-  - "2020"
-  - "recommendations"
   - "review"
-  - "summary"
   - "year"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/4004757409598731
+  - platform: X
+    url: https://x.com/pawel_cislo/status/1238175539816468482
+  - platform: LinkedIn
+    url: https://www.linkedin.com/posts/pawelcislo_the-potential-of-perspicuous-writing-activity-6561194100127858688-CLip/
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/recommendatory-interleaf-thumbnail.png
 ---
 
-![Recommendations - Blog post background](images/recommendations-background.png)**This registry was created to catalogue the recently published set of recommendations and share a couple of updates from my side.**
+![Recommendatory Interleaf - background](images/recommendatory-interleaf-background.png)**This registry was created to catalogue the recently published set of recommendations and share a couple of updates from my side.**
 
 ## Recommendations for Engineers
 
-As of today (12/03), my recent list of [Recommendations for Engineers](/pages/recommendations/) managed to appear in my favourite [tech newsletter](https://news.mrugalski.pl/post/189347449362/28-listopada-2019) (1st position), hit 2103 page views and 14 stars on its [GitHub repository](https://github.com/pyxelr/recommendations-for-engineers). Those statistics motivated me to spread its existence even further with this blog index, since after its initial release in the last November, it counts 94 commits (updates) and counting (≈ 0.87 commits per day).
+As of today (12/03), my recent list of [Recommendations for Engineers](/recommendations/) managed to appear in my favourite [tech newsletter](https://news.mrugalski.pl/post/189347449362/28-listopada-2019) (1st position), hit 2103 page views and 14 stars on its [GitHub repository](https://github.com/pyxelr/recommendations-for-engineers). Those statistics motivated me to spread its existence even further with this blog index, since after its initial release in the last November, it counts 94 commits (updates) and counting (≈ 0.87 commits per day).
 
 Enough on the statistical side, as at that point, you might still wonder what is inside this list that makes me want to brag about it today.
 
@@ -26,7 +35,7 @@ In short, I have aggregated all of my recommendations for aspiring engineers in 
 
 Although it is a personal list, do not hesitate to create a [pull request](https://github.com/pyxelr/recommendations-for-engineers/pulls) if I missed something interesting or if there is a dead link. Once again, before moving to the next section on a different subject, you are more than welcome to review my:
 
-[⭐ Recommendations for Engineers](/pages/recommendations/)
+[⭐ Recommendations for Engineers](/recommendations/)
 
 ## Reason for my recent absence
 
@@ -48,18 +57,18 @@ As this is more of an "announcement" post, I will try to be as concise as possib
 ### 🌐 Changes on this website
 
 - 🆕 \[June\] New post about the art of writing: #10 – [The Potential of Perspicuous Writing](/posts/the-potential-of-perspicuous-writing/)
-- 🆕 \[November\] Completely new subsection on [Recommendations for Engineers](/pages/recommendations/)
+- 🆕 \[November\] Completely new subsection on [Recommendations for Engineers](/recommendations/)
 - ✍ Updated my [article on the use of Todoist](/posts/aim-for-your-goals-the-right-way/) with new projects, labels and priorities
-- ✍ Added questions and answers on the [FAQ](/pages/faq/) page. Some of the responses have been converted into the Recommendations for Engineers
+- ✍ Added questions and answers on the [FAQ](/faq/) page. Some of the responses have been converted into the Recommendations for Engineers
   - I've mainly explained the reason behind each of the individuals that inspire me
-- ✍ More citations in the [Favourite Thoughts](/pages/favourite-thoughts/) segment
-- ✍ Redefined objectives in [Three Goals](/pages/three-goals/). Being honest, it is very challenging to keep up with all these challenges in the face of unscheduled life novelties
+- ✍ More citations in the [Favourite Thoughts](/favourite-thoughts/) segment
+- ✍ Redefined objectives in [Three Goals](/three-goals/). Being honest, it is very challenging to keep up with all these challenges in the face of unscheduled life novelties
 - ✍ Supplementary sections on the [About Me](/) page
   - Modified _Extra-professional Activities_
   - Summary of online presence within _My Internet Persona_
-- ✨ Redesigned [newsletter signup form](http://eepurl.com/dDqG-z)
+- ✨ Redesigned [newsletter signup form](https://pawelcislo.substack.com)
 - ✨ Redesigned mobile navigation bar (visible on your smartphone)
-- ✨ Improved layout of the [Favourite Thoughts](/pages/favourite-thoughts/) page (it's a bit more explicit and has a TOC)
+- ✨ Improved layout of the [Favourite Thoughts](/favourite-thoughts/) page (it's a bit more explicit and has a TOC)
 - 👨‍💻 Applied gzip-compressing to improve the site performance
 - 👨‍💻 Improved SEO score of the entire website
 - 👨‍💻 Specified 301 redirections. You can access all the posts using a number within the path, such as this one with _pawelcislo.com/11_. The same works for my social media, such as _pawelcislo.com/twitter_ or _pawelcislo.com/linkedin_.
@@ -138,8 +147,8 @@ This part would definitely challenge my memory if I wouldn't keep track of my da
   - 📅 Last session of [_DataBeers Brussels #13_](/images/data-beers-13.jpg) this year. After the presentation, we [voted for the favourite beer](/images/data-beer-voting.jpg) of our members
   - 📚 Finished listening to _Next Steps in French with Paul Noble_ ([my review](https://www.goodreads.com/review/show/3024520857))
   - 📼 Watched [Pi (1998)](https://www.imdb.com/title/tt0138704/). How to stop thinking about algorithms now?
-  - ✍ Explained the reason behind each person who inspires me in the [FAQ section](/pages/faq/)
-  - ✍ Published my [Recommendation for Engineers](/pages/recommendations/)
+  - ✍ Explained the reason behind each person who inspires me in the [FAQ section](/faq/)
+  - ✍ Published my [Recommendation for Engineers](/recommendations/)
     - it managed to appear in [#unknownews](/images/recommendations-in-unknownews.jpg), which brought [a lot of visits](/images/recommendations-stats-graph.jpg) in the first 5 days from [all around the world](/images/recommendations-map.jpg)
   - ✍ Wrote a quick article for my employer on the use of Anki/SuperMemo. I'll try to rewrite it with much more details on this blog at some point
   - ⛸ [Ice skating](/images/ice-skating.jpg) again after such a long time

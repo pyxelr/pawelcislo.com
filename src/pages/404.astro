@@ -1,0 +1,68 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+---
+
+<StarlightPage
+  frontmatter={{
+    title: '404 – Dead Link',
+    description: 'Page not found',
+    template: 'splash',
+    editUrl: false,
+    lastUpdated: false,
+    pagination: false,
+  }}
+>
+  <div class="dead-link-page">
+    <div class="dead-link-image">
+      <img src="/images/dead-link.png" alt="Dead Link from Zelda" />
+    </div>
+
+    <p class="dead-link-intro">Well, there is always something we can do:</p>
+
+    <ul class="dead-link-options">
+      <li>If you think it's my fault, <a href="/contact">don't hold back</a>...</li>
+      <li>If you typed this URL by hand, please pray for Link</li>
+      <li>If you feel strong enough, <a href="/">go fight for Zelda!!!</a></li>
+    </ul>
+  </div>
+</StarlightPage>
+
+<style>
+  .dead-link-page {
+    text-align: center;
+    max-width: 40rem;
+    margin: 0 auto;
+  }
+
+  .dead-link-image {
+    margin: 2rem 0;
+  }
+
+  .dead-link-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .dead-link-intro {
+    font-size: 1.15rem;
+    margin-top: 2rem;
+  }
+
+  .dead-link-options {
+    text-align: left;
+    display: inline-block;
+    font-size: 1.05rem;
+    line-height: 2;
+    padding-left: 1.5rem;
+  }
+
+  .dead-link-options a {
+    color: var(--sl-color-accent);
+    text-decoration: underline;
+  }
+
+  .dead-link-options a:hover {
+    color: var(--sl-color-accent-high);
+  }
+</style>

@@ -1,6 +1,7 @@
 ---
 title: "#3 – Is modern business complicated? My summary of the World Business Experience conference in Warsaw"
 slug: posts/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw
+description: Description of modern techniques for staying up-to-date with different business aspects
 date: 2018-09-30
 categories: 
   - "overtime"
@@ -9,9 +10,21 @@ tags:
   - "marketing"
   - "wbe"
   - "worldbusinessexperience"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/2672126122861873
+  - platform: X
+    url: https://x.com/pyXelr/status/1046499777813401602
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6452265014689697792
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw-thumbnail.png
 ---
 
-![Is Modern Business Complicated (background)](images/is-modern-business-complicated-background.png)
+![Is Modern Business Complicated - background](images/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw-background.png)
 
 **Staying up-to-date with all the business aspects and at the same time trying to be innovative is quite a big challenge. Nowadays, the same applies to all the students, where the majority of graduates carries a higher academic degree, but struggles standing out in the eyes of recruiters. If so, how to win this game?**
 
@@ -60,7 +73,7 @@ The other thing that was the saddest to hear during the entire day was: "Network
 >
 > — Own idea
 
-Thinking about what I just scribbled down, you might see, that the previous problem indicates that people do not plan their goals for years ahead. You might get inspired by visiting my "[Three Goals](/pages/three-goals/)" section on this website, where I encourage you to implement something similar. You might even copy my goals, and see how strong is your patience. Even if the goal sounds stupid, it might give you a significant advancement over your **regularity**.
+Thinking about what I just scribbled down, you might see, that the previous problem indicates that people do not plan their goals for years ahead. You might get inspired by visiting my "[Three Goals](/three-goals/)" section on this website, where I encourage you to implement something similar. You might even copy my goals, and see how strong is your patience. Even if the goal sounds stupid, it might give you a significant advancement over your **regularity**.
 
 **Patience** is another factor commonly mentioned by Gary Vee, together with **gratitude**, **passion** and **happiness**. You see, if you combine all of these, meaning that you work on something that makes you happy and keeps you focused, you need to stick to it. Master that skill and don't stop on your failures as everyone has to face them one day. Remember, without them, you will never learn. Moreover, **don't look for encouragement** from others and do what you like. **Don't be scared** of what others will think. **People hate change**, as we are taught in schools to follow the given rules in order to be safe and harmless to the world. Without a drastic transformation, you might at most be given a chance to live better by winning a lottery (but even that requires some effort to be in the prize pool). If you got someone who will support you in what you do (and it is not your mom), you have to understand, that it is better not to lose relation with this person, as it is rare to find someone like this.
 
@@ -291,7 +304,7 @@ Moreover, think about focusing on the core duties of your business. **Try to eli
 
 What to do, to start executing? Here is a solution presented on the example of Łukasz Jakóbiak:
 
-1. Have goals ([like me](/pages/three-goals/) 😉)
+1. Have goals ([like me](/three-goals/) 😉)
 2. Be aware - meditate - think about death and how little time you have
 3. Work on your mind - answer what makes you feel good and bad
 4. Be consequent
@@ -342,7 +355,7 @@ Now to the essence of this subchapter. Here is the list of all the tools mention
 - Get micro-actions
   - [BuzzSumo](https://buzzsumo.com/) ← analyse what content performs best for any topic or competitor
   - [ahrefs](https://ahrefs.com/) ← check your competitors and monitor your niche
-  - visit any Facebook fan page and check "Info and Ads" to see their ads. Here is a [Humble Bundle](https://www.facebook.com/pg/humblebundle/ads/?ref=page_internal) advertising campaign for example. ← now you got open cards of the advertising game!
+  - visit any Facebook fan page and check "Info and Ads" to see their ads. Here is a [Humble Bundle](https://www.facebook.com/humblebundle/ads/?ref=page_internal) advertising campaign for example. ← now you got open cards of the advertising game!
   - [Adespresso](https://adespresso.com/) ← create and analyse your digital advertising across social media
 - Lead generation
   - [Zapier](https://zapier.com/) ← move info between your web apps automatically (between FB and phone)

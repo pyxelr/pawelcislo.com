@@ -1,20 +1,34 @@
 ---
 title: "#13 – My VS Code Playground"
 slug: posts/my-vs-code-playground
+description: "Compendium of impressions from an odyssey with my most preferred day-to-day IDE, not only for Python/MLOps"
 date: 2021-11-14
 categories: 
   - "programming"
 tags: 
   - "ide"
   - "programming"
+  - "python"
   - "vscode"
+discuss:
+  - platform: Reddit
+    url: https://www.reddit.com/r/vscode/comments/qtq8el/my_detailed_blog_post_on_vs_code_with_recommended/
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/289115919885015
+  - platform: X
+    url: https://x.com/pawel_cislo/status/1459871820111351810
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/my-vs-code-playground-thumbnail.png
 ---
 
 :::note
 You can find my VS Code profile under **[gist.github.com](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b)**.
 :::
 
-![VS Code - Blog post background](images/vscode-background.png)
+![My VS Code Playground - background](images/my-vs-code-playground-background.png)
 
 **Compendium of impressions from an odyssey with my most preferred day-to-day code editor, not only for Python/MLOps.**
 
@@ -248,7 +262,7 @@ The categorized extension list beneath is provided with an intention to be const
 - **Code completion 🤖**
   - [Blackbox](https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox) ← code as fast as you think
   - [Cursor](https://github.com/getcursor/cursor) ← AI-powered code editor based on VS Code
-  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) ([tutorial](https://github.com/github/copilot-docs/blob/main/docs/visualstudiocode/gettingstarted.md#getting-started-with-github-copilot-in-visual-studio-code)) ← AI pair programmer
+  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) ([tutorial](https://docs.github.com/en/copilot/get-started/quickstart)) ← AI pair programmer
     - [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs) ← experimental features for GitHub Copilot
   - [Kite](https://marketplace.visualstudio.com/items?itemName=kiteco.kite) ← AI autocompletion & documentation
   - [Tabnine Autocomplete AI](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) ← AI code completion tool
@@ -353,7 +367,7 @@ So far, my experience in the usage of AI code assistants is quite limited; howev
 ![Tabnine suggestions](images/vscode-tabnine.png)
 _The first 2 suggestions in the list come from Tabnine (free) extension_
 
-On the other side of the ring, we have a plugin developed by GitHub and OpenAI, announced this June 2021. As we may assume from the collaboration with OpenAI, the completions of GitHub Copilot are much more extended, bringing programmers even closer to the extinction 🦕. While I am scribing these words, Copilot is still under a technical preview phase, although, one can already give it a try, ideally by following the [Getting Started page on GitHub docs](https://github.com/github/copilot-docs).
+On the other side of the ring, we have a plugin developed by GitHub and OpenAI, announced this June 2021. As we may assume from the collaboration with OpenAI, the completions of GitHub Copilot are much more extended, bringing programmers even closer to the extinction 🦕. While I am scribing these words, Copilot is still under a technical preview phase, although, one can already give it a try, ideally by following the [Getting Started page on GitHub docs](https://docs.github.com/en/copilot/get-started/quickstart).
 
 Not to prolong this monologue, considering my limited experience and usage of these tools, let's compare them with this simple table (data gathered on 14/11/2021):
 
@@ -362,7 +376,7 @@ Not to prolong this monologue, considering my limited experience and usage of th
 | **💸 Pricing** | Free (Pro version [is discontinued](https://help.kite.com/article/148-kite-pro-availability)) | Free (Pro version costs [$12 per month per user](https://www.tabnine.com/pricing)) | Free ([commercial version is planned](https://copilot.github.com/#faq-will-there-be-a-paid-version) after the technical preview) |
 | **💻 Supported languages** | Over 16 languages ([full list](https://www.kite.com/)) | over 30 languages, libraries & frameworks ([full list](https://www.tabnine.com/install)) | Technical preview does especially well for Python, JavaScript, TypeScript, Ruby, Java, and Go, but it should work with anything |
 | **🤝 Integrations** | Over 16 IDEs ([full list](https://www.kite.com/)) | Currently 21 IDEs ([full list](https://www.tabnine.com/install)) | Currently Visual Studio Code, Neovim, and JetBrains IDEs like PyCharm and IntelliJ IDEA |
-| **⭐ GitHub stars** | 508 (for [vscode-plugin](https://github.com/kiteco/vscode-plugin)) | [8.8k](https://github.com/codota/TabNine) | 6k (for [copilot-docs](https://github.com/github/copilot-docs)) |
+| **⭐ GitHub stars** | 508 (for [vscode-plugin](https://github.com/kiteco/vscode-plugin)) | [8.8k](https://github.com/codota/TabNine) | 6k (for [copilot-docs](https://docs.github.com/en/copilot)) |
 | **💾 VS Code extension installs** | 3059k ([extension page](https://marketplace.visualstudio.com/items?itemName=kiteco.kite)) | 2824k ([extension page](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)) | 577k ([extension page](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)) |
 | **🏅 VS Code extension rating** | 3.3/5 out of 119 ratings | 4.3/5 out of 336 ratings | 4.3/5 out of 266 ratings |
 

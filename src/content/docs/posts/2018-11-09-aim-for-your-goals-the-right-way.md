@@ -1,6 +1,7 @@
 ---
 title: "#4 – Aim for your goals the right way"
 slug: posts/aim-for-your-goals-the-right-way
+description: Application of Getting Things Done (GTD) personal productivity methodology with the use of Todoist
 date: 2018-11-09
 categories: 
   - "lifestyle"
@@ -9,9 +10,21 @@ tags:
   - "productivity"
   - "todoist"
   - "todolists"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/2752235284850956
+  - platform: X
+    url: https://x.com/pyXelr/status/1060957888347283456
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6466722902996852736
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/aim-for-your-goals-the-right-way-thumbnail.png
 ---
 
-![](images/aim-for-your-goals-the-right-way-in-post.png)
+![Aim for Your Goals the Right Way - background](images/aim-for-your-goals-the-right-way-background.png)
 
 **How implementing the book knowledge from 2001 can increase the trust in collaboration with your team and let you finally fix your messy room.**
 
@@ -180,7 +193,7 @@ If you already thought about creating your Todoist account, please do me a favou
 
 We already know the way of keeping track of our duties, but there is one more issue. Let's get back to the problem of finding out **how to start doing**. I think this is a topic for another post, but let's try to describe it briefly. The idea of the system originally comes from the polish entrepreneur who constantly inspires me through [his daily vlogs](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw). Mirosław Burnejko (MiroBurn), who I am talking about, described the system not even once, well, he even designed an [online course about planning your goals](https://akademia.pl/szkolacelow). I didn't take part in it, as I follow him long enough to know what would he say, but if you understand polish and you are new to what is in this post, I highly recommend you to check it out.
 
-Mirosław Burnejko was even so kind to share [his list of goals](https://trzypoziomy.pl/zadania/) publicly so that I couldn't wait more [but do the same](/pages/three-goals/). Taking a look at my list of goals, you can find the rules of the system and see my goals to achieve so you can verify my progress and inspire yourself to do the same. One of my friends already copied the template and applied it to his situation. You don't even know how proud I felt!
+Mirosław Burnejko was even so kind to share [his list of goals](https://trzypoziomy.pl/zadania/) publicly so that I couldn't wait more [but do the same](/three-goals/). Taking a look at my list of goals, you can find the rules of the system and see my goals to achieve so you can verify my progress and inspire yourself to do the same. One of my friends already copied the template and applied it to his situation. You don't even know how proud I felt!
 
 ![Your plans vs. reality](images/planvsreality.jpg)
 
@@ -190,7 +203,7 @@ I think everyone seen the image above. Yes, that might demotivate some of us, bu
 
 I'm crazy?
 
-I assure you that I am not. If you start thinking of how to run 100 km, in the case when you never get outside to run short distances of 5 km, it will be definitely looking like the "Reality" part of the image above. So, how to transform it into the "Your plan" part? Using the discussed system, you will divide the 100 km run into 10 km run for the next year, 40 km run in 2 years and finally 100 km run in 4 years. It will be pretty straightforward once you start thinking about the small steps and learning how to achieve the easier bits. Once you do that (run the 10km and later 40), you will understand that running 100 km is the same what you did before, but you only need to continue applying the technique you already know for a longer time. That's it! [Recheck my list](/pages/three-goals/) to have a practical example.
+I assure you that I am not. If you start thinking of how to run 100 km, in the case when you never get outside to run short distances of 5 km, it will be definitely looking like the "Reality" part of the image above. So, how to transform it into the "Your plan" part? Using the discussed system, you will divide the 100 km run into 10 km run for the next year, 40 km run in 2 years and finally 100 km run in 4 years. It will be pretty straightforward once you start thinking about the small steps and learning how to achieve the easier bits. Once you do that (run the 10km and later 40), you will understand that running 100 km is the same what you did before, but you only need to continue applying the technique you already know for a longer time. That's it! [Recheck my list](/three-goals/) to have a practical example.
 
 PS. This Sunday I am getting much closer to one of my goals: Marathon Runner. I'm going to take part in the 10 km Independence Day run in Rzeszow ("[6\. PKO Bieg Niepodległości](http://runrzeszow.pl/zapisy/bieg-niepodleglosci/)"). It's not the longest distance I used to run, but it's my first run with more than two people (exactly 2000).
 

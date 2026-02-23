@@ -9,13 +9,65 @@ const startYear = 2018;
 const yearRange = currentYear > startYear ? `${startYear} – ${currentYear}` : startYear;
 
 const { lang, lastUpdated, entry } = Astro.locals.starlightRoute;
+const slug = entry.slug;
 const filePath = entry.filePath;
 const historyUrl = filePath
 	? `https://github.com/pyxelr/pawelcislo.com/commits/main/${filePath}`
 	: undefined;
+
+// Schema.org structured data
+const isPost = slug.startsWith('posts/');
+const isHome = slug === '' || slug === 'index';
+const siteUrl = 'https://pawelcislo.com';
+
+const personSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'Person',
+	name: 'Paweł Cisło',
+	url: siteUrl,
+	jobTitle: 'MLOps Engineer',
+	sameAs: [
+		'https://github.com/pyxelr',
+		'https://x.com/pawel_cislo',
+		'https://www.linkedin.com/in/pawelcislo/',
+		'https://www.facebook.com/pawelcislocom/',
+		'https://www.instagram.com/pawel_cislo/',
+		'https://goodreads.com/pyxelr/',
+		'https://hypothes.is/users/pyxelr',
+		'https://soundcloud.com/pyxelr',
+	],
+};
+
+const postDate = isPost && entry.data.date ? new Date(entry.data.date) : null;
+const articleSchema = isPost ? {
+	'@context': 'https://schema.org',
+	'@type': 'Article',
+	headline: entry.data.title,
+	url: `${siteUrl}/${slug}/`,
+	...(postDate && { datePublished: postDate.toISOString().split('T')[0] }),
+	...(lastUpdated && { dateModified: lastUpdated.toISOString().split('T')[0] }),
+	author: {
+		'@type': 'Person',
+		name: 'Paweł Cisło',
+		url: siteUrl,
+	},
+	publisher: {
+		'@type': 'Person',
+		name: 'Paweł Cisło',
+		url: siteUrl,
+	},
+} : null;
 ---
 
 <footer class="sl-flex">
+	{entry.data.discuss && entry.data.discuss.length > 0 && (
+		<div class="discuss-on">
+			<span>Discuss on</span>
+			{entry.data.discuss.map((d, i) => (
+				<><a href={d.url} target="_blank" rel="noopener noreferrer">{d.platform}</a>{i < entry.data.discuss.length - 1 && <span class="sep"> · </span>}</>
+			))}
+		</div>
+	)}
 	<div class="meta sl-flex">
 		<EditLink />
 		{lastUpdated && (
@@ -47,16 +99,46 @@ const historyUrl = filePath
 			© {yearRange} Paweł Cisło
 		</p>
 		<p class="links">
-			<a href="http://eepurl.com/dDqG-z" target="_blank" rel="noopener noreferrer">Newsletter</a> | <a href="/rss.xml">RSS Feed</a> | <a href="https://www.paypal.me/pawelcislo/3.14" target="_blank" rel="noopener noreferrer">Support</a>
+			<a href="https://pawelcislo.substack.com" target="_blank" rel="noopener noreferrer">Newsletter</a> | <a href="/rss.xml">RSS Feed</a> | <a href="https://ko-fi.com/pawelcislo" target="_blank" rel="noopener noreferrer">Support</a>
 		</p>
 	</div>
 </footer>
+
+{isHome && (
+	<script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+)}
+{articleSchema && (
+	<script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+)}
 
 <style>
 	footer {
 		flex-direction: column;
 		gap: 1.5rem;
 	}
+	.discuss-on {
+		margin-top: 3rem;
+		padding: 0.75rem 1rem;
+		border: 1px solid var(--sl-color-gray-5);
+		border-radius: 0.5rem;
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+		text-align: center;
+	}
+	.discuss-on span:first-child {
+		margin-right: 0.5rem;
+	}
+	.discuss-on a {
+		color: var(--sl-color-accent-high);
+		text-decoration: underline;
+	}
+	.discuss-on a:hover {
+		color: var(--sl-color-white);
+	}
+	.discuss-on .sep {
+		color: var(--sl-color-gray-4);
+	}
+
 	.meta {
 		gap: 0.75rem 3rem;
 		justify-content: space-between;

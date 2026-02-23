@@ -1,24 +1,35 @@
 ---
 title: "#7 – Is Data Science the inevitable cultivation?"
 slug: posts/is-data-science-the-inevitable-cultivation
+description: "Summary of the \"BioTech meets Digital\" conference in Brussels and my recommendations to start with Data Science and Machine Learning"
 date: 2019-03-25
 categories: 
-  - "data-science"
+  - "ai"
 tags: 
   - "ai"
   - "belgium"
   - "biotech"
-  - "biotechmeetsdigital"
   - "brussels"
   - "conference"
-  - "data-science"
-  - "industry-4-0"
   - "iot"
-  - "machine-learning"
   - "technology"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/3026711947403287
+  - platform: X
+    url: https://x.com/pyXelr/status/1110154732994207745
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6515919882775855104
+  - platform: Hacker News
+    url: https://news.ycombinator.com/item?id=19482067
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/is-data-science-the-inevitable-cultivation-thumbnail.png
 ---
 
-![Data 4.0](images/data-4.0-in-post.png)
+![Is Data Science the Inevitable Cultivation - background](images/is-data-science-the-inevitable-cultivation-background.png)
 
 **It is more common to approach the statement "Data is the new oil", and it is already a fact, which will only expand its popularity. However, in order to get the pure nectar from our data, we need to apply specific "oil refinery", usually referred to as data mining.**
 
@@ -276,7 +287,7 @@ Personally, I enjoyed using classical [Sublime Text](https://www.sublimetext.co
 
 If you are not happy with those, you can also try [Spyder](https://github.com/spyder-ide/spyder) as a free solution and [PyCharm](https://www.jetbrains.com/pycharm/) for professional development.
 
-If you want to try Jupyter, Spyder and VS Code, just install a famous [Anaconda Distribution](https://www.anaconda.com/distribution/) to have a clear overview and ease of management over your tools.
+If you want to try Jupyter, Spyder and VS Code, just install a famous [Anaconda Distribution](https://www.anaconda.com/download/) to have a clear overview and ease of management over your tools.
 
 ### My recommendations / tools 🛠
 

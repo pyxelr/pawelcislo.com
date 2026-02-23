@@ -1,17 +1,29 @@
 ---
 title: "#9 – Perplexing Ethics of AI"
 slug: posts/perplexing-ethics-of-ai
+description: My reflections on the aspects of moral philosophy and law regulations of AI
 date: 2019-06-02
 categories: 
-  - "data-science"
+  - "ai"
 tags: 
   - "ai"
-  - "data-science"
   - "ethics"
   - "law"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/3186062611468219
+  - platform: X
+    url: https://x.com/pyXelr/status/1135173101740789765
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6540938307155701760
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/perplexing-ethics-of-ai-thumbnail.png
 ---
 
-![Ethical AI background](images/ethicai-background.png)
+![Perplexing Ethics of AI - background](images/perplexing-ethics-of-ai-background.png)
 
 **What does it mean to behave in an ethical manner? What if we add all the law restriction on top of that? Moving on, how to write the appropriate if/else statements for the AI workflow to satisfy the strict, yet non-static regulations?**
 
@@ -211,7 +223,7 @@ When deriving a concrete if/else solution for the programmed AI sitting inside t
 - make a random choice
 - let the user set up the ethical preferences before using the car for the 1st time
 - act according to the cultural difference of the country you're in
-- sum up the "social credit" of the objects (basing on the system already tested in China[^13], as well as presented in one of the Black Mirror episodes ([Nosedive](https://en.wikipedia.org/wiki/Nosedive_\(Black_Mirror\))))
+- sum up the "social credit" of the objects (basing on the system already tested in China[^13], as well as presented in one of the Black Mirror episodes ([Nosedive](https://en.wikipedia.org/wiki/Nosedive_%28Black_Mirror%29)))
 
 ![Chinese social credit system](images/china-credit-system.png)
 _Chinese social credit system is a fact_
@@ -248,7 +260,7 @@ Maybe the following video will put your imagination into work, of what can happe
   allowfullscreen>
 </iframe>
 
-If you feel like having a little sneak peek over the next 10 years of the AI robots, have a look at Black Mirror's episode titled as "[Metalhead](https://en.wikipedia.org/wiki/Metalhead_\(Black_Mirror\))".
+If you feel like having a little sneak peek over the next 10 years of the AI robots, have a look at Black Mirror's episode titled as "[Metalhead](https://en.wikipedia.org/wiki/Metalhead_%28Black_Mirror%29)".
 
 Let's not introduce all the possible states, as one would need to write a comprehensive book with all the examples. Instead, I will leave you with this single GitHub repository, where you can spend a great part of your evening, getting familiar with all the introduced scary usages of AI in the [Awful AI repository](http://github.com/daviddao/awful-ai). As the author states, hopefully, it will depict the dark side of AI and "_raise awareness to its misuses in society_"[^15].
 

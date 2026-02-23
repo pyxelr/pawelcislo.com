@@ -2,13 +2,14 @@
  * Syncs the README from pyxelr/recommendations-for-engineers into the Starlight page.
  *
  * Source of truth: https://github.com/pyxelr/recommendations-for-engineers
- * Target: src/content/docs/pages/recommendations.md
+ * Target: src/content/docs/recommendations.md
  *
  * Transformations applied:
  *   - Strips H1 title (Starlight uses frontmatter title)
  *   - Strips the Contents/TOC section
  *   - Strips "Inspired by..." line
  *   - Strips "Back to Contents" links
+ *   - Strips newsletter subscribe admonition
  *   - Adjusts intro paragraph for website context
  *   - Converts old WordPress post URLs to relative paths
  *   - Converts GitHub-flavored admonitions (> [!TIP], > [!NOTE]) to :::tip / :::note
@@ -27,7 +28,7 @@ const REPO_RAW_URL =
 const OUTPUT_PATH = resolve(
 	__dirname,
 	'..',
-	'src/content/docs/pages/recommendations.md',
+	'src/content/docs/recommendations.md',
 );
 
 const FRONTMATTER = `---
@@ -82,7 +83,7 @@ async function main() {
 	);
 	md = md.replace(
 		"don't hesitate to create a pull request if I missed something interesting or if there is a dead link.",
-		"don't hesitate to [tell me](/pages/contact/) if I missed something interesting or if there is a dead link. You are also welcome to create a pull request and see the history of edits in the [GitHub repo](https://github.com/pyxelr/recommendations-for-engineers).",
+		"don't hesitate to [tell me](/contact/) if I missed something interesting or if there is a dead link. You are also welcome to create a pull request and see the history of edits in the [GitHub repo](https://github.com/pyxelr/recommendations-for-engineers).",
 	);
 
 	// 6. Convert old WordPress-style pawelcislo.com post URLs to relative paths
@@ -98,14 +99,11 @@ async function main() {
 	// 8. Strip old WordPress #ftoc-heading-N anchors
 	md = md.replace(/#ftoc-heading-\d+/g, '');
 
-	// 9. Add the browsing tip before the first horizontal rule
-	md = md.replace(
-		/(\n)\* \* \* \* \*\n/,
-		'\n_Tip_: The catalogue is sorted chronologically, but I believe it is easier and more practical to browse this site by categories (using the TOC).\n\n* * *\n',
-	);
-
-	// 10. Normalise horizontal rules from GitHub style to Starlight style
+	// 9. Normalise horizontal rules from GitHub style to Starlight style
 	md = md.replace(/\* \* \* \* \*/g, '* * *');
+
+	// 10. Strip newsletter subscribe admonition
+	md = md.replace(/> \[!(?:TIP|NOTE)\]\n> \[Subscribe to my newsletter\].*?\n\n/gi, '');
 
 	// 11. Convert GitHub-flavored admonitions to Starlight syntax
 	md = convertGfmAdmonitions(md);

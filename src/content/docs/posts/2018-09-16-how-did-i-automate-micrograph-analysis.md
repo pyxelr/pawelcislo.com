@@ -1,24 +1,35 @@
 ---
 title: "#2 – How did I automate Micrograph Analysis?"
 slug: posts/how-did-i-automate-micrograph-analysis
+description: Clear explanation of how I automatically turned meaningless 2D micrographs into plenty of significant data (numerical, graphical, plot)
 date: 2018-09-16
 categories: 
-  - "data-science"
+  - "ai"
   - "project"
 tags: 
-  - "analysis"
   - "automation"
   - "fiji"
-  - "image"
   - "imagej"
   - "micrograph"
   - "nanoparticle"
-  - "processing"
   - "segmentation"
-  - "tutorial"
+discuss:
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/2647934061947746
+  - platform: X
+    url: https://x.com/pyXelr/status/1041315523370381312
+  - platform: LinkedIn
+    url: https://www.linkedin.com/feed/update/urn:li:activity:6447080889175285760
+  - platform: ImageJ Forum
+    url: https://forum.image.sc/t/automatic-micrograph-analyser-my-macro/19738
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/how-did-i-automate-micrograph-analysis-thumbnail.png
 ---
 
-![Micrograph Analyser Effect](images/micrograph-analyser-effect.png)
+![How Did I Automate Micrograph Analysis - background](images/how-did-i-automate-micrograph-analysis-background.png)
 
 **Clear explanation of how I automatically turned meaningless 2D micrographs into plenty of significant data (numerical, graphical, plot).**
 
@@ -454,7 +465,7 @@ The last proposed extension possibility is to try and include the addition of a 
 
 [^3]: Carpenter, D.T., Rickman, J.M., and Barmak, K. (1998) 'A Methodology for Automated Quantitative Microstructural Analysis of Transmission Electron Micrographs'. _Journal of Applied Physics_ 84 (11), 5843–5854
 
-[^4]: Rasband, W. (2008) _About NIH Image_ [online] available from <https://imagej.nih.gov/nih-image/about.html>
+[^4]: Rasband, W. (2008) _About NIH Image_ [online] available from <https://imagej.net/nih-image/about.html>
 
 [^5]: Barry, E. (2008) _Three-Dimensional Reconstruction of Microstructures in A + B Titanium Alloys_. PhD Thesis. The Ohio State University
 

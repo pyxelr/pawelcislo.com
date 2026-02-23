@@ -1,0 +1,120 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { getCollection } from 'astro:content';
+
+const docs = await getCollection('docs');
+const posts = docs.filter((doc) => doc.id.startsWith('posts/'));
+
+// Collect all tags (merged from categories + tags, deduplicated)
+const tagCounts = new Map<string, number>();
+for (const post of posts) {
+	const allTags = [
+		...(post.data.categories ?? []),
+		...(post.data.tags ?? []),
+	];
+	const unique = [...new Set(allTags.map((t) => t.toLowerCase()))];
+	for (const tag of unique) {
+		tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
+	}
+}
+
+// Sort both ways
+const byFrequency = [...tagCounts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+const byAlpha = [...tagCounts.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+---
+
+<StarlightPage
+	frontmatter={{
+		title: 'Tags',
+		description: 'Browse blog posts by tag',
+		editUrl: false,
+		lastUpdated: false,
+		pagination: false,
+	}}
+>
+	<div data-pagefind-ignore>
+	<div class="sort-toggle">
+		<button id="sort-alpha" class="sort-btn active">A–Z</button>
+		<button id="sort-freq" class="sort-btn">By count</button>
+	</div>
+
+	<div id="tags-alpha" class="tag-cloud">
+		{byAlpha.map(([tag, count]) => (
+			<a href={`/tags/${tag}/`} class="tag-pill">
+				{tag} <span class="tag-count">{count}</span>
+			</a>
+		))}
+	</div>
+
+	<div id="tags-freq" class="tag-cloud" style="display:none">
+		{byFrequency.map(([tag, count]) => (
+			<a href={`/tags/${tag}/`} class="tag-pill">
+				{tag} <span class="tag-count">{count}</span>
+			</a>
+		))}
+	</div>
+
+	<script>
+		document.getElementById('sort-alpha')!.addEventListener('click', () => {
+			document.getElementById('tags-alpha')!.style.display = '';
+			document.getElementById('tags-freq')!.style.display = 'none';
+			document.getElementById('sort-alpha')!.classList.add('active');
+			document.getElementById('sort-freq')!.classList.remove('active');
+		});
+		document.getElementById('sort-freq')!.addEventListener('click', () => {
+			document.getElementById('tags-alpha')!.style.display = 'none';
+			document.getElementById('tags-freq')!.style.display = '';
+			document.getElementById('sort-freq')!.classList.add('active');
+			document.getElementById('sort-alpha')!.classList.remove('active');
+		});
+	</script>
+	</div>
+</StarlightPage>
+
+<style>
+	.sort-toggle {
+		display: flex;
+		gap: 0.4rem;
+		margin-bottom: 1rem;
+	}
+	.sort-btn {
+		padding: 0.25rem 0.65rem;
+		border: 1px solid var(--sl-color-gray-5);
+		border-radius: 999px;
+		background: transparent;
+		color: var(--sl-color-gray-3);
+		font-size: 0.85em;
+		cursor: pointer;
+		transition: all 0.2s ease;
+	}
+	.sort-btn.active {
+		background: var(--sl-color-accent-low);
+		color: var(--sl-color-accent-high);
+		border-color: var(--sl-color-accent);
+	}
+	.tag-cloud {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+	}
+	.tag-pill {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.35rem;
+		padding: 0.3rem 0.7rem;
+		border-radius: 999px;
+		background: var(--sl-color-accent-low);
+		color: var(--sl-color-accent-high);
+		font-size: 0.9em;
+		text-decoration: none;
+		transition: background 0.2s ease;
+	}
+	.tag-pill:hover {
+		background: var(--sl-color-accent);
+		color: var(--sl-color-black);
+	}
+	.tag-count {
+		font-size: 0.8em;
+		opacity: 0.7;
+	}
+</style>

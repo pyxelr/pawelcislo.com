@@ -5,12 +5,17 @@ const slug = entry.slug;
 
 // Check if this is a blog post or resources page
 const isPost = slug.startsWith('posts/');
-const resourcePages = ['pages/recommendations', 'pages/favourite-thoughts', 'pages/three-goals', 'pages/faq'];
+const resourcePages = ['recommendations', 'favourite-thoughts', 'three-goals', 'faq'];
 const isResourcePage = resourcePages.includes(slug);
 const showMeta = isPost || isResourcePage;
 
 // Get the original creation date for blog posts
 const postDate = isPost && entry.data.date ? new Date(entry.data.date) : null;
+
+// Collect tags (merged categories + tags, deduplicated)
+const allTags = isPost
+	? [...new Set([...(entry.data.categories ?? []), ...(entry.data.tags ?? [])].map((t: string) => t.toLowerCase()))]
+	: [];
 
 // Get the raw content body to calculate words
 let wordCount = 0;
@@ -44,13 +49,21 @@ if (showMeta && entry.body) {
 	)}
 </div>
 
-{showMeta && (
+{showMeta && wordCount > 0 && (
 	<p class="page-meta">
 		{postDate && (
 			<><time datetime={postDate.toISOString()}>{postDate.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' })}</time> · </>
 		)}
 		{readingTime} min read · {wordCount} words
 	</p>
+)}
+
+{allTags.length > 0 && (
+	<div class="post-tags">
+		{allTags.map((tag) => (
+			<a href={`/tags/${tag}/`} class="tag-pill">{tag}</a>
+		))}
+	</div>
 )}
 
 <style>
@@ -81,5 +94,25 @@ if (showMeta && entry.body) {
 		font-size: 0.9em;
 		margin-top: 0.5rem;
 		margin-bottom: 1rem;
+	}
+	.post-tags {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.4rem;
+		margin-bottom: 1.5rem;
+	}
+	.tag-pill {
+		display: inline-block;
+		padding: 0.15rem 0.55rem;
+		border-radius: 999px;
+		background: var(--sl-color-accent-low);
+		color: var(--sl-color-accent-high);
+		font-size: 0.8em;
+		text-decoration: none;
+		transition: background 0.2s ease;
+	}
+	.tag-pill:hover {
+		background: var(--sl-color-accent);
+		color: var(--sl-color-black);
 	}
 </style>

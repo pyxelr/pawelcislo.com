@@ -1,6 +1,7 @@
 ---
 title: "#12 – Optimising our learning retention rate with SRS (Anki)"
 slug: posts/optimising-our-learning-retention-rate-with-srs-anki
+description: Description of spaced repetition and active recall methodologies, which help me memorise everything with a high retention rate, thoroughly explaining my way of using the Spaced Repetition System (Anki)
 date: 2020-07-10
 categories: 
   - "lifestyle"
@@ -8,9 +9,23 @@ tags:
   - "anki"
   - "flashcards"
   - "learning"
+discuss:
+  - platform: Reddit
+    url: https://www.reddit.com/r/Anki/comments/hoocvu/my_detailed_blog_post_on_anki_with_the_links_to/
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/pfbid02tnztYiWYpS6hsT9QtKTYt3h5KxLQkeudg1fk2vG9aQtMwxjZ6D5MrAz7wC3a9UJCl
+  - platform: X
+    url: https://x.com/pawel_cislo/status/1281561989228175360
+  - platform: Hacker News
+    url: https://news.ycombinator.com/item?id=23790955
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://pawelcislo.com/thumbnails/optimising-our-learning-retention-rate-with-srs-anki-thumbnail.png
 ---
 
-![Flashcards - Blog post background](images/flashcards-background.png)
+![Optimising Our Learning Retention Rate with SRS Anki - background](images/optimising-our-learning-retention-rate-with-srs-anki-background.png)
 
 **No, this article is not about some novel machine learning techniques, but it does cover the part of preparing a down to earth "_learning_ _model_".**
 
@@ -136,10 +151,10 @@ As previously mentioned, we can get some premade cards, but it's like learning f
 
 Nonetheless, there are ways to facilitate the card-creation process. For example, if you tend to annotate some text online (such as I do with [Hypothesis](https://hypothes.is/users/pyxelr)), you can use your annotation on the front side of the card and the highlighted part as the answer (back side). Apart from Hypothesis, you may also try using a different annotation tool – Polar that officially supports such conversion [straight from its software](https://getpolarized.io/docs/anki-sync-for-spaced-repetition.html). You can even get automatically generated cards from the displayed word definitions or highlights you create on your Kindle device (the required tools are mentioned in [the further part of this post](/posts/optimising-our-learning-retention-rate-with-srs-anki/#my-plugins)).
 
-Once you have your cards, it's crucial to be consistent with your studies. To help yourself with it, you can use a review heatmap to have a quick glance over your frequency, as well as define a [goal similar to mine](/pages/three-goals/): "_Daily Anki Flashcards_". Try to do your studies at the same time of the day, so it will become a habit just like brushing your teeth. To contribute to the community, don't forget to [share some of your creations](https://ankiweb.net/shared/decks/).
+Once you have your cards, it's crucial to be consistent with your studies. To help yourself with it, you can use a review heatmap to have a quick glance over your frequency, as well as define a [goal similar to mine](/three-goals/): "_Daily Anki Flashcards_". Try to do your studies at the same time of the day, so it will become a habit just like brushing your teeth. To contribute to the community, don't forget to [share some of your creations](https://ankiweb.net/shared/decks/).
 
 ![Sample of my 3 Anki goals of a Three Goals programme](images/example-of-my-3-anki-levels.png)
-_Sample of my 3 Anki goals of a [Three Goals](/pages/three-goals/) programme_
+_Sample of my 3 Anki goals of a [Three Goals](/three-goals/) programme_
 
 ### Make effective flashcards
 
@@ -377,11 +392,11 @@ If for any reason you don't feel like using Anki, there are other options which 
 - [Memrise](https://www.memrise.com/) ← learn a language and not only (there is an [add-on](https://github.com/wilddom/memrise2anki-extension) to convert Memrise content to Anki)
 - [NeuraCache](https://neuracache.com/) ← automatically generate flashcards from Twitter posts, Markdown editors, Kindle or your favourite note-taking tools, such as OneNote, Evernote or Roam and study them all using a mobile app
 - [Quizlet](https://quizlet.com/) ← more user-friendly alternative to Anki (there is an [add-on](https://ankiweb.net/shared/info/538351043) to convert Quizlet content to Anki)
-- [RemNote](https://www.remnote.io/homepage) ← note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
+- [RemNote](https://www.remnote.com/) ← note-taking app that will convert your notes to flashcards with the use of specific syntax
 - [ShortcutFoo](https://www.shortcutfoo.com/) ← fun way to memorise shortcuts and commands
 - [Tinycards](https://tinycards.duolingo.com/) ← flashcard app from the creators of Duolingo.
 
-Maybe the nature of flashcards still doesn't suit you? Well, then I hope that finding something inside [my list of recommendations](/pages/recommendations/#flashcards) will satisfy you. Alternatively, you might apply spaced repetition in an old-school way while using pen and paper in The Leitner Box methodology[^7]:
+Maybe the nature of flashcards still doesn't suit you? Well, then I hope that finding something inside [my list of recommendations](/recommendations/#flashcards) will satisfy you. Alternatively, you might apply spaced repetition in an old-school way while using pen and paper in The Leitner Box methodology[^7]:
 
 <iframe
   width="560"
