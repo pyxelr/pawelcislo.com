@@ -103,7 +103,7 @@ async function main() {
 	md = md.replace(/\* \* \* \* \*/g, '* * *');
 
 	// 10. Strip newsletter subscribe admonition
-	md = md.replace(/> \[!TIP\]\n> \[Subscribe to my newsletter\].*?\n\n/gi, '');
+	md = md.replace(/> \[!(?:TIP|NOTE)\]\n> \[Subscribe to my newsletter\].*?\n\n/gi, '');
 
 	// 11. Convert GitHub-flavored admonitions to Starlight syntax
 	md = convertGfmAdmonitions(md);
