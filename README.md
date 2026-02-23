@@ -10,6 +10,7 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 
 ```text
 .
+├── .github/workflows/          # GitHub Actions (yearly rebuild)
 ├── plugins/                    # Custom remark/rehype plugins
 ├── public/                     # Static assets served as-is (favicon, linked images, etc.)
 ├── scripts/                    # Utility scripts (sync recommendations, link checker, etc.)
@@ -73,6 +74,8 @@ This site is deployed on **Cloudflare Pages** with automatic deployments from Gi
 2. Cloudflare Pages automatically builds and deploys
 3. Preview the `main` branch build at [pawelcislo.pages.dev](https://pawelcislo.pages.dev/)
 4. Changes are live at [pawelcislo.com](https://pawelcislo.com)
+
+Additionally, a **GitHub Actions** scheduled workflow triggers a Cloudflare rebuild on January 1st each year to update the copyright year in the footer.
 
 ## 📚 Resources
 

@@ -1,0 +1,11 @@
+# Triggers a Cloudflare Pages rebuild on Jan 1st to update the copyright year in the footer
+name: Yearly rebuild
+on:
+  schedule:
+    - cron: '0 1 1 1 *' # Jan 1st at 01:00 UTC
+  workflow_dispatch: # Allow manual trigger from GitHub Actions tab
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl -X POST "${{ secrets.CF_DEPLOY_HOOK }}"
