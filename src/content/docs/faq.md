@@ -79,4 +79,4 @@ If you have a question that was not listed on this page, please do not hesitate 
     A few ways: [sign up to my newsletter](https://pawelcislo.substack.com), [subscribe to the RSS feed](/rss.xml), [watch the GitHub repo](https://github.com/pyxelr/pawelcislo.com), or keep an eye on the "Last updated" info in the footer of each page.
 
 14. **I love your content a ton! Can I support you anywhere?**  
-    You already mean a lot to me by following my online persona! However, if you're such a determined and lovely person, you can [drop me a donation on my PayPal account](https://www.paypal.me/pawelcislo/3.14).
+    You already mean a lot to me by following my online persona! However, if you're such a determined and lovely person, you can [drop me a donation on Ko-Fi](https://ko-fi.com/pawelcislo).

@@ -12,4 +12,4 @@ You can contact me via:
 - Discord: [pawelcislo#7450](https://discord.com/users/303347277144260620)
 - direct e-mail to my address: _contact \[at\] pawelcislo \[dot\] com_
 
-If you wish to support my work, you are welcome to do it through [PayPal](https://www.paypal.me/pawelcislo/3.14).
+If you wish to support my work, you are welcome to do it through [Ko-Fi](https://ko-fi.com/pawelcislo).
