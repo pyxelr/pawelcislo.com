@@ -71,7 +71,8 @@ This site is deployed on **Cloudflare Pages** with automatic deployments from Gi
 
 1. Push changes to the `main` branch
 2. Cloudflare Pages automatically builds and deploys
-3. Changes are live at [pawelcislo.com](https://pawelcislo.com)
+3. Preview the `main` branch build at [pawelcislo.pages.dev](https://pawelcislo.pages.dev/)
+4. Changes are live at [pawelcislo.com](https://pawelcislo.com)
 
 ## 📚 Resources
 
