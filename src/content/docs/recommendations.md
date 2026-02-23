@@ -7,12 +7,6 @@ All of my recommendations for aspiring engineers in a single place, coming from 
 
 The list also aggregates and extends most of the suggestions from my blog posts, where some of the entries come from a different language (🇵🇱). Although it's my personal list, don't hesitate to [tell me](/contact/) if I missed something interesting or if there is a dead link. You are also welcome to create a pull request and see the history of edits in the [GitHub repo](https://github.com/pyxelr/recommendations-for-engineers).
 
-:::tip
-[Subscribe to my newsletter](https://pawelcislo.substack.com/) to keep up to date with my content!
-:::
-
-_Tip_: The catalogue is sorted chronologically, but I believe it is easier and more practical to browse this site by categories (using the TOC).
-
 * * *
 
 ## 🌐 Blogs

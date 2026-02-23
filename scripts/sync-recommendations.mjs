@@ -9,6 +9,7 @@
  *   - Strips the Contents/TOC section
  *   - Strips "Inspired by..." line
  *   - Strips "Back to Contents" links
+ *   - Strips newsletter subscribe admonition
  *   - Adjusts intro paragraph for website context
  *   - Converts old WordPress post URLs to relative paths
  *   - Converts GitHub-flavored admonitions (> [!TIP], > [!NOTE]) to :::tip / :::note
@@ -98,14 +99,11 @@ async function main() {
 	// 8. Strip old WordPress #ftoc-heading-N anchors
 	md = md.replace(/#ftoc-heading-\d+/g, '');
 
-	// 9. Add the browsing tip before the first horizontal rule
-	md = md.replace(
-		/(\n)\* \* \* \* \*\n/,
-		'\n_Tip_: The catalogue is sorted chronologically, but I believe it is easier and more practical to browse this site by categories (using the TOC).\n\n* * *\n',
-	);
-
-	// 10. Normalise horizontal rules from GitHub style to Starlight style
+	// 9. Normalise horizontal rules from GitHub style to Starlight style
 	md = md.replace(/\* \* \* \* \*/g, '* * *');
+
+	// 10. Strip newsletter subscribe admonition
+	md = md.replace(/> \[!TIP\]\n> \[Subscribe to my newsletter\].*?\n\n/gi, '');
 
 	// 11. Convert GitHub-flavored admonitions to Starlight syntax
 	md = convertGfmAdmonitions(md);
