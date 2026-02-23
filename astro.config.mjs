@@ -57,6 +57,10 @@ export default defineConfig({
         head: [
             {
                 tag: 'meta',
+                attrs: { name: 'author', content: 'Paweł Cisło' },
+            },
+            {
+                tag: 'meta',
                 attrs: { property: 'og:image', content: 'https://pawelcislo.com/og-image.png' },
             },
             {
