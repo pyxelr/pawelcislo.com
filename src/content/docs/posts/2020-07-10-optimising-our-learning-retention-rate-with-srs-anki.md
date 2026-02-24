@@ -301,9 +301,7 @@ Naturally, flashcards are the heart of our study sessions, and in case I got you
   - [SQL Terms and Concepts](https://ankiweb.net/shared/info/827899871)
   - [SQL](https://quizlet.com/295850599/sql-flash-cards/) \[_imported from Quizlet_\]
 - 26\. 📈 Statistics
-
   - [Introduction to Biostatistics](https://ankiweb.net/shared/info/1494347248)
-
   - [Mathematical Statistics](https://ankiweb.net/shared/info/343559677) ← mathematical statistics from the University of Tartu class
   - [Probability Theory and Statistics (Introduction)](https://www.memrise.com/course/50045/probability-theory-and-statistics-introduction/2/?action=next) \[_imported from Memrise_\]
   - [Statistics by Brian Spiering](https://ankiweb.net/shared/info/1185285155) ← collection of Statistics flashcards, including fundamentals, Bayesian, and challenges
@@ -439,25 +437,25 @@ In my case, I went a bit further and decided to add my Xbox One Wireless control
 If you would like to follow my settings in the video clip, I've mapped the buttons of the gamepad to the open-source solution, [AntiMicroX](https://github.com/AntiMicroX/antimicrox/):
 
 ```text
-* Left Stick = `Mouse` (_fast_)
-  * LS Click = `Mouse MB`
-* Right Stick = `Mouse` (_slow_)
-  * RS Click = `Enter`
-* DPad (_scrolling_)
-  * Left = `Mouse Left`
-  * Right = `Mouse Right`
-  * Up = `Mouse 4`
-  * Down = `Mouse 5`
-* Left Trigger = `Mouse Left Button`
-* Right Trigger = `Mouse Right Button`
-* Left Shoulder = `Ctrl` (_useful to hold for zooming in/out with DPad_)
-* Right Shoulder = `4`
-* A = `Space`
-* X = `1`
-* Y = `2`
-* B = `3`
-* Back = `C` (_skips cards_)
-* Start = `R` (_replays audio in cards_)
+* Left Stick = Mouse (fast)
+  * LS Click = Mouse MB
+* Right Stick = Mouse (slow)
+  * RS Click = Enter
+* DPad (scrolling)
+  * Left = Mouse Left
+  * Right = Mouse Right
+  * Up = Mouse 4
+  * Down = Mouse 5
+* Left Trigger = Mouse Left Button
+* Right Trigger = Mouse Right Button
+* Left Shoulder = Ctrl (useful to hold for zooming in/out with DPad)
+* Right Shoulder = 4
+* A = Space
+* X = 1
+* Y = 2
+* B = 3
+* Back = C (skips cards)
+* Start = R (replays audio in cards)
 ```
 
 ## Reaching out to the community
