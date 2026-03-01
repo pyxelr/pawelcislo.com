@@ -116,10 +116,49 @@ export default defineConfig({
                 collapsed: true,
                 items: [
                     {
+                        label: 'Health',
+                        items: [
+                            { label: 'Biohacking', slug: 'knowledge/health/biohacking-not-only-for-programmers' },
+                            { label: 'Triphasic Breathing', slug: 'knowledge/health/triphasic-breathing-meditation' },
+                        ],
+                    },
+                    {
+                        label: 'macOS',
+                        items: [
+                            { label: 'macOS', slug: 'knowledge/macos/macos' },
+                        ],
+                    },
+                    {
+                        label: 'Math',
+                        items: [
+                            { label: 'Statistics', slug: 'knowledge/math/statistics' },
+                        ],
+                    },
+                    {
+                        label: 'MLOps',
+                        items: [
+                            { label: 'CKAD study guide', slug: 'knowledge/mlops/ckad-study-guide' },
+                            { label: 'Kubernetes', slug: 'knowledge/mlops/kubernetes' },
+                            { label: 'My Docker commands', slug: 'knowledge/mlops/my-docker-commands' },
+                        ],
+                    },
+                    {
+                        label: 'Music',
+                        items: [
+                            { label: 'FL Studio', slug: 'knowledge/music/fl-studio' },
+                            { label: 'Music', slug: 'knowledge/music/music' },
+                        ],
+                    },
+                    {
                         label: 'Software',
                         items: [
+                            { label: 'Alfred', slug: 'knowledge/software/alfred' },
+                            { label: 'BetterTouchTool', slug: 'knowledge/software/bettertouchtool' },
                             { label: 'Espanso', slug: 'knowledge/software/espanso' },
+                            { label: 'Karabiner-Elements', slug: 'knowledge/software/karabiner-elements' },
                             { label: 'Obsidian', slug: 'knowledge/software/obsidian' },
+                            { label: 'Raycast', slug: 'knowledge/software/raycast' },
+                            { label: 'Zed', slug: 'knowledge/software/zed' },
                         ],
                     },
                 ],
