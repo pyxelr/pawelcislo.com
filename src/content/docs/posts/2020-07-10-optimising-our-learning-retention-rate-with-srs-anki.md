@@ -164,7 +164,7 @@ After you understood the topic, here comes the time of designing your first flas
 
 | **Example of a bad card ❌** |  **Examples of good cards ✅** |
 | --- | --- |
-| Q: What are the main characteristics of Belgium? <br> A: Belgium, officially the Kingdom of Belgium, is a country in Western Europe. It is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest. It covers an area of 30,689 km2 (11,849 sq mi) and has a population of more than 11.5 million | Q: What is the official name of Belgium? <br> A: The Kingdom of Belgium <br><br> Q: In which part of Europe can we find Belgium? <br> A: Western Europe <br><br> Q: Who is bordering with Belgium and from which side? <br> A: The Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest <br><br> Q: What is the area covered by Belgium (in km2 and sq mi)? <br> A: 30,689 km2 (11,849 sq mi) <br><br> Q: What is the population of Belgium (in millions)? <br> A: More than 11.5 million |
+| **Q**: What are the main characteristics of Belgium? <br> **A**: Belgium, officially the Kingdom of Belgium, is a country in Western Europe. It is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest. It covers an area of 30,689 km2 (11,849 sq mi) and has a population of more than 11.5 million | **Q:** What is the official name of Belgium? <br> **A:** The Kingdom of Belgium <br><br> **Q:** In which part of Europe can we find Belgium? <br> **A:** Western Europe <br><br> **Q:** Who is bordering with Belgium and from which side? <br> **A:** The Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest <br><br> **Q:** What is the area covered by Belgium (in km2 and sq mi)? <br> **A:** 30,689 km2 (11,849 sq mi) <br><br> **Q:** What is the population of Belgium (in millions)? <br> **A:** More than 11.5 million |
 
 In addition to simplifying the information, try to use images where possible as they will further stimulate your senses. As an example, they work great for learning a new language and finding the word for the presented image. On the other hand, if the graphic contains all the information, you can still learn from it by hiding/unhiding the right areas.
 
@@ -173,7 +173,7 @@ I've just provided the basic, must known principles, but there is more to it if 
 ![How Anki users deal with learning new information](images/anki-new-information.png)
 _It's just like when you [stir your data unless the ML algorithm works](/images/stir-data-meme.png), right? Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/g9otl1/shitpost_just_shove_dem_flashcards/)_
 
-## My Anki Setup 🛠
+## 🛠 My Anki Setup
 
 While writing this sentence, I have been using Anki for around 1 year, and throughout that period, I tried different habits and setups of its software. In this chapter, I'll show you all the settings that I found useful, as well as how it presents itself inside the desktop and mobile app.
 
@@ -301,9 +301,7 @@ Naturally, flashcards are the heart of our study sessions, and in case I got you
   - [SQL Terms and Concepts](https://ankiweb.net/shared/info/827899871)
   - [SQL](https://quizlet.com/295850599/sql-flash-cards/) \[_imported from Quizlet_\]
 - 26\. 📈 Statistics
-
   - [Introduction to Biostatistics](https://ankiweb.net/shared/info/1494347248)
-
   - [Mathematical Statistics](https://ankiweb.net/shared/info/343559677) ← mathematical statistics from the University of Tartu class
   - [Probability Theory and Statistics (Introduction)](https://www.memrise.com/course/50045/probability-theory-and-statistics-introduction/2/?action=next) \[_imported from Memrise_\]
   - [Statistics by Brian Spiering](https://ankiweb.net/shared/info/1185285155) ← collection of Statistics flashcards, including fundamentals, Bayesian, and challenges
@@ -439,25 +437,25 @@ In my case, I went a bit further and decided to add my Xbox One Wireless control
 If you would like to follow my settings in the video clip, I've mapped the buttons of the gamepad to the open-source solution, [AntiMicroX](https://github.com/AntiMicroX/antimicrox/):
 
 ```text
-* Left Stick = `Mouse` (_fast_)
-  * LS Click = `Mouse MB`
-* Right Stick = `Mouse` (_slow_)
-  * RS Click = `Enter`
-* DPad (_scrolling_)
-  * Left = `Mouse Left`
-  * Right = `Mouse Right`
-  * Up = `Mouse 4`
-  * Down = `Mouse 5`
-* Left Trigger = `Mouse Left Button`
-* Right Trigger = `Mouse Right Button`
-* Left Shoulder = `Ctrl` (_useful to hold for zooming in/out with DPad_)
-* Right Shoulder = `4`
-* A = `Space`
-* X = `1`
-* Y = `2`
-* B = `3`
-* Back = `C` (_skips cards_)
-* Start = `R` (_replays audio in cards_)
+* Left Stick = Mouse (fast)
+  * LS Click = Mouse MB
+* Right Stick = Mouse (slow)
+  * RS Click = Enter
+* DPad (scrolling)
+  * Left = Mouse Left
+  * Right = Mouse Right
+  * Up = Mouse 4
+  * Down = Mouse 5
+* Left Trigger = Mouse Left Button
+* Right Trigger = Mouse Right Button
+* Left Shoulder = Ctrl (useful to hold for zooming in/out with DPad)
+* Right Shoulder = 4
+* A = Space
+* X = 1
+* Y = 2
+* B = 3
+* Back = C (skips cards)
+* Start = R (replays audio in cards)
 ```
 
 ## Reaching out to the community

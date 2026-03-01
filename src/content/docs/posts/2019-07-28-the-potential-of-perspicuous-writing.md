@@ -119,7 +119,7 @@ But even more importantly, it's not just about what you say, but how you say it.
 
 Coming back to the merits of this post (writing), it's worth having an ultimate template which would improve the quality of our work. The following steps are mainly a summary of Peterson's essay writing guide ([available on his website](https://docs.google.com/viewer?url=http%3A%2F%2Fjordanbpeterson.com%2Fwp-content%2Fuploads%2F2018%2F02%2FEssay_Writing_Guide.docx)), with slight modification, including my suggestions. In general, the entire manual is based on the iteration process through our report, until the moment of achieving the supreme state.
 
-![](images/10-writing-steps.png)
+![10 writing steps](images/10-writing-steps.png)
 
 1. **P1: Method of work (apply before writing)**
     - have a quiet place to work
@@ -199,7 +199,7 @@ Coming back to the merits of this post (writing), it's worth having an ultimate 
 
 ### The way I write blog posts
 
-![](images/adding-new-posts.png)
+![Adding new posts](images/adding-new-posts.png)
 
 Let's make it clear that I do not always follow the 10 steps presented above, but I do keep them in mind. Don't take anyone's approach for granted, yet keep to yourself the ideas you value the most.
 
@@ -228,7 +228,7 @@ Another part that is profoundly important and takes a lot of my time is the prep
 
 Reading is like sharpening a sword before fighting. It doesn't only teach us different forms of communications and new words, but above all, it's a universal source to be more aware of our surroundings. You cannot expect to write trustworthy researches without reading several scientific papers and referencing them in your work.
 
-![](images/audiobooks.png)
+![Audiobooks](images/audiobooks.png)
 
 After leaving your university you might be more flexible in terms of choosing your literature, therefore give it a try. Don't stay behind, as according to the latest research, people aren't reading less, since "_typical (median) American has read four books in the past 12 months_".[^3] Surprising? I don't think so.
 
@@ -338,9 +338,9 @@ This list could go on and on, so if you would like to know more pros over MS Wor
 
 In general, the reason to type documents in LaTeX increases with the complexity of your documents.
 
-![](images/word-vs-latex.png)
+![Word vs LaTeX effort comparison](images/word-vs-latex.png)
 
-### Set of LaTeX resources 🛠
+### 🛠 Set of LaTeX resources
 
 If you feel like convinced to give it a try, but you're not sure where to start, please check the list of the following tutorials, links and tools to ease your way:
 

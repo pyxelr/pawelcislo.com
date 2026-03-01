@@ -289,7 +289,7 @@ If you are not happy with those, you can also try [Spyder](https://github.com/s
 
 If you want to try Jupyter, Spyder and VS Code, just install a famous [Anaconda Distribution](https://www.anaconda.com/download/) to have a clear overview and ease of management over your tools.
 
-### My recommendations / tools 🛠
+### 🛠 My recommendations / tools
 
 The amount of resources to recommend for studying DS is enormous, but I will try to do my best and select the most valuable ones. As the choice gets bigger, the greater the chance that you will not look into any of them. Am I right?[](https://vas3k.com/blog/machine_learning/)
 

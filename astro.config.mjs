@@ -27,6 +27,8 @@ export default defineConfig({
         '/2021/11/14/my-vs-code-playground/': '/posts/my-vs-code-playground/',
         '/2023/07/31/2023-update/': '/posts/2023-update/',
         // Short URLs
+        '/knowledge/espanso': '/knowledge/software/espanso/',
+        '/knowledge/obsidian': '/knowledge/software/obsidian/',
         '/cv': '/Resume-PawelCislo.pdf',
         '/fb': 'https://www.facebook.com/pawelcislocom/',
         '/facebook': 'https://www.facebook.com/pawelcislocom/',
@@ -55,6 +57,10 @@ export default defineConfig({
         },
         description: 'Digital garden of an MLOps Engineer — a place for curiosity-driven writing on diverse topics',
         head: [
+            {
+                tag: 'meta',
+                attrs: { name: 'author', content: 'Paweł Cisło' },
+            },
             {
                 tag: 'meta',
                 attrs: { property: 'og:image', content: 'https://pawelcislo.com/og-image.png' },
@@ -109,8 +115,52 @@ export default defineConfig({
                 label: '#Knowledge',
                 collapsed: true,
                 items: [
-                    { label: 'Obsidian', slug: 'knowledge/obsidian' },
-                    { label: 'Espanso', slug: 'knowledge/espanso' },
+                    {
+                        label: 'Health',
+                        items: [
+                            { label: 'Biohacking', slug: 'knowledge/health/biohacking-not-only-for-programmers' },
+                            { label: 'Triphasic Breathing', slug: 'knowledge/health/triphasic-breathing-meditation' },
+                        ],
+                    },
+                    {
+                        label: 'macOS',
+                        items: [
+                            { label: 'macOS', slug: 'knowledge/macos/macos' },
+                        ],
+                    },
+                    {
+                        label: 'Math',
+                        items: [
+                            { label: 'Statistics', slug: 'knowledge/math/statistics' },
+                        ],
+                    },
+                    {
+                        label: 'MLOps',
+                        items: [
+                            { label: 'CKAD study guide', slug: 'knowledge/mlops/ckad-study-guide' },
+                            { label: 'Kubernetes', slug: 'knowledge/mlops/kubernetes' },
+                            { label: 'My Docker commands', slug: 'knowledge/mlops/my-docker-commands' },
+                        ],
+                    },
+                    {
+                        label: 'Music',
+                        items: [
+                            { label: 'FL Studio', slug: 'knowledge/music/fl-studio' },
+                            { label: 'Music', slug: 'knowledge/music/music' },
+                        ],
+                    },
+                    {
+                        label: 'Software',
+                        items: [
+                            { label: 'Alfred', slug: 'knowledge/software/alfred' },
+                            { label: 'BetterTouchTool', slug: 'knowledge/software/bettertouchtool' },
+                            { label: 'Espanso', slug: 'knowledge/software/espanso' },
+                            { label: 'Karabiner-Elements', slug: 'knowledge/software/karabiner-elements' },
+                            { label: 'Obsidian', slug: 'knowledge/software/obsidian' },
+                            { label: 'Raycast', slug: 'knowledge/software/raycast' },
+                            { label: 'Zed', slug: 'knowledge/software/zed' },
+                        ],
+                    },
                 ],
             },
             {

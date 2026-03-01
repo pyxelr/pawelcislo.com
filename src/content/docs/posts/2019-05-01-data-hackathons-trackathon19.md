@@ -193,7 +193,7 @@ Ah, and before you begin:
 ![May the data be with you!](images/datathon-may-the-data-be-with-you.jpg)
 _May the data be with you!_
 
-## Where can I find even more datasets? 🛠
+## 🛠 Where can I find even more datasets?
 
 No worries, I won't judge you if you don't like trains, as there is plenty of other areas where you can contribute through your analysis. Here you can find directions to the datasets ranging from financial and musical industries to images of cats and dogs.
 
