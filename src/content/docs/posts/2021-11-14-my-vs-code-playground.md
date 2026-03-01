@@ -255,7 +255,7 @@ _GitHub Web IDE extension will remember different online IDEs for us_
 
 Alright, let's get back to the desktop app and see how it could be optimized even further to deliver the best possible experience.
 
-# My list of extensions 🛠
+# 🛠 My list of extensions
 
 The categorized extension list beneath is provided with an intention to be constantly updated, such as my list of plugins in the last Anki post. It rather serves as a collection of recommended extensions, since I am not using all of them at the same time:
 

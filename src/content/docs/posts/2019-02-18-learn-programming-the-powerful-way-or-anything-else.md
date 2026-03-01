@@ -198,7 +198,7 @@ You want more? Listen to the most energetic music before your work and to some a
 
 And my last advice is to respect your sleep! Don't treat it like a must, but as a pleasure. Sleep at least 7 hours a day in the darkest and the quietest room possible, ideally different from the one where you code. Oh, and don't forget reducing the blue light of your monitor by using such tools as [f.lux](https://justgetflux.com/) (desktop) and [Twilight](https://twilight.urbandroid.org/) (Android).
 
-## Learning Tools (my recommendations) 🛠
+## 🛠 Learning Tools (my recommendations)
 
 - Websites with resources 🌐
   - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students#110-c-language) ← find even more resources to learn software engineering

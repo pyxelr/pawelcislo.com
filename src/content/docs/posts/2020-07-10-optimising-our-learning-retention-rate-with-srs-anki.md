@@ -173,7 +173,7 @@ I've just provided the basic, must known principles, but there is more to it if 
 ![How Anki users deal with learning new information](images/anki-new-information.png)
 _It's just like when you [stir your data unless the ML algorithm works](/images/stir-data-meme.png), right? Image credit: [Reddit](https://www.reddit.com/r/Anki/comments/g9otl1/shitpost_just_shove_dem_flashcards/)_
 
-## My Anki Setup 🛠
+## 🛠 My Anki Setup
 
 While writing this sentence, I have been using Anki for around 1 year, and throughout that period, I tried different habits and setups of its software. In this chapter, I'll show you all the settings that I found useful, as well as how it presents itself inside the desktop and mobile app.
 

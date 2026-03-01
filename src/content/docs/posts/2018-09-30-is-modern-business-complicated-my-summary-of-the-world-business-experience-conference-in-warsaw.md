@@ -341,7 +341,7 @@ Oh, you might also receive some free goodies, like stickers and a great magazine
 ![Sprawny Marketing](images/sprawny-marketing.jpg)
 _Isn't that heart sticker cute?_
 
-## Tools 🛠
+## 🛠 Tools
 
 The primary and most important tool is probably in your hands at the moment or if you are reading this on a desktop computer, perhaps in your pocket. Yes, it is your mobile phone which began to be the standard of the IT world. It can be proved even with my little website, where 56% of the readers use their smartphone to read the posts. I am actually surprised that tablet is still being used (1%), but hey, if you are reading it on your tablet, let me know yourself. I would like to discuss with you how comfortable it is browsing the web on tablets nowadays. 😉
 
