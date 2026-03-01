@@ -27,6 +27,8 @@ export default defineConfig({
         '/2021/11/14/my-vs-code-playground/': '/posts/my-vs-code-playground/',
         '/2023/07/31/2023-update/': '/posts/2023-update/',
         // Short URLs
+        '/knowledge/espanso': '/knowledge/software/espanso/',
+        '/knowledge/obsidian': '/knowledge/software/obsidian/',
         '/cv': '/Resume-PawelCislo.pdf',
         '/fb': 'https://www.facebook.com/pawelcislocom/',
         '/facebook': 'https://www.facebook.com/pawelcislocom/',
@@ -113,8 +115,13 @@ export default defineConfig({
                 label: '#Knowledge',
                 collapsed: true,
                 items: [
-                    { label: 'Obsidian', slug: 'knowledge/obsidian' },
-                    { label: 'Espanso', slug: 'knowledge/espanso' },
+                    {
+                        label: 'Software',
+                        items: [
+                            { label: 'Espanso', slug: 'knowledge/software/espanso' },
+                            { label: 'Obsidian', slug: 'knowledge/software/obsidian' },
+                        ],
+                    },
                 ],
             },
             {
