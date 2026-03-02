@@ -43,13 +43,18 @@ starlight-toc li:has(> a[href="#footnote-label"]) {
 	display: none;
 }
 
-/* Search box focus outline */
+/* Search focus outlines */
 site-search button[data-open-modal]:focus-visible {
 	outline: 2px solid #a8f0f5;
 	outline-offset: 2px;
 }
+#starlight__search .pagefind-ui__search-input:focus {
+	outline: 2px solid #a8f0f5;
+	outline-offset: 2px;
+}
 
-:root[data-theme='light'] site-search button[data-open-modal]:focus-visible {
+:root[data-theme='light'] site-search button[data-open-modal]:focus-visible,
+:root[data-theme='light'] #starlight__search .pagefind-ui__search-input:focus {
 	outline-color: #117880;
 }
 
