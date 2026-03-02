@@ -1,5 +1,5 @@
-import { docsLoader } from '@astrojs/starlight/loaders';
-import { docsSchema } from '@astrojs/starlight/schema';
+import { docsLoader, i18nLoader } from '@astrojs/starlight/loaders';
+import { docsSchema, i18nSchema } from '@astrojs/starlight/schema';
 import { defineCollection, z } from 'astro:content';
 
 export const collections = {
@@ -21,4 +21,5 @@ export const collections = {
 			}),
 		}),
 	}),
+	i18n: defineCollection({ loader: i18nLoader(), schema: i18nSchema() }),
 };
