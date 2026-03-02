@@ -3,8 +3,9 @@ const { entry, editUrl } = Astro.locals.starlightRoute;
 const title = entry.data.title;
 const slug = entry.slug;
 
-// Check if this is a blog post or resources page
+// Check if this is a blog post, knowledge page, or resources page
 const isPost = slug.startsWith('posts/');
+const isKnowledge = slug.startsWith('knowledge/');
 const resourcePages = ['recommendations', 'favourite-thoughts', 'three-goals', 'faq'];
 const isResourcePage = resourcePages.includes(slug);
 const showMeta = isPost || isResourcePage;
@@ -13,7 +14,7 @@ const showMeta = isPost || isResourcePage;
 const postDate = isPost && entry.data.date ? new Date(entry.data.date) : null;
 
 // Collect tags (merged categories + tags, deduplicated)
-const allTags = isPost
+const allTags = (isPost || isKnowledge)
 	? [...new Set([...(entry.data.categories ?? []), ...(entry.data.tags ?? [])].map((t: string) => t.toLowerCase()))]
 	: [];
 

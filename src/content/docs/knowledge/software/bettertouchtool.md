@@ -1,5 +1,8 @@
 ---
 title: "BetterTouchTool"
+tags:
+  - "macos"
+  - "productivity"
 ---
 
 [BetterTouchTool](https://folivora.ai/)

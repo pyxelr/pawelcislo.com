@@ -1,5 +1,8 @@
 ---
 title: "Triphasic Breathing Meditation"
+tags:
+  - "health"
+  - "meditation"
 ---
 
 ## Meditation with triphasic breathing (you won't fight with your thoughts)

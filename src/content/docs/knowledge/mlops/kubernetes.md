@@ -1,5 +1,8 @@
 ---
 title: "Kubernetes"
+tags:
+  - "kubernetes"
+  - "mlops"
 ---
 
 ## Tutorials

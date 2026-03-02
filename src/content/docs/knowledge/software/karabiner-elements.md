@@ -1,5 +1,8 @@
 ---
 title: "Karabiner-Elements"
+tags:
+  - "macos"
+  - "productivity"
 ---
 
 My setup of [Karabiner-Elements](https://karabiner-elements.pqrs.org/):

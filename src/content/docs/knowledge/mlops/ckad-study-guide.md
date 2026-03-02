@@ -1,5 +1,8 @@
 ---
 title: CKAD study guide
+tags:
+  - "kubernetes"
+  - "certification"
 ---
 
 Recommended materials to study for CKAD:

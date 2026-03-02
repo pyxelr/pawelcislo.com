@@ -1,5 +1,8 @@
 ---
 title: "Biohacking (Not Only) for Programmers"
+tags:
+  - "health"
+  - "biohacking"
 ---
 
 My summary of a podcast: _Biohacking (not only) for programmers_ (originally in Polish: _Biohacking (nie tylko) dla programistów_).

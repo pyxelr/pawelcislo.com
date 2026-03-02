@@ -1,5 +1,8 @@
 ---
 title: "Espanso"
+tags:
+  - "productivity"
+  - "automation"
 ---
 
 [Espanso](https://espanso.org/) replaced my previous text expander within [Obsidian](/knowledge/software/obsidian/) after it stopped working:

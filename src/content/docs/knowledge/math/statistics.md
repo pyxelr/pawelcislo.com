@@ -1,5 +1,8 @@
 ---
 title: "Statistics"
+tags:
+  - "math"
+  - "statistics"
 ---
 
 ## Summation
