@@ -43,6 +43,16 @@ starlight-toc li:has(> a[href="#footnote-label"]) {
 	display: none;
 }
 
+/* Search box focus outline */
+site-search button[data-open-modal]:focus-visible {
+	outline: 2px solid #a8f0f5;
+	outline-offset: 2px;
+}
+
+:root[data-theme='light'] site-search button[data-open-modal]:focus-visible {
+	outline-color: #117880;
+}
+
 /* Mobile menu button */
 button[aria-controls="starlight__sidebar"] {
 	background-color: #a8f0f5;
