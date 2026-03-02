@@ -7,14 +7,14 @@ A list of my current tools and setup. Inspired by [uses.tech](https://uses.tech/
 
 ## Software
 
-- IDE: [VS Code](/posts/my-vs-code-playground/) ([profile gist](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b))
+- IDE: [VS Code](/knowledge/software/vs-code/) ([profile gist](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b))
 - Terminal: [Warp/iTerm2/Windows Terminal/Neovim/Termux](https://github.com/pyxelr/my-terminal)
 - My config (GitHub topic): [pyxelr-setup](https://github.com/topics/pyxelr-setup)
-- Note-taking: [Obsidian](https://obsidian.md/)
+- Note-taking: [Obsidian](/knowledge/software/obsidian/)
 - Apps
-  - [Android](https://github.com/pyxelr/recommendations-for-engineers#-mobile-apps)
-  - [MacOS](https://github.com/pyxelr/recommendations-for-engineers#-macos)
-  - [Windows](https://github.com/pyxelr/recommendations-for-engineers#-windows)
+  - [Android](/recommendations/#-mobile-apps)
+  - [macOS](/knowledge/macos/macos/)
+  - [Windows](/recommendations/#-windows)
 - Main font: [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
 - Main theme: [Dracula PRO](https://draculatheme.com/pro)
 

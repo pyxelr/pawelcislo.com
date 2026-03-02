@@ -146,6 +146,7 @@ export default defineConfig({
                             { label: 'My Docker commands', slug: 'knowledge/mlops/my-docker-commands' },
                         ],
                     },
+
                     {
                         label: 'Music',
                         items: [
@@ -162,9 +163,11 @@ export default defineConfig({
                             { label: 'Karabiner-Elements', slug: 'knowledge/software/karabiner-elements' },
                             { label: 'Obsidian', slug: 'knowledge/software/obsidian' },
                             { label: 'Raycast', slug: 'knowledge/software/raycast' },
+                            { label: 'VS Code', slug: 'knowledge/software/vs-code' },
                             { label: 'Zed', slug: 'knowledge/software/zed' },
                         ],
                     },
+
                 ],
             },
             {
