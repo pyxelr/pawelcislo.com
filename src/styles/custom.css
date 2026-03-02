@@ -49,6 +49,7 @@ site-search button[data-open-modal]:focus-visible {
 	outline-offset: 2px;
 }
 #starlight__search .pagefind-ui__search-input:focus {
+	--pagefind-ui-border: var(--sl-color-gray-5); /* Override Starlight's accent border on focus */
 	outline: 2px solid #a8f0f5;
 	outline-offset: 2px;
 }
