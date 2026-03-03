@@ -1,5 +1,8 @@
 ---
 title: My Docker commands
+tags:
+  - "docker"
+  - "mlops"
 ---
 
 - [Docker CLI](https://docs.docker.com/engine/reference/run/)

@@ -73,6 +73,10 @@ export default defineConfig({
                 tag: 'meta',
                 attrs: { property: 'og:image:height', content: '630' },
             },
+            {
+                tag: 'script',
+                attrs: { src: '/scripts/mobile-scroll-header.js', defer: true },
+            },
         ],
         pagination: false,
         lastUpdated: true,
@@ -142,6 +146,7 @@ export default defineConfig({
                             { label: 'My Docker commands', slug: 'knowledge/mlops/my-docker-commands' },
                         ],
                     },
+
                     {
                         label: 'Music',
                         items: [
@@ -158,15 +163,18 @@ export default defineConfig({
                             { label: 'Karabiner-Elements', slug: 'knowledge/software/karabiner-elements' },
                             { label: 'Obsidian', slug: 'knowledge/software/obsidian' },
                             { label: 'Raycast', slug: 'knowledge/software/raycast' },
+                            { label: 'VS Code', slug: 'knowledge/software/vs-code' },
                             { label: 'Zed', slug: 'knowledge/software/zed' },
                         ],
                     },
+
                 ],
             },
             {
                 label: '#Blog Posts',
                 collapsed: true,
                 items: [
+                    { slug: 'posts/migrating-from-wordpress-to-astrojs-starlight' },
                     { slug: 'posts/2023-update' },
                     { slug: 'posts/my-vs-code-playground' },
                     { slug: 'posts/optimising-our-learning-retention-rate-with-srs-anki' },

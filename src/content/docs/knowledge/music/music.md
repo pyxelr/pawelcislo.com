@@ -1,5 +1,7 @@
 ---
 title: "Music"
+tags:
+  - "music"
 ---
 
 ## Tutorials

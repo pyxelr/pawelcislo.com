@@ -1,5 +1,8 @@
 ---
 title: "Obsidian"
+tags:
+  - "productivity"
+  - "note-taking"
 ---
 
 ## Info

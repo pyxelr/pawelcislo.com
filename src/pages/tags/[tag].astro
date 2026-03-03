@@ -4,24 +4,24 @@ import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
 	const docs = await getCollection('docs');
-	const posts = docs.filter((doc) => doc.id.startsWith('posts/'));
+	const taggedDocs = docs.filter((doc) => doc.id.startsWith('posts/') || doc.id.startsWith('knowledge/'));
 
 	// Collect all unique tags
 	const tagSet = new Set<string>();
-	for (const post of posts) {
-		for (const t of post.data.categories ?? []) tagSet.add(t.toLowerCase());
-		for (const t of post.data.tags ?? []) tagSet.add(t.toLowerCase());
+	for (const doc of taggedDocs) {
+		for (const t of doc.data.categories ?? []) tagSet.add(t.toLowerCase());
+		for (const t of doc.data.tags ?? []) tagSet.add(t.toLowerCase());
 	}
 
 	return [...tagSet].map((tag) => ({
 		params: { tag },
 		props: {
 			tag,
-			posts: posts
-				.filter((post) => {
+			posts: taggedDocs
+				.filter((doc) => {
 					const allTags = [
-						...(post.data.categories ?? []),
-						...(post.data.tags ?? []),
+						...(doc.data.categories ?? []),
+						...(doc.data.tags ?? []),
 					].map((t) => t.toLowerCase());
 					return allTags.includes(tag);
 				})

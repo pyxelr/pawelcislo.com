@@ -3,14 +3,14 @@ import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
 import { getCollection } from 'astro:content';
 
 const docs = await getCollection('docs');
-const posts = docs.filter((doc) => doc.id.startsWith('posts/'));
+const taggedDocs = docs.filter((doc) => doc.id.startsWith('posts/') || doc.id.startsWith('knowledge/'));
 
 // Collect all tags (merged from categories + tags, deduplicated)
 const tagCounts = new Map<string, number>();
-for (const post of posts) {
+for (const doc of taggedDocs) {
 	const allTags = [
-		...(post.data.categories ?? []),
-		...(post.data.tags ?? []),
+		...(doc.data.categories ?? []),
+		...(doc.data.tags ?? []),
 	];
 	const unique = [...new Set(allTags.map((t) => t.toLowerCase()))];
 	for (const tag of unique) {

@@ -1,5 +1,8 @@
 ---
 title: "Zed"
+tags:
+  - "ide"
+  - "programming"
 ---
 
 My setup of [Zed](https://zed.dev/):

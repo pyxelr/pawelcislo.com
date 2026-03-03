@@ -1,5 +1,8 @@
 ---
 title: "Raycast"
+tags:
+  - "macos"
+  - "productivity"
 ---
 
 My setup of [Raycast](https://www.raycast.com/):

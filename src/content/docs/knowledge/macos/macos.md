@@ -1,5 +1,8 @@
 ---
 title: "macOS"
+tags:
+  - "macos"
+  - "productivity"
 ---
 
 ## Links

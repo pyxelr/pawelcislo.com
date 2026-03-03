@@ -1,5 +1,8 @@
 ---
 title: "Alfred"
+tags:
+  - "macos"
+  - "productivity"
 ---
 
 My setup of [Alfred](https://www.alfredapp.com/):

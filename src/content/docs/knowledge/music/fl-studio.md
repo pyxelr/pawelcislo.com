@@ -1,5 +1,8 @@
 ---
 title: "FL Studio"
+tags:
+  - "music"
+  - "fl-studio"
 ---
 
 [FL Studio](https://www.image-line.com/fl-studio/)

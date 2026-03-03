@@ -25,7 +25,7 @@ head:
 ---
 
 :::note
-You can find my VS Code profile under **[gist.github.com](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b)**.
+See also my [knowledge page about VS Code](/knowledge/software/vs-code) and profile under [gist.github.com](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b).
 :::
 
 ![My VS Code Playground - background](images/my-vs-code-playground-background.png)
@@ -143,7 +143,7 @@ Okie dokie, how about learning now how to speed our interaction with this wonder
 
 As every IDE, VS Code is full of keyboard shortcuts; therefore, the following list is containing the ones I found to be the most practical (on Windows/macOS). If you fancy memorizing all the hotkeys in your long-term memory (using spaced repetition), then I invite you to check my Anki deck of cards: [Visual Studio Code shortcuts](https://ankiweb.net/shared/info/1549461506).
 
-- **Interf****ace** 🎨
+- **Interface** 🎨
   - `CTRL/CMD` + `SHIFT` + `P` ← command palette
   - `CTRL/CMD` + `B` ← hide/unhide sidebar
   - `CTRL` + `SHIFT` + `` ` `` ← open/focus on terminal
@@ -255,7 +255,11 @@ _GitHub Web IDE extension will remember different online IDEs for us_
 
 Alright, let's get back to the desktop app and see how it could be optimized even further to deliver the best possible experience.
 
-# 🛠 My list of extensions
+## 🛠 My list of extensions
+
+:::note
+For the most up-to-date list, see my [VS Code knowledge page](/knowledge/software/vs-code/#-extensionstools).
+:::
 
 The categorized extension list beneath is provided with an intention to be constantly updated, such as my list of plugins in the last Anki post. It rather serves as a collection of recommended extensions, since I am not using all of them at the same time:
 

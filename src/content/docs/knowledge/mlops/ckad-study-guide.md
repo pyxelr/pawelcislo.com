@@ -1,5 +1,8 @@
 ---
 title: CKAD study guide
+tags:
+  - "kubernetes"
+  - "certification"
 ---
 
 Recommended materials to study for CKAD:
@@ -10,4 +13,4 @@ Recommended materials to study for CKAD:
 4. [Killer.sh](https://killer.sh/) ← [paid](https://killer.sh/pricing) 29.99 USD for two CKAD sessions (in the same simulator)
 5. Talking with AI (ChatGPT, …)
 6. [O'Reilly interactive scenarios](https://learning.oreilly.com/interactive/?classification=content-scenario&query=Kubernetes)
-7. [KodeKloud](https://kodekloud.com/) ← instead, Udemy will be cheaper
+7. [KodeKloud](https://kodekloud.com/)

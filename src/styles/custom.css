@@ -43,6 +43,22 @@ starlight-toc li:has(> a[href="#footnote-label"]) {
 	display: none;
 }
 
+/* Search focus outlines */
+site-search button[data-open-modal]:focus-visible {
+	outline: 2px solid #a8f0f5;
+	outline-offset: 2px;
+}
+#starlight__search .pagefind-ui__search-input:focus {
+	--pagefind-ui-border: var(--sl-color-gray-5); /* Override Starlight's accent border on focus */
+	outline: 2px solid #a8f0f5;
+	outline-offset: 2px;
+}
+
+:root[data-theme='light'] site-search button[data-open-modal]:focus-visible,
+:root[data-theme='light'] #starlight__search .pagefind-ui__search-input:focus {
+	outline-color: #117880;
+}
+
 /* Mobile menu button */
 button[aria-controls="starlight__sidebar"] {
 	background-color: #a8f0f5;
@@ -52,6 +68,53 @@ button[aria-controls="starlight__sidebar"] {
 :root[data-theme='light'] button[aria-controls="starlight__sidebar"] {
 	background-color: #117880;
 	color: #a8f0f5;
+}
+
+/*
+ * Mobile layout customizations (< 50rem)
+ * 1. Move search icon to the far right in the header
+ * 2. Move the sidebar hamburger button into the ToC bar level
+ * 3. Auto-hide the header on scroll, keep only the ToC bar visible
+ */
+@media (max-width: 49.9999rem) {
+	/* 1. Push search icon to the right */
+	.header > .sl-flex:has(site-search) {
+		margin-inline-start: auto;
+	}
+
+	/* 2. Hamburger button: keep in navbar by default, move to ToC bar when header hides */
+	starlight-menu-button {
+		transition: top 0.3s ease;
+	}
+	/* When header is hidden, reposition hamburger to the ToC bar */
+	:root:has(.header-hidden) starlight-menu-button {
+		position: fixed;
+		top: calc((var(--sl-mobile-toc-height) - var(--sl-menu-button-size)) / 2);
+		inset-inline-end: var(--sl-nav-pad-x);
+		z-index: calc(var(--sl-z-index-toc) + 1);
+	}
+
+	/* 3. Auto-hide header on scroll — controlled by JS adding .header-hidden */
+	.page > .header {
+		transition: transform 0.3s ease;
+	}
+	.page > .header.header-hidden {
+		transform: translateY(-100%);
+	}
+
+	/* Move ToC bar up when header is hidden */
+	mobile-starlight-toc nav {
+		transition: top 0.3s ease;
+	}
+	.page:has(> .header.header-hidden) ~ * mobile-starlight-toc nav,
+	:root:has(.header-hidden) mobile-starlight-toc nav {
+		top: 0 !important;
+	}
+
+	/* Adjust sidebar pane position when header is hidden */
+	:root:has(.header-hidden) .sidebar-pane {
+		inset-block-start: var(--sl-mobile-toc-height);
+	}
 }
 
 /* Portfolio metadata (tags, year, status) */

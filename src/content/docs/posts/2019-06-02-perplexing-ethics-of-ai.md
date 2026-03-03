@@ -304,9 +304,6 @@ In addition, I hope you noticed and appreciate, that above every post from now o
 As for the last news of this post, taking advantage of having more free time this week, I decided to update my e-book with even more relevant links to help you on your journey in data science. Remember, that initially it has been published with the release of this blog (September 2018). As the industry is in rapid development these days, I couldn't leave the comprehensive resources to myself and had to use well the 3-4h of fighting with hyperlinks inside the .pdf document. ;)
 
 ![Free e-book cover](images/e-book-cover.png)
-_Don't wait and grab your free copy right now!_
-
-In relation to this, I highly encourage you to sign up for the newsletter using the panel on the right-hand side (if you're viewing it on desktop) or the form below (no matter which device you're using). Besides receiving the free e-book, you will be notified from time to time about new posts on my blog, so there is nothing to waste than just a few seconds of filling the form and confirming the registration on your e-mail account.
 
 Okay, that's it for now. Please enjoy the beautiful weather of June (at least here in Brussels) and use the sun as much as possible, as it is an extraordinary source of vitamins we need! 🌞
 
