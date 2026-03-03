@@ -538,6 +538,12 @@ _Note_: Each notion has its author, date of my discovery and sometimes a hyperli
 > "_I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel._"
 > — Maya Angelou
 
+## 2026
+
+03/03/2026
+> "_The only way to do great work is to love what you do._"
+> — [Steve Jobs](https://youtu.be/JV3OqaRmBk4?si=x_iUHYnLcFo9VfDJ)
+
 * * *
 
 ## Supplementary Assortment
