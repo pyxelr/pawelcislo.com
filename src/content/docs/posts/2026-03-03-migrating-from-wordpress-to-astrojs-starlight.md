@@ -168,7 +168,7 @@ After the core migration, I spent time on improvements that would have been pain
 - **Mobile header auto-hide** on scroll via custom JavaScript and CSS
 - **i18n customization** to rename Starlight's "On this page" heading
 - **Broken link checker** script (`npm run check:links`) — scans all Markdown files for URLs, then checks them concurrently via HTTP HEAD/GET and reports dead links grouped by file
-- **Recommendations sync** script (`npm run sync:recommendations`) — pulls the [recommendations-for-engineers](https://github.com/pyxelr/recommendations-for-engineers) README from GitHub and transforms it into a Starlight-compatible page (converting admonitions, stripping TOC, fixing links)
+- **[Recommendations](/recommendations/) sync** script (`npm run sync:recommendations`) — pulls the [recommendations-for-engineers](https://github.com/pyxelr/recommendations-for-engineers) README from GitHub and transforms it into a Starlight-compatible page (converting admonitions, stripping TOC, fixing links)
 - **Newsletter migration** from Mailchimp to [Substack](https://pawelcislo.substack.com/)
 - **Donation link** migration from PayPal to [Ko-Fi](https://ko-fi.com/pawelcislo)
 - **Yearly auto-rebuild** via a Cloudflare deploy hook triggered by GitHub Actions (to keep the copyright year current)
