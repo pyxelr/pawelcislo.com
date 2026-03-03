@@ -174,6 +174,7 @@ export default defineConfig({
                 label: '#Blog Posts',
                 collapsed: true,
                 items: [
+                    { slug: 'posts/migrating-from-wordpress-to-astrojs-starlight' },
                     { slug: 'posts/2023-update' },
                     { slug: 'posts/my-vs-code-playground' },
                     { slug: 'posts/optimising-our-learning-retention-rate-with-srs-anki' },
