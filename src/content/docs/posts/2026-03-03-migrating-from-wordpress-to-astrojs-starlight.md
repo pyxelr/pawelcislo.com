@@ -34,7 +34,7 @@ The site is no longer just a portfolio and blog — it's now a **digital garden*
 
 ## Why migrate?
 
-My WordPress site had been running since 2018 on a Polish shared hosting provider ([MyDevil](https://www.mydevil.net/)). It served me well, but over time I started feeling the friction:
+My WordPress site had been running for 8 years (since 2018) on a Polish shared hosting provider ([MyDevil](https://www.mydevil.net/)). It served me well, but over time I started feeling the friction:
 
 - **25 plugins** to maintain — security updates, compatibility issues, bloat (some were paid)
 - **Subscriptions for updates** — my theme and some plugins required yearly subscriptions to keep receiving updates
@@ -226,7 +226,7 @@ The accessibility score of 98/100 is intentionally not 100 — on some pages I u
 
 ### What I gained
 
-- **Full version control** — every change is a Git commit with history. I try to follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format for clarity
+- **Full version control** — every change is a Git commit with history. I try to follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format for clarity. Visitors can also browse the [commit history](https://github.com/pyxelr/pawelcislo.com/commits/main/) to see what's changed
 - **Open source** — the entire site is [on GitHub](https://github.com/pyxelr/pawelcislo.com)
 - **Nearly free** — only ~50 PLN/year for email, everything else is free
 - **Speed** — static HTML served from edge locations worldwide
