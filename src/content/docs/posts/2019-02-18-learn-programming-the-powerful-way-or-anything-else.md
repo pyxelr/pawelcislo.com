@@ -10,6 +10,8 @@ tags:
   - "programming"
   - "tutorial"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/learn-programming-the-powerful-way-or-anything-else
   - platform: Facebook
     url: https://www.facebook.com/pawelcislocom/posts/2955535697854246
   - platform: X

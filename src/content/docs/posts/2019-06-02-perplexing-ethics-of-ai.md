@@ -10,6 +10,8 @@ tags:
   - "ethics"
   - "law"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/perplexing-ethics-of-ai
   - platform: Facebook
     url: https://www.facebook.com/pawelcislocom/posts/3186062611468219
   - platform: X

@@ -11,6 +11,8 @@ tags:
   - "ai"
   - "hackathon"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/data-hackathons-trackathon19
   - platform: Facebook
     url: https://www.facebook.com/pawelcislocom/posts/3109293629145118
   - platform: X

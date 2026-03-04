@@ -11,6 +11,19 @@ tags:
   - "blog"
   - "cloudflare"
   - "wordpress"
+discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/migrating-from-wordpress-to-astrojs-starlight
+  - platform: Reddit
+    url: https://www.reddit.com/r/astrojs/comments/1rk5mql/after_8_years_on_wordpress_i_migrated_to_astrojs/
+  - platform: Hacker News
+    url: https://news.ycombinator.com/item?id=47240869
+  - platform: X
+    url: https://x.com/pawel_cislo/status/2028965527612276913
+  - platform: LinkedIn
+    url: https://www.linkedin.com/posts/pawelcislo_15-migrating-from-wordpress-to-astrojs-activity-7434732100072869888-15o2
+  - platform: Facebook
+    url: https://www.facebook.com/pawelcislocom/posts/pfbid02ykfTWboE4ED6D1cNA7zpDaofu971bwJnTjjBKUxt9xdSQWHeYBWwVJB4zgi7sGE5l
 head:
   - tag: meta
     attrs:

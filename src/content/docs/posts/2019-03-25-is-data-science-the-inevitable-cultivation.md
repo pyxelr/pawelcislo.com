@@ -12,8 +12,10 @@ tags:
   - "brussels"
   - "conference"
   - "iot"
-  - "technology"
+  - "tech"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/is-data-science-the-inevitable-cultivation
   - platform: Facebook
     url: https://www.facebook.com/pawelcislocom/posts/3026711947403287
   - platform: X

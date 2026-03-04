@@ -10,6 +10,8 @@ tags:
   - "review"
   - "year"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/recommendatory-interleaf
   - platform: Facebook
     url: https://www.facebook.com/pawelcislocom/posts/4004757409598731
   - platform: X

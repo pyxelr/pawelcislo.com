@@ -14,6 +14,8 @@ tags:
   - "nanoparticle"
   - "segmentation"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/how-did-i-automate-micrograph-analysis
   - platform: Facebook
     url: https://www.facebook.com/pawelcislocom/posts/2647934061947746
   - platform: X

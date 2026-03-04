@@ -9,6 +9,8 @@ tags:
   - "blog"
   - "productivity"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/foreword-of-the-greater-intention
   - platform: Facebook
     url: https://www.facebook.com/pawelcislocom/posts/2632220326852453
   - platform: X

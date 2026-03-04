@@ -10,6 +10,8 @@ tags:
   - "review"
   - "year"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/my-2018-the-year-of-revolution
   - platform: Facebook
     url: https://www.facebook.com/pawelcislocom/posts/2846386225435861
   - platform: X

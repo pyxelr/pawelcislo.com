@@ -8,9 +8,10 @@ categories:
 tags: 
   - "business"
   - "marketing"
-  - "wbe"
   - "worldbusinessexperience"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw
   - platform: Facebook
     url: https://www.facebook.com/pawelcislocom/posts/2672126122861873
   - platform: X

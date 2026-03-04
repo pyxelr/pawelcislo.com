@@ -14,6 +14,8 @@ tags:
   - "speaking"
   - "writing"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/the-potential-of-perspicuous-writing
   - platform: Facebook
     url: https://www.facebook.com/pawelcislocom/posts/3332291026845376
   - platform: X

@@ -11,6 +11,8 @@ tags:
   - "todoist"
   - "todolists"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/aim-for-your-goals-the-right-way
   - platform: Facebook
     url: https://www.facebook.com/pawelcislocom/posts/2752235284850956
   - platform: X

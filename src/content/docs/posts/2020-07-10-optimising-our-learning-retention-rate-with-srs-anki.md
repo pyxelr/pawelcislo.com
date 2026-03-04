@@ -10,6 +10,8 @@ tags:
   - "flashcards"
   - "learning"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/optimising-our-learning-retention-rate-with-srs-anki
   - platform: Reddit
     url: https://www.reddit.com/r/Anki/comments/hoocvu/my_detailed_blog_post_on_anki_with_the_links_to/
   - platform: Facebook

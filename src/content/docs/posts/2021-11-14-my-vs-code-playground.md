@@ -11,6 +11,8 @@ tags:
   - "python"
   - "vscode"
 discuss:
+  - platform: Substack
+    url: https://pawelcislo.substack.com/p/my-vs-code-playground
   - platform: Reddit
     url: https://www.reddit.com/r/vscode/comments/qtq8el/my_detailed_blog_post_on_vs_code_with_recommended/
   - platform: Facebook
