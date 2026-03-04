@@ -233,6 +233,7 @@ The accessibility score of 98/100 is intentionally not 100 — on some pages I u
 | Service | Provider | Cost |
 |---|---|---|
 | Website | Astro (hosted on Cloudflare Pages) | Free |
+| Domain (.com) | OVH | ~60 PLN/year |
 | Domain DNS | Cloudflare | Free |
 | Newsletter | Substack | Free |
 | Email | Small.pl | ~50 PLN/year |
@@ -241,7 +242,7 @@ The accessibility score of 98/100 is intentionally not 100 — on some pages I u
 
 - **Full version control** — every change is a Git commit with history. I try to follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format for clarity. Visitors can also browse the [commit history](https://github.com/pyxelr/pawelcislo.com/commits/main/) to see what's changed
 - **Open source** — the entire site is [on GitHub](https://github.com/pyxelr/pawelcislo.com)
-- **Nearly free** — only ~50 PLN/year for email, everything else is free
+- **Nearly free** — ~60 PLN/year for domain (.com on OVH) and ~50 PLN/year for email, everything else is free
 - **Speed** — static HTML served from edge locations worldwide
 - **Content as files** — Markdown files I own, not rows in a database
 - **Knowledge base** — Starlight's sidebar makes it easy to organise a growing digital garden
