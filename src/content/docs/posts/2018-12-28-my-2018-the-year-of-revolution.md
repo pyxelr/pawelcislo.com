@@ -61,13 +61,13 @@ I heard it is recommended to start the post with the most mattering message righ
   - Started the year with first semester exams of my MSc Data Science course 📚
   - Wrote my affirmation, which I'm trying to read daily ✍
   - Started a German language course to remind me of some of its rules 🇩🇪
-  - Received [one of my favourite t-shirts](https://www.instagram.com/p/BeQKJJrn0GX/) for being a course rep 👕
+  - Received [one of my favourite t-shirts](https://www.instagram.com/p/BeQKJJrn0GXzGWqBENOhQEp2vuQU8cuBvV3JP40/) for being a course rep 👕
 - February
   - The trip to Birmingham with my friends (some of the photos are available on my Instagram) 🚄
 - March
   - Developed new website theme: [Hacker News - Bluish Gray](https://userstyles.org/styles/157400/hacker-news-bluish-gray-2018) 💻
 - April
-  - The trip to London with my friends.  We've visited Sherlock Holmes museum and London Eye (you can find one of the photos the top of it on [my Instagram](https://www.instagram.com/p/BhkuszMht3A/)) 🚄
+  - The trip to London with my friends.  We've visited Sherlock Holmes museum and London Eye (you can find one of the photos the top of it on [my Instagram](https://www.instagram.com/p/BhkuszMht3A4RvJzLUuvfHJgbVXZjF5GpGn2OU0/)) 🚄
   - Shared one of my most significant projects on [GitHub](https://github.com/pyxelr/m23com-cifar-10-classification) about classifying CIFAR-10 images 💻
 - May
   - Published an article on [LinkedIn](https://www.linkedin.com/pulse/wheniwas15-formation-childhood-hero-fighting-desired-success-cislo/?published=t) "#WhenIWas15 – the formation of a childhood hero fighting with uncertainty for desired success" 📰
@@ -77,7 +77,7 @@ I heard it is recommended to start the post with the most mattering message righ
   - Decided to make my crappy [SoundCloud wips](https://soundcloud.com/pyxelr) publicly visible. Right now, I'm learning some mixing/mastering for much more pleasant releases 🎹
   - Contributed to the [interactive-machine-learning-list](https://github.com/stared/interactive-machine-learning-list) repository 💻
 - July
-  - Package with my "Post Traumatic" preorder arrived. I was one of the first 500 customers and was lucky to get [Mike Shinoda's signature](https://www.instagram.com/p/BlIY7JQho-G/) 🎁
+  - Package with my "Post Traumatic" preorder arrived. I was one of the first 500 customers and was lucky to get [Mike Shinoda's signature](https://www.instagram.com/p/BlIY7JQho-GasqGbu_b4dNWp2SHePlKqWm2Qyo0/) 🎁
   - Received my [Course Rep reference](https://drive.google.com/file/d/1X6e5vdzVC03bkzrwM7GZRoHwrSkoI7si/view) 🎖
   - Started to drink Aloe Vera daily (Ugh... the taste was horrible at the 1st time) 💚
   - Thought about a potential name for this blog. Initially, it tended to have a ridiculous title, which I changed the next day 🤔
@@ -97,7 +97,7 @@ I heard it is recommended to start the post with the most mattering message righ
   - Flight to Poland! ✈🇵🇱
   - Continued my gym streak after a very long time with my friend. Before, in the UK, I used to exercise at home and run outside 💪
   - Organised my [Pinterest profile](https://pinterest.com/pyxelrr/) with high-quality infographics (Data Science, Math, Python, and more...) 📌
-  - Attended the [World Business Experience](http://www.wbexp.pl/) conference. A fantastic day where I was also able to meet in person three of my favourite vloggers. You can read some of my words of gratitude [here](https://www.instagram.com/p/BoPdMssB4zW/) 💰
+  - Attended the [World Business Experience](http://www.wbexp.pl/) conference. A fantastic day where I was also able to meet in person three of my favourite vloggers. You can read some of my words of gratitude [here](https://www.instagram.com/p/BoPdMssB4zWow5XmDw8YRe9weL4wHjNyE3VrPA0/) 💰
   - 2 days later I promulgated the [blog post](/posts/is-modern-business-complicated-my-summary-of-the-world-business-experience-conference-in-warsaw/) about the conference 📰
 - October
   - Updated my e-book, which you can download from the right-hand side panel of this website 📘
@@ -110,9 +110,9 @@ I heard it is recommended to start the post with the most mattering message righ
   - Think I found my favourite quote of the year: "No one told you when to run. You missed the starting gun" ~ Pink Floyd 💡
   - First floating session for 1 hour 💚
   - Published another [blog post](/posts/aim-for-your-goals-the-right-way/) about managing your goals 📰
-  - Finished 10 km run in 53 minutes: "[6 PKO Bieg Niepodległości](http://runrzeszow.pl/zapisy/bieg-niepodleglosci/)" on the 100th anniversary of Poland regaining its independence ([pic or it didn't happen](https://www.instagram.com/p/BqC-Z1iDg_A/)) 🥇
+  - Finished 10 km run in 53 minutes: "[6 PKO Bieg Niepodległości](http://runrzeszow.pl/zapisy/bieg-niepodleglosci/)" on the 100th anniversary of Poland regaining its independence ([pic or it didn't happen](https://www.instagram.com/p/BqC-Z1iDg_AV-xnYN1uIgk3ShhoemvoPAD1x100/)) 🥇
   - Organised a list of "biohacking" techniques that I apply/might apply in daily life. Maybe one day I will share it on this blog ✅
-  - Revisited Coventry for 3 days to attend the [graduation ceremony](https://www.instagram.com/p/BqkB3i6DDgN/). Afterwards, I took part in a short video interview to promote CU campus in Wroclaw (Poland) 🎓
+  - Revisited Coventry for 3 days to attend the [graduation ceremony](https://www.instagram.com/p/BqkB3i6DDgNN-Wtel1sSA8dI0eZw3Vld8gYA340/). Afterwards, I took part in a short video interview to promote CU campus in Wroclaw (Poland) 🎓
   - Received a [GLP certificate](https://drive.google.com/file/d/1AOk5me99Fx-GGjuvKNEapXJ-mWdifhL2/view) 🏆
 - December
   - Learned how to use MATLAB more specifically 💻
@@ -133,7 +133,7 @@ Now, if you ask me about my favourite moment from the current year, I will answe
 
 Here you can see a photo taken by one of my good friends on this day (I did smile a little wider on the other shots, but this one perfectly suits my caption).
 
-<https://www.instagram.com/p/BqkB3i6DDgN/>
+<https://www.instagram.com/p/BqkB3i6DDgNN-Wtel1sSA8dI0eZw3Vld8gYA340/>
 
 If you ask me which moment of my existence do I consider to be the most life-changing, I might facetiously answer: "New Year's Eve 2016". Right, it was two years ago when I took another sip of champagne and finally decided that it is time to have some fun, get out of my comfort zone and try my best to study in the UK. Too many things happened from that time till this day, that are not the main idea of this post, but I do consider describing it for the benefit of those in a similar situation like I was. In general, the advice cannot use the binary format (yes/no), so there is a lot to talk about, and if you wish to read about it, please let me know in the comments section, and I will push myself for another time of reflection. :)
 

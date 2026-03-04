@@ -122,7 +122,7 @@ Okay... the alternative is to [sign up for my newsletter](https://pawelcislo.sub
 
 ## Addendum
 
-In the end, I wanted to add that sometimes the pressure of time is the best thing that helps us to achieve remarkable things. Did you know that in the moment of publishing a [teaser of this website](https://www.instagram.com/p/BnMk26SB29l/?utm_source=ig_web_copy_link) (6 days ago), I still didn't write my free e-book, adjust e-mail marketing campaign, prepare [FB Fan Page](https://www.facebook.com/pawelcislocom/) and scribble down this post? Well... sometimes it can get so stressful, leaving me with 5-6 hours of sleep a day, but the productivity jumps to 100%! ;)
+In the end, I wanted to add that sometimes the pressure of time is the best thing that helps us to achieve remarkable things. Did you know that in the moment of publishing a [teaser of this website](https://www.instagram.com/p/BnMk26SB29lLttTs3aEkJyoX-K5slVzo-tzhwA0/) (6 days ago), I still didn't write my free e-book, adjust e-mail marketing campaign, prepare [FB Fan Page](https://www.facebook.com/pawelcislocom/) and scribble down this post? Well... sometimes it can get so stressful, leaving me with 5-6 hours of sleep a day, but the productivity jumps to 100%! ;)
 
 The entire last years of pushing myself to the limits with the bachelor and master's degree made me much more resistant to this kind of things; however, it doesn't mean that I should be proud of it. Every human being has his perspective on what's more important. For ones, it may be time spent with family, for others purchasing luxury goods, whereas for someone like me it's something that I am still trying to answer during that such a short lifespan.
 

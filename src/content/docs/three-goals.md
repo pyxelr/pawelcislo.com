@@ -67,7 +67,7 @@ You can check out some of [my Anki cards](https://github.com/pyxelr/my-anki-deck
 
 #### 🏃 Marathon Runner
 
-1. [Ran a half marathon](https://www.instagram.com/p/BxpfIHAIAUg/) — 19/05/2019
+1. [Ran a half marathon](https://www.instagram.com/p/BxpfIHAIAUguhm2NqJ13-WvCZAcESNa39j9uZk0/) — 19/05/2019
 2. Ran a marathon — 202?
 3. Ran an ultramarathon (100 km) — 202?
 
