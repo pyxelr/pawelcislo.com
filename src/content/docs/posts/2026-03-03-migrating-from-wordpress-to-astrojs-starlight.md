@@ -72,7 +72,7 @@ Before committing, I evaluated several static site generators and themes:
 
 Part of what drew me to a documentation-style framework is that I genuinely enjoy writing and maintaining documentation at work. Starlight's structure felt natural.
 
-For hosting, [Cloudflare Pages](https://pages.cloudflare.com/) stood out as likely [the best free option](https://www.reddit.com/r/astrojs/comments/1eazpt0/netlify_vs_vercel_vs_cloudflare/) over Netlify and Vercel — generous limits, global edge network, and tight DNS integration.
+For hosting, [Cloudflare Pages](https://pages.cloudflare.com/) (JAMstack platform) — stood out as likely [the best free option](https://www.reddit.com/r/astrojs/comments/1eazpt0/netlify_vs_vercel_vs_cloudflare/) over Netlify and Vercel — generous limits, global edge network, and tight DNS integration.
 
 ## Inspirations
 
@@ -165,9 +165,9 @@ That's it. Every push to `main` triggers an automatic deployment. Every branch a
                                                          npm run build
                                                                   │
                                                                   ▼
-┌──────────┐       CDN       ┌──────────────┐  static   ┌─────────────────┐
-│ Visitors │ ◄────────────── │ Edge Network │ ◄──────── │    Astro SSG    │
-└──────────┘                 └──────────────┘           └─────────────────┘
+┌──────────┐       CDN       ┌──────────────┐  static    ┌─────────────────┐
+│ Visitors │ ◄────────────── │ Edge Network │ ◄───────── │    Astro SSG    │
+└──────────┘                 └──────────────┘            └─────────────────┘
 ```
 
 ### Step 6: Polish and enhance
