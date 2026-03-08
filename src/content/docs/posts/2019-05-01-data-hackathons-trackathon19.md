@@ -188,7 +188,7 @@ I thought of sharing a few examples of what results can be driven through the in
 
 You can always try yourself with the [data shared by Infrabel](https://opendata.infrabel.be/pages/home/).
 
-If you don't like trains ([I hope you do](https://youtu.be/vyItidbjxLM)), then you can check [the aeroplane's data](https://www.kaggle.com/datasets/usdot/flight-delays) and collaborate to the awesome community of Kaggle.
+If you don't like trains ([I hope you do](https://youtu.be/hHkKJfcBXcw?si=FSL8ON9XWohsTphe)), then you can check [the aeroplane's data](https://www.kaggle.com/datasets/usdot/flight-delays) and collaborate to the awesome community of Kaggle.
 
 Ah, and before you begin:
 

@@ -172,7 +172,7 @@ This part would definitely challenge my memory if I wouldn't keep track of my da
   - 🎊 New Year Party in Brussels
 - **January**
   - ✍ I didn't make a summary of the last year, but I prepared [a draft of plans for 2020](/images/2020-plans.jpg)
-  - 💫 Thanks to my friend, I found [someone who looks more like me](https://www.youtube.com/watch?v=LGewBnjywSY&feature=youtu.be&t=2646) than I do (right side in the background)...
+  - 💫 Thanks to my friend, I found [someone who looks more like me](https://web.archive.org/web/20250415092409/https://www.youtube.com/watch?v=LGewBnjywSY) than I do (right side in the background at 44:06)...
   - 📬 Received [my 2019 year](https://twitter.com/pawel_cislo/status/1214956968063967240) review from Todoist
   - 📚 Finished reading _Calculus, Better Explained: A Guide To Developing Lasting Intuition_ ([my review](https://www.goodreads.com/review/show/2994941913))
   - 💡 Became deeply inspired by Adrian Olszewski's statistical knowledge shared [throughout his LinkedIn](https://www.linkedin.com/in/adrianolszewski/detail/recent-activity/)

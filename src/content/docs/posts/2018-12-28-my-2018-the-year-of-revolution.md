@@ -138,7 +138,7 @@ Here you can see a photo taken by one of my good friends on this day (I did smil
 If you ask me which moment of my existence do I consider to be the most life-changing, I might facetiously answer: "New Year's Eve 2016". Right, it was two years ago when I took another sip of champagne and finally decided that it is time to have some fun, get out of my comfort zone and try my best to study in the UK. Too many things happened from that time till this day, that are not the main idea of this post, but I do consider describing it for the benefit of those in a similar situation like I was. In general, the advice cannot use the binary format (yes/no), so there is a lot to talk about, and if you wish to read about it, please let me know in the comments section, and I will push myself for another time of reflection. :)
 
 ![Tough year](images/tough-year.png)
-_Here I am, [still alive](https://youtu.be/TERyxFfMqDk)_
+_Here I am, [still alive](https://youtu.be/SUXyoyuJZ8Y?si=6G_QC7eeqX2i9fMd)_
 
 Coffee did its job flawlessly. Although, it wasn't needed for the 4th point, as it didn't work out for the full-time master's students.
 

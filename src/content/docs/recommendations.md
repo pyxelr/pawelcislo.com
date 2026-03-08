@@ -937,7 +937,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [noise.sh](https://noise.sh/) ← digital signal processing spreadsheet for sound design
 - [Roland50 Studio](https://roland50.studio/) ← online music creation platform by Yuri Suzuki and Roland
 - [SOUL](https://soul.dev/) ← IDE and language to make music
-- [Spleeter](https://github.com/deezer/spleeter) ← extract acapella from the song using AI ([demonstration video](https://youtu.be/tgnuOSLPwMI))
+- [Spleeter](https://github.com/deezer/spleeter) ← extract acapella from the song using AI ([demonstration video](https://youtu.be/JIR6HJISrtY?si=IBaDlkAyzKlbkmQq))
 - [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/) ← create beats using sounds from the everyday world
 
 ## 📧 Newsletters
