@@ -84,6 +84,7 @@ export default defineConfig({
             baseUrl: 'https://github.com/pyxelr/pawelcislo.com/edit/main/',
         },
         customCss: ['./src/styles/custom.css', 'katex/dist/katex.min.css'],
+        disable404Route: true,
         components: {
             ThemeSelect: './src/components/ThemeSelect.astro',
             EditLink: './src/components/EditLink.astro',
