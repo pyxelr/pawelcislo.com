@@ -153,6 +153,7 @@ Deploying to Cloudflare Pages was remarkably simple:
 2. Set the build command to `git fetch --unshallow && npm run build`
    - The `git fetch --unshallow` is important — Cloudflare Pages does a shallow clone by default, which breaks Starlight's "Last updated" dates (every page shows the deployment date instead of its actual last-modified date)
 3. Set `NODE_VERSION` to `22` and build output to `dist`
+   - While [Astro supports Node 24](https://docs.astro.build/en/upgrade-astro/#nodejs-support-and-upgrade-policies), Cloudflare Pages does not yet, so Node 22 is used as the [default version in the V3 build image](https://developers.cloudflare.com/pages/configuration/build-image/)
 4. Pointed my domain's DNS to Cloudflare
 
 That's it. Every push to `main` triggers an automatic deployment. Every branch and commit gets its own preview URL, which makes testing changes much easier before merging. Rollbacks are one click away.
