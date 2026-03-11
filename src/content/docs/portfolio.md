@@ -28,6 +28,11 @@ For contract work, have a look at my [Résumé](/Resume-PawelCislo.pdf).
 - [Hosting Virtual Machines & Use of Cloud Simulation Toolkit](https://drive.google.com/file/d/1i9laBoHRVaOUNhz90qLptkRAOSlSRQdi/view) <span class="meta">[cloud-computing] [virtualisation] • 2017 • done</span><br/>
   Research paper describing two cases of simulations commonly used in the cloud computing industry.
 
+### Publications
+
+- [From Research to Impact: A Comprehensive MLOps Platform for AI Model Deployment in Drug Discovery](https://zenodo.org/doi/10.5281/zenodo.18657336) <span class="meta">[mlops] [ai] [drug-discovery] • 2025 • DOI: 10.5281/zenodo.18657336</span><br/>
+  Paper presenting a cloud-native MLOps platform for end-to-end preclinical drug discovery, from model training and serving to monitoring.
+
 ### Talks
 
 - [Śniadanie AI 4.0](https://www.linkedin.com/feed/update/urn:li:activity:7326604299533225985/) <span class="meta">[event] [rag] [llm] [cloud-computing] • 2025.05.15 • done</span><br/>
@@ -40,6 +45,8 @@ For contract work, have a look at my [Résumé](/Resume-PawelCislo.pdf).
   Interview (in English) for RTBF, one of the biggest Belgian TV stations (see the [blog post](/posts/data-hackathons-trackathon19/) about the event; unfortunately, the recording is lost).
 
 * * *
+
+### Extra
 
 If you want to see more of my works, feel free to check out my:
 
