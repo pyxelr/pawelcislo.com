@@ -75,6 +75,14 @@ This site is deployed on **Cloudflare Pages** with automatic deployments from Gi
 3. Preview the `main` branch build at [pawelcislo.pages.dev](https://pawelcislo.pages.dev/)
 4. Changes are live at [pawelcislo.com](https://pawelcislo.com)
 
+**Before pushing**, always verify the build locally:
+
+```sh
+npm run build
+```
+
+This runs the same pipeline as Cloudflare (including the recommendations sync) and catches errors before they reach production.
+
 Additionally, a **GitHub Actions** scheduled workflow triggers a Cloudflare rebuild on January 1st each year to update the copyright year in the footer.
 
 ## 📚 Resources

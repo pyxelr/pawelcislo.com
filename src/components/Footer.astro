@@ -9,8 +9,8 @@ const startYear = 2018;
 const yearRange = currentYear > startYear ? `${startYear} – ${currentYear}` : startYear;
 
 const { lang, lastUpdated, entry } = Astro.locals.starlightRoute;
-const slug = entry.slug;
-const filePath = entry.filePath;
+const slug = entry?.slug ?? '';
+const filePath = entry?.filePath;
 const historyUrl = filePath
 	? `https://github.com/pyxelr/pawelcislo.com/commits/main/${filePath}`
 	: undefined;
@@ -38,11 +38,11 @@ const personSchema = {
 	],
 };
 
-const postDate = isPost && entry.data.date ? new Date(entry.data.date) : null;
+const postDate = isPost && entry?.data?.date ? new Date(entry.data.date) : null;
 const articleSchema = isPost ? {
 	'@context': 'https://schema.org',
 	'@type': 'Article',
-	headline: entry.data.title,
+	headline: entry?.data?.title,
 	url: `${siteUrl}/${slug}/`,
 	...(postDate && { datePublished: postDate.toISOString().split('T')[0] }),
 	...(lastUpdated && { dateModified: lastUpdated.toISOString().split('T')[0] }),
