@@ -78,6 +78,7 @@ export default defineConfig({
                 attrs: { src: '/scripts/mobile-scroll-header.js', defer: true },
             },
         ],
+        tableOfContents: { maxHeadingLevel: 6 },
         pagination: false,
         lastUpdated: true,
         editLink: {
