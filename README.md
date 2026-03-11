@@ -92,6 +92,10 @@ Additionally, a **GitHub Actions** scheduled workflow triggers a Cloudflare rebu
 - [Cloudflare Pages Documentation](https://developers.cloudflare.com/pages/)
 - [Astro Discord](https://astro.build/chat)
 
+## 🩹 Patches
+
+- **`@astrojs/starlight`** — Fixes global `tableOfContents` config being ignored due to a zod v4 `.default().optional()` behavior change ([#3748](https://github.com/withastro/starlight/issues/3748)). Remove `patches/`, `patch-package` devDependency, and the `postinstall` script once the upstream fix is released.
+
 ---
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)

@@ -10,7 +10,8 @@
     "prebuild": "node scripts/sync-recommendations.mjs",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "postinstall": "patch-package"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.15",
@@ -20,5 +21,8 @@
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0",
     "sharp": "^0.34.4"
+  },
+  "devDependencies": {
+    "patch-package": "^8.0.1"
   }
 }
