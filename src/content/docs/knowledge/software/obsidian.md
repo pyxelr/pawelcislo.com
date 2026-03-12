@@ -16,7 +16,7 @@ tags:
 - Tips
   - [Format your notes](https://help.obsidian.md/How+to/Format+your+notes)
   - [MathJax](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) ← basic tutorial
-  - [Pamela Wang](https://www.youtube.com/@PamelaWangMwaha/videos) ← YT channel
+  - [Pamela Wang](https://www.youtube.com/@MwahaCookie/videos) ← YT channel
 - [Obsidian Roundup](https://www.obsidianroundup.org/tag/roundup/) ← Obsidian news
 
 ## Plugins

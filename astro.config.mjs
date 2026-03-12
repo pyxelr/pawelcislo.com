@@ -153,6 +153,12 @@ export default defineConfig({
                     },
 
                     {
+                        label: 'Mobile',
+                        items: [
+                            { label: 'Android', slug: 'knowledge/mobile/android' },
+                        ],
+                    },
+                    {
                         label: 'Music',
                         items: [
                             { label: 'FL Studio', slug: 'knowledge/music/fl-studio' },
@@ -170,6 +176,12 @@ export default defineConfig({
                             { label: 'Raycast', slug: 'knowledge/software/raycast' },
                             { label: 'VS Code', slug: 'knowledge/software/vs-code' },
                             { label: 'Zed', slug: 'knowledge/software/zed' },
+                        ],
+                    },
+                    {
+                        label: 'Windows',
+                        items: [
+                            { label: 'Windows', slug: 'knowledge/windows/windows' },
                         ],
                     },
 

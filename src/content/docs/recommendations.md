@@ -837,42 +837,68 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 ## 📱 Mobile Apps
 
+- [ADB AppControl](https://appcontrol.neocities.org/index_en.html) ← manage applications on your android device using your PC and adb
 - [AdGuard](https://adguard.com/en/products.html) ← get rid of intrusive ads and online tracking
 - [Algorithms: Explained and Animated](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms) ← great representation of various algorithms
-- [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) ← learn any topic using active learning and spaced repetition. Before using the mobile app, I strongly suggest setting up your account and decks of cards using the [PC app](https://apps.ankiweb.net/). Also, make sure to check the [public decks shared from my side](https://github.com/pyxelr/my-anki-decks-of-flashcards)
+- [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) ← learn any topic using active learning and spaced repetition. Make sure to [check out my own decks](https://github.com/pyxelr/my-anki-decks-of-flashcards)
+- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) ← unofficial FOSS client to Google Play. Download apps without logging in with Google account, or detect deep sleep apps for update
 - [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free) ← best free screen recorder (though, I have switched to Android's built-in "Screen recorder")
 - [Backdrops](https://backdrops.io/) ← my favorite high-quality wallpaper app
-- [Boost for reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) ← Reddit client
+- [Blokada](https://blokada.org/) ← free and open source ad blocker for Android
 - [Brilliant](https://brilliant.org/) ← replace lecture videos with hands-on, interactive problem solving
 - [Calmaria](https://calmaria.app/) ← focus / breathe / relax
 - [Chess King (Learn Tactics & Solve Puzzles)](https://learn.chessking.com/) ← collection of chess education courses
+- [Codeanywhere](https://codeanywhere.com/) ← online/Android IDE
 - [Cymath - Math Problem Solver](https://www.cymath.com/) ← step-by-step problem solver
 - [Elevate](https://www.elevateapp.com/) ← used daily can significantly improve math, reading, writing, speaking, and listening
 - [Enki](https://www.enki.com/) ← learn data science, coding, and stay on top of tech trends
 - [File Manager Plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager) ← my favourite file manager
+- [Flutter](https://github.com/flutter/flutter) ← build apps quick and easily
 - [Foreca](https://www.foreca.com/) ← weather forecast
+- [Good Lock](https://galaxystore.samsung.com/detail/com.samsung.android.goodlock?langCd=pl) ← tweak Samsung Galaxy UI
+  - Home Up ← modify recent apps
+  - NavStar ← minimize the navigation bar
+  - NotiStar ← manage notifications history
+  - QuickStar ← redesign Quick panel UI
+  - RegiStar ← launch flashlight with a power button
+  - Sound Assistant ← expand audio settings
+  - Theme Park ← change icon
 - [Google Lens](https://lens.google/) ← search what you see
-- [Grasshopper](https://grasshopper.app/) ← learn JavaScript for free from Google
 - [Harmonic for Hacker News](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) ← great-looking tech news that I can read for hours
 - [HiPER Calc Scientific Calculator](https://hiperdevelopment.wixsite.com/hipercalc-android) ← high-precision scientific calculator
 - [InShot](https://inshot.com/) ← most advanced video editor
+- [KinScreen](https://play.google.com/store/apps/details?id=com.teqtic.kinscreen) ← app and widget to keep the screen on
+- [Kivy](https://kivy.org/#home) ← create cross-platform apps (in Python). You might also consider [BeeWare](https://pybee.org/)
 - [lichess](https://play.google.com/store/apps/details?id=org.lichess.mobileapp) ← best open-source free chess
 - [Listen Audiobook Player](https://play.google.com/store/apps/details?id=com.acmeandroid.listen) ← my favourite Audiobook Player
-- [Mathlab Graphing Calculator](https://www.mathlab.us/calc/index.html) ← scientific, graphing, fraction and matrix calculator in one app
+- [MACE](https://github.com/XiaoMi/mace) ← mobile AI compute engine (deep learning inference framework optimized for mobile heterogeneous computing platforms)
+- [Mathlab Graphing Calculator](https://www.mathlab.app/) ← scientific, graphing, fraction and matrix calculator in one app
+- [MMKV](https://github.com/Tencent/MMKV) ← efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android
+- [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) ← forensic tool to look for signs of infection in smartphone devices
 - [Network Analyzer](https://techet.net/netanalyzer/) ← network analysis, scanning and problem detection
 - [One Calendar](https://www.onecalendar.nl/) ← manage all your calendars on all your devices
+- [Paprika](https://github.com/GeoffreyHecht/paprika) ← toolkit to detect some code smells in analysed Android applications
+- [PHONK](https://phonk.app/) ← write code on your pc and see immediate results on your phone
 - [Pocket Casts](https://www.pocketcasts.com/) ← my favourite Podcast Player
 - [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro) ← most advanced photo editor
-- [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) ← stock of puzzles
+- [PulltoRefresh.js](https://www.boxfactura.com/pulltorefresh.js/) ← plugin for pull-to-refresh needs in your webapp
 - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) ← Python 3 IDE for Android
-- [Screen On](https://play.google.com/store/apps/details?id=de.dieterthiess.keepiton) ← app and widget to keep the screen on
+- [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) ← stock of puzzles
+- [scrcpy](https://blog.rom1v.com/2018/03/introducing-scrcpy/) ← display and control Android devices connected on USB
+- [Seal](https://github.com/JunkFood02/Seal) ← yt-dlp as an Android app
 - [Simon Tatham's Puzzles](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles) ← mobile implementation of the [web-based collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) of one-player puzzle games
-- [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) ([archived apk file](https://apkpure.com/statinfer-%E2%80%93-learn-data-science/com.learn.statinfer1)) ← quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
 - [SoloLearn](https://www.sololearn.com/) ← mobile programming university
-- [Termux](https://termux.com/) ← Android terminal emulator and Linux environment app (you can find my settings [here](https://github.com/pyxelr/my-terminal))
-- [Tiny Scanner](https://play.google.com/store/apps/details?id=com.appxy.tinyscanner) ← PDF scanner app
+- [Statinfer](https://apkpure.com/statinfer-%E2%80%93-learn-data-science/com.learn.statinfer1) ← quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
+- [Termux](https://termux.com/) ← Android terminal emulator and Linux environment app ([my setup](https://github.com/pyxelr/my-terminal?tab=readme-ov-file#-termux))
+- [Tool-X](https://github.com/Mikaelson-1/Rajkumardusad-) ← kali linux hacking Tool installer (requires Termux)
 - [Twilight](https://twilight.urbandroid.org/) ← blue light filter (though, I prefer Android's built-in "Eye comfort shield")
 - [Universe in a Nutshell](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app) ← Wait but Why and Kurzgesagt version of the online [Scale of the Universe 2](https://htwins.net/scale2/)
+- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) ← run a Linux distribution or application on Android (without root)
+- [What Web Can Do Today](https://whatwebcando.today/) ← open this with your mobile browser to check what technologies is it capable of
+- [WiGLE WiFi Wardriving](https://play.google.com/store/apps/details?id=net.wigle.wigleandroid) ← open source network observation, positioning, and display client from the world's largest queryable database of wireless networks
+- [Winlator](https://winlator.org/index.php) ← Android application that lets you to run Windows (x86_64) applications with [Wine](https://www.winehq.org/) and [Box86/Box64](https://github.com/ptitSeb)
+- [Yanosik](https://play.google.com/store/apps/details?id=pl.neptis.yanosik.mobi.android&hl=pl) ← navigation for Polish roads that provides real-time alerts about police patrols, speed checks, accidents. You can use it in Android Auto in the background, while using Google Maps
+- [YouTube ReVanced](https://github.com/ReVanced/revanced-manager) ← official replacement for YouTube Vanced
 
 ## 🎶 Music
 
@@ -1232,9 +1258,12 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 - [7-Zip](https://www.7-zip.org/) ← file archiver with a high compression ratio
 - [Action!](https://mirillis.com/en/products/action.html) ← screen recorder
 - [AIMP](https://www.aimp.ru/?do=download&os=windows) ← music player
+- [AntiMicroX](https://github.com/AntiMicroX/antimicrox/) ← map keyboard buttons and mouse controls to a gamepad
 - [AquaSnap](https://www.nurgo-software.com/products/aquasnap) ← tiling window manager
+- [Astrofox](https://astrofox.io/) ← generate audio visualisation video
 - [Audacity](https://www.audacityteam.org/) ← simple audio editor
 - [AutoHotkey](https://www.autohotkey.com/) ← ultimate automation scripting language for Windows ([here](https://github.com/pyxelr/my-autohotkey-scripts) is a collection of my scripts)
+- [Betterbird](https://betterbird.eu/) ← Mozilla Thunderbird on steroids
 - [Calibre](https://calibre-ebook.com/) ← e-book manager
 - [Chocolatey](https://chocolatey.org/) ← package manager
 - [clink](https://github.com/chrisant996/clink) ← Bash's powerful command line editing in cmd.exe
@@ -1242,9 +1271,12 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 - [DevToys](https://devtoys.app/) ← Swiss Army knife for developers
 - [Directory Opus](https://www.gpsoft.com.au/) ← ultimate file manager (worth paying for)
 - [Ditto](https://ditto-cp.sourceforge.io/) ← clipboard manager
+- [Equalizer APO](https://equalizerapo.com/) ← open-source graphical equalizer for Windows
 - [espanso](https://espanso.org/) ← cross-platform text expander (you can find my settings [here](https://github.com/pyxelr/my-espanso-config))
 - [Everything](https://www.voidtools.com/downloads/) ← search local files instantly
 - [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) ← Everything integration for the Windows taskbar
+- [ExifTool](https://exiftool.org/) ← read, write and edit image meta information
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) ← enhance the working environment on Windows
 - [Ferdium](https://ferdium.org/) ← all the social apps in one place
 - [FileZilla](https://filezilla-project.org/) ← free and open-source FTP client/server
 - [f.lux](https://justgetflux.com/) ← reduce the amount of blue light at night (you can also install the [UWP app](https://www.microsoft.com/en-us/p/flux/9n9kdphv91jt))
@@ -1259,23 +1291,32 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 - [Ninite](https://ninite.com/) ← install and update all your programs at once
 - [NirSoft - freeware utilities](https://www.nirsoft.net/utils/index.html) ← freeware tools and system utilities
 - [Oh My Posh](https://ohmyposh.dev/) ← prompt theme engine for any shell. Alternatively, use [Starship](https://github.com/starship/starship)
+- [Paragon Backup & Recovery](https://www.paragon-software.com/free/br-free/) ← system backup creator
 - [Patch My PC](https://patchmypc.com/home-updater) ← tool for detecting and automatically updating software (shows less stuff than UpdateHub)
 - [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor) ← most feature-rich PDF viewer/editor
 - [PortableApps.com](https://portableapps.com/) ← full-featured portable software system
-- [Potplayer](https://potplayer.daum.net/) ← video player
+- [Posh-Git](https://github.com/dahlbyk/posh-git) ← PowerShell environment for Git
+- [Potplayer](https://potplayer.tv/) ← video player
 - [PowerToys](https://github.com/microsoft/PowerToys) ← Windows system utilities to maximize productivity
+- [PPspliT](http://www.maxonthenet.altervista.org/ppsplit.php) ← transform PowerPoint animations into single slides
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) ← SSH and telnet client
 - [qBittorrent](https://www.qbittorrent.org/) ← open-source torrent manager
+- [QuickLook](https://github.com/QL-Win/QuickLook) ← bring macOS "Quick Look" feature to Windows
+- [Rufus](https://rufus.ie/) ← create bootable USB drives
 - [scoop](https://scoop.sh/) ← command-line installer for Windows
+- [ScreenToGif](https://www.screentogif.com/) ← simple screen recorder with an integrated editor
 - [ShareX](https://getsharex.com/) ← most feature-rich screen capture tool
 - [simplewall](https://github.com/henrypp/simplewall) ← configure Windows Filtering Platform (WFP) which can configure network activity on your computer
+- [Supermium](https://github.com/win32ss/supermium) ← Chromium fork for older Windows versions
 - [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/) ← utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment
 - [TaskbarX](https://chrisandriessen.nl/taskbarx) ← center Windows taskbar icons with a variety of animations and options
+- [Tribler](https://www.tribler.org/) ← privacy-focused torrent client using onion routing
 - [UpdateHub](https://github.com/NexovaDev/UpdateHub) ← tool for detecting and automatically updating software (shows more stuff than Patch My PC)
 - [Windows Terminal](https://github.com/microsoft/terminal) ← modern terminal application (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 - [WinMerge](https://winmerge.org/) ← open-source diff checker (required e.g. by Ditto)
 - [WinSCP](https://winscp.net/eng/index.php) ← popular SFTP client and FTP client for Microsoft Windows
 - [WSLg](https://github.com/microsoft/wslg) ← open GUI software through WSL
+- [wsl-vpn](https://github.com/AmmarRahman/wsl-vpn) ← workaround script for WSL2 connectivity over VPN
 - [XnView MP](https://www.xnview.com/en/xnviewmp/) ← powerful photo viewer, image management, image resizer
 
 ## ✍ Writing_Research

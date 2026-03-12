@@ -86,7 +86,7 @@ tags:
 - [octant](https://github.com/vmware/octant) ← web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters
 - [Otomi](https://github.com/redkubes/otomi-core) ← self-hosted PaaS for Kubernetes
 - [Simplenetes](https://github.com/simplenetes-io/simplenetes) ← simpler version of Kubernetes
-- [stern](https://github.com/wercker/stern) ← tail multiple pods on k8s
+- [stern](https://github.com/stern/stern) ← tail multiple pods on k8s
 - [Telepresence](https://telepresence.io/) ← code locally against a remote Kubernetes cluster
 - [Web Kubectl](https://github.com/KubeOperator/webkubectl) ← run kubectl in web browser
 - [VpK](https://github.com/k8svisual/vpk) ← view k8s in graphical fashion

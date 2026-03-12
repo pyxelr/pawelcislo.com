@@ -1,0 +1,100 @@
+---
+title: "Windows"
+tags:
+  - "windows"
+  - "productivity"
+---
+
+## Links
+
+- [10 Free Data Recovery Tools For Windows PC](https://www.hongkiat.com/blog/free-windows-data-recovery-tools/) ← FonePaw, Recuva...
+- [Awesome Windows](https://github.com/0PandaDEV/awesome-windows) ← set of recommended software
+- [Debloating Windows 10 with one command and no scripts](https://gabrielsieben.tech/2023/01/02/debloating-windows-10-with-one-command-and-no-scripts/) ← by removing Appx package
+- [Dracula theme](https://draculatheme.com/) ← my favorite theme for different apps like ConEmu
+  - [themer.dev](https://themer.dev/?colors.dark.shade0=%23282a36&colors.dark.shade7=%23f8f8f2&colors.dark.accent0=%23ff5555&colors.dark.accent1=%23ffb86c&colors.dark.accent2=%23f1fa8c&colors.dark.accent3=%2350fa7b&colors.dark.accent4=%238be9fd&colors.dark.accent5=%236272a4&colors.dark.accent6=%23bd93f9&colors.dark.accent7=%23ff79c6&activeColorSet=dark&calculateIntermediaryShades.dark=true&calculateIntermediaryShades.light=true) ← generate themes (e.g. Dracula) for different apps (not just for Windows)
+- [How to add autocomplete to Powershell in 30 seconds](https://dev.to/dhravya/how-to-add-autocomplete-to-powershell-in-30-seconds-2a8p)
+- [I really like powershell](https://buttondown.email/hillelwayne/archive/i-really-like-powershell/) ← why PowerShell might be better than Bash
+- [Linux'izing your Windows PC into a dev machine](https://cepa.io/2018/02/10/linuxizing-your-windows-pc-part1/)
+- [Linux Vs Windows - Why Linux Is Better For Programming & Web Dev](https://ajeet.dev/linux-vs-windows-os/) ← well written short article
+- [Moja lista najlepszych narzędzi 2021](https://informatykzakladowy.pl/moja-lista-najlepszych-narzedzi-2021/) ← list of Windows apps by Informatyk Zakładowy
+  - [Wasza lista najlepszych narzędzi 2021](https://informatykzakladowy.pl/wasza-lista-najlepszych-narzedzi-2021/)
+- [reclaimWindows10.ps1](https://gist.github.com/alirobe/7f3b34ad89a159e6daa1) ← Windows 10 Setup Script turns off a bunch of unnecessary Windows 10 telemetery, bloatware, & privacy things
+- [Setting up Windows Subsystem for Linux with zsh + oh-my-zsh + ConEmu](https://blog.joaograssi.com/windows-subsystem-for-linux-with-oh-my-zsh-conemu/)
+- [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/) ← there's so many ways to define the same file path on Windows
+- [Tutorial: Set up Powerline in Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup) ← using Posh-Git + Oh-My-Posh
+- [Using Windows after 15 years on Linux](https://duncanlock.net/blog/2022/04/06/using-windows-after-15-years-on-linux/) ← Windows still sucks, but the author points out nice midterm solutions
+- [Windows Defender is enough, if you harden it](https://0ut3r.space/2022/03/06/windows-defender/) ([HN](https://news.ycombinator.com/item?id=30580444))
+- [windows_security](https://github.com/jmau111-org/windows_security) ← README about Windows security
+
+## Tools
+
+- [7-Zip](https://www.7-zip.org/) ← file archiver with a high compression ratio
+- [Action!](https://mirillis.com/en/products/action.html) ← screen recorder
+- [AIMP](https://www.aimp.ru/?do=download&os=windows) ← music player
+- [AntiMicroX](https://github.com/AntiMicroX/antimicrox/) ← map keyboard buttons and mouse controls to a gamepad
+- [AquaSnap](https://www.nurgo-software.com/products/aquasnap) ← tiling window manager
+- [Astrofox](https://astrofox.io/) ← generate audio visualisation video
+- [Audacity](https://www.audacityteam.org/) ← simple audio editor
+- [AutoHotkey](https://www.autohotkey.com/) ← ultimate automation scripting language for Windows
+- [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) ← download albums from Bandcamp
+- [Betterbird](https://betterbird.eu/) ← Mozilla Thunderbird on steroids
+- [Calibre](https://calibre-ebook.com/) ← e-book manager
+- [ChatGPT](https://apps.microsoft.com/detail/9nt1r1c2hh7j) ← Windows desktop app
+- [Chocolatey](https://chocolatey.org/) ← package manager
+- [clink](https://github.com/chrisant996/clink) ← Bash's powerful command line editing in cmd.exe
+- [deemix-gui](https://gitlab.com/RemixDev/deemix-gui) ← download music from Deezer
+- [Deskreen](https://deskreen.com/) ← turn any device into a secondary screen for your computer
+- [DevToys](https://devtoys.app/) ← Swiss Army knife for developers
+- [Directory Opus](https://www.gpsoft.com.au/) ← ultimate file manager (worth paying for)
+- [Ditto](https://ditto-cp.sourceforge.io/) ← clipboard manager
+- [Equalizer APO](https://equalizerapo.com/) ← open-source graphical equalizer for Windows
+- [espanso](https://espanso.org/) ← cross-platform text expander
+- [Everything](https://www.voidtools.com/downloads/) ← search local files instantly
+- [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) ← Everything integration for the Windows taskbar
+- [ExifTool](https://exiftool.org/) ← read, write and edit image meta information
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) ← enhance the working environment on Windows
+- [Ferdium](https://ferdium.org/) ← all the social apps in one place
+- [FileZilla](https://filezilla-project.org/) ← free and open-source FTP client/server
+- [f.lux](https://justgetflux.com/) ← reduce the amount of blue light at night
+- [Frink](https://frinklang.org/) ← practical calculating tool and programming language designed to make physical calculations simple
+- [FxSound](https://www.fxsound.com/) ← open-source software to boost sound quality
+- [GitKraken](https://www.gitkraken.com/) ← cross-platform GUI Git client
+- [gsudo](https://github.com/gerardog/gsudo) ← sudo for Windows
+- [JDownloader](http://jdownloader.org/home/index?s=lng_en) ← open-source download management tool
+- [KeePassXC](https://keepassxc.org/) ← cross-platform password manager
+- [KON-BOOT!](https://kon-boot.com/) ← access locked macOS or Windows computer without knowing the user's password
+- [Microsoft Activation Scripts (MAS)](https://massgrave.dev/) ([GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts)) ← Windows and Office activator using HWID / KMS38 / Online KMS activation methods
+- [MobaXterm](https://mobaxterm.mobatek.net/) ← enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
+- [Mp3tag](https://www.mp3tag.de/en/) ← mp3 tag editor
+- [Ninite](https://ninite.com/) ← install and update all your programs at once
+- [NirSoft - freeware utilities](https://www.nirsoft.net/utils/index.html) ← freeware tools and system utilities
+- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) ← free antispy tool for Windows 10 and 11
+- [Oh My Posh](https://ohmyposh.dev/) ← prompt theme engine for any shell
+- [Paragon Backup & Recovery](https://www.paragon-software.com/free/br-free/) ← system backup creator
+- [Patch My PC](https://patchmypc.com/home-updater) ← tool for detecting and automatically updating software (shows less stuff than UpdateHub)
+- [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor) ← most feature-rich PDF viewer/editor
+- [PortableApps.com](https://portableapps.com/) ← full-featured portable software system
+- [Posh-Git](https://github.com/dahlbyk/posh-git) ← PowerShell environment for Git
+- [Postman](https://www.postman.com/) ← popular API client
+- [Potplayer](https://potplayer.tv/) ← video player
+- [PowerToys](https://github.com/microsoft/PowerToys) ← Windows system utilities to maximize productivity
+- [PPspliT](http://www.maxonthenet.altervista.org/ppsplit.php) ← transform PowerPoint animations into single slides
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) ← SSH and telnet client
+- [qBittorrent](https://www.qbittorrent.org/) ← open-source torrent manager
+- [QuickLook](https://github.com/QL-Win/QuickLook) ← bring macOS "Quick Look" feature to Windows
+- [Rufus](https://rufus.ie/) ← create bootable USB drives
+- [scoop](https://scoop.sh/) ← command-line installer for Windows
+- [ScreenToGif](https://www.screentogif.com/) ← simple screen recorder with an integrated editor
+- [ShareX](https://getsharex.com/) ← most feature-rich screen capture tool
+- [simplewall](https://github.com/henrypp/simplewall) ← configure Windows Filtering Platform (WFP) which can configure network activity on your computer
+- [Supermium](https://github.com/win32ss/supermium) ← Chromium fork for older Windows versions
+- [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/) ← utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment
+- [TaskbarX](https://chrisandriessen.nl/taskbarx) ← center Windows taskbar icons with a variety of animations and options
+- [Tribler](https://www.tribler.org/) ← privacy-focused torrent client using onion routing
+- [UpdateHub](https://github.com/NexovaDev/UpdateHub) ← tool for detecting and automatically updating software (shows more stuff than Patch My PC)
+- [Windows Terminal](https://github.com/microsoft/terminal) ← modern terminal application
+- [WinMerge](https://winmerge.org/) ← open-source diff checker (required e.g. by Ditto)
+- [WinSCP](https://winscp.net/eng/index.php) ← popular SFTP client and FTP client for Microsoft Windows
+- [WSLg](https://github.com/microsoft/wslg) ← open GUI software through WSL
+- [wsl-vpn](https://github.com/AmmarRahman/wsl-vpn) ← workaround script for WSL2 connectivity over VPN
+- [XnView MP](https://www.xnview.com/en/xnviewmp/) ← powerful photo viewer, image management, image resizer

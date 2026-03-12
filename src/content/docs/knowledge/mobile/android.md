@@ -1,0 +1,92 @@
+---
+title: "Android"
+tags:
+  - "android"
+  - "mobile"
+---
+
+## Links
+
+- [Android debug tools](https://proandroiddev.com/android-debug-tools-a403a3f5bae8)
+- [Android hidden Codes](https://www.xda-developers.com/android-secret-codes/)
+- [Android showcase](https://github.com/igorwojda/android-showcase) ← sample project that presents modern, 2019 approach to Android application development using Kotlin and latest tech-stack
+- [An Introduction to Flutter](https://owenhalliday.co.uk/introduction-to-flutter/) ← simply written by 17 y/o
+- Awesome
+  - [Awesome Android](https://github.com/JStumpp/awesome-android)
+  - [Awesome iOS](https://github.com/vsouza/awesome-ios)
+- [Build Beautiful Mockups](https://www.producthunt.com/e/build-beautiful-mockups) ← list of apps
+- [Don't kill my app!](https://dontkillmyapp.com/) ← how to turn off batery saver mode in your Android smartphone?
+- [How are you building cross-platform (mobile and browser) apps?](https://news.ycombinator.com/item?id=17117243) ← Ask HN
+- [How Fragmented is Android ?](https://eggonomy.com/blogs/news/how-fragmented-is-android) ← how many OS combinations is there
+- [How to Debug a Third Party Android App](https://camg.me/debug-third-party-android-apps/) ← tricks of apktools
+- [How To Design Mobile Apps For One-Hand Usage](https://www.smashingmagazine.com/2020/02/design-mobile-apps-one-hand-usage/)
+- [made for ChromeOS](https://discover.apps.chrome/) ← list of Android apps optimised for Chrome OS
+- [Nie tylko iOS i Android… Ubuntu Touch! (na Google Pixel 3a XL)](https://blog.tomaszdunia.pl/ubuntu-touch/) ← how to install Ubuntu Touch on an Android phone
+- [Recenzja postmarketOS, prawdziwy Linux na smartfonie](https://www.internet-czas-dzialac.pl/recenzja-postmarketos/)
+- [Repurposing an old Android phone as a Ruby web server](https://lbrito1.github.io/blog/2020/02/repurposing-android.html) ← create web server on an old Android phone
+- [Usuwanie niechcianych aplikacji (bloatware) z systemu Android. Bez rootowania](https://www.wykop.pl/link/6332355/usuwanie-niechcianych-aplikacji-bloatware-z-systemu-android-bez-rootowania/) ← wykop
+
+## Tools
+
+- [ADB AppControl](https://appcontrol.neocities.org/index_en.html) ← manage applications on your android device using your PC and adb
+- [AdGuard](https://adguard.com/en/products.html) ← get rid of intrusive ads and online tracking
+- [Algorithms: Explained and Animated](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms) ← great representation of various algorithms
+- [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) ← learn any topic using active learning and spaced repetition. Make sure to [check out my own decks](https://github.com/pyxelr/my-anki-decks-of-flashcards)
+- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) ← unofficial FOSS client to Google Play. Download apps without logging in with Google account, or detect deep sleep apps for update
+- [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free) ← best free screen recorder (though, I have switched to Android's built-in "Screen recorder")
+- [Backdrops](https://backdrops.io/) ← my favorite high-quality wallpaper app
+- [Blokada](https://blokada.org/) ← free and open source ad blocker for Android
+- [Brilliant](https://brilliant.org/) ← replace lecture videos with hands-on, interactive problem solving
+- [Calmaria](https://calmaria.app/) ← focus / breathe / relax
+- [Chess King (Learn Tactics & Solve Puzzles)](https://learn.chessking.com/) ← collection of chess education courses
+- [Codeanywhere](https://codeanywhere.com/) ← online/Android IDE
+- [Cymath - Math Problem Solver](https://www.cymath.com/) ← step-by-step problem solver
+- [Elevate](https://www.elevateapp.com/) ← used daily can significantly improve math, reading, writing, speaking, and listening
+- [Enki](https://www.enki.com/) ← learn data science, coding, and stay on top of tech trends
+- [File Manager Plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager) ← my favourite file manager
+- [Flutter](https://github.com/flutter/flutter) ← build apps quick and easily
+- [Foreca](https://www.foreca.com/) ← weather forecast
+- [Good Lock](https://galaxystore.samsung.com/detail/com.samsung.android.goodlock?langCd=pl) ← tweak Samsung Galaxy UI
+  - Home Up ← modify recent apps
+  - NavStar ← minimize the navigation bar
+  - NotiStar ← manage notifications history
+  - QuickStar ← redesign Quick panel UI
+  - RegiStar ← launch flashlight with a power button
+  - Sound Assistant ← expand audio settings
+  - Theme Park ← change icon
+- [Google Lens](https://lens.google/) ← search what you see
+- [Harmonic for Hacker News](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) ← great-looking tech news that I can read for hours
+- [HiPER Calc Scientific Calculator](https://hiperdevelopment.wixsite.com/hipercalc-android) ← high-precision scientific calculator
+- [InShot](https://inshot.com/) ← most advanced video editor
+- [KinScreen](https://play.google.com/store/apps/details?id=com.teqtic.kinscreen) ← app and widget to keep the screen on
+- [Kivy](https://kivy.org/#home) ← create cross-platform apps (in Python). You might also consider [BeeWare](https://pybee.org/)
+- [lichess](https://play.google.com/store/apps/details?id=org.lichess.mobileapp) ← best open-source free chess
+- [Listen Audiobook Player](https://play.google.com/store/apps/details?id=com.acmeandroid.listen) ← my favourite Audiobook Player
+- [MACE](https://github.com/XiaoMi/mace) ← mobile AI compute engine (deep learning inference framework optimized for mobile heterogeneous computing platforms)
+- [Mathlab Graphing Calculator](https://www.mathlab.app/) ← scientific, graphing, fraction and matrix calculator in one app
+- [MMKV](https://github.com/Tencent/MMKV) ← efficient, small mobile key-value storage framework developed by WeChat. Works on iOS and Android
+- [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) ← forensic tool to look for signs of infection in smartphone devices
+- [Network Analyzer](https://techet.net/netanalyzer/) ← network analysis, scanning and problem detection
+- [One Calendar](https://www.onecalendar.nl/) ← manage all your calendars on all your devices
+- [Paprika](https://github.com/GeoffreyHecht/paprika) ← toolkit to detect some code smells in analysed Android applications
+- [PHONK](https://phonk.app/) ← write code on your pc and see immediate results on your phone
+- [Pocket Casts](https://www.pocketcasts.com/) ← my favourite Podcast Player
+- [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro) ← most advanced photo editor
+- [PulltoRefresh.js](https://www.boxfactura.com/pulltorefresh.js/) ← plugin for pull-to-refresh needs in your webapp
+- [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) ← Python 3 IDE for Android
+- [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) ← stock of puzzles
+- [scrcpy](https://blog.rom1v.com/2018/03/introducing-scrcpy/) ← display and control Android devices connected on USB
+- [Seal](https://github.com/JunkFood02/Seal) ← yt-dlp as an Android app
+- [Simon Tatham's Puzzles](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles) ← mobile implementation of the [web-based collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) of one-player puzzle games
+- [SoloLearn](https://www.sololearn.com/) ← mobile programming university
+- [Statinfer](https://apkpure.com/statinfer-%E2%80%93-learn-data-science/com.learn.statinfer1) ← quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
+- [Termux](https://termux.com/) ← Android terminal emulator and Linux environment app ([my setup](https://github.com/pyxelr/my-terminal?tab=readme-ov-file#-termux))
+- [Tool-X](https://github.com/Mikaelson-1/Rajkumardusad-) ← kali linux hacking Tool installer (requires Termux)
+- [Twilight](https://twilight.urbandroid.org/) ← blue light filter (though, I prefer Android's built-in "Eye comfort shield")
+- [Universe in a Nutshell](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app) ← Wait but Why and Kurzgesagt version of the online [Scale of the Universe 2](https://htwins.net/scale2/)
+- [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) ← run a Linux distribution or application on Android (without root)
+- [What Web Can Do Today](https://whatwebcando.today/) ← open this with your mobile browser to check what technologies is it capable of
+- [WiGLE WiFi Wardriving](https://play.google.com/store/apps/details?id=net.wigle.wigleandroid) ← open source network observation, positioning, and display client from the world's largest queryable database of wireless networks
+- [Winlator](https://winlator.org/index.php) ← Android application that lets you to run Windows (x86_64) applications with [Wine](https://www.winehq.org/) and [Box86/Box64](https://github.com/ptitSeb)
+- [Yanosik](https://play.google.com/store/apps/details?id=pl.neptis.yanosik.mobi.android&hl=pl) ← navigation for Polish roads that provides real-time alerts about police patrols, speed checks, accidents. You can use it in Android Auto in the background, while using Google Maps
+- [YouTube ReVanced](https://github.com/ReVanced/revanced-manager) ← official replacement for YouTube Vanced

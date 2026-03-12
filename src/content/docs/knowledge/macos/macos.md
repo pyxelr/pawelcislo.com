@@ -22,20 +22,20 @@ tags:
 ## Tools
 
 - [AirBuddy](https://v2.airbuddy.app/) ← control wireless devices
-- [Alfred](https://www.alfredapp.com/) ← extendable launcher ([my config](/knowledge/software/alfred/))
+- [Alfred](https://www.alfredapp.com/) ← extendable launcher ([my setup](/knowledge/software/alfred/))
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) ← keep screen awake
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) ← audio recording
 - [Automator](https://support.apple.com/en-gb/guide/automator/welcome/mac) ← built-in app to create workflows
 - [Bartender](https://www.macbartender.com/) ← take control of menu bar
 - [BetterSnapTool](https://folivora.ai/bettersnaptool) ← easily manage your window positions
-- [BetterTouchTool](https://folivora.ai/) ← customize various input devices ([my config](/knowledge/software/bettertouchtool/))
+- [BetterTouchTool](https://folivora.ai/) ← customize various input devices ([my setup](/knowledge/software/bettertouchtool/))
 - [BetterZip](https://macitbetter.com/) ← next generation of archiving (preferences > presets > move archive to: don't move + close the archive window)
 - [CleanShot X](https://cleanshot.com/) ← screenshot tool
   - [Monosnap](https://apps.apple.com/us/app/monosnap-screenshot-editor/id540348655?mt=12) ← free alternative
 - [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ← swiss army knife for developers
 - [DevUtils](https://devutils.com/) ← all-in-one toolbox for developers (more extended than DevToysMac)
 - [DropShelf](https://pilotmoon.com/dropshelf/) ← drag and drop helper app
-- [Espanso](https://espanso.org/) ← cross-platform text expander ([my config](/knowledge/software/espanso/))
+- [Espanso](https://espanso.org/) ← cross-platform text expander ([my setup](/knowledge/software/espanso/))
 - [Ferdium](https://ferdium.org/) ← all the social apps in one place
 - [Fission](https://rogueamoeba.com/fission/) ← audio editing (like Audacity)
 - [HazeOver](https://hazeover.com/) ← fade out background windows
@@ -65,7 +65,7 @@ tags:
 - [PDF Reader Pro](https://www.pdfreaderpro.com/mac) ← PDF editor ([comparison](https://docs.google.com/spreadsheets/d/1pCt75tHayO_QJO2swREcZEgAFEhrm9-3pnDogh5kpRM/))
 - [PopClip](https://pilotmoon.com/popclip/) ← extra actions for selecting text
 - [QSpace Pro](https://qspace.awehunt.com/en-us/index.html) ← more advanced Finder
-- [Raycast](https://www.raycast.com/) ← alternative to Alfred ([my config](/knowledge/software/raycast/))
+- [Raycast](https://www.raycast.com/) ← alternative to Alfred ([my setup](/knowledge/software/raycast/))
 - [Sloth](https://github.com/sveinbjornt/Sloth) ← show all open files, directories, sockets, pipes and devices in use by all running processes
 - [SoundSource](https://rogueamoeba.com/soundsource/) ← advanced audio controls and EQ
 - [System Color Picker](https://apps.apple.com/pl/app/system-color-picker/id1545870783?mt=12) ← built-in color picker
@@ -76,4 +76,4 @@ tags:
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ← invert scroll direction for mouse & trackpad
 - [Warp](https://www.warp.dev/) ← modern terminal reimagined with AI
 - [Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html) ← tools for software developers that run on the command line (install with `sudo xcode-select --install`)
-- [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust ([my config](/knowledge/software/zed/))
+- [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust ([my setup](/knowledge/software/zed/))
