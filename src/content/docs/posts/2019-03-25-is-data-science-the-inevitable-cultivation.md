@@ -265,7 +265,7 @@ Ah, and PhD is also not needed, even when you want to be a scientific researcher
 
 I will allow myself to copy my answers from the FAQ section of this website.
 
-#### **Should I go with Python or R?**
+#### Should I go with Python or R?
 
 I always say that in Data Science it is the most important to train logic and math. Later, the language is like a suit you wear, and in my case, I mostly reach for Python. I found some senior R developers, who claimed that they would start with Python if they got another chance (mainly for the reason of ML-based resources); however, I’m jealous of their pretty looking RStudio.
 
@@ -281,7 +281,7 @@ tl;dr:
 - (R) ggplot2 for visualisation
 - (R) R Markdown for reporting and Shiny for web apps
 
-#### **What about the IDE?**
+#### What about the IDE?
 
 [Jupyter Notebook](https://jupyter.org/) for the beginning and the reason of maintaining a well-documented code. Moreover, it runs in a browser and nicely displays your shiny visualisations, which makes it stand out for Data Science. Nonetheless, last time, [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) is more and more popular choice that requires no setup and runs entirely in the cloud. As such, it is one of the best free options for running large deep learning models (don’t forget to change runtime type to GPU/TPU).
 
