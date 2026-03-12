@@ -5,7 +5,7 @@ tags:
   - "productivity"
 ---
 
-[BetterTouchTool](https://folivora.ai/)
+My setup of [BetterTouchTool](https://folivora.ai/).
 
 ## Actions
 

@@ -5,7 +5,7 @@ tags:
   - "fl-studio"
 ---
 
-[FL Studio](https://www.image-line.com/fl-studio/)
+[FL Studio](https://www.image-line.com/fl-studio/) is my DAW of choice.
 
 ## Official materials
 

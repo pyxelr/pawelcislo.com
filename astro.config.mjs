@@ -174,6 +174,7 @@ export default defineConfig({
                             { label: 'Karabiner-Elements', slug: 'knowledge/software/karabiner-elements' },
                             { label: 'Obsidian', slug: 'knowledge/software/obsidian' },
                             { label: 'Raycast', slug: 'knowledge/software/raycast' },
+                            { label: 'Todoist', slug: 'knowledge/software/todoist' },
                             { label: 'VS Code', slug: 'knowledge/software/vs-code' },
                             { label: 'Zed', slug: 'knowledge/software/zed' },
                         ],
