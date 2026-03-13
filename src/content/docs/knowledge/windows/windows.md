@@ -53,9 +53,9 @@ tags:
 - [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) ← Everything integration for the Windows taskbar
 - [ExifTool](https://exiftool.org/) ← read, write and edit image meta information
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) ← enhance the working environment on Windows
+- [f.lux](https://justgetflux.com/) ← reduce the amount of blue light at night
 - [Ferdium](https://ferdium.org/) ← all the social apps in one place
 - [FileZilla](https://filezilla-project.org/) ← free and open-source FTP client/server
-- [f.lux](https://justgetflux.com/) ← reduce the amount of blue light at night
 - [Frink](https://frinklang.org/) ← practical calculating tool and programming language designed to make physical calculations simple
 - [FxSound](https://www.fxsound.com/) ← open-source software to boost sound quality
 - [GitKraken](https://www.gitkraken.com/) ← cross-platform GUI Git client
@@ -95,6 +95,6 @@ tags:
 - [Windows Terminal](https://github.com/microsoft/terminal) ← modern terminal application
 - [WinMerge](https://winmerge.org/) ← open-source diff checker (required e.g. by Ditto)
 - [WinSCP](https://winscp.net/eng/index.php) ← popular SFTP client and FTP client for Microsoft Windows
-- [WSLg](https://github.com/microsoft/wslg) ← open GUI software through WSL
 - [wsl-vpn](https://github.com/AmmarRahman/wsl-vpn) ← workaround script for WSL2 connectivity over VPN
+- [WSLg](https://github.com/microsoft/wslg) ← open GUI software through WSL
 - [XnView MP](https://www.xnview.com/en/xnviewmp/) ← powerful photo viewer, image management, image resizer

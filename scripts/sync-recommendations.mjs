@@ -1,5 +1,6 @@
 /**
- * Syncs the README from pyxelr/recommendations-for-engineers into the Starlight page.
+ * Syncs the README from pyxelr/recommendations-for-engineers into the Starlight page,
+ * and merges tool sections into their corresponding knowledge pages.
  *
  * Source of truth: https://github.com/pyxelr/recommendations-for-engineers
  * Target: src/content/docs/recommendations.md
@@ -14,10 +15,16 @@
  *   - Converts old WordPress post URLs to relative paths
  *   - Converts GitHub-flavored admonitions (> [!TIP], > [!NOTE]) to :::tip / :::note
  *
+ * Knowledge page sync:
+ *   - 🍎 macOS      → src/content/docs/knowledge/macos/macos.md       (## Tools)
+ *   - 📱 Mobile Apps → src/content/docs/knowledge/mobile/android.md   (## Tools)
+ *   - 🖥 Windows    → src/content/docs/knowledge/windows/windows.md   (## Tools)
+ *   New tools from recommendations are added; existing entries are preserved.
+ *
  * Run: node scripts/sync-recommendations.mjs
  */
 
-import { existsSync, writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -47,6 +54,132 @@ function convertGfmAdmonitions(md) {
 				.trimEnd();
 			return `:::${type.toLowerCase()}\n${content}\n:::\n`;
 		},
+	);
+}
+
+// ---------------------------------------------------------------------------
+// Knowledge-page sync helpers
+// ---------------------------------------------------------------------------
+
+/** Extract list content between a `## ` heading containing `title` and the next `## `. */
+function extractSection(md, title) {
+	const lines = md.split('\n');
+	let capturing = false;
+	const buf = [];
+	for (const line of lines) {
+		if (/^## /.test(line) && line.includes(title)) { capturing = true; continue; }
+		if (capturing && /^## /.test(line)) break;
+		if (capturing) buf.push(line);
+	}
+	return buf.join('\n').trim();
+}
+
+/**
+ * Parse a markdown tool list into entries.
+ * Each entry: { name, url, lines[], sortKey }
+ * Sub-items (indented `  - …`) are grouped under their parent.
+ */
+function parseToolEntries(text) {
+	const lines = text.split('\n');
+	const entries = [];
+	let cur = null;
+	for (const line of lines) {
+		if (/^- /.test(line)) {
+			if (cur) entries.push(cur);
+			const nameM = line.match(/^- \[([^\]]+)\]/);
+			const urlM = line.match(/^- \[[^\]]*\]\(([^)]+)\)/);
+			const name = nameM ? nameM[1] : line.replace(/^- /, '').split(/\s/)[0];
+			cur = {
+				name,
+				url: urlM ? urlM[1] : null,
+				lines: [line],
+				sortKey: name.toLowerCase().replace(/^[^a-z0-9]+/, ''),
+			};
+		} else if (/^\s+/.test(line) && line.trim() && cur) {
+			cur.lines.push(line);
+		}
+	}
+	if (cur) entries.push(cur);
+	return entries;
+}
+
+/**
+ * Merge source entries into target entries.
+ * Keeps target version when URL or name matches. Adds new source entries.
+ * Returns sorted merged array, or null if nothing was added.
+ */
+function mergeToolEntries(target, source) {
+	const targetUrls = new Set(target.map((e) => e.url).filter(Boolean));
+	const targetNames = new Set(target.map((e) => e.name.toLowerCase()));
+
+	const added = source.filter((e) => {
+		if (e.url && targetUrls.has(e.url)) return false;
+		if (targetNames.has(e.name.toLowerCase())) return false;
+		return true;
+	});
+
+	if (added.length === 0) return null;
+
+	const merged = [...target, ...added];
+	merged.sort((a, b) => a.sortKey.localeCompare(b.sortKey));
+	return merged;
+}
+
+/**
+ * Sync tools from a recommendations section into a knowledge page's ## Tools section.
+ */
+function syncToolsToPage(recsMd, sectionTitle, pagePath, label) {
+	if (!existsSync(pagePath)) {
+		console.log(`⏭  ${label}: file not found, skipping`);
+		return;
+	}
+
+	const sectionContent = extractSection(recsMd, sectionTitle);
+	if (!sectionContent) {
+		console.log(`⏭  ${label}: section "${sectionTitle}" not found in recommendations`);
+		return;
+	}
+	const sourceEntries = parseToolEntries(sectionContent);
+
+	const page = readFileSync(pagePath, 'utf-8');
+	const pageLines = page.split('\n');
+
+	// Locate ## Tools boundaries
+	let headingIdx = -1;
+	let endIdx = pageLines.length;
+	for (let i = 0; i < pageLines.length; i++) {
+		if (pageLines[i] === '## Tools') headingIdx = i;
+		else if (headingIdx >= 0 && /^## /.test(pageLines[i]) && i > headingIdx) {
+			endIdx = i;
+			break;
+		}
+	}
+	if (headingIdx < 0) {
+		console.log(`⏭  ${label}: no "## Tools" section found`);
+		return;
+	}
+
+	const toolsText = pageLines.slice(headingIdx + 1, endIdx).join('\n').trim();
+	const targetEntries = parseToolEntries(toolsText);
+	const merged = mergeToolEntries(targetEntries, sourceEntries);
+
+	if (!merged) {
+		console.log(`✅ ${label}: already up to date (${targetEntries.length} tools)`);
+		return;
+	}
+
+	const newCount = merged.length - targetEntries.length;
+	const serialized = merged.map((e) => e.lines.join('\n')).join('\n');
+
+	const before = pageLines.slice(0, headingIdx + 1).join('\n');
+	const after = endIdx < pageLines.length ? pageLines.slice(endIdx).join('\n') : '';
+	const rebuilt = after
+		? `${before}\n\n${serialized}\n\n${after}`
+		: `${before}\n\n${serialized}\n`;
+
+	writeFileSync(pagePath, rebuilt);
+	console.log(
+		`✅ ${label}: ${newCount} new tool(s) added (${merged.length} total)`,
 	);
 }
 
@@ -116,6 +249,33 @@ async function main() {
 
 	writeFileSync(OUTPUT_PATH, output);
 	console.log(`✅ Written to ${OUTPUT_PATH}`);
+
+	// --- Sync tool sections into knowledge pages ---
+	console.log('\nSyncing tools into knowledge pages…');
+	const knowledgePages = [
+		{
+			section: 'macOS',
+			path: resolve(__dirname, '..', 'src/content/docs/knowledge/macos/macos.md'),
+			label: 'macOS → macos.md',
+		},
+		{
+			section: 'Mobile Apps',
+			path: resolve(__dirname, '..', 'src/content/docs/knowledge/mobile/android.md'),
+			label: 'Mobile Apps → android.md',
+		},
+		{
+			section: 'Windows',
+			path: resolve(__dirname, '..', 'src/content/docs/knowledge/windows/windows.md'),
+			label: 'Windows → windows.md',
+		},
+	];
+	for (const { section, path, label } of knowledgePages) {
+		try {
+			syncToolsToPage(md, section, path, label);
+		} catch (err) {
+			console.error(`⚠️  ${label}: ${err.message}`);
+		}
+	}
 }
 
 main().catch((err) => {

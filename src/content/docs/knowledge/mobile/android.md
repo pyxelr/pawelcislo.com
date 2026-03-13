@@ -73,8 +73,8 @@ tags:
 - [Pocket Casts](https://www.pocketcasts.com/) ← my favourite Podcast Player
 - [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro) ← most advanced photo editor
 - [PulltoRefresh.js](https://www.boxfactura.com/pulltorefresh.js/) ← plugin for pull-to-refresh needs in your webapp
-- [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) ← Python 3 IDE for Android
 - [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) ← stock of puzzles
+- [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) ← Python 3 IDE for Android
 - [scrcpy](https://blog.rom1v.com/2018/03/introducing-scrcpy/) ← display and control Android devices connected on USB
 - [Seal](https://github.com/JunkFood02/Seal) ← yt-dlp as an Android app
 - [Simon Tatham's Puzzles](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles) ← mobile implementation of the [web-based collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) of one-player puzzle games

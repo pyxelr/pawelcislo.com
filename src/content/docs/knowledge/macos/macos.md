@@ -44,8 +44,8 @@ tags:
 - [iTerm2](https://iterm2.com/) ← better terminal
 - [Itsycal](https://www.mowglii.com/itsycal/) ← tiny menu bar calendar
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) ← keyboard customizer ([config](/knowledge/software/karabiner-elements/))
-- [KON-BOOT!](https://kon-boot.com/) ← access locked macOS or Windows computer without knowing the user's password
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) ← automation tool
+- [KON-BOOT!](https://kon-boot.com/) ← access locked macOS or Windows computer without knowing the user's password
 - [lima](https://github.com/lima-vm/lima) ← launch Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) ← host-based application firewall for macOS
 - [MacUpdater](https://www.corecode.io/macupdater/) ← track app updates
@@ -58,6 +58,7 @@ tags:
   - [Microsoft PowerPoint](https://apps.apple.com/us/app/microsoft-powerpoint/id586449534) ← slideshow creator
   - [Microsoft Word](https://apps.apple.com/us/app/microsoft-word/id586447913) ← document editor
 - [Mp3tag](https://mp3tag.app/)
+- [New File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555?mt=12) ← create new files via Finder
 - [Numi](https://numi.app/) ← calculator
 - [Objective-See's Tools](https://objective-see.org/tools.html) ← free, open-source tools to secure your Mac
 - [OneDrive](https://apps.apple.com/pl/app/onedrive/id823766827?mt=12) ← cloud for transferring files between PCs
