@@ -89,7 +89,7 @@ _And nicely aligns them. Oh... I'm so busy this day_
 
 As such, to start with Todoist, I highly recommend spending some time on organising it, defining some projects and labels which will play a significant role. Don't worry if you cannot figure it out in the beginning. After more than a year of using the app, I am still finding myself changing some of the settings.
 
-It's definitely worth organising your tasks, so in the end, as a reward, you will get a shiny report from the Todoist team. [Just like I did](https://todoist.com/review/2017/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJtYXR5Q3lKQyIsInVpZCI6MTI2MjczODYsInllYXIiOjIwMTd9.Vo-ri-wXporGGCx6HrOrJlNsDGPEiDY4uabaONHL0xQ)!
+It's definitely worth organising your tasks, so in the end, as a reward, you will get a shiny report from the Todoist team. [Just like I did](https://x.com/pawel_cislo/status/951219711827759104)!
 
 Pro tip: If you want to add something that cannot be ever done, use `*` in the beginning. It might be useful for things that you just need to check regularly, but cannot complete.
 
@@ -198,7 +198,7 @@ _My list of priorities in Todoist_
 
 #### Templates
 
-If there is something that you go through continuously in the exact same structure, it's worth checking out [To-Do Templates](https://todotemplates.com/). These are basically projects filled with tasks in a specified order that you can import and start ticking out. Personally, I prefer to store my templates in OneNote, such as the procedure of posting another article on my blog (unfortunately, it's not only about writing few words and clicking "Publish"). The good thing is, that if you copy the list from OneNote and paste it inside Todoist using Ctrl+V, it will be automatically recognised and added in an organised way.
+If there is something that you go through continuously in the exact same structure, it's worth checking out [Todoist Templates](https://www.todoist.com/templates). These are basically projects filled with tasks in a specified order that you can import and start ticking out. Personally, I prefer to store my templates in OneNote, such as the procedure of posting another article on my blog (unfortunately, it's not only about writing few words and clicking "Publish"). The good thing is, that if you copy the list from OneNote and paste it inside Todoist using Ctrl+V, it will be automatically recognised and added in an organised way.
 
 ### Online Calendar
 
@@ -211,7 +211,7 @@ Before discovering to-do lists, I used to note everything in the form of events 
 
 ### Wait a sec
 
-If you already thought about creating your Todoist account, please do me a favour and **[sign up using my referral link](https://todoist.com/r/pyxelr_kjtwbq)** so I will get 2 months of premium for free and in result save few cents for more yerba mate and bulletproof coffee.
+If you already thought about creating your Todoist account, please do me a favour and ~~**[sign up using my referral link](https://todoist.com/r/pyxelr_kjtwbq)** so I will get 2 months of premium for free and in result save few cents for more yerba mate and bulletproof coffee~~. Unfortunately, Todoist dropped referral URLs :(
 
 ## Three Levels
 
@@ -225,7 +225,7 @@ _Feels familiar, huh?_
 
 I think everyone seen the image above. Yes, that might demotivate some of us, but you can forget about the lower part of it with the application of "Three Levels/Goals" system. It's all about restructuring your mind. Let's take an example: each of us would be feeling good about accomplishing 100 km run, right? Undoubtedly, and it's not hard.
 
-I'm crazy?
+Am I crazy?
 
 I assure you that I am not. If you start thinking of how to run 100 km, in the case when you never get outside to run short distances of 5 km, it will be definitely looking like the "Reality" part of the image above. So, how to transform it into the "Your plan" part? Using the discussed system, you will divide the 100 km run into 10 km run for the next year, 40 km run in 2 years and finally 100 km run in 4 years. It will be pretty straightforward once you start thinking about the small steps and learning how to achieve the easier bits. Once you do that (run the 10km and later 40), you will understand that running 100 km is the same what you did before, but you only need to continue applying the technique you already know for a longer time. That's it! [Recheck my list](/three-goals/) to have a practical example.
 

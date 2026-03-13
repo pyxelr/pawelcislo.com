@@ -57,7 +57,7 @@ I heard it is recommended to start the post with the most mattering message righ
 ### Time-based
 
 - January
-  - Shared [Todoist summary of my 2017](https://todoist.com/review/2017/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJtYXR5Q3lKQyIsInVpZCI6MTI2MjczODYsInllYXIiOjIwMTd9.Vo-ri-wXporGGCx6HrOrJlNsDGPEiDY4uabaONHL0xQ). Argh, Todoist! I'm still waiting for the summary of 2018 ✅
+  - Shared [Todoist summary of my 2017](https://x.com/pawel_cislo/status/951219711827759104). Argh, Todoist! I'm still waiting for the summary of 2018 ✅
   - Started the year with first semester exams of my MSc Data Science course 📚
   - Wrote my affirmation, which I'm trying to read daily ✍
   - Started a German language course to remind me of some of its rules 🇩🇪
