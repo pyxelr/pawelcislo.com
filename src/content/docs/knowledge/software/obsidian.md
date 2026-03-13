@@ -25,6 +25,7 @@ tags:
 - [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) ← in options, change the "start week on" to Monday
 - ~~[Collapse All](https://github.com/OfficerHalf/obsidian-collapse-all)~~ ← not needed after Obsidian 1.0 (it only adds expand option on individual folder levels)
 - [Copy Block Link](https://github.com/mgmeyers/obsidian-copy-block-link)
+- [Dataview](https://github.com/blacksmithgu/obsidian-dataview) ← create dynamic tables and lists from your vault data
 - [Emoji Shortcodes](https://github.com/phibr0/obsidian-emoji-shortcodes) ← use it when "_Toggle icons while editing notes_" is turned off in Iconize settings ([info](https://github.com/FlorianWoelki/obsidian-iconize/issues/458#issuecomment-2065948645))
 - [Execute Code](https://github.com/twibiral/obsidian-execute-code) ← execute code in a note
 - [Filename Heading Sync](https://github.com/dvcrn/obsidian-filename-heading-sync)
