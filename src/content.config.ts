@@ -15,7 +15,7 @@ export const collections = {
 					.array(
 						z.object({
 							platform: z.string(),
-							url: z.string().url(),
+							url: z.url(),
 						}),
 					)
 					.optional(),

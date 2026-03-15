@@ -1,7 +1,7 @@
 ---
 const { entry, editUrl } = Astro.locals.starlightRoute;
 const title = entry?.data?.title ?? '';
-const slug = entry?.slug ?? '';
+const slug = entry?.id ?? '';
 
 // Check if this is a blog post, knowledge page, or resources page
 const isPost = slug.startsWith('posts/');

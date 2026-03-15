@@ -9,7 +9,7 @@ const startYear = 2018;
 const yearRange = currentYear > startYear ? `${startYear} – ${currentYear}` : startYear;
 
 const { lang, lastUpdated, entry } = Astro.locals.starlightRoute;
-const slug = entry?.slug ?? '';
+const slug = entry?.id ?? '';
 const filePath = entry?.filePath;
 const historyUrl = filePath
 	? `https://github.com/pyxelr/pawelcislo.com/commits/main/${filePath}`

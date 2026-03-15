@@ -163,10 +163,10 @@ That's it. Every push to `main` triggers an automatic deployment. Every branch a
 │ VS Code │ ───────────────► │ GitHub  │ ──────────────► │ Cloudflare Pages │
 └─────────┘                  └─────────┘                 └────────┬─────────┘
                                                                   │
-                                                         npm run build
+                                                            npm run build
                                                                   │
                                                                   ▼
-┌──────────┐       CDN       ┌──────────────┐  static    ┌─────────────────┐
+┌──────────┐       CDN       ┌──────────────┐   static   ┌─────────────────┐
 │ Visitors │ ◄────────────── │ Edge Network │ ◄───────── │    Astro SSG    │
 └──────────┘                 └──────────────┘            └─────────────────┘
 ```
@@ -238,6 +238,18 @@ The accessibility score of 98/100 is intentionally not 100 — on some pages I u
 | Domain DNS | Cloudflare | Free |
 | Newsletter | Substack | Free |
 | Email | Small.pl | ~50 PLN/year |
+
+#### Email provider
+
+I migrated my professional email away from MyDevil to reduce overhead and costs. Here's a quick comparison of the options I considered:
+
+| Option | Est. Annual Cost | Pro | Con |
+| :--- | :--- | :--- | :--- |
+| **Cloudflare Routing** | 0 PLN | Completely free; uses existing DNS. | "Send" functionality is a hack; replies often show your personal Gmail address. |
+| **Google Workspace** | ~378 PLN | Elite ecosystem (Calendar, Gemini AI). | Expensive (~7.5x the cost of Small.pl). |
+| **Small.pl** | **50 PLN (Gross)** | **Full IMAP/SMTP support; Polish hosting.** | Not free (but the best value). |
+
+[Small.pl](https://small.pl/) (the sister-brand of MyDevil) is the "Goldilocks" solution: 50 PLN/year for a real IMAP/SMTP mailbox, no "on behalf of" header hacks, and a seamless migration since both services are run by the same team.
 
 ### What I gained
 

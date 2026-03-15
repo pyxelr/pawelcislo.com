@@ -68,6 +68,19 @@ All commands are run from the root of the project, from a terminal:
 
 This site is deployed on **Cloudflare Pages** with automatic deployments from GitHub.
 
+```text
+┌─────────┐     git push     ┌─────────┐     webhook     ┌──────────────────┐
+│ VS Code │ ───────────────► │ GitHub  │ ──────────────► │ Cloudflare Pages │
+└─────────┘                  └─────────┘                 └────────┬─────────┘
+                                                                  │
+                                                            npm run build
+                                                                  │
+                                                                  ▼
+┌──────────┐       CDN       ┌──────────────┐   static   ┌─────────────────┐
+│ Visitors │ ◄────────────── │ Edge Network │ ◄───────── │    Astro SSG    │
+└──────────┘                 └──────────────┘            └─────────────────┘
+```
+
 **Deployment flow:**
 
 1. Push changes to the `main` branch
