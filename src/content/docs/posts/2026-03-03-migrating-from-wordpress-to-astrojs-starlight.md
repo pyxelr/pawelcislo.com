@@ -251,6 +251,8 @@ I migrated my professional email away from MyDevil to reduce overhead and costs.
 
 [Small.pl](https://small.pl/) (the sister-brand of MyDevil) is the "Goldilocks" solution: 50 PLN/year for a real IMAP/SMTP mailbox, no "on behalf of" header hacks, and a seamless migration since both services are run by the same team.
 
+To move all existing emails from MyDevil to Small.pl, I used [`imapsync`](https://imapsync.lamiral.info/) — a battle-tested tool for copying mailboxes between IMAP servers. It preserved the full folder structure and message flags. After the transfer, I reset the SPF, DKIM, and DMARC DNS records in Cloudflare to point to Small.pl's mail servers so outgoing emails stay properly authenticated. I used [DNSChecker](https://dnschecker.org/) to confirm the MX records had propagated and [Google's DNS flush tool](https://developers.google.com/speed/public-dns/cache) to clear stale cached records.
+
 ### What I gained
 
 - **Full version control** — every change is a Git commit with history. I try to follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format for clarity. Visitors can also browse the [commit history](https://github.com/pyxelr/pawelcislo.com/commits/main/) to see what's changed
