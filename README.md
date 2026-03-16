@@ -2,7 +2,7 @@
 
 Personal website and blog of Paweł Cisło.
 
-Migrated from WordPress to [Astro Starlight](https://starlight.astro.build/) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
+[Migrated](https://pawelcislo.com/posts/migrating-from-wordpress-to-astrojs-starlight/) from WordPress to [Astro Starlight](https://starlight.astro.build/) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
 
 ## 📂 Project Structure
 

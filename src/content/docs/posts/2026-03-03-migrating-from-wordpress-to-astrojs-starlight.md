@@ -234,11 +234,17 @@ The accessibility score of 98/100 is intentionally not 100 — on some pages I u
 | Service | Provider | Cost |
 |---|---|---|
 | Website | Astro (hosted on Cloudflare Pages) | Free |
-| Domain (.com) | Cloudflare | ~39 PLN/year |
+| Domain (.com) | Cloudflare | 10.46 USD/year |
 | Domain DNS | Cloudflare | Free |
 | Newsletter | Substack | Free |
-| Email | Small.pl | ~50 PLN/year |
-| **Total** | | **\~89 PLN/year (\~$24 USD)** |
+| Email | Small.pl | ~13.40 USD/year |
+| **Total** | | **~24 USD/year** |
+
+Savings compared to the previous WordPress setup:
+
+- **Domain**: OVH (14.69 USD/year) → Cloudflare (10.46 USD/year) — saving 4.23 USD/year, since Cloudflare offers domains [at cost](https://www.cloudflare.com/products/registrar/)
+- **Hosting + Email**: MyDevil (~37.53 USD/year) → Small.pl for email only (~13.40 USD/year) + Cloudflare Pages (free) — saving ~24.13 USD/year
+- **Total savings: ~28 USD/year** — from ~52 USD/year down to ~24 USD/year
 
 #### Email provider
 
@@ -246,11 +252,11 @@ I migrated my professional email away from MyDevil to reduce overhead and costs.
 
 | Option | Est. Annual Cost | Pro | Con |
 | :--- | :--- | :--- | :--- |
-| **Cloudflare Routing** | 0 PLN | Completely free; uses existing DNS. | "Send" functionality is a hack; replies often show your personal Gmail address. |
-| **Google Workspace** | ~378 PLN | Elite ecosystem (Calendar, Gemini AI). | Expensive (~7.5x the cost of Small.pl). |
-| **Small.pl** | **50 PLN (Gross)** | **Full IMAP/SMTP support; Polish hosting.** | Not free (but the best value). |
+| **Cloudflare Routing** | 0 USD | Completely free; uses existing DNS. | "Send" functionality is a hack; replies often show your personal Gmail address. |
+| **Google Workspace** | ~84 USD | Elite ecosystem (Calendar, Gemini AI). | Expensive (~7.5x the cost of Small.pl). |
+| **Small.pl** | **~13.40 USD (50 PLN)** | **Full IMAP/SMTP support; Polish hosting.** | Not free (but the best value). |
 
-[Small.pl](https://small.pl/) (the sister-brand of MyDevil) is the "Goldilocks" solution: 50 PLN/year for a real IMAP/SMTP mailbox, no "on behalf of" header hacks, and a seamless migration since both services are run by the same team.
+[Small.pl](https://small.pl/) (the sister-brand of MyDevil) is the "Goldilocks" solution: ~13.40 USD/year for a real IMAP/SMTP mailbox, no "on behalf of" header hacks, and a seamless migration since both services are run by the same team.
 
 To move all existing emails from MyDevil to Small.pl, I used [`imapsync`](https://imapsync.lamiral.info/) — a battle-tested tool for copying mailboxes between IMAP servers. It preserved the full folder structure and message flags. After the transfer, I reset the SPF, DKIM, and DMARC DNS records in Cloudflare to point to Small.pl's mail servers so outgoing emails stay properly authenticated. I used [DNSChecker](https://dnschecker.org/) to confirm the MX records had propagated and [Google's DNS flush tool](https://developers.google.com/speed/public-dns/cache) to clear stale cached records.
 
@@ -258,7 +264,7 @@ To move all existing emails from MyDevil to Small.pl, I used [`imapsync`](https:
 
 - **Full version control** — every change is a Git commit with history. I try to follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format for clarity. Visitors can also browse the [commit history](https://github.com/pyxelr/pawelcislo.com/commits/main/) to see what's changed
 - **Open source** — the entire site is [on GitHub](https://github.com/pyxelr/pawelcislo.com)
-- **Nearly free** — ~39 PLN/year for domain (.com on Cloudflare) and ~50 PLN/year for email, everything else is free
+- **Nearly free** — 10.46 USD/year for domain (transferred from OVH to Cloudflare, saving 4.23 USD/year) and ~13.40 USD/year for email (down from ~37.53 USD/year on MyDevil), everything else is free
 - **Speed** — static HTML served from edge locations worldwide
 - **Content as files** — Markdown files I own, not rows in a database
 - **Knowledge base** — Starlight's sidebar makes it easy to organise a growing digital garden
