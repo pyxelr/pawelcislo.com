@@ -19,7 +19,7 @@ My setup:
 - macOS
   - Use: `search_shortcut: CMD+SHIFT+SPACE`
 
-## 📃 Guides
+## Guides
 
 ### How to detect window title
 

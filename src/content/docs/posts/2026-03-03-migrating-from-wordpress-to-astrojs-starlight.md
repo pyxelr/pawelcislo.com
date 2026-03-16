@@ -238,6 +238,7 @@ The accessibility score of 98/100 is intentionally not 100 — on some pages I u
 | Domain DNS | Cloudflare | Free |
 | Newsletter | Substack | Free |
 | Email | Small.pl | ~50 PLN/year |
+| **Total** | | **\~89 PLN/year (\~$24 USD)** |
 
 #### Email provider
 
