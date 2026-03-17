@@ -1,5 +1,7 @@
 # pawelcislo.com
 
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-deployed-success?logo=cloudflare)](https://pawelcislo.com) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Personal website and blog of Paweł Cisło.
 
 [Migrated](https://pawelcislo.com/posts/migrating-from-wordpress-to-astrojs-starlight/) from WordPress to [Astro Starlight](https://starlight.astro.build/) and hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
