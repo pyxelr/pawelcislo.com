@@ -242,7 +242,7 @@ The accessibility score of 98/100 is intentionally not 100 — on some pages I u
 
 Savings compared to the previous WordPress setup:
 
-- **Domain**: OVH (14.69 USD/year) → Cloudflare (10.46 USD/year) — saving 4.23 USD/year, since Cloudflare offers domains [at cost](https://www.cloudflare.com/products/registrar/)
+- **Domain**: OVH (14.69 USD/year) → Cloudflare (10.46 USD/year) — saving 4.23 USD/year, since Cloudflare offers domains [at cost](https://www.cloudflare.com/products/registrar/). The transfer from OVH to Cloudflare took 6 days — there were no options to speed it up. On the bright side, once the transfer completed, no DNS adjustments were needed as the existing Cloudflare DNS records setup was already correct
 - **Hosting + Email**: MyDevil (~37.53 USD/year) → Small.pl for email only (~13.40 USD/year) + Cloudflare Pages (free) — saving ~24.13 USD/year
 - **Total savings: ~28 USD/year** — from ~52 USD/year down to ~24 USD/year
 
