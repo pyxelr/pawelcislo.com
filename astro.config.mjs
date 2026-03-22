@@ -124,6 +124,7 @@ export default defineConfig({
                 label: '#Knowledge',
                 collapsed: true,
                 items: [
+                    { slug: 'knowledge/digital-garden' },
                     {
                         label: 'Health',
                         items: [

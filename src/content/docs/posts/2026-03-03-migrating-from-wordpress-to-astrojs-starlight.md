@@ -43,7 +43,7 @@ head:
 
 ![New homepage (Astro Starlight)](images/pawelcislocom-home-astro.png)
 
-The site is no longer just a portfolio and blog — it's now a **digital garden** with a [knowledge base](/knowledge/software/obsidian/) section. It starts with just a handful of pages, but I plan to expand and regularly update them over time. I wanted it to feel closer to my personal Obsidian vault: a place where notes evolve, interlink freely, and stay in plain Markdown. The sidebar, dark theme, and "Last updated" timestamps all echo that Obsidian aesthetic.
+The site is no longer just a portfolio and blog — it's now a **digital garden** with a [knowledge base](/knowledge/digital-garden/) section. It starts with just a handful of pages, but I plan to expand and regularly update them over time. I wanted it to feel closer to my personal Obsidian vault: a place where notes evolve, interlink freely, and stay in plain Markdown. The sidebar, dark theme, and "Last updated" timestamps all echo that Obsidian aesthetic.
 
 ## Why migrate?
 
@@ -287,6 +287,6 @@ To move all existing emails from MyDevil to Small.pl, I used [`imapsync`](https:
 
 ## What's next?
 
-The site is live and I'm happy with the result. The [knowledge base](/knowledge/software/obsidian/) is growing, and writing new content is a joy compared to the WordPress admin panel. If you're running a static-ish blog on WordPress and feeling the friction — I encourage you to make the jump. The tooling in 2026 makes it easier than ever.
+The site is live and I'm happy with the result. The [knowledge base](/knowledge/digital-garden/) is growing, and writing new content is a joy compared to the WordPress admin panel. If you're running a static-ish blog on WordPress and feeling the friction — I encourage you to make the jump. The tooling in 2026 makes it easier than ever.
 
 The source code is at [github.com/pyxelr/pawelcislo.com](https://github.com/pyxelr/pawelcislo.com) — feel free to explore for inspiration or open an issue if you have questions.
