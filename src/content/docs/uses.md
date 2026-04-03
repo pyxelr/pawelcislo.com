@@ -9,7 +9,7 @@ A list of my current tools and setup. Inspired by [uses.tech](https://uses.tech/
 
 ### Coding
 
-- IDE: [VS Code](/knowledge/software/vs-code/) ([profile gist](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b))
+- IDE: [VS Code](/knowledge/software/vs-code/)
 - Terminal: [Warp/iTerm2/Windows Terminal/Neovim/Termux](https://github.com/pyxelr/my-terminal)
 - My setup (GitHub topic): [pyxelr-setup](https://github.com/topics/pyxelr-setup)
 - Main font: [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
