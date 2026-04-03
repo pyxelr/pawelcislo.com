@@ -18,6 +18,7 @@ A list of my current tools and setup. Inspired by [uses.tech](https://uses.tech/
 ### Productivity
 
 - Note-taking: [Obsidian](/knowledge/software/obsidian/)
+- Flashcards: [Anki](/knowledge/software/anki/)
 - Task management: [Todoist](/knowledge/software/todoist/)
 - Text expander: [Espanso](/knowledge/software/espanso/)
 - Launcher: [Raycast](/knowledge/software/raycast/) / [Alfred](/knowledge/software/alfred/)

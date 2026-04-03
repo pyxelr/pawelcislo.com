@@ -170,6 +170,7 @@ export default defineConfig({
                         label: 'Software',
                         items: [
                             { label: 'Alfred', slug: 'knowledge/software/alfred' },
+                            { label: 'Anki', slug: 'knowledge/software/anki' },
                             { label: 'BetterTouchTool', slug: 'knowledge/software/bettertouchtool' },
                             { label: 'Espanso', slug: 'knowledge/software/espanso' },
                             { label: 'Karabiner-Elements', slug: 'knowledge/software/karabiner-elements' },
