@@ -36,7 +36,7 @@ tags:
 - [Linter](https://github.com/platers/obsidian-linter)
 - [Natural Language Dates](https://github.com/argenos/nldates-obsidian) ← set up the plugin not to insert as links `[[]]`
 - [Obsidian x Todoist](https://github.com/jamiebrynes7/obsidian-todoist-plugin) ← 2-way integration with Todoist
-- [Quick Switcher++](https://github.com/darlal/obsidian-switcher-plus) ← disable `[CMD]`+`[O]` for Quick Switcher and set it for "Quick Switcher++ Standard Mode". Also, remove `Open quick switcher` from "Appearance" > "Ribbon menu configuration" settings. On [mobile](https://github.com/darlal/obsidian-switcher-plus/issues/222), change `New tab and mobile launcher options` to `Standard`
+- [Quick Switcher++](https://github.com/darlal/obsidian-switcher-plus) ← disable `[CMD]` + `[O]` for Quick Switcher and set it for "Quick Switcher++ Standard Mode". Also, remove `Open quick switcher` from "Appearance" > "Ribbon menu configuration" settings. On [mobile](https://github.com/darlal/obsidian-switcher-plus/issues/222), change `New tab and mobile launcher options` to `Standard`
 - [Recent Files](https://github.com/tgrosinger/recent-files-obsidian)
 - [Smart Typography](https://github.com/mgmeyers/obsidian-smart-typography)
 - [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) ← useful for modifying headings of the Minimal theme ([info](https://github.com/kepano/obsidian-minimal/issues/474)), etc.

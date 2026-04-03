@@ -18,7 +18,7 @@ Trackpad:
 
 Keyboard shortcuts:
 
-- `[CTRL]`+`[OPT]`+`[CMD]`+`[↑]` ← maximize window to top half (if at certain height, maximize window entirely)
-- `[CTRL]`+`[OPT]`+`[CMD]`+`[→]` ← maximize window right half
-- `[CTRL]`+`[OPT]`+`[CMD]`+`[↓]` ← maximize window bottom half
-- `[CTRL]`+`[OPT]`+`[CMD]`+`[←]` ← maximize window left half
+- `[CTRL]` + `[OPT]` + `[CMD]` + `[↑]` ← maximize window to top half (if at certain height, maximize window entirely)
+- `[CTRL]` + `[OPT]` + `[CMD]` + `[→]` ← maximize window right half
+- `[CTRL]` + `[OPT]` + `[CMD]` + `[↓]` ← maximize window bottom half
+- `[CTRL]` + `[OPT]` + `[CMD]` + `[←]` ← maximize window left half

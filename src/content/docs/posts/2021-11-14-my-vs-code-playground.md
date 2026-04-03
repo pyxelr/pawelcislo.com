@@ -112,7 +112,7 @@ There is still more to come, so please do not go anywhere, as all the different 
 
 ## Git in VS Code
 
-In the past, I've used [Git](https://git-scm.com/) from the CLI, and later through the numerous GUI applications like [GitHub Desktop](https://desktop.github.com/) or [GitKraken](https://www.gitkraken.com/). At last, I settled myself with the simple Source Control panel integrated into VS Code, which can be swiftly accessed through the combination of characters: `CTRL` + `SHIFT` + `G`.
+In the past, I've used [Git](https://git-scm.com/) from the CLI, and later through the numerous GUI applications like [GitHub Desktop](https://desktop.github.com/) or [GitKraken](https://www.gitkraken.com/). At last, I settled myself with the simple Source Control panel integrated into VS Code, which can be swiftly accessed through the combination of characters: `[CTRL]` + `[SHIFT]` + `[G]`.
 
 There is not much to say, as after applying some file changes to a folder with an initialized Git repository, VS Code will automatically detect which files were added (`A`), modified (`M`), deleted (`D`) or still reside there as untracked (`U`). Staging any file is as simple as clicking on the explicit (`+`) icon next to it, such that later we can continue with typing a message and committing the staged changes. 🚀
 
@@ -146,45 +146,45 @@ Okie dokie, how about learning now how to speed our interaction with this wonder
 As every IDE, VS Code is full of keyboard shortcuts; therefore, the following list is containing the ones I found to be the most practical (on Windows/macOS). If you fancy memorizing all the hotkeys in your long-term memory (using spaced repetition), then I invite you to check my Anki deck of cards: [Visual Studio Code shortcuts](https://ankiweb.net/shared/info/1549461506).
 
 - **Interface** 🎨
-  - `CTRL/CMD` + `SHIFT` + `P` ← command palette
-  - `CTRL/CMD` + `B` ← hide/unhide sidebar
-  - `CTRL` + `SHIFT` + `` ` `` ← open/focus on terminal
-    - `CTRL` + `` ` `` ← open/close terminal
-  - `CTRL/CMD` + `SHIFT` + `F` ← find in files
-  - `CTRL/CMD` + `P` ← go to file
-  - `CTRL/CMD` + `,` ← open settings
-  - `CTRL/CMD` + `K`, `M` ← change language mode
-  - `CTRL/CMD` + `SHIFT` + `-` or `+` ← reset zoom
-  - `CTRL/CMD` + `SHIFT` + `0` ← toggle between light/dark theme
+  - `[CTRL/CMD]` + `[SHIFT]` + `[P]` ← command palette
+  - `[CTRL/CMD]` + `[B]` ← hide/unhide sidebar
+  - `[CTRL]` + `[SHIFT]` + `` ` `` ← open/focus on terminal
+    - `[CTRL]` + `` ` `` ← open/close terminal
+  - `[CTRL/CMD]` + `[SHIFT]` + `[F]` ← find in files
+  - `[CTRL/CMD]` + `[P]` ← go to file
+  - `[CTRL/CMD]` + `[,]` ← open settings
+  - `[CTRL/CMD]` + `[K]`, `[M]` ← change language mode
+  - `[CTRL/CMD]` + `[SHIFT]` + `[-]` or `[+]` ← reset zoom
+  - `[CTRL/CMD]` + `[SHIFT]` + `[0]` ← toggle between light/dark theme
   - `"code ."` ← typed in a terminal opens up a VS Code instance
 - **Split mode** 👀
-  - `CTRL/CMD` + `\` ← split mode
-  - `CTRL/CMD` + `1` ← switch to editor group 1
-  - `ALT/OPT`, `V` + `L` + `S` ← fold the split view
+  - `[CTRL/CMD]` + `[\]` ← split mode
+  - `[CTRL/CMD]` + `[1]` ← switch to editor group 1
+  - `[ALT/OPT]`, `[V]` + `[L]` + `[S]` ← fold the split view
 - **Code** 👨‍💻
-  - `CTRL/OPT` + `SPACE/ESC` ← IntelliSense
-  - `CTRL/CMD` + `LMB` ← go to code definition
-  - `CTRL/CMD` + `/` ← comment line of code
-  - `SHIFT` + `ALT/OPT` + `F` ← format code
-  - `CTRL/CMD` + `SHIFT/OPT` + `[` or `]` ← fold/unfold region
-    - `CTRL/CMD` + `K`, `CTRL/CMD` + `0` ← fold all regions
-    - `CTRL/CMD` + `K`, `CTRL/CMD` + `J` ← unfold all regions
-  - `ALT/OPT` + `Z` ← text wrap
-  - `F5` ← initialize the debugger
-  - `F8` ← jump between errors
-  - `F9` ← set up a breakpoint on the current line. Then hit `F5` to initialize the debugger
-  - `CTRL/CMD` + `F5` ← run file in terminal
+  - `[CTRL/OPT]` + `[SPACE/ESC]` ← IntelliSense
+  - `[CTRL/CMD]` + `[LMB]` ← go to code definition
+  - `[CTRL/CMD]` + `[/]` ← comment line of code
+  - `[SHIFT]` + `[ALT/OPT]` + `[F]` ← format code
+  - `[CTRL/CMD]` + `[SHIFT/OPT]` + `[` or `]` ← fold/unfold region
+    - `[CTRL/CMD]` + `[K]`, `[CTRL/CMD]` + `[0]` ← fold all regions
+    - `[CTRL/CMD]` + `[K]`, `[CTRL/CMD]` + `[J]` ← unfold all regions
+  - `[ALT/OPT]` + `[Z]` ← text wrap
+  - `[F5]` ← initialize the debugger
+  - `[F8]` ← jump between errors
+  - `[F9]` ← set up a breakpoint on the current line. Then hit `[F5]` to initialize the debugger
+  - `[CTRL/CMD]` + `[F5]` ← run file in terminal
 - **Manipulating** ✍️
-  - `CTRL/CMD` + `D` ← select the word your cursor is at
-  - `CTRL` + `F2` (or `CMD` + `SHIFT` + `L`) ← select all instances of the word
-  - `SHIFT` + `ESC`← exit multi-cursor mode
+  - `[CTRL/CMD]` + `[D]` ← select the word your cursor is at
+  - `[CTRL]` + `[F2]` (or `[CMD]` + `[SHIFT]` + `[L]`) ← select all instances of the word
+  - `[SHIFT]` + `[ESC]`← exit multi-cursor mode
 - **Navigating** 🤸
-  - `ALT/OPT` + `↑/↓` ← move line up/down
-  - `CTRL/CMD` + `ALT/OPT` + `↑/↓` ← place a new cursor up/down the line
-    - `ALT/OPT` + `LMB` ← place an extra cursor anywhere
-  - `CTRL/CMD` + `L` ← select the current line
-  - `CTRL/CMD` + `SHIFT` + `L` ← select all occurrences of current selection
-  - `ALT/OPT` + `SHIFT` + `I` ← put the cursor at the end of all selected lines (e.g. with `CTRL/CMD`\+ `A`). Afterwards, use `HOME` and `END` to move from start to end
+  - `[ALT/OPT]` + `[↑/↓]` ← move line up/down
+  - `[CTRL/CMD]` + `[ALT/OPT]` + `[↑/↓]` ← place a new cursor up/down the line
+    - `[ALT/OPT]` + `[LMB]` ← place an extra cursor anywhere
+  - `[CTRL/CMD]` + `[L]` ← select the current line
+  - `[CTRL/CMD]` + `[SHIFT]` + `[L]` ← select all occurrences of current selection
+  - `[ALT/OPT]` + `[SHIFT]` + `[I]` ← put the cursor at the end of all selected lines (e.g. with `[CTRL/CMD]` + `[A]`). Afterwards, use `[HOME]` and `[END]` to move from start to end
 
 For a full list of shortcuts, have a look at the official PDF files: [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf), [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf), and [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf).
 
@@ -198,7 +198,7 @@ For instance, the development team can agree to manage all the dependencies usin
 - [Black](https://black.readthedocs.io/en/stable/) code formatter to keep consistent code across projects (e.g., only use double-quotes in strings and keep the code length to 88 characters in a line)
 - [isort](https://pycqa.github.io/isort/) to sort imports alphabetically, and automatically separated into sections (standard library, third party, local)
 
-Upon accessing the settings of VS Code, we can find out that the Python extension nicely groups the configuration options of Flake8 and Black, which can be promptly opened with `CTRL` + `,`. On the following example, we are extending the code length in each line to 99 characters by adding a simple `-l 99` argument:
+Upon accessing the settings of VS Code, we can find out that the Python extension nicely groups the configuration options of Flake8 and Black, which can be promptly opened with `[CTRL]` + `[,]`. On the following example, we are extending the code length in each line to 99 characters by adding a simple `-l 99` argument:
 
 ![Black settings in VS Code](images/vscode-black.png)
 _Black settings in VS Code_

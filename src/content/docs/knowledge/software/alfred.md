@@ -7,7 +7,7 @@ tags:
 
 My setup of [Alfred](https://www.alfredapp.com/):
 
-- Activate with: `OPT` + `SHIFT` + `SPACE` (to allow for [Raycast](/knowledge/software/raycast/))
+- Activate with: `[OPT]` + `[SHIFT]` + `[SPACE]` (to allow for [Raycast](/knowledge/software/raycast/))
 - Theme: `Alfred Modern Dark`
 - Snippets for clipboard
 - Workflows ([my GitHub list](https://github.com/stars/pyxelr/lists/alfred)):
@@ -25,7 +25,7 @@ My setup of [Alfred](https://www.alfredapp.com/):
   - [TimeZone](https://github.com/jaroslawhartman/TimeZones-Alfred) ← `!tz <time>` / `timezone`
   - [VSCodeDiff](https://alfred.app/workflows/logicxd/vscodediff/) ← `diff` (after selecting two texts)
   - [Visual Studio Code Project Manager for Alfred](https://github.com/kopiro/vscode-project-manager-for-alfred) ← `code <project>` (integration with [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) plugin)
-  - [Window Switcher](https://alfred.app/workflows/alfredapp/window-switcher/) ← `[CMD]`+`[SHIFT]`+`[W]` or `!w` (without special character I will get irrelevant results)
+  - [Window Switcher](https://alfred.app/workflows/alfredapp/window-switcher/) ← `[CMD]` + `[SHIFT]` + `[W]` or `!w` (without special character I will get irrelevant results)
 - Extra setup
   - Disable _Show Spotlight search_ in macOS Keyboard options to use `[CMD]` + `[SPACE]` for Alfred
   - [Alfred Warp terminal features](https://github.com/mircolik/alfred-wasp-terminal-features) ← use Warp as a default terminal

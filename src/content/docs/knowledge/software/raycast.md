@@ -7,7 +7,7 @@ tags:
 
 My setup of [Raycast](https://www.raycast.com/):
 
-- Raycast hotkey: `CMD` + `SPACE`
+- Raycast hotkey: `[CMD]` + `[SPACE]`
 - Extensions
   - [Amphetamine](https://www.raycast.com/gstvds/amphetamine)
     - `amp` = Start New Session
