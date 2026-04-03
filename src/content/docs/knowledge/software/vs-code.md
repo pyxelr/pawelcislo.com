@@ -11,7 +11,7 @@ See also my [blog post about VS Code](/posts/my-vs-code-playground/).
 
 - [My public gist setup](https://gist.github.com/pyxelr/760dac032d0427377ecc1bb195499d9b) ← share it by: "*Profiles (Default)*" > "*Export Profile…*" > (deselect "*UI State*" not to expose private stuff) > "*Local*" > copy the content and save in your gist
 - 🎨 Theme
-  - [Dracula Pro](https://github.com/dracula-pro/visual-studio-code/tree/main)
+  - Default Dark or [Dracula Pro](https://github.com/dracula-pro/visual-studio-code/tree/main)
     - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - ⌨ Font
   - Editor
