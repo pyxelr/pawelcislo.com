@@ -244,7 +244,7 @@ And my last advice is to respect your sleep! Don't treat it like a must, but as 
   - [Algorithms: Explained and Animated](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms&hl=en) ← great visual explanation of algorithms
   - [Brilliant](https://brilliant.org/) ← learn logic, math, computer science, physics and more. All the topics will help you with every programming challenge
   - [Grasshopper](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=en) ← learn JavaScript for free from Google
-  - [Mimo](https://getmimo.com/) ← try it if you want to go really simple
+  - [Mimo](https://mimo.org/) ← try it if you want to go really simple
   - [SoloLearn](https://www.sololearn.com/) ← also works as a web app. There is a free course on almost every programming language/topic
 - You really wanna books? Then take the universal ones 📖
   - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
