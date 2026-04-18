@@ -42,6 +42,7 @@ If you have a question that was not listed on this page, please do not hesitate 
     - [vas3k](https://vas3k.com/) ← for applying the _quality over quantity_ strategy in blog posting
     - [Ali Abdaal](https://aliabdaal.com/) ← for the way of staying organised and charming to his viewers. Don't know if I ever found someone more structured
     - [Jordan B Peterson](https://jordanbpeterson.com/) ← for teaching me how to think of almost every life aspect
+    - [Jefferson Fisher](https://www.jeffersonfisher.com/) ← for his way to argue less and talk more
     - [Gary Vaynerchuk](https://www.garyvaynerchuk.com/) ← for giving me the courage to act
     - [Tim Ferriss](https://tim.blog/) ← for inspiring so many of us through his lifestyle
     - [Grant Cardone](https://grantcardone.com/) ← for teaching me how to be fearless of business/marketing

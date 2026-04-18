@@ -1053,6 +1053,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 - [60-Second Science](https://www.scientificamerican.com/podcast/60-second-science/) ← 60-second podcasts to explain scientific topics
 - [Dan Carlin's Hardcore History](https://www.dancarlin.com/) ← one of the most popular podcasts on history
 - [Duolingo podcast](https://podcast.duolingo.com/) ← learn languages with Duolingo
+- [Jefferson Fisher](https://www.jeffersonfisher.com/podcast) ← argue less and talk more
 - [People Guy w IT](https://www.youtube.com/@MarekDrob/) (🇵🇱) ← technology leadership topics
 - [Podcast Notes](https://podcastnotes.org/) ← best ideas and recommendations from the top podcasts
 - [Podcast Pasja Informatyki](https://podcast.pasja-informatyki.pl/) (🇵🇱) ← philosophy + IT
@@ -1433,6 +1434,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 - [BrainCraft](https://www.youtube.com/user/braincraftvideo) ← self-improvement tips and advice based in psychology and neuroscience
 - [Charisma on Command](https://www.youtube.com/user/charismaoncommand) ← master your charisma
 - [Devstyle](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) (🇵🇱) ← daily vlog of Polish entrepreneur (past programmer)
+- [Jefferson Fisher](https://www.youtube.com/@jeffersonfisher) ← argue less and talk more
 - [FightMediocrity](https://www.youtube.com/channel/UCXLesGEfmyhxqOjoAqhRwhA) ← summaries of the most inspiring books
 - [HealthyGamerGG](https://www.youtube.com/c/HealthyGamerGG/) ← mental health platform designed to help the internet generation succeed
 - [Justin Sung](https://www.youtube.com/@JustinSung) ← studying and learning, time management
