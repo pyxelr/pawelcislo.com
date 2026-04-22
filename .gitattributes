@@ -1,0 +1,22 @@
+# Normalize line endings on commit; check out with native EOLs.
+# Pairs with .editorconfig (end_of_line = lf) so Windows clones don't
+# accidentally introduce CRLF into the repo.
+* text=auto eol=lf
+
+# Binary files — never touch line endings or attempt diffs.
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.webp   binary
+*.ico    binary
+*.svg    text
+*.pdf    binary
+*.woff   binary
+*.woff2  binary
+*.ttf    binary
+*.otf    binary
+*.eot    binary
+*.mp3    binary
+*.mp4    binary
+*.zip    binary
