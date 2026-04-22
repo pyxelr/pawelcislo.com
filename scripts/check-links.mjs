@@ -1,8 +1,14 @@
 #!/usr/bin/env node
 /**
- * Link checker for all content pages.
+ * Link checker for content pages.
  * Extracts all URLs from markdown files in docs/ and checks them via HTTP HEAD/GET.
  * Outputs broken/unreachable links grouped by file.
+ *
+ * Usage:
+ *   npm run check:links                              # check all pages
+ *   npm run check:links -- posts/                    # limit to a subfolder
+ *   npm run check:links -- posts/my-post.md          # limit to a single file
+ *   npm run check:links -- posts/ knowledge/macos/   # multiple filters
  */
 
 import { readFileSync, readdirSync, statSync } from 'fs';
@@ -11,7 +17,10 @@ import { join, relative } from 'path';
 const DOCS_DIR = join(import.meta.dirname, '..', 'src', 'content', 'docs');
 const TIMEOUT_MS = 15000;
 const CONCURRENCY = 20;
-const KNOWN_DEAD = new Set(); // We'll populate this from results
+
+// Optional path filters passed as CLI args (relative to src/content/docs/).
+// A file matches if its relative path starts with any of the filters.
+const FILTERS = process.argv.slice(2).map((f) => f.replace(/^\/+/, ''));
 
 // Recursively find all .md and .mdx files
 function findMarkdownFiles(dir, base = dir) {
@@ -30,7 +39,20 @@ function findMarkdownFiles(dir, base = dir) {
 
 // Extract all URLs from markdown files, keeping track of which file they came from
 function extractLinks() {
-  const files = findMarkdownFiles(DOCS_DIR);
+  const allFiles = findMarkdownFiles(DOCS_DIR);
+  const files = FILTERS.length === 0
+    ? allFiles
+    : allFiles.filter(({ relative: rel }) => FILTERS.some((f) => rel === f || rel.startsWith(f.endsWith('/') ? f : f + '/') || rel.startsWith(f)));
+
+  if (FILTERS.length > 0) {
+    console.log(`Filters: ${FILTERS.join(', ')}`);
+    console.log(`Matched ${files.length} of ${allFiles.length} files`);
+    if (files.length === 0) {
+      console.log('No files matched the provided filter(s). Exiting.');
+      process.exit(0);
+    }
+  }
+
   const linkMap = new Map(); // url -> Set<filename>
   const urlRegex = /https?:\/\/[^\s)>\]"]+/g;
 

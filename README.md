@@ -60,7 +60,8 @@ All commands are run from the root of the project, from a terminal:
 | `npm run build`                  | Build your production site to `./dist/` (auto-syncs recommendations page)                        |
 | `npm run preview`                | Preview your build locally, before deploying                                                     |
 | `npm run sync:recommendations`   | Sync recommendations page from [GitHub](https://github.com/pyxelr/recommendations-for-engineers) |
-| `npm run check:links`            | Audit all content pages for broken/outdated external links                                       |
+| `npm run check:links`            | Audit all content pages for broken/outdated external links (pass a path to limit, e.g. `npm run check:links -- posts/`) |
+| `npm run typecheck`              | Run `astro check` to validate Astro/TS/MDX types and content frontmatter                         |
 | `npm update`                     | Updates packages within semver ranges                                                            |
 | `npm outdated`                   | Shows which packages have newer versions                                                         |
 | `npm run astro ...`              | Run CLI commands like `astro add`, `check`                                                       |
@@ -93,10 +94,11 @@ This site is deployed on **Cloudflare Pages** with automatic deployments from Gi
 **Before pushing**, always verify the build locally:
 
 ```sh
-npm run build
+npm run typecheck   # validate Astro/TS/MDX types and content frontmatter
+npm run build       # full production build (same pipeline as Cloudflare)
 ```
 
-This runs the same pipeline as Cloudflare (including the recommendations sync) and catches errors before they reach production.
+Running `npm run typecheck` first surfaces type issues faster than a full build. `npm run build` then runs the same pipeline as Cloudflare (including the recommendations sync) and catches any remaining errors before they reach production.
 
 Additionally, a **GitHub Actions** scheduled workflow triggers a Cloudflare rebuild on January 1st each year to update the copyright year in the footer.
 

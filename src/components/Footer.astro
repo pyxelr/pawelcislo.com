@@ -64,7 +64,7 @@ const articleSchema = isPost ? {
 		<div class="discuss-on">
 			<span>Discuss on</span>
 			{entry.data.discuss.map((d, i) => (
-				<><a href={d.url} target="_blank" rel="noopener noreferrer">{d.platform}</a>{i < entry.data.discuss.length - 1 && <span class="sep"> · </span>}</>
+				<><a href={d.url} target="_blank" rel="noopener noreferrer">{d.platform}</a>{i < entry.data.discuss!.length - 1 && <span class="sep"> · </span>}</>
 			))}
 		</div>
 	)}
@@ -105,10 +105,10 @@ const articleSchema = isPost ? {
 </footer>
 
 {isHome && (
-	<script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+	<script is:inline type="application/ld+json" set:html={JSON.stringify(personSchema)} />
 )}
 {articleSchema && (
-	<script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+	<script is:inline type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 )}
 
 <style>

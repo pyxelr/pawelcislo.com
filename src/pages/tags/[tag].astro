@@ -43,7 +43,6 @@ const { tag, posts } = Astro.props;
 		description: `Blog posts tagged "${tag}"`,
 		editUrl: false,
 		lastUpdated: false,
-		pagination: false,
 	}}
 >
 	<div data-pagefind-ignore>
@@ -56,7 +55,7 @@ const { tag, posts } = Astro.props;
 			const date = post.data.date ? new Date(post.data.date) : null;
 			return (
 				<li>
-					<a href={`/${post.data.slug ?? post.id}/`}>{post.data.title}</a>
+					<a href={`/${post.id}/`}>{post.data.title}</a>
 					{date && (
 						<time datetime={date.toISOString()}>
 							{date.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' })}
