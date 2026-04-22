@@ -217,7 +217,7 @@ Only **Redirection** required actual reimplementation — and it was just a conf
 
 ### Performance
 
-I ran Lighthouse audits on both sites to compare. The results were dramatic:
+I ran Lighthouse audits on both sites (via [Lighthouse Metrics](https://lighthouse-metrics.com/)) to compare. The results were dramatic:
 
 ![Lighthouse score — WordPress on shared hosting (before)](images/lighthouse-old-pawelcislo-com.png)
 
