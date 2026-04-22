@@ -19,3 +19,6 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# Local clone of recommendations repo
+recommendations-for-engineers/
