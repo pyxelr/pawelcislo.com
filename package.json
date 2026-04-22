@@ -10,7 +10,9 @@
     "start": "astro dev",
     "sync:recommendations": "node scripts/sync-recommendations.mjs",
     "check:links": "node scripts/check-links.mjs",
+    "check:editorconfig": "editorconfig-checker",
     "typecheck": "astro check",
+    "verify": "npm run typecheck && echo '---' && npm run check:editorconfig && echo '---' && npm run build",
     "prebuild": "node scripts/sync-recommendations.mjs",
     "build": "astro build",
     "preview": "astro preview",
@@ -26,5 +28,8 @@
     "remark-math": "^6.0.0",
     "sharp": "^0.34.4",
     "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "editorconfig-checker": "^6.1.1"
   }
 }

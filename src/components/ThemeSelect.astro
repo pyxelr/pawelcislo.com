@@ -37,13 +37,13 @@
 	button:hover {
 		color: var(--sl-color-white);
 	}
-	
+
 	/* Show moon in dark mode, sun in light mode */
 	:global([data-theme='light']) .icon-moon { display: none; }
 	:global([data-theme='light']) .icon-sun { display: block; }
 	:global([data-theme='dark']) .icon-moon { display: block; }
 	:global([data-theme='dark']) .icon-sun { display: none; }
-	
+
 	/* Default state before JS loads - assume dark */
 	.icon-sun { display: none; }
 	.icon-moon { display: block; }
@@ -54,24 +54,24 @@
 		constructor() {
 			super();
 			const button = this.querySelector('button');
-			
+
 			// Get current theme or default to dark
 			const getTheme = () => {
 				return document.documentElement.dataset.theme || 'dark';
 			};
-			
+
 			// Set theme and persist
 			const setTheme = (theme: string) => {
 				document.documentElement.dataset.theme = theme;
 				localStorage.setItem('starlight-theme', theme);
 			};
-			
+
 			button?.addEventListener('click', () => {
 				const current = getTheme();
 				setTheme(current === 'dark' ? 'light' : 'dark');
 			});
 		}
 	}
-	
+
 	customElements.define('starlight-theme-toggle', StarlightThemeToggle);
 </script>

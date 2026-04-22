@@ -32,7 +32,7 @@ if (showMeta && entry?.body) {
 		.replace(/[#*_~>`-]/g, '') // Remove markdown symbols
 		.replace(/\s+/g, ' ') // Normalize whitespace
 		.trim();
-	
+
 	wordCount = text.split(/\s+/).filter(word => word.length > 0).length;
 	readingTime = Math.ceil(wordCount / 200);
 }

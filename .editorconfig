@@ -1,0 +1,17 @@
+# EditorConfig helps maintain consistent coding styles across editors
+# https://editorconfig.org
+#
+# Intentionally minimal: the codebase mixes tabs and spaces across file types,
+# and enforcing a single indent style would require a noisy reformat.
+# These rules cover the universally-agreed hygiene settings only.
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Markdown — preserve trailing spaces (two trailing spaces = hard line break)
+[*.{md,mdx}]
+trim_trailing_whitespace = false

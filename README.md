@@ -61,7 +61,9 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`                | Preview your build locally, before deploying                                                     |
 | `npm run sync:recommendations`   | Sync recommendations page from [GitHub](https://github.com/pyxelr/recommendations-for-engineers) |
 | `npm run check:links`            | Audit all content pages for broken/outdated external links (pass a path to limit, e.g. `npm run check:links -- posts/`) |
+| `npm run check:editorconfig`     | Check files against `.editorconfig` rules (trailing whitespace, final newline, line endings)     |
 | `npm run typecheck`              | Run `astro check` to validate Astro/TS/MDX types and content frontmatter                         |
+| `npm run verify`                 | Run all pre-push checks: `typecheck` + `check:editorconfig` + `build`                            |
 | `npm update`                     | Updates packages within semver ranges                                                            |
 | `npm outdated`                   | Shows which packages have newer versions                                                         |
 | `npm run astro ...`              | Run CLI commands like `astro add`, `check`                                                       |
@@ -91,14 +93,19 @@ This site is deployed on **Cloudflare Pages** with automatic deployments from Gi
 3. Preview the `main` branch build at [pawelcislo.pages.dev](https://pawelcislo.pages.dev/)
 4. Changes are live at [pawelcislo.com](https://pawelcislo.com)
 
-**Before pushing**, always verify the build locally:
+**Before pushing**, run the combined verification script:
 
 ```sh
-npm run typecheck   # validate Astro/TS/MDX types and content frontmatter
-npm run build       # full production build (same pipeline as Cloudflare)
+npm run verify
 ```
 
-Running `npm run typecheck` first surfaces type issues faster than a full build. `npm run build` then runs the same pipeline as Cloudflare (including the recommendations sync) and catches any remaining errors before they reach production.
+This runs, in order:
+
+1. `npm run typecheck` — validates Astro/TS/MDX types and content frontmatter (fast fail)
+2. `npm run check:editorconfig` — checks trailing whitespace, final newlines, line endings
+3. `npm run build` — the same pipeline Cloudflare runs (including the recommendations sync)
+
+If all three pass, the push should deploy cleanly.
 
 Additionally, a **GitHub Actions** scheduled workflow triggers a Cloudflare rebuild on January 1st each year to update the copyright year in the footer.
 
