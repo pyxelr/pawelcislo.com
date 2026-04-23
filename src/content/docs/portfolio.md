@@ -30,7 +30,7 @@ For contract work, have a look at my [Résumé](/Resume-PawelCislo.pdf).
 
 ### Publications
 
-- [From Research to Impact: A Comprehensive MLOps Platform for AI Model Deployment in Drug Discovery](https://doi.org/10.5281/zenodo.18657335) <span class="meta">[mlops] [ai] [drug-discovery] • 2025 • DOI: 10.5281/zenodo.18657335</span><br/>
+- [From Research to Impact: A Comprehensive Platform for AI Model Deployment in Drug Discovery](https://doi.org/10.1016/j.ailsci.2026.100171) <span class="meta">[mlops] [ai] [drug-discovery] • 2026 • DOI: 10.1016/j.ailsci.2026.100171</span><br/>
   Paper presenting a cloud-native MLOps platform for end-to-end preclinical drug discovery, from model training and serving to monitoring.
 
 ### Talks
