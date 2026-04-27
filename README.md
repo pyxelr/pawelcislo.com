@@ -28,6 +28,9 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 │   ├── pages/                  # Custom Astro pages (404, RSS, tags)
 │   │   └── tags/               # Tag index and individual tag pages
 │   └── styles/                 # Custom CSS overrides
+├── .editorconfig               # Editor formatting rules
+├── .gitattributes              # Enforces LF line endings & marks binary files
+├── .nvmrc                      # Pins the Node.js version
 ├── astro.config.mjs            # Site configuration
 ├── COPYRIGHT                   # Content copyright notice
 ├── package.json                # Dependencies and scripts
