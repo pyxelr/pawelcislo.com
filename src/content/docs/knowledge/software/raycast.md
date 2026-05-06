@@ -19,7 +19,7 @@ My setup of [Raycast](https://www.raycast.com/):
   - [CleanShot X](https://www.raycast.com/Aayush9029/cleanshotx)
   - [Copy Path](https://www.raycast.com/koinzhang/copy-path) ← you can also hold `[OPT]` and use `[RMB]`
   - [DevUtils](https://www.raycast.com/devutils/devutils) ← you may just type e.g. `diff`
-  - [Elgato Key Light](https://www.raycast.com/thomas/elgato-key-light) ← use `kon,koff` for "Toggle On/Off"
+  - [Elgato Key Light](https://www.raycast.com/thomas/elgato-key-light) ← `kon,koff` = "Toggle Lights"
   - [Finder Utilities](https://www.raycast.com/edrf/finderutils) ← useful e.g. to `cf` (create file)
   - [Folder Search](https://www.raycast.com/GastroGeek/folder-search) ← "Search Files" also works but returns files as well
   - [GIF Search](https://www.raycast.com/josephschmitt/gif-search)
@@ -39,10 +39,8 @@ My setup of [Raycast](https://www.raycast.com/):
   - [Shell History](https://www.raycast.com/koinzhang/shell-history)
   - [System Monitor](https://www.raycast.com/hossammourad/raycast-system-monitor)
   - [Terminal Finder](https://www.raycast.com/yedongze/terminalfinder) ← open settings, keep only the Warp-related options, and then type e.g. `fw` or `wf`
-  - [Visual Studio Code](https://www.raycast.com/thomas/visual-studio-code)
-    - `coder` = Search Recent Projects
-  - [Visual Studio Code - Project Manager](https://www.raycast.com/MarkusLanger/vscode-project-manager)
-    - `code` = main alias
+  - [Visual Studio Code](https://www.raycast.com/thomas/visual-studio-code) ← `coder` = Search Recent Projects
+  - [Visual Studio Code - Project Manager](https://www.raycast.com/MarkusLanger/vscode-project-manager) ← `code` = main alias
   - [Warp](https://www.raycast.com/warpdotdev/warp)
-  - [Word Count](https://www.raycast.com/itsmingjie/word-count) ← `words`
+  - [Word Count](https://www.raycast.com/itsmingjie/word-count) ← `words` = Count
   - [Zed](https://www.raycast.com/ewgenius/zed-recent-projects)
