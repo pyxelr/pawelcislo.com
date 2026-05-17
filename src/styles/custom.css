@@ -9,6 +9,8 @@
 	--sl-color-accent-low: #b2e8ed;
 	--sl-color-accent: #117880;
 	--sl-color-accent-high: #0a4448;
+	--sl-color-bg-nav: var(--sl-color-gray-6);
+	--sl-color-hairline-shade: hsl(224, 14%, 88%);
 }
 
 /* Avatar float right */
@@ -41,6 +43,11 @@
 /* Hide auto-generated "Footnotes" heading from Table of Contents */
 starlight-toc li:has(> a[href="#footnote-label"]) {
 	display: none;
+}
+
+/* Mobile ToC dropdown: match header background */
+mobile-starlight-toc .dropdown {
+	background-color: var(--sl-color-bg-nav);
 }
 
 /* Search focus outlines */
