@@ -1,4 +1,5 @@
 // @ts-check
+import { unified } from '@astrojs/markdown-remark';
 import starlight from '@astrojs/starlight';
 import { defineConfig } from 'astro/config';
 import rehypeKatex from 'rehype-katex';
@@ -47,8 +48,10 @@ export default defineConfig({
         '/yt': 'https://youtube.com/pyxelr',
     },
     markdown: {
-        remarkPlugins: [remarkMath, remarkResponsiveIframes],
-        rehypePlugins: [rehypeKatex],
+        processor: unified({
+            remarkPlugins: [remarkMath, remarkResponsiveIframes],
+            rehypePlugins: [rehypeKatex],
+        }),
     },
     integrations: [starlight({
         title: 'Paweł Cisło',
