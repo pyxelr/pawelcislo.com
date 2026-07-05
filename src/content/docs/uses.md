@@ -38,7 +38,7 @@ A list of my current tools and setup. Inspired by [uses.tech](https://uses.tech/
 - Keyboard: [Logitech MX Keys S](https://www.logitech.com/en-us/shop/p/mx-keys-s.920-011558)
 - Mouse: [Logitech MX Anywhere 3S](https://www.logitech.com/en-us/shop/p/mx-anywhere-3s.910-006925)
 - Microphone: [Blue Yeti](https://www.logitech.com/en-us/products/streaming-gear/yeti-premium-usb-microphone.html)
-- Headphones: [Meze 99 Classics](https://mezeaudio.com/products/meze-99-classics-walnut-gold-wood-headphones) with [Silver-Plated Cable](https://mezeaudio.eu/products/99-series-silver-plated-upgrade-cables), [Dekoni Pads](https://dekoniaudio.com/product/elite-sheepskin-for-meze-99-headphones/), and [FiiO K3s](https://www.fiio.com/k3s)
+- Headphones: [Meze 99 Classics](https://mezeaudio.com/products/meze-99-classics-walnut-gold-wood-headphones) with [Silver-Plated Cable](https://mezeaudio.eu/products/99-series-silver-plated-upgrade-cables), [Dekoni Pads](https://dekoniaudio.com/product/elite-sheepskin-for-meze-99-headphones/), and [FiiO K7 BT](https://www.fiio.com/k7)
 - Bluetooth earbuds: [Technics EAH-AZ100](https://us.technics.com/products/premium-hi-fi-true-wireless-earbuds-with-dolby-atmos-and-noise-cancelling-eah-az100)
 
 ### Office desk
