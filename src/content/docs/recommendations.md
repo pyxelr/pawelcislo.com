@@ -977,6 +977,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [DEV Community](https://dev.to/settings/notifications) ← weekly newsletter of top 7 posts (activate in settings of your account)
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) ← subscribe to weekly/daily sets of trending repositories from different languages
 - [Hacker News Daily](https://www.hackernewsdaily.com/) ← daily newsletter of best posts from Hacker News with AI summarizations
+  - [hackernews-daily-digest](https://github.com/pyxelr/hackernews-daily-digest) ← my free, self-hosted recreation of it (GitHub Actions + Gemini + Gmail SMTP), built after the original stopped working
 - [Hacker Newsletter](https://hackernewsletter.com/) ← weekly newsletter of best posts from Hacker News
 - [Highbrow](https://gohighbrow.com/) ← choose a topic to learn and receive a daily message
 - [Infopigula](https://infopigula.pl/) (🇵🇱) ← the most important Polish/global news in a nutshell
