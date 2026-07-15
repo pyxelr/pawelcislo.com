@@ -136,6 +136,12 @@ export default defineConfig({
                         ],
                     },
                     {
+                        label: 'LLM',
+                        items: [
+                            { label: 'LLM', slug: 'knowledge/llm/llm' },
+                        ],
+                    },
+                    {
                         label: 'macOS',
                         items: [
                             { label: 'macOS', slug: 'knowledge/macos/macos' },
