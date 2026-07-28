@@ -69,6 +69,7 @@ All commands are run from the root of the project, from a terminal:
 | `npm run verify`                 | Run all pre-push checks: `typecheck` + `check:editorconfig` + `build`                            |
 | `npm update`                     | Updates packages within semver ranges                                                            |
 | `npm outdated`                   | Shows which packages have newer versions                                                         |
+| `npm audit`                      | Reports known security vulnerabilities in dependencies                                           |
 | `npm run astro ...`              | Run CLI commands like `astro add`, `check`                                                       |
 | `npm run astro -- --help`        | Get help using the Astro CLI                                                                     |
 

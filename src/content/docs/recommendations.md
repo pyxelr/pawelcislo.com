@@ -1239,6 +1239,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 #### web dev
 
+- [All Tools Verse](https://alltoolsverse.com/) ← 1,000+ free browser tools, including 97 developer utilities for formatting, encoding, conversion, files, text, and more
 - [Animatize](https://animatize.com/) ← Drag a character with your mouse to create an animation
 - [Can I use ...](https://caniuse.com/) ← up-to-date browser support tables for support of front-end web technologies
 - [CSS Stats](https://cssstats.com/) ← analytics and visualizations for your stylesheets
