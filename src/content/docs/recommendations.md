@@ -13,7 +13,6 @@ The list also aggregates and extends most of the suggestions from my blog posts,
 
 :::tip
 It's best to collect all your favourite sites into an RSS feed reader like [Inoreader](https://inoreader.com/).
-
 You can also discover more tech blogs with [Blogging for Devs](https://bloggingfordevs.com/trends/).
 :::
 
@@ -1173,7 +1172,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 - [Todoist](https://todoist.com/r/pyxelr_kjtwbq) ← my daily to-do app (using this link you will get 2 months of premium for free!). If you don't know how to start, [check out my Todoist setup](/posts/aim-for-your-goals-the-right-way/) and inspire yourself!
 - [Toggl](https://toggl.com/) ← the most integrated time tracker
 
-## 👨‍💻 Programming
+## 💻 Programming
 
 ### coding challenges
 
@@ -1513,6 +1512,7 @@ For more, visit my [Windows notes](/knowledge/windows/windows/).
 
 - [anthonywritescode](https://www.youtube.com/@anthonywritescode) ← various videos about programming and related topics (most videos deal with Python)
 - [ArjanCodes](https://www.youtube.com/c/arjancodes) ← Python videos about programming and software design to help you take your coding skills to the next level
+- [Beyond Coding](https://www.youtube.com/c/beyondcoding) ← For software engineers ready to level up. Learn from CTOs, principal engineers, and tech leaders about the skills beyond coding: from technical mastery & AI to product thinking and career growth
 - [Branch Education](https://www.youtube.com/c/BranchEducation) ← engineering and science concepts illuminated with videos of accurate models and visualized physics
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) ← general computer science channel
 - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) ← Python in data science and not only
@@ -1584,7 +1584,7 @@ For more, visit my [Windows notes](/knowledge/windows/windows/).
 - [Techquickie](https://www.youtube.com/user/Techquickie) ← humorous answers to tech questions
 - [ThioJoe](https://www.youtube.com/c/ThioJoe) ← technology videos, including tech news, reviews, and discussions (mainly focused on Windows)
 
-## 🤷‍ Other
+## 🤷 Other
 
 - [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth) ← check what Earth looked like x years ago
 - [Awesome](https://github.com/sindresorhus/awesome) ← GitHub repository with lists on all kinds of interesting topics
