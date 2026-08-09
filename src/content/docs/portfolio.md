@@ -7,6 +7,8 @@ For contract work, have a look at my [Résumé](/Resume-PawelCislo.pdf).
 
 ### Projects
 
+- **GenAI & M365 Copilot Adoption** <span class="meta">[genai] [copilot] [agents] [prompt-engineering] • 2025 • ongoing</span><br/>
+  Driving GenAI and M365 Copilot adoption by building custom agents and prompt libraries, and delivering enablement workshops.
 - **RAG Systems** <span class="meta">[rag] [llmops] [vector-databases] [python] • 2024 • ongoing</span><br/>
   Integrating Retrieval-Augmented Generation (RAG) systems with Large Language Models (LLMs) and vector databases for various industries.
 - **MLOps Platform** <span class="meta">[mlops] [kubernetes] [kubeflow] [aws] [python] • 2021 • ongoing</span><br/>
