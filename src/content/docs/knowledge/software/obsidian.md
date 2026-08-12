@@ -33,6 +33,7 @@ tags:
 - [Iconize](https://github.com/FlorianWoelki/obsidian-iconize)
 - [Importer](https://github.com/obsidianmd/obsidian-importer) ← import notes from other apps
 - [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite)
+- [Lean Terminal](https://github.com/sdkasper/lean-obsidian-terminal) ← embedded terminal panel to run shell commands directly within the vault
 - [Linter](https://github.com/platers/obsidian-linter)
 - [Natural Language Dates](https://github.com/argenos/nldates-obsidian) ← set up the plugin not to insert as links `[[]]`
 - [Obsidian x Todoist](https://github.com/jamiebrynes7/obsidian-todoist-plugin) ← 2-way integration with Todoist
