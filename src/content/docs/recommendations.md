@@ -790,6 +790,7 @@ For more, visit my [LLM notes](/knowledge/llm/llm/).
 - [GPT Prompt Attack](https://gpa.43z.one/) ← game to practice prompt injection
 - [Guidance](https://github.com/guidance-ai/guidance) ← preferred over Langchain by **Szymon Maszke**
 - [h2oGPT](https://github.com/h2oai/h2ogpt) ← world's best open source GPT
+- [herdr](https://herdr.dev/) ← runtime environment that keeps coding agents running continuously in the background, persisting across restarts and network interruptions
 - [Jan](https://github.com/janhq/jan) ← open-source alternative to ChatGPT that runs locally
 - [LangChain](https://github.com/hwchase17/langchain) ← framework for building LLM apps
 - [localGPT](https://github.com/PromtEngineer/localGPT) ← private and local chatGPT for chatting with your documents
