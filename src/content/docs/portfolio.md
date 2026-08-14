@@ -13,6 +13,8 @@ For contract work, have a look at my [Résumé](/Resume-PawelCislo.pdf).
   Integrating Retrieval-Augmented Generation (RAG) systems with Large Language Models (LLMs) and vector databases for various industries.
 - **MLOps Platform** <span class="meta">[mlops] [kubernetes] [kubeflow] [aws] [python] • 2021 • ongoing</span><br/>
   Implementing and supporting the MLOps Kubeflow platform tailored for a pharmaceutical client.
+- [Hacker News Daily Digest](https://github.com/pyxelr/hackernews-daily-digest) <span class="meta">[python] [genai] [github-actions] • 2026 • done</span><br/>
+  Self-hosted newsletter that emails the top Hacker News stories every morning with AI-generated summaries of the articles and their discussions. I read it daily to keep up with tech.
 - [Simple Banking System](https://github.com/pyxelr/simple-banking-system) <span class="meta">[python] [sqlite3] • 2020 • done</span><br/>
   Simulation of a Simple Banking System written in Python that uses sqlite3 to work with the SQL database.
 - [Customer Churn Prediction at Orange](https://github.com/pyxelr/customer-churn-prediction-at-orange) <span class="meta">[python] [ml] • 2020 • done</span><br/>
