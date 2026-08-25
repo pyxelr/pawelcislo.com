@@ -104,9 +104,9 @@ export default defineConfig({
             { icon: 'linkedin', label: 'LinkedIn', href: 'https://www.linkedin.com/in/pawelcislo/' },
             { icon: 'facebook', label: 'Facebook', href: 'https://www.facebook.com/pawelcislocom/' },
             { icon: 'instagram', label: 'Instagram', href: 'https://www.instagram.com/pawel_cislo/' },
-            // Note: Goodreads and Hypothes.is don't have built-in icons in Starlight
-            // TODO: Add them later with custom SVG icons if needed
-            { icon: 'open-book', label: 'Goodreads', href: 'https://goodreads.com/pyxelr/' },
+            { icon: 'goodreads', label: 'Goodreads', href: 'https://goodreads.com/pyxelr/' },
+            // Note: Hypothes.is doesn't have a built-in icon in Starlight
+            // TODO: Add it later with a custom SVG icon if needed
             { icon: 'document', label: 'Hypothes.is', href: 'https://hypothes.is/users/pyxelr' },
         ],
         sidebar: [
