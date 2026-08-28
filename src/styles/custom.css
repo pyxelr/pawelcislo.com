@@ -3,6 +3,9 @@
 	--sl-color-accent-low: #073a3e;
 	--sl-color-accent: #1accd8;
 	--sl-color-accent-high: #a8f0f5;
+	/* Text selection tint. Deep teal works against a dark page because the
+	   text on top of it is light. */
+	--pc-color-selection: rgb(17 120 128 / 55%);
 }
 
 :root[data-theme='light'] {
@@ -12,6 +15,44 @@
 	--sl-color-bg-nav: var(--sl-color-gray-6);
 	--sl-color-bg-sidebar: var(--sl-color-gray-6);
 	--sl-color-hairline-shade: hsl(224, 14%, 88%);
+	/* Light mode needs a paler, cooler tint. Links here are #117880, so a
+	   deep-teal highlight would sit teal-on-teal and drop them to 2.3:1.
+	   Tinting towards the bright accent instead lifts selected links to
+	   4.0:1, ahead of the 3.5:1 the browser's own blue manages. */
+	--pc-color-selection: rgb(26 204 216 / 35%);
+}
+
+/* Text selection in the site's teal, replacing the browser's default blue.
+   Translucent on purpose, exactly like the browser default it replaces: the
+   highlight blends with whatever sits behind it, so it works on the page, in
+   the sidebar and inside code blocks without ever recolouring the text. A
+   solid fill cannot do that -- it would need light text on one theme and
+   dark text on the other. The tint itself flips per theme above, because
+   each has a different worst case: light text on dark, dark links on light. */
+::selection {
+	background: var(--pc-color-selection);
+}
+
+/* Code blocks deliberately have no rule of their own. They keep the Dracula
+   palette in both themes, so in light mode the translucent tint lands dark on
+   them while the page around them goes pale, and the two highlights cannot
+   visually match. Forcing a match would mean painting selection opaque and
+   overriding the syntax colours, which costs more than the mismatch does. */
+
+/* Surfaces that are themselves painted in the accent -- the current-page
+   sidebar link and primary buttons -- would take the translucent teal above
+   teal-on-teal and show nothing at all. No single overlay colour can serve
+   both those blocks and the plain page, so they get the palette's own
+   low/high pair instead (the same one the tag pills use). Both tokens flip
+   per theme, staying softer than a plain white block while keeping the
+   highlight above 3.8:1 against the unselected surface and the text above
+   8:1 on top of it. */
+[aria-current='page']::selection,
+[aria-current='page'] ::selection,
+.sl-link-button.primary::selection,
+.sl-link-button.primary ::selection {
+	background: var(--sl-color-accent-low);
+	color: var(--sl-color-accent-high);
 }
 
 /* Avatar float right */
