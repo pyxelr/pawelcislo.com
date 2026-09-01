@@ -6,7 +6,6 @@ tags:
 
 ## Tutorials
 
-- [academy.fm](https://academy.fm/)
 - [ADSR](https://www.adsrcourses.com/home) ← Serum, Reaktor, Massive, etc.
 - [Beatboxing for kids](https://beatboxingforkids.fun/) ← teach your kids beatboxing using everyday words
 - [EQ Academy](https://www.masteringthemix.com/products/eq-academy) ← ear-training gamified tool

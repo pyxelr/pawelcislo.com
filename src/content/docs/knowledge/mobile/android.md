@@ -56,11 +56,11 @@ tags:
   - Theme Park ← change icon
 - [Google Lens](https://lens.google/) ← search what you see
 - [Harmonic for Hacker News](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) ← great-looking tech news that I can read for hours
-- [HiPER Calc Scientific Calculator](https://hiperdevelopment.wixsite.com/hipercalc-android) ← high-precision scientific calculator
+- [HiPER Calc Scientific Calculator](https://hiperlabs.eu/) ← high-precision scientific calculator
 - [InShot](https://inshot.com/) ← most advanced video editor
 - [KinScreen](https://play.google.com/store/apps/details?id=com.teqtic.kinscreen) ← app and widget to keep the screen on
 - [Kivy](https://kivy.org/#home) ← create cross-platform apps (in Python). You might also consider [BeeWare](https://pybee.org/)
-- [lichess](https://play.google.com/store/apps/details?id=org.lichess.mobileapp) ← best open-source free chess
+- [lichess](https://lichess.org/mobile) ← best open-source free chess
 - [Listen Audiobook Player](https://play.google.com/store/apps/details?id=com.acmeandroid.listen) ← my favourite Audiobook Player
 - [MACE](https://github.com/XiaoMi/mace) ← mobile AI compute engine (deep learning inference framework optimized for mobile heterogeneous computing platforms)
 - [Mathlab Graphing Calculator](https://www.mathlab.app/) ← scientific, graphing, fraction and matrix calculator in one app

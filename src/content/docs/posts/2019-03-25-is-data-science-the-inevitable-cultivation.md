@@ -329,7 +329,7 @@ The amount of resources to recommend for studying DS is enormous, but I will try
   - [Twitter](https://twitter.com/) ← you can start with [#datascience](https://twitter.com/hashtag/datascience?lang=en) or [Follow Friday](https://followfriday.io/) (AI)
   - Newsletter
     - [Data Science Weekly](https://www.datascienceweekly.org/)
-    - [Inside AI](https://inside.com/ai) (daily newsletter. You can also check the [recent issues](https://inside.com/lists/ai/recent_issues))
+    - Inside AI (daily newsletter, discontinued)
 
 Ah, and don't forget to participate in the **amazing networks 👥**, full of passionate people that will inspire you to achieve your best. One of my recommendations would be:
 

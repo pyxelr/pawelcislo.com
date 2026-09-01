@@ -70,7 +70,7 @@ tags:
 - [pandas-ai](https://github.com/gventuri/pandas-ai) ← generative AI in Pandas
 - [privateGPT](https://github.com/imartinez/privateGPT) ← interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [Ragas](https://github.com/explodinggradients/ragas) ← objective metrics, intelligent test generation, and data-driven insights for LLM apps
-- [ScrapeGraphAI](https://github.com/VinciGit00/Scrapegraph-ai) ← python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.)
+- [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) ← python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.)
 - [screenshot-to-code](https://github.com/abi/screenshot-to-code) ← drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) ← automate browser-based workflows with LLMs and Computer Vision
 - [Storm](https://github.com/stanford-oval/storm) ← LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations

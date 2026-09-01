@@ -40,7 +40,7 @@ I heard it is recommended to start the post with the most mattering message righ
 - Continued to note a daily journal (never missed a day since April 2017). It clearly helped in the preparation of this post 🗒
 - Worked with Todoist and OneNote for another full year ✅
 - Implemented new productivity method: "[Three Goals](/three-goals/)" which I am consistently using ✅
-- Continually updated my technical knowledge through: [#unknownews](https://news.uw-team.org/), [Hacker News](https://news.ycombinator.com/), [Inside](https://inside.com/),  weekly trending repositories on GitHub, [Ars Technica](https://arstechnica.com/), [dobreprogramy](https://www.dobreprogramy.pl/),  subreddits, and many personal blogs 📖
+- Continually updated my technical knowledge through: [#unknownews](https://news.uw-team.org/), [Hacker News](https://news.ycombinator.com/), Inside,  weekly trending repositories on GitHub, [Ars Technica](https://arstechnica.com/), [dobreprogramy](https://www.dobreprogramy.pl/),  subreddits, and many personal blogs 📖
 - Regularly watched [MiroBurn](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw) and [devstyle](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) vlogs that were the main source of my motivation 📼
   - I did watch other YouTube channels almost regularly, which I have listed [here](/recommendations/) 📼
 - Listened to even more podcasts 📻

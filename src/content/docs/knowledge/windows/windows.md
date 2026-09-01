@@ -89,7 +89,7 @@ tags:
 - [simplewall](https://github.com/henrypp/simplewall) ← configure Windows Filtering Platform (WFP) which can configure network activity on your computer
 - [Supermium](https://github.com/win32ss/supermium) ← Chromium fork for older Windows versions
 - [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/) ← utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment
-- [TaskbarX](https://chrisandriessen.nl/taskbarx) ← center Windows taskbar icons with a variety of animations and options
+- [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) ← center Windows taskbar icons with a variety of animations and options
 - [Tribler](https://www.tribler.org/) ← privacy-focused torrent client using onion routing
 - [UpdateHub](https://github.com/NexovaDev/UpdateHub) ← tool for detecting and automatically updating software (shows more stuff than Patch My PC)
 - [Windows Terminal](https://github.com/microsoft/terminal) ← modern terminal application

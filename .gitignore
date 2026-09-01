@@ -20,5 +20,8 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
+# lavish CLI scratch output
+.lavish/
+
 # Local clone of recommendations repo
 recommendations-for-engineers/

@@ -211,7 +211,7 @@ Before discovering to-do lists, I used to note everything in the form of events 
 
 ### Wait a sec
 
-If you already thought about creating your Todoist account, please do me a favour and ~~**[sign up using my referral link](https://todoist.com/r/pyxelr_kjtwbq)** so I will get 2 months of premium for free and in result save few cents for more yerba mate and bulletproof coffee~~. Unfortunately, Todoist dropped referral URLs :(
+If you already thought about creating your Todoist account, please do me a favour and ~~**sign up using my referral link** so I will get 2 months of premium for free and in result save few cents for more yerba mate and bulletproof coffee~~. Unfortunately, Todoist dropped referral URLs :(
 
 ## Three Levels
 

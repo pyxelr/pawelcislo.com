@@ -303,7 +303,7 @@ Apart from the aforementioned tools, you can also reach out for:
 
 - [Parts of speech](https://parts-of-speech.info/) ← categorise words based on similar grammatical properties (noun, verb, adjective, etc.)
 - [Readable](https://www.webfx.com/tools/read-able/) ← perform the ultimate readability test (base on Flesch Kincaid Reading Ease, SMOG Index and more...)
-- [Word Frequency Counter](http://www.writewords.org.uk/word_count.asp) ← paste in the text and find out if you're not overusing particular words.
+- [Word Frequency Counter](https://textbases.app/text-tools/word-frequency-counter/) ← paste in the text and find out if you're not overusing particular words.
 
 Oh, and remember! Just as machine learning algorithms, the proofreading tools aren't 100% right, so that keep your mind fresh while applying the suggested corrections!
 
