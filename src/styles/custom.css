@@ -108,13 +108,14 @@ site-search button[data-open-modal]:focus-visible {
 	outline-color: #117880;
 }
 
-/* Mobile menu button */
-button[aria-controls="starlight__sidebar"] {
+/* Mobile menu button. Starlight 0.42 swapped aria-controls for popovertarget,
+   so the attribute selector this used to rely on no longer matches anything. */
+.sl-menu-button {
 	background-color: #a8f0f5;
 	color: #117880;
 }
 
-:root[data-theme='light'] button[aria-controls="starlight__sidebar"] {
+:root[data-theme='light'] .sl-menu-button {
 	background-color: #117880;
 	color: #a8f0f5;
 }
@@ -131,12 +132,14 @@ button[aria-controls="starlight__sidebar"] {
 		margin-inline-start: auto;
 	}
 
-	/* 2. Hamburger button: keep in navbar by default, move to ToC bar when header hides */
-	starlight-menu-button {
+	/* 2. Hamburger button: keep in navbar by default, move to ToC bar when header hides.
+	   Starlight 0.42 dropped the <starlight-menu-button> wrapper; the button now
+	   carries .sl-menu-button and positions itself, so we only override `top`. */
+	.sl-menu-button {
 		transition: top 0.3s ease;
 	}
 	/* When header is hidden, reposition hamburger to the ToC bar */
-	:root:has(.header-hidden) starlight-menu-button {
+	:root:has(.header-hidden) .sl-menu-button {
 		position: fixed;
 		top: calc((var(--sl-mobile-toc-height) - var(--sl-menu-button-size)) / 2);
 		inset-inline-end: var(--sl-nav-pad-x);
