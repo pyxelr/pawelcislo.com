@@ -31,7 +31,7 @@ tags:
 - [BetterTouchTool](https://folivora.ai/) ← customize various input devices ([my setup](/knowledge/software/bettertouchtool/))
 - [BetterZip](https://macitbetter.com/) ← next generation of archiving (preferences > presets > move archive to: don't move + close the archive window)
 - [CleanShot X](https://cleanshot.com/) ← screenshot tool
-  - [Monosnap](https://apps.apple.com/us/app/monosnap-screenshot-editor/id540348655?mt=12) ← free alternative
+  - [macshot](https://github.com/sw33tLie/macshot) ← free open-source alternative
 - [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ← swiss army knife for developers
 - [DevUtils](https://devutils.com/) ← all-in-one toolbox for developers (more extended than DevToysMac)
 - [DropShelf](https://pilotmoon.com/dropshelf/) ← drag and drop helper app

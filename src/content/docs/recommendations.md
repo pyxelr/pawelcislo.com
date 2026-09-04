@@ -556,6 +556,7 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 
 As there are many, I highly encourage you to check my custom feeds:
 
+- [~ai_agents](https://www.reddit.com/user/pyxelr/m/ai_agents/)
 - [~data_science](https://www.reddit.com/user/pyxelr/m/data_science/)
 - [~data_tools](https://www.reddit.com/user/pyxelr/m/data_tools/)
 - [~data_viz](https://www.reddit.com/user/pyxelr/m/data_viz/)
@@ -824,7 +825,7 @@ For more, visit my [macOS notes](/knowledge/macos/macos/).
 - [BetterTouchTool](https://folivora.ai/) ← customize various input devices
 - [BetterZip](https://macitbetter.com/) ← next generation of archiving
 - [CleanShot X](https://cleanshot.com/) ← screenshot tool
-  - [Monosnap](https://monosnap.com/) ← free alternative
+  - [macshot](https://github.com/sw33tLie/macshot) ← free open-source alternative
 - [DevUtils](https://devutils.com/) ← all-in-one toolbox for developers
   - [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ← free alternative
 - [espanso](https://espanso.org/) ← cross-platform text expander (you can find my settings [here](https://github.com/pyxelr/my-espanso-config))
