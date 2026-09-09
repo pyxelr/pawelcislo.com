@@ -38,10 +38,10 @@ tags:
 - [Espanso](https://espanso.org/) ← cross-platform text expander ([my setup](/knowledge/software/espanso/))
 - [Ferdium](https://ferdium.org/) ← all the social apps in one place
 - [Fission](https://rogueamoeba.com/fission/) ← audio editing (like Audacity)
+- [Ghostty](https://ghostty.org/) ← fast, native terminal (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 - [HazeOver](https://hazeover.com/) ← fade out background windows
 - [Homebrew](https://brew.sh/) ← package manager for macOS
 - [iStatistica Pro](https://apps.apple.com/pl/app/istatistica-pro/id1447778660?mt=12) with [iStatistica Sensors](https://www.imagetasks.com/istatistica/pro/) ← system monitoring
-- [iTerm2](https://iterm2.com/) ← better terminal
 - [Itsycal](https://www.mowglii.com/itsycal/) ← tiny menu bar calendar
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) ← keyboard customizer ([config](/knowledge/software/karabiner-elements/))
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) ← automation tool
@@ -75,6 +75,5 @@ tags:
 - [Transmit](https://panic.com/transmit/) ← upload, download, and manage files on tons of servers
 - [Typora](https://typora.io/) ← Markdown editor
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ← invert scroll direction for mouse & trackpad
-- [Warp](https://www.warp.dev/) ← modern terminal reimagined with AI
 - [Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html) ← tools for software developers that run on the command line (install with `sudo xcode-select --install`)
 - [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust ([my setup](/knowledge/software/zed/))

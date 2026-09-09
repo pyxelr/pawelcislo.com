@@ -830,10 +830,10 @@ For more, visit my [macOS notes](/knowledge/macos/macos/).
   - [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ← free alternative
 - [espanso](https://espanso.org/) ← cross-platform text expander (you can find my settings [here](https://github.com/pyxelr/my-espanso-config))
 - [Ferdium](https://ferdium.org/) ← all the social apps in one place
+- [Ghostty](https://ghostty.org/) ← fast, native terminal (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 - [HazeOver](https://hazeover.com/) ← fade out background windows
 - [Homebrew](https://brew.sh/) ← package manager for macOS
 - [iStatistica Pro](https://www.imagetasks.com/istatistica/pro/) (with iStatistica Sensors) ← system monitoring
-- [iTerm2](https://iterm2.com/) ← better terminal (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 - [Itsycal](https://www.mowglii.com/itsycal/) ← tiny menu bar calendar
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) ← keyboard customizer
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) ← macOS automation software
@@ -860,7 +860,6 @@ For more, visit my [macOS notes](/knowledge/macos/macos/).
 - [Tinker Tool](http://www.bresink.com/osx/TinkerTool.html) ← adjust hidden OS features, e.g. to disable animation on hiding/showing dock
 - [Transmit](https://panic.com/transmit/) ← upload, download, and manage files on tons of servers
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ← invert scroll direction for mouse & trackpad
-- [Warp](https://www.warp.dev/) ← modern terminal reimagined with AI (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 - [Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html) ← tools for software developers that run on the command line
 - [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text)
 
