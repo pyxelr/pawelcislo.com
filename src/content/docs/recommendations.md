@@ -653,7 +653,7 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog post](/posts/optimising-our-learning-retention-rate-with-srs-anki/).
 :::
 
-- [Anki](https://apps.ankiweb.net/) ← my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/my-anki-decks-of-flashcards)
+- [Anki](https://apps.ankiweb.net/) ← my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/my-anki-decks-of-flashcards), and you can find my settings [here](/knowledge/software/anki/)
 - [flashcards.wizardzines](https://flashcards.wizardzines.com/) ← set of flashcards from Julia Evans
 - [Flashcards for Developers](https://www.flashcardsfordevelopers.com/) ← online flashcards based mostly on programming skills
 - [Fluent Forever](https://fluent-forever.com/) ← paid application to study languages. You can also read its [accompanying book](https://www.goodreads.com/book/show/22304017-fluent-forever) and watch the [author’s comparison between FF and Anki](https://youtu.be/fepSv0fqg5U)
@@ -817,12 +817,12 @@ For more, visit my [macOS notes](/knowledge/macos/macos/).
 :::
 
 - [AirBuddy](https://v2.airbuddy.app/) ← control wireless devices
-- [Alfred](https://www.alfredapp.com/) ← extendable launcher
+- [Alfred](https://www.alfredapp.com/) ← extendable launcher (you can find my settings [here](/knowledge/software/alfred/))
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) ← keep your screen awake
 - [Automator](https://support.apple.com/en-gb/guide/automator/welcome/mac) ← built-in app to create workflows
 - [Bartender](https://www.macbartender.com/) ← take control of menu bar
 - [BetterSnapTool](https://folivora.ai/bettersnaptool) ← easily manage your window positions
-- [BetterTouchTool](https://folivora.ai/) ← customize various input devices
+- [BetterTouchTool](https://folivora.ai/) ← customize various input devices (you can find my settings [here](/knowledge/software/bettertouchtool/))
 - [BetterZip](https://macitbetter.com/) ← next generation of archiving
 - [CleanShot X](https://cleanshot.com/) ← screenshot tool
   - [macshot](https://github.com/sw33tLie/macshot) ← free open-source alternative
@@ -835,7 +835,7 @@ For more, visit my [macOS notes](/knowledge/macos/macos/).
 - [Homebrew](https://brew.sh/) ← package manager for macOS
 - [iStatistica Pro](https://www.imagetasks.com/istatistica/pro/) (with iStatistica Sensors) ← system monitoring
 - [Itsycal](https://www.mowglii.com/itsycal/) ← tiny menu bar calendar
-- [Karabiner-Elements](https://karabiner-elements.pqrs.org/) ← keyboard customizer
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org/) ← keyboard customizer (you can find my settings [here](/knowledge/software/karabiner-elements/))
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) ← macOS automation software
 - [lima](https://github.com/lima-vm/lima) ← launch Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) ← host-based application firewall for macOS
@@ -852,7 +852,7 @@ For more, visit my [macOS notes](/knowledge/macos/macos/).
 - [Orbstack](https://orbstack.dev/) ← faster alternative for Docker Desktop
 - [PDF Reader Pro](https://www.pdfreaderpro.com/mac) ← best PDF editor as per [this comparison](https://docs.google.com/spreadsheets/d/1pCt75tHayO_QJO2swREcZEgAFEhrm9-3pnDogh5kpRM/)
 - [QSpace Pro](https://qspace.awehunt.com/en-us/index.html) ← more advanced Finder
-- [Raycast](https://www.raycast.com/) ← alternative to Alfred
+- [Raycast](https://www.raycast.com/) ← alternative to Alfred (you can find my settings [here](/knowledge/software/raycast/))
 - [Sloth](https://github.com/sveinbjornt/Sloth) ← show all open files, directories, sockets, pipes and devices in use by all running processes
 - [SoundSource](https://rogueamoeba.com/soundsource/) ← advanced audio controls
 - [System Color Picker](https://apps.apple.com/pl/app/system-color-picker/id1545870783?mt=12) ← built-in color picker
@@ -861,7 +861,7 @@ For more, visit my [macOS notes](/knowledge/macos/macos/).
 - [Transmit](https://panic.com/transmit/) ← upload, download, and manage files on tons of servers
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ← invert scroll direction for mouse & trackpad
 - [Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html) ← tools for software developers that run on the command line
-- [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text)
+- [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text). You can find my settings [here](/knowledge/software/zed/)
 
 ## ➗ Math
 
@@ -1161,7 +1161,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 - [lofi.cafe](https://lofi.cafe/) ← online radio to focus and relax
 - [Make](https://www.make.com/en) ← automate various tasks (more advanced than [IFTTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
 - Monochrome mode (grayscale mode) activation on your mobile device ← be less attracted to the colourless screen
-- [Obsidian](https://obsidian.md/) ← my favourite powerful knowledge base (note-taking tool) that works on top of a local folder of plain text Markdown files
+- [Obsidian](https://obsidian.md/) ← my favourite powerful knowledge base (note-taking tool) that works on top of a local folder of plain text Markdown files. You can find my settings [here](/knowledge/software/obsidian/)
 - [OneNote Desktop](https://www.onenote.com/download) ← note-taking tool from Microsoft (desktop version is much more feature-rich than the UWP app)
   - [Office OneNote Gem Add-Ins](https://www.onenotegem.com/) ← lots of plugins for different versions of OneNote
   - [Onetastic](https://getonetastic.com/) ← set of extensions for OneNote
@@ -1208,7 +1208,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 - [Google Colab](https://colab.research.google.com/) ← alternative to Jupyter Notebook. Run your code entirely in the browser and improve the model learning time by leveraging Google's GPU/TPU
 - [PyCharm](https://www.jetbrains.com/pycharm/) ← more robust Python IDE
 - [Visual Studio Code](https://code.visualstudio.com/) ← highly extensible IDE from Microsoft (explained thoroughly in [My VS Code Playground](/posts/my-vs-code-playground/) blog post)
-- [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text)
+- [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text). You can find my settings [here](/knowledge/software/zed/)
 
 ### online tools
 
@@ -1372,6 +1372,7 @@ For more, visit my [Windows notes](/knowledge/windows/windows/).
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) ← SSH and telnet client
 - [qBittorrent](https://www.qbittorrent.org/) ← open-source torrent manager
 - [QuickLook](https://github.com/QL-Win/QuickLook) ← bring macOS "Quick Look" feature to Windows
+- [Raycast](https://www.raycast.com/windows) ← extendable launcher (I find it better than PowerToys Run). You can find my settings [here](/knowledge/software/raycast/)
 - [Rufus](https://rufus.ie/) ← create bootable USB drives
 - [scoop](https://scoop.sh/) ← command-line installer for Windows
 - [ScreenToGif](https://www.screentogif.com/) ← simple screen recorder with an integrated editor

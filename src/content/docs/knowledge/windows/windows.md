@@ -82,6 +82,7 @@ tags:
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) ← SSH and telnet client
 - [qBittorrent](https://www.qbittorrent.org/) ← open-source torrent manager
 - [QuickLook](https://github.com/QL-Win/QuickLook) ← bring macOS "Quick Look" feature to Windows
+- [Raycast](https://www.raycast.com/windows) ← extendable launcher (I find it better than PowerToys Run)
 - [Rufus](https://rufus.ie/) ← create bootable USB drives
 - [scoop](https://scoop.sh/) ← command-line installer for Windows
 - [ScreenToGif](https://www.screentogif.com/) ← simple screen recorder with an integrated editor
