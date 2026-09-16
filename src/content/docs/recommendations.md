@@ -852,6 +852,7 @@ For more, visit my [macOS notes](/knowledge/macos/macos/).
 - [Objective-See’s Tools](https://objective-see.org/tools.html) ← free, open-source, tools to secure your Mac
 - [Orbstack](https://orbstack.dev/) ← faster alternative for Docker Desktop
 - [PDF Reader Pro](https://www.pdfreaderpro.com/mac) ← best PDF editor as per [this comparison](https://docs.google.com/spreadsheets/d/1pCt75tHayO_QJO2swREcZEgAFEhrm9-3pnDogh5kpRM/)
+- [Presentify](https://presentifyapp.com/) ← screen annotator and cursor highlighter for presentations
 - [QSpace Pro](https://qspace.awehunt.com/en-us/index.html) ← more advanced Finder
 - [Raycast](https://www.raycast.com/) ← alternative to Alfred (you can find my settings [here](/knowledge/software/raycast/))
 - [Sloth](https://github.com/sveinbjornt/Sloth) ← show all open files, directories, sockets, pipes and devices in use by all running processes

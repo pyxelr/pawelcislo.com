@@ -65,6 +65,7 @@ tags:
 - [Orbstack](https://orbstack.dev/) ← faster alternative for Docker Desktop
 - [PDF Reader Pro](https://www.pdfreaderpro.com/mac) ← PDF editor ([comparison](https://docs.google.com/spreadsheets/d/1pCt75tHayO_QJO2swREcZEgAFEhrm9-3pnDogh5kpRM/))
 - [PopClip](https://pilotmoon.com/popclip/) ← extra actions for selecting text
+- [Presentify](https://presentifyapp.com/) ← screen annotator and cursor highlighter for presentations
 - [QSpace Pro](https://qspace.awehunt.com/en-us/index.html) ← more advanced Finder
 - [Raycast](https://www.raycast.com/) ← alternative to Alfred ([my setup](/knowledge/software/raycast/))
 - [Sloth](https://github.com/sveinbjornt/Sloth) ← show all open files, directories, sockets, pipes and devices in use by all running processes
