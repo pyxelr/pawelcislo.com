@@ -34,7 +34,9 @@ For contract work, have a look at my [Résumé](/Resume-PawelCislo.pdf).
 
 ### Publications
 
-- [From Research to Impact: A Comprehensive Platform for AI Model Deployment in Drug Discovery](https://doi.org/10.1016/j.ailsci.2026.100171) <span class="meta">[mlops] [ai] [drug-discovery] • 2026 • DOI: 10.1016/j.ailsci.2026.100171</span><br/>
+- [Baszta: Data-Centric Fine-Tuning of a Polish Multi-Label Safety Classifier](https://baszta.billennium.com/) <span class="meta">[ai] [nlp] [ethics] • 2026.08.31 • technical reviewer</span><br/>
+  Whitepaper on a Polish content-safety classifier built at Billennium, fine-tuned from HerBERT across five risk categories and evaluated out-of-domain against Bielik Guard. I reviewed it as one of two technical reviewers.
+- [From Research to Impact: A Comprehensive Platform for AI Model Deployment in Drug Discovery](https://doi.org/10.1016/j.ailsci.2026.100171) <span class="meta">[mlops] [ai] [drug-discovery] • 2026.06 • DOI: 10.1016/j.ailsci.2026.100171</span><br/>
   Paper presenting a cloud-native MLOps platform for end-to-end preclinical drug discovery, from model training and serving to monitoring.
 
 ### Talks
