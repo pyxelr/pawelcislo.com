@@ -32,6 +32,7 @@ If you have a question that was not listed on this page, please do not hesitate 
     - [Mike Shinoda](http://www.mikeshinoda.com/) ← for the overall lifestyle, kindness, and performance in one of my favourite bands - Linkin Park
     - [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) ← for all the input to engineering and staying loose while being on the top
     - [Andrej Karpathy](https://karpathy.github.io/) ← for his contribution to driverless cars at Tesla
+    - [Kun Chen](https://github.com/kunchenguid) ← for sharing his agentic AI setup and contributing so actively to open source
     - [Grant Sanderson](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) ← for encouraging me to study math through clear animations
     - [Andrew Ng](https://www.andrewng.org/) ← for teaching me the patience to learn machine learning
     - [Yann LeCun](http://yann.lecun.com/) ← for his contribution to computer vision (CNN)
