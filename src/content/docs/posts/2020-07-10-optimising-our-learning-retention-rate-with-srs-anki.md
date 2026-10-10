@@ -393,12 +393,12 @@ If for any reason you don't feel like using Anki, there are other options which 
 - [flashcards wizardzines](https://flashcards.wizardzines.com/) ← small set of flashcards from a great blogger: Julia Evans
 - [Flashcards for Developers](https://www.flashcardsfordevelopers.com/) ← great place to practice CS, where you can also create an account to track your progress
 - [Fluent Forever](https://fluent-forever.com/) ← paid alternative to study languages. You can also read its [accompanying book](https://www.goodreads.com/book/show/22304017-fluent-forever) and watch the [author's comparison between FF and Anki](https://youtu.be/fepSv0fqg5U)
+- [Memly](https://memly.ai/) ← AI flashcard app that turns documents, photos, audio, YouTube videos and web pages into cards, schedules spaced-repetition reviews and suggests memorisation techniques
 - [Memrise](https://www.memrise.com/) ← learn a language and not only (there is an [add-on](https://github.com/wilddom/memrise2anki-extension) to convert Memrise content to Anki)
 - [NeuraCache](https://neuracache.com/) ← automatically generate flashcards from Twitter posts, Markdown editors, Kindle or your favourite note-taking tools, such as OneNote, Evernote or Roam and study them all using a mobile app
 - [Quizlet](https://quizlet.com/) ← more user-friendly alternative to Anki (there is an [add-on](https://ankiweb.net/shared/info/538351043) to convert Quizlet content to Anki)
 - [RemNote](https://www.remnote.com/) ← note-taking app that will convert your notes to flashcards with the use of specific syntax
 - [ShortcutFoo](https://www.shortcutfoo.com/) ← fun way to memorise shortcuts and commands
-- [Tinycards](https://tinycards.duolingo.com/) ← flashcard app from the creators of Duolingo.
 
 Maybe the nature of flashcards still doesn't suit you? Well, then I hope that finding something inside [my list of recommendations](/recommendations/#flashcards) will satisfy you. Alternatively, you might apply spaced repetition in an old-school way while using pen and paper in The Leitner Box methodology[^7]:
 
