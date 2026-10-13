@@ -1393,7 +1393,7 @@ For more, visit my [Windows notes](/knowledge/windows/windows/).
 - [wsl-vpn](https://github.com/AmmarRahman/wsl-vpn) ← workaround script for WSL2 connectivity over VPN
 - [XnView MP](https://www.xnview.com/en/xnviewmp/) ← powerful photo viewer, image management, image resizer
 
-## ✍ Writing_Research
+## ✍ Writing/Research
 
 - [After the Deadline](https://www.polishmywriting.com/) ← free spell checker
 - [Diffchecker](https://www.diffchecker.com/) ← compare differences in text, images, PDFs and more
