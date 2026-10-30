@@ -30,7 +30,7 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 │   └── styles/                 # Custom CSS overrides
 ├── .editorconfig               # Editor formatting rules
 ├── .gitattributes              # Enforces LF line endings & marks binary files
-├── .nvmrc                      # Pins the Node.js version
+├── .nvmrc                      # Node.js major version (read by nvm and Cloudflare Pages)
 ├── astro.config.mjs            # Site configuration
 ├── COPYRIGHT                   # Content copyright notice
 ├── package.json                # Dependencies and scripts
@@ -48,7 +48,7 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 
 ## 👨🏻‍💻 Getting Started
 
-1. **Install Node.js** from [nodejs.org](https://nodejs.org/) (includes npm)
+1. **Install Node.js** from [nodejs.org](https://nodejs.org/) (includes npm). Use 22.23.4 or newer, as required by `engines` in `package.json`; `nvm use` picks up `.nvmrc`
 2. **Install dependencies**: `npm install`
 3. **Start development server**: `npm run dev`
 
@@ -93,7 +93,7 @@ This site is deployed on **Cloudflare Pages** with automatic deployments from Gi
 **Deployment flow:**
 
 1. Push changes to the `main` branch
-2. Cloudflare Pages automatically builds and deploys
+2. Cloudflare Pages automatically builds and deploys, taking its Node.js version from `.nvmrc` (no `NODE_VERSION` variable is set)
 3. Preview the `main` branch build at [pawelcislo.pages.dev](https://pawelcislo.pages.dev/)
 4. Changes are live at [pawelcislo.com](https://pawelcislo.com)
 
