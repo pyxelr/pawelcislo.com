@@ -21,29 +21,27 @@ tags:
 
 ## Plugins
 
-- [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
-- [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) ← in options, change the "start week on" to Monday
+- [Calendar](https://community.obsidian.md/plugins/calendar) ← in options, change the "start week on" to Monday
 - ~~[Collapse All](https://github.com/OfficerHalf/obsidian-collapse-all)~~ ← not needed after Obsidian 1.0 (it only adds expand option on individual folder levels)
-- [Copy Block Link](https://github.com/mgmeyers/obsidian-copy-block-link)
-- [Dataview](https://github.com/blacksmithgu/obsidian-dataview) ← create dynamic tables and lists from your vault data
-- [Emoji Shortcodes](https://github.com/phibr0/obsidian-emoji-shortcodes) ← use it when "_Toggle icons while editing notes_" is turned off in Iconize settings ([info](https://github.com/FlorianWoelki/obsidian-iconize/issues/458#issuecomment-2065948645))
-- [Execute Code](https://github.com/twibiral/obsidian-execute-code) ← execute code in a note
-- [Filename Heading Sync](https://github.com/dvcrn/obsidian-filename-heading-sync)
-- [Find orphaned files and broken links](https://github.com/Vinzent03/find-unlinked-files) ← find unlinked files (as attachments are not deleted when removing a page)
-- [Iconize](https://github.com/FlorianWoelki/obsidian-iconize)
-- [Importer](https://github.com/obsidianmd/obsidian-importer) ← import notes from other apps
-- [Latex Suite](https://github.com/artisticat1/obsidian-latex-suite)
-- [Lean Terminal](https://github.com/sdkasper/lean-obsidian-terminal) ← embedded terminal panel to run shell commands directly within the vault
-- [Linter](https://github.com/platers/obsidian-linter)
-- [Natural Language Dates](https://github.com/argenos/nldates-obsidian) ← set up the plugin not to insert as links `[[]]`
-- [Obsidian x Todoist](https://github.com/jamiebrynes7/obsidian-todoist-plugin) ← 2-way integration with Todoist
-- [Quick Switcher++](https://github.com/darlal/obsidian-switcher-plus) ← disable `[CMD]` + `[O]` for Quick Switcher and set it for "Quick Switcher++ Standard Mode". Also, remove `Open quick switcher` from "Appearance" > "Ribbon menu configuration" settings. On [mobile](https://github.com/darlal/obsidian-switcher-plus/issues/222), change `New tab and mobile launcher options` to `Standard`
-- [Recent Files](https://github.com/tgrosinger/recent-files-obsidian)
-- [Smart Typography](https://github.com/mgmeyers/obsidian-smart-typography)
-- [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) ← useful for modifying headings of the Minimal theme ([info](https://github.com/kepano/obsidian-minimal/issues/474)), etc.
-- [Table of Contents](https://github.com/hipstersmoothie/obsidian-plugin-toc) ← useful to create ToC, e.g. before exporting a PDF
-- [Templater](https://github.com/SilentVoid13/Templater)
-- ~~[Text Snippets](https://github.com/ArianaKhit/text-snippets-obsidian)~~ ← replaced with [Espanso](/knowledge/software/espanso/)
+- [Copy Block Link](https://community.obsidian.md/plugins/obsidian-copy-block-link)
+- [Dataview](https://community.obsidian.md/plugins/dataview) ← create dynamic tables and lists from your vault data
+- [Emoji Shortcodes](https://community.obsidian.md/plugins/emoji-shortcodes) ← use it when "_Toggle icons while editing notes_" is turned off in Iconize settings ([info](https://github.com/FlorianWoelki/obsidian-iconize/issues/458#issuecomment-2065948645))
+- [Execute Code](https://community.obsidian.md/plugins/execute-code) ← execute code in a note
+- [Filename Heading Sync](https://community.obsidian.md/plugins/obsidian-filename-heading-sync)
+- [Find orphaned files and broken links](https://community.obsidian.md/plugins/find-unlinked-files) ← find unlinked files (as attachments are not deleted when removing a page)
+- [Iconize](https://community.obsidian.md/plugins/obsidian-icon-folder)
+- [Importer](https://community.obsidian.md/plugins/obsidian-importer) ← import notes from other apps
+- [Latex Suite](https://community.obsidian.md/plugins/obsidian-latex-suite)
+- [Lean Terminal](https://community.obsidian.md/plugins/lean-terminal) ← embedded terminal panel to run shell commands directly within the vault
+- [Linter](https://community.obsidian.md/plugins/obsidian-linter)
+- [Quick Switcher++](https://community.obsidian.md/plugins/darlal-switcher-plus) ← disable `[CMD]` + `[O]` for Quick Switcher and set it for "Quick Switcher++ Standard Mode". Also, remove `Open quick switcher` from "Appearance" > "Ribbon menu configuration" settings. On [mobile](https://github.com/darlal/obsidian-switcher-plus/issues/222), change `New tab and mobile launcher options` to `Standard`
+- [Recent Files](https://community.obsidian.md/plugins/recent-files-obsidian)
+- [Smart Typography](https://community.obsidian.md/plugins/obsidian-smart-typography)
+- [Style Settings](https://community.obsidian.md/plugins/obsidian-style-settings) ← useful for modifying headings of the Minimal theme ([info](https://github.com/kepano/obsidian-minimal/issues/474)), etc.
+- [Table of Contents](https://community.obsidian.md/plugins/obsidian-plugin-toc) ← useful to create ToC, e.g. before exporting a PDF
+- [Templater](https://community.obsidian.md/plugins/templater-obsidian)
+- ~~[Text Snippets](https://community.obsidian.md/plugins/text-snippets-obsidian)~~ ← replaced with [Espanso](/knowledge/software/espanso/)
+- [Todoist Sync](https://community.obsidian.md/plugins/todoist-sync-plugin) ← 2-way integration with Todoist
 
 ## Hotkeys
 
